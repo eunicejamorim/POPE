@@ -1,0 +1,71 @@
+category,website,website_overview_link,monthly visits,pages / visit,visit duration,bounce rate,register_info
+Ecommerce and Shopping,amazon.com,https://www.similarweb.com/website/amazon.com/#overview,2.2b,9.61,00:07:02,34.96,./../data/register_data/amazon.com.json
+Ecommerce and Shopping,ebay.com,https://www.similarweb.com/website/ebay.com/#overview,679.8m,6.85,00:06:45,38.22,./../data/register_data/ebay.com.json
+Ecommerce and Shopping,amazon.co.jp,https://www.similarweb.com/website/amazon.co.jp/#overview,566.5m,7.6,00:06:46,36.33,./../data/register_data/amazon.co.jp.json
+Ecommerce and Shopping,aliexpress.com,https://www.similarweb.com/website/aliexpress.com/#overview,498.2m,5.64,00:06:03,39.4,./../data/register_data/aliexpress.com.json
+Ecommerce and Shopping,rakuten.co.jp,https://www.similarweb.com/website/rakuten.co.jp/#overview,515.2m,7.46,00:06:10,37.06,Null
+Ecommerce and Shopping,temu.com,https://www.similarweb.com/website/temu.com/#overview,446.8m,7.5,00:05:39,38.9,./../data/register_data/temu.com.json
+Ecommerce and Shopping,etsy.com,https://www.similarweb.com/website/etsy.com/#overview,434.2m,6.51,00:05:42,45.71,./../data/register_data/etsy.com.json
+Ecommerce and Shopping,ozon.ru,https://www.similarweb.com/website/ozon.ru/#overview,408.6m,11.55,00:08:12,31.36,Null
+Ecommerce and Shopping,amazon.de,https://www.similarweb.com/website/amazon.de/#overview,403.0m,9.62,00:07:06,31.72,./../data/register_data/amazon.de.json
+Ecommerce and Shopping,wildberries.ru,https://www.similarweb.com/website/wildberries.ru/#overview,381.4m,12.46,00:11:30,26.87,Null
+Finance,paypal.com,https://www.similarweb.com/website/paypal.com/#overview,415.5m,5.38,00:03:35,23.67,Null
+Finance,tradingview.com,https://www.similarweb.com/website/tradingview.com/#overview,215.5m,3.77,00:07:57,45.71,./../data/register_data/tradingview.com.json
+Finance,intuit.com,https://www.similarweb.com/website/intuit.com/#overview,208.6m,9.42,00:11:00,27.54,./../data/register_data/intuit.com.json
+Finance,chase.com,https://www.similarweb.com/website/chase.com/#overview,189.4m,10.42,00:07:18,17.77,Null
+Finance,caixa.gov.br,https://www.similarweb.com/website/caixa.gov.br/#overview,174.6m,4.47,00:04:50,50.2,Null
+Finance,investing.com,https://www.similarweb.com/website/investing.com/#overview,148.6m,3.16,00:05:46,53.33,./../data/register_data/investing.com.json
+Finance,coinmarketcap.com,https://www.similarweb.com/website/coinmarketcap.com/#overview,150.7m,3.14,00:05:52,51.25,./../data/register_data/coinmarketcap.com.json
+Finance,capitalone.com,https://www.similarweb.com/website/capitalone.com/#overview,120.9m,8.26,00:05:30,19.88,Null
+Finance,wellsfargo.com,https://www.similarweb.com/website/wellsfargo.com/#overview,118.2m,11.16,00:05:54,17.11,Null
+Finance,bankofamerica.com,https://www.similarweb.com/website/bankofamerica.com/#overview,115.2m,7.57,00:06:38,18.11,Null
+Social Media Networks,facebook.com,https://www.similarweb.com/website/facebook.com/#overview,15.65b,9.43,00:10:34,31.17,./../data/register_data/facebook.com.json
+Social Media Networks,instagram.com,https://www.similarweb.com/website/instagram.com/#overview,6.824b,11.68,00:08:20,35.93,./../data/register_data/instagram.com.json
+Social Media Networks,twitter.com,https://www.similarweb.com/website/twitter.com/#overview,5.973b,10.88,00:11:05,31.91,./../data/register_data/twitter.com.json
+Social Media Networks,whatsapp.com,https://www.similarweb.com/website/whatsapp.com/#overview,2.983b,1.82,00:20:09,40.96,Null
+Social Media Networks,tiktok.com,https://www.similarweb.com/website/tiktok.com/#overview,2.200b,6.75,00:03:20,35.67,./../data/register_data/tiktok.com.json
+Social Media Networks,reddit.com,https://www.similarweb.com/website/reddit.com/#overview,2.126b,5.72,00:07:37,42.99,./../data/register_data/reddit.com.json
+Social Media Networks,linkedin.com,https://www.similarweb.com/website/linkedin.com/#overview,1.850b,7.94,00:07:37,26.06,./../data/register_data/linkedin.com.json
+Social Media Networks,pinterest.com,https://www.similarweb.com/website/pinterest.com/#overview,1.222b,6.05,00:05:44,41.84,./../data/register_data/pinterest.com.json
+Social Media Networks,vk.com,https://www.similarweb.com/website/vk.com/#overview,1.2b,12.58,00:10:56,29.85,Null
+Social Media Networks,discord.com,https://www.similarweb.com/website/discord.com/#overview,1.1b,7.21,00:06:35,51.49,./../data/register_data/discord.com.json
+Arts and Entertainment,youtube.com,https://www.similarweb.com/website/youtube.com/#overview,31.5b,11.84,00:20:13,22.11,./../data/register_data/youtube.com.json
+Arts and Entertainment,netflix.com,https://www.similarweb.com/website/netflix.com/#overview,1.6b,4.09,00:07:25,40.14,Null
+Arts and Entertainment,bilibili.com,https://www.similarweb.com/website/bilibili.com/#overview,1.2b,12.98,00:20:25,14.18,Null
+Arts and Entertainment,max.com,https://www.similarweb.com/website/max.com/#overview,999.6m,5.7,00:06:17,38.05,Null
+Arts and Entertainment,fandom.com,https://www.similarweb.com/website/fandom.com/#overview,692.3m,4.54,00:04:58,50.18,./../data/register_data/fandom.com.json
+Arts and Entertainment,imdb.com,https://www.similarweb.com/website/imdb.com/#overview,490.9m,4.51,00:03:06,45.94,./../data/register_data/imdb.com.json
+Arts and Entertainment,spotify.com,https://www.similarweb.com/website/spotify.com/#overview,477m,6.25,00:08:34,39.24,./../data/register_data/spotify.com.json
+Arts and Entertainment,pixiv.net,https://www.similarweb.com/website/pixiv.net/#overview,323m,35.21,00:10:28,35.21,./../data/register_data/pixiv.net.json
+Arts and Entertainment,archiveofourown.org,https://www.similarweb.com/website/archiveofourown.org/#overview,312.4m,8.62,00:16:31,32.26,Null
+Arts and Entertainment,aniwave.to,https://www.similarweb.com/website/aniwave.to/#overview,307.4m,5.31,00:15:44,31.81,./../data/register_data/aniwave.to.json
+News and Media Publishers,yahoo.co.jp,https://www.similarweb.com/website/yahoo.co.jp/#overview,1.9b,6.39,00:09:17,30.65,Null
+News and Media Publishers,naver.com,https://www.similarweb.com/website/naver.com/#overview,1.2b,11.58,00:17:29,24.58,Null
+News and Media Publishers,turbopages.org,https://www.similarweb.com/website/turbopages.org/#overview,1.2b,3.28,00:01:33,23.18,Null
+News and Media Publishers,globo.com,https://www.similarweb.com/website/globo.com/#overview,696.2m,2.56,00:04:03,46.91,./../data/register_data/globo.com.json
+News and Media Publishers,qq.com,https://www.similarweb.com/website/qq.com/#overview,684.7m,3.1,00:03:30,48.75,Null
+News and Media Publishers,msn.com,https://www.similarweb.com/website/msn.com/#overview,678.8m,5.26,00:05:13,44.76,./../data/register_data/msn.com.json
+News and Media Publishers,nytimes.com,https://www.similarweb.com/website/nytimes.com/#overview,657m,3.01,00:03:58,55.1,./../data/register_data/nytimes.com.json
+News and Media Publishers,news.yahoo.co.jp,https://www.similarweb.com/website/news.yahoo.co.jp/#overview,609.6m,3.04,00:05:59,30.24,Null
+News and Media Publishers,cnn.com,https://www.similarweb.com/website/cnn.com/#overview,558.2m,2.31,00:03:17,56.88,./../data/register_data/cnn.com.json
+News and Media Publishers,bbc.co.uk,https://www.similarweb.com/website/bbc.co.uk/#overview,536.4m,3.39,00:05:13,43.62,./../data/register_data/bbc.co.uk.json
+Lifestyle,linktr.ee,https://www.similarweb.com/website/linktr.ee/#overview,207.7m,1.79,00:01:34,73.43,./../data/register_data/linktr.ee.json
+Lifestyle,shein.com,https://www.similarweb.com/website/shein.com/#overview,202m,8.46,00:07:05,36.86,./../data/register_data/shein.com.json
+Lifestyle,nike.com,https://www.similarweb.com/website/nike.com/#overview,132m,4.92,00:03:37,46.43,./../data/register_data/nike.com.json
+Lifestyle,macys.com,https://www.similarweb.com/website/macys.com/#overview,97.7m,5.27,00:05:00,45.77,./../data/register_data/macys.com.json
+Lifestyle,hm.com,https://www.similarweb.com/website/hm.com/#overview,94.9m,7.84,00:04:54,39.27,./../data/register_data/hm.com.json
+Lifestyle,zara.com,https://www.similarweb.com/website/zara.com/#overview,91.1m,10.13,00:06:17,29.13,Null
+Lifestyle,gap.com,https://www.similarweb.com/website/gap.com/#overview,73.4m,8.72,00:05:12,38.69,./../data/register_data/gap.com.json
+Lifestyle,myntra.com,https://www.similarweb.com/website/myntra.com/#overview,70.5m,5.87,00:04:31,52.71,Null
+Lifestyle,uniqlo.com,https://www.similarweb.com/website/uniqlo.com/#overview,69.2m,7.64,00:03:20,47.78,./../data/register_data/uniqlo.com.json
+Lifestyle,sephora.com,https://www.similarweb.com/website/sephora.com/#overview,62.4m,4.96,00:04:08,45.64,./../data/register_data/sephora.com.json
+Reference Materials,wikipedia.org,https://www.similarweb.com/website/wikipedia.org/#overview,4.3b,3.18,00:03:55,59.25,./../data/register_data/wikipedia.org.json
+Reference Materials,yahoo.com,https://www.similarweb.com/website/yahoo.com/#overview,3.4b,5.54,00:08:42,33.97,./../data/register_data/yahoo.com.json
+Reference Materials,quora.com,https://www.similarweb.com/website/quora.com/#overview,845.5m,2.2,00:02:30,63.5,./../data/register_data/quora.com.json
+Reference Materials,deepl.com,https://www.similarweb.com/website/deepl.com/#overview,266.6m,10.92,00:08:48,26.47,./../data/register_data/deepl.com.json
+Reference Materials,maps.google.com,https://www.similarweb.com/website/maps.google.com/#overview,223.6m,1.14,00:00:15,60.59,./../data/register_data/maps.google.com.json
+Reference Materials,yelp.com,https://www.similarweb.com/website/yelp.com/#overview,137.9,4.96,00:02:35,51.45,./../data/register_data/yelp.com.json
+Reference Materials,sciencedirect.com,https://www.similarweb.com/website/sciencedirect.com/#overview,107.9m,3.0,00:05:10,50.5,./../data/register_data/sciencedirect.com.json
+Reference Materials,eksisozluk.com,https://www.similarweb.com/website/eksisozluk.com/#overview,104.1m,7.46,00:06:34,42.01,Null
+Reference Materials,wikihow.com,https://www.similarweb.com/website/wikihow.com/#overview,99.1m,1.55,00:01:24,77.79,./../data/register_data/wikihow.com.json
+Reference Materials,reverso.net,https://www.similarweb.com/website/reverso.net/#overview,84.6m,10.79,00:05:00,52.76,./../data/register_data/reverso.net.json

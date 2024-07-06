@@ -1,0 +1,9 @@
+{
+    "name" : "Jane Doe", 
+    "email" : "authorization.thesis@gmail.com", 
+    "password" : "***", 
+    "gender" : "female", 
+    "birthday": "01-01-1970", 
+    "country" : "Portugal", 
+    "city": "Porto"
+}

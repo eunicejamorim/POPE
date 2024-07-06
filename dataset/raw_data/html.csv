@@ -1,0 +1,521 @@
+﻿website,id,url,html,notes,private,private_details
+amazon.com,0,https://www.amazon.com,./../data/html/0.html,home page,no,no
+amazon.com,1,https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0,./../data/html/1.html,sign in,no,no
+amazon.com,2,https://www.amazon.com/?ref_=nav_signin,./../data/html/2.html,home page logged in,no,yes
+amazon.com,3,https://www.amazon.com/deal/11561fd7?showVariations=true&pf_rd_r=J9RRXYNA8XVY3PCNQPYW&pf_rd_t=Events&pf_rd_i=deals&pf_rd_p=9cf98ab3-7b76-4726-b982-1a71b74a0c9b&pf_rd_s=slot-3&ref=dlx_deals_sh_dcl_img_0_11561fd7_dt_sl3_9b,./../data/html/3.html,product search results,no,yes
+amazon.com,4,https://www.amazon.com/Hydro-Flask-Around-Travel-Tumbler/dp/B0C34XSXD3?ref_=Oct_DLandingS_D_11561fd7_1&th=1,./../data/html/4.html,product view,no,yes
+amazon.com,5,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,./../data/html/5.html,cart,yes,yes
+amazon.com,6,https://www.amazon.com/ax/account/manage?openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fyour-account&openid.assoc_handle=usflex&shouldShowPasskeyLink=true&passkeyEligibilityArb=57b7cb04-7e6d-40fa-a5df-f27a5d1a6255&passkeyMetricsActionId=40bd2018-53f6-4296-bb63-3a5bd6e12d66,./../data/html/6.html,login and security configuration,yes,yes
+amazon.com,7,https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer,./../data/html/7.html,about us ,no,no
+ebay.com,8,https://www.ebay.com,./../data/html/8.html,home page,no,no
+ebay.com,9,https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2F,./../data/html/9.html,sign in,no,no
+ebay.com,10,https://www.ebay.com,./../data/html/10.html,home page logged in,no,yes
+ebay.com,11,https://www.ebay.com/e/pt/pre-loved-pt?_trkparms=parentrq%3Aba4cfb1e18f0ac1d237b5fa5fffd60a2%7Cpageci%3A72a102f3-1c2f-11ef-bc7f-8e5565623e71%7Cc%3A6%7Ciid%3A1%7Cli%3A8874,./../data/html/11.html,product category,no,yes
+ebay.com,12,https://www.ebay.com/itm/405001114269?itmmeta=01HYX4THTRG12ACQRXSQ3DBVCE&hash=item5e4bf2929d%3Ag%3AMPgAAOSwp99mCfxA&_trkparms=%2526rpp_cid%253D64ba43ab8aa3000af8a31b6b,./../data/html/12.html,product detail,no,yes
+ebay.com,13,https://cart.payments.ebay.com,./../data/html/13.html,cart,yes,yes
+ebay.com,14,https://accounts.ebay.com/acctsec/security-center,./../data/html/14.html,signin and security configuration,yes,yes
+ebay.com,15,https://www.ebayinc.com/company/,./../data/html/15.html,About us,no,no
+ebay.com,16,https://jobs.ebayinc.com/us/en,./../data/html/16.html,jobs,no,no
+ebay.com,17,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=motos&_sacat=0,./../data/html/17.html,"search for ""motos""",no,yes
+amazon.co.jp,18,https://www.amazon.co.jp,./../data/html/18.html,homepage,no,no
+amazon.co.jp,19,https://www.amazon.co.jp/-/en/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0,./../data/html/19.html,sign in,no,no
+amazon.co.jp,20,https://www.amazon.co.jp/ap/cvf/request?arb=3ad42fff-a8d1-4f22-8567-c713892ed0c8&language=en,./../data/html/20.html,captcha,no,no
+amazon.co.jp,21,https://www.amazon.co.jp/?ref_=nav_ya_signin,./../data/html/21.html,homepage logged in,no,yes
+amazon.co.jp,22,https://www.amazon.co.jp/-/en/gp/goldbox?ref_=nav_cs_gb&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522,./../data/html/22.html,product category,no,yes
+amazon.co.jp,23,https://www.amazon.co.jp/SwitchBot-Lock-Pro-Fingerprint-Identification/dp/B0CK2B4D11?ref=dlx_deals_dg_dcl_B0CK2B4D11_dt_sl14_0a,./../data/html/23.html,peoduct example,no,yes
+amazon.co.jp,24,"https://www.amazon.co.jp/cart/smart-wagon?newItems=5fb31714-071b-4183-b0b6-17673c785daf,1&ref_=sw_refresh",./../data/html/24.html,cart,yes,yes
+amazon.co.jp,25,https://www.amazon.co.jp/-/en/gp/message?ref_=ya_d_c_msg_center#!/inbox,./../data/html/25.html,message center,yes,yes
+amazon.co.jp,26,https://www.amazon.co.jp/ax/account/manage?openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2Fyour-account&openid.assoc_handle=jpflex&shouldShowPasskeyLink=true&passkeyEligibilityArb=53b92348-f784-4d90-a5db-d4e830b6227b&passkeyMetricsActionId=bc01621b-ffbe-4d81-bac8-500ac7d08a04,./../data/html/26.html,log in and security configurations,yes,yes
+amazon.co.jp,27,https://amazon-press.jp,./../data/html/27.html,press center,no,no
+aliexpress.com,28,https://www.aliexpress.us/?gatewayAdapt=glo2usa,./../data/html/28.html,homepage,no,no
+aliexpress.com,29,https://www.aliexpress.us/?gatewayAdapt=glo2usa,./../data/html/29.html,sign in,no,no
+aliexpress.com,30,https://www.aliexpress.us/?gatewayAdapt=glo2usa,./../data/html/30.html,homepage logged in,no,yes
+aliexpress.com,31,https://www.aliexpress.com/p/calp-plus/index.html?spm=a2g0o.home.category_new.43.468a76db53Nyrd&osf=category_navigate_newTab2&queryFrom=kingKong&categoryTab=us_jewelry%2C_watches_%26_accessories,./../data/html/31.html,product categories,no,yes
+aliexpress.com,32,"https://www.aliexpress.us/w/wholesale-K-Gold-Necklace.html?spm=a2g0o.categorymp.0.0.65199LhC9LhCj7&categoryUrlParams=%7B""q""%3A""K%20Gold%20Necklace""%2C""s""%3A""qp_nw""%2C""osf""%3A""category_navigate""%2C""sg_search_params""%3A""""%2C""guide_trace""%3A""a86d7a3c-8a4b-4330-a4c4-805b265be34f""%2C""scene_id""%3A""37749""%2C""searchBizScene""%3A""openSearch""%2C""recog_lang""%3A""en""%2C""bizScene""%3A""category_navigate""%2C""guideModule""%3A""category_navigate_vertical""%2C""postCatIds""%3A""36%2C1511%2C200000297%2C44%2C1501%2C18%2C200003922""%2C""scene""%3A""category_navigate""%7D&isFromCategory=y",./../data/html/32.html,products of a given category,no,yes
+aliexpress.com,33,"https://www.aliexpress.us/item/3256802467043683.html?spm=a2g0o.productlist.main.9.60b46d2eVMSL1q&pdp_ext_f=%7B""sku_id""%3A""12000027599410075""%7D&utparam-url=scene%3Asearch%7Cquery_from%3Acategory_navigate&gatewayAdapt=4itemAdapt",./../data/html/33.html,product,no,yes
+aliexpress.com,34,https://www.aliexpress.us/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.accb345f1EIUzw,./../data/html/34.html,cart,yes,yes
+aliexpress.com,35,https://www.aliexpress.com/p/order/index.html?spm=a2g0o.cart.headerAcount.2.130e38da4BvQzH,./../data/html/35.html,my orders,yes,yes
+aliexpress.com,36,https://www.aliexpress.com/account/setting/index.html?spm=a2g0o.order_list,./../data/html/36.html,settings,yes,yes
+aliexpress.com,37,https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2054&cId=1304#/rule/detail?cId=1304&ruleId=2054,./../data/html/37.html,transaction services,no,no
+temu.com,38,https://www.temu.com,./../data/html/38.html,homepage,no,no
+temu.com,39,https://www.temu.com/pt-en/paisley-print-v-neck-loose-blouse-vintage-short-sleeve-blouse-for-spring-summer-womens-clothing-g-601099549139119.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F1daaa764-71e3-453b-98b1-de74204972ca.jpg&spec_id=21263&spec_gallery_id=1944&refer_page_sn=10005&refer_source=0&freesia_scene=1&_oak_freesia_scene=1&_oak_rec_ext_1=NTU4&_oak_gallery_order=848261571%2C708419931%2C918094618%2C554573961%2C451482587&_oak_mp_inf=EK%2FB56im1ogBGiBlYmQ2ZmE3NjFlZTY0NDNkOGRlZjBhZTM0ZjVlMzE5ZSD38tjU%2BzE%3D&spec_ids=21263&refer_page_el_sn=200024&refer_page_name=home&refer_page_id=10005_1716822358656_l9xglo3k45&_x_sessn_id=zryw76hmm4,./../data/html/39.html,product not logged in,no,no
+temu.com,40,https://www.temu.com/pt-en/paisley-print-v-neck-loose-blouse-vintage-short-sleeve-blouse-for-spring-summer-womens-clothing-g-601099549139119.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F1daaa764-71e3-453b-98b1-de74204972ca.jpg&spec_id=21263&spec_gallery_id=1944&refer_page_sn=10005&refer_source=0&freesia_scene=1&_oak_freesia_scene=1&_oak_rec_ext_1=NTU4&_oak_gallery_order=848261571%2C708419931%2C918094618%2C554573961%2C451482587&_oak_mp_inf=EK%2FB56im1ogBGiBlYmQ2ZmE3NjFlZTY0NDNkOGRlZjBhZTM0ZjVlMzE5ZSD38tjU%2BzE%3D&spec_ids=21263&refer_page_el_sn=200024&refer_page_name=home&refer_page_id=10005_1716822358656_l9xglo3k45&_x_sessn_id=zryw76hmm4,./../data/html/40.html,sign in,no,no
+temu.com,41,https://www.temu.com/pt-en/paisley-print-v-neck-loose-blouse-vintage-short-sleeve-blouse-for-spring-summer-womens-clothing-g-601099549139119.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F1daaa764-71e3-453b-98b1-de74204972ca.jpg&spec_id=21263&spec_gallery_id=1944&refer_page_sn=10032&refer_source=0&freesia_scene=1&_oak_freesia_scene=1&_oak_rec_ext_1=NTU4&_oak_gallery_order=848261571%2C708419931%2C918094618%2C554573961%2C451482587&_oak_mp_inf=EK%2FB56im1ogBGiBlYmQ2ZmE3NjFlZTY0NDNkOGRlZjBhZTM0ZjVlMzE5ZSD38tjU%2BzE%3D&spec_ids=21263&refer_page_el_sn=200024&refer_page_name=goods&refer_page_id=10032_1716822397080_1yal588sk7&_x_sessn_id=zryw76hmm4,./../data/html/41.html,product logged in,no,yes
+temu.com,42,https://www.temu.com/pt-en?_x_sessn_id=zryw76hmm4&refer_page_name=goods&refer_page_id=10032_1716822508730_syapha8lwu&refer_page_sn=10032,./../data/html/42.html,homepage logged in,no,yes
+temu.com,43,https://www.temu.com/pt-en/womens-shoes-o3-95.html?opt_level=1&title=Women%27s%20Shoes&_x_enter_scene_type=cate_tab&leaf_type=son&show_search_type=0&refer_page_el_sn=200053&_x_sessn_id=zryw76hmm4&refer_page_name=home&refer_page_id=10005_1716822542790_veqdmkiec3&refer_page_sn=10005,./../data/html/43.html,category ,no,yes
+temu.com,44,https://www.temu.com/search_result.html?search_key=reading%20glasses&search_method=user&refer_page_el_sn=200010&srch_enter_source=top_search_entrance_10012&_x_enter_scene_type=cate_tab&_x_sessn_id=zryw76hmm4&refer_page_name=category&refer_page_id=10012_1716822582874_8222apmd73&refer_page_sn=10012,./../data/html/44.html,search result,no,yes
+temu.com,45,https://www.temu.com/shopping_cart.html?_x_enter_scene_type=cate_tab&_x_sessn_id=zryw76hmm4&refer_page_name=goods&refer_page_id=10032_1716822671144_2q2wrnjzro&refer_page_sn=10032,./../data/html/45.html,cart,yes,yes
+temu.com,46,https://www.temu.com/bgt_orders.html?type=4&_x_sessn_id=zryw76hmm4&refer_page_name=my_review&refer_page_id=10309_1716822741741_aiu81bk4kj&refer_page_sn=10309,./../data/html/46.html,my orders,yes,yes
+temu.com,47,https://www.temu.com/bgp_account_security.html?_x_sessn_id=zryw76hmm4&refer_page_name=bgt_orders&refer_page_id=10054_1716822744730_58xashtuhq&refer_page_sn=10054,./../data/html/47.html,account security configuration,yes,yes
+temu.com,48,https://www.temu.com/pt-en/careers.html?_x_sessn_id=zryw76hmm4&refer_page_name=home&refer_page_id=10005_1716822815083_z9szu7a6pr&refer_page_sn=10005,./../data/html/48.html,careers,no,yes
+etsy.com,49,https://www.etsy.com,./../data/html/49.html,homepage,no,no
+etsy.com,50,https://www.etsy.com,./../data/html/50.html,sign in,no,no
+etsy.com,51,https://www.etsy.com/?ref_login_action=signin-header,./../data/html/51.html,captcha,no,no
+etsy.com,52,https://www.etsy.com/?,./../data/html/52.html,homepage logged in,no,no
+etsy.com,53,https://www.etsy.com/?,./../data/html/53.html,menu detailed,yes,yes
+etsy.com,54,https://www.etsy.com/market/gift_for_men?ref=hp_gbs&anchor_listing_id=1688322515,./../data/html/54.html,category products,no,no
+etsy.com,55,https://www.etsy.com/listing/733759013/gift-for-men-docking-station-it-keeps?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gift+for+men&ref=sr_gallery-1-2&pro=1&content_source=923a3f3c1d284a952f52b92bfaf0f3c9a9016f33%253A733759013&organic_search_click=1,./../data/html/55.html,product detail,no,no
+etsy.com,56,https://www.etsy.com/cart?ref=hdr-cart,./../data/html/56.html,cart,yes,yes
+etsy.com,57,https://www.etsy.com/messages?ref=hdr_user_menu-messages,./../data/html/57.html,messages in the platform,yes,yes
+etsy.com,58,https://www.etsy.com/your/account,./../data/html/58.html,account details,yes,yes
+etsy.com,59,https://careers.etsy.com/?ref=ftr,./../data/html/59.html,careers,no,no
+etsy.com,60,https://www.etsy.com/legal/impressum,./../data/html/60.html,legal imprint,no,no
+amazon.de,61,https://www.amazon.de,./../data/html/61.html,homepage,no,no
+amazon.de,62,https://www.amazon.de/-/en/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.de%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=deflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0,./../data/html/62.html,sign in,no,no
+amazon.de,63,https://www.amazon.de/?ref_=nav_signin,./../data/html/63.html,homepage logged in,no,yes
+amazon.de,64,https://www.amazon.de/-/en/kÃ¼che-haushalt-wohnen/b/?ie=UTF8&node=3167641&ref_=nav_cs_home,./../data/html/64.html,product category,no,yes
+amazon.de,65,https://www.amazon.de/s?k=cheese,./../data/html/65.html,search result,no,yes
+amazon.de,66,https://www.amazon.de/-/en/Fashioned-Cheese-Cheddar-Squeeze-Microveable/dp/B0BPMDHWF1/ref=sr_1_5?dib=eyJ2IjoiMSJ9.aFaUsDVz0sYEoQAcVKc5oknx1poqRnSUijCuIX-kRYoqNWmyaiY6ahReWV9l0lUxbJuWjWLvVs1ouT4u59Bal4OflF6owRs-bwXFPyKhtHNqtDIt8AWm4fLr0UBZVZX_OGUNOX8MzLrIYMgQQ3Bs6SACXiBUdMGFSqMn7SumiAb-VBjAUs00QiPB0QqqKas8oS9bR16mYkPvLGt9O-KLuhO9hQ6ulGL1Xx64DGbwCMRJtfpMh9FjAGAVF-dQGQqp4ostScw_3R1ue9G2AlIYhkBE2bcsFiI-OSVwpwISQ4Y._DZruijF4gFxKwYed8SOkjGg9JEP9GeG3z4QD1xT9dE&dib_tag=se&keywords=cheese&qid=1716890060&sr=8-5,./../data/html/66.html,product detail,no,yes
+amazon.de,67,https://www.amazon.de/-/en/gp/cart/view.html?ref_=nav_cart,./../data/html/67.html,cart,yes,yes
+amazon.de,68,https://www.amazon.de/ax/account/manage?openid.return_to=https%3A%2F%2Fwww.amazon.de%2Fyour-account&openid.assoc_handle=deflex&shouldShowPasskeyLink=true&passkeyEligibilityArb=6e98cb5d-a6de-417f-99e3-3ec0ccde49d2&passkeyMetricsActionId=6926296b-665d-4bb7-81d5-aa390a860234,./../data/html/68.html,loggin and security configurations,yes,yes
+amazon.de,69,https://www.amazon.jobs/en/,./../data/html/69.html,careers,no,no
+amazon.de,70,https://www.aboutamazon.de/?utm_source=gateway&utm_medium=footer,./../data/html/70.html,about us,no,no
+amazon.de,71,https://www.amazon.de/-/en/dp/B00OSAGJTY?ref_=footer_cbcc,./../data/html/71.html,payment method,no,yes
+tradingview.com,72,https://www.tradingview.com,./../data/html/72.html,homepage,no,no
+tradingview.com,73,https://www.tradingview.com/pricing/?source=header_go_pro_button&feature=start_free_trial,./../data/html/73.html,get started,no,no
+tradingview.com,74,https://www.tradingview.com/pricing/?source=header_go_pro_button&feature=start_free_trial,./../data/html/74.html,sign in,no,no
+tradingview.com,75,https://www.tradingview.com,./../data/html/75.html,home page logged in,yes,yes
+tradingview.com,76,https://www.tradingview.com/u/authorization_thesis/#settings-profile,./../data/html/76.html,profile details,yes,yes
+tradingview.com,77,https://www.tradingview.com/markets/,./../data/html/77.html,markets,yes,yes
+tradingview.com,78,https://www.tradingview.com/chart/oOhyM32b/,./../data/html/78.html,products,yes,yes
+tradingview.com,79,https://www.tradingview.com/u/authorization_thesis/#billing,./../data/html/79.html,billing,yes,yes
+tradingview.com,80,https://www.tradingview.com/about/,./../data/html/80.html,about,no,yes
+tradingview.com,81,https://www.tradingview.com/news/,./../data/html/81.html,news,no,yes
+intuit.com,82,https://www.intuit.com,./../data/html/82.html,homepage,no,no
+intuit.com,83,https://accounts.intuit.com/app/sign-in?app_group=Identity&asset_alias=Intuit.cto.iam.ius&redirect_uri=https%3A%2F%2Faccounts.intuit.com%2Fapp%2Faccount-manager%2Foverview%3FpiuInFlyout%3Dtrue%26openBlueDot%3Dtrue%26accountSwitcherInFlyout%3Dtrue%26rgn%3DUS%26prgn%3DUS&single_sign_on=false&appfabric=true,./../data/html/83.html,sign in,no,no
+intuit.com,84,https://accounts.intuit.com/app/sign-in?app_group=Identity&asset_alias=Intuit.cto.iam.ius&redirect_uri=https%3A%2F%2Faccounts.intuit.com%2Fapp%2Faccount-manager%2Foverview%3FpiuInFlyout%3Dtrue%26openBlueDot%3Dtrue%26accountSwitcherInFlyout%3Dtrue%26rgn%3DUS%26prgn%3DUS&single_sign_on=false&appfabric=true,./../data/html/84.html,verify identity,yes,yes
+intuit.com,85,https://accounts.intuit.com/app/account-manager/overview?piuInFlyout=true&openBlueDot=true&accountSwitcherInFlyout=true&rgn=US&prgn=US,./../data/html/85.html,account manager homepage,yes,yes
+intuit.com,86,https://accounts.intuit.com/app/account-manager/security?piuInFlyout=true&openBlueDot=true&accountSwitcherInFlyout=true&rgn=US&prgn=US,./../data/html/86.html,sign in and security configurations,yes,yes
+intuit.com,87,https://turbotax.intuit.com,./../data/html/87.html,produt of the platform,yes,yes
+intuit.com,88,https://turbotax.intuit.com/corp/license/online/,./../data/html/88.html,license agreement,no,no
+intuit.com,89,https://security.intuit.com,./../data/html/89.html,security dedicated page,no,no
+investing.com,90,https://www.investing.com,./../data/html/90.html,homepage,no,no
+investing.com,91,https://www.investing.com,./../data/html/91.html,sign in,no,no
+investing.com,92,https://www.investing.com,./../data/html/92.html,homepage logged in,no,yes
+investing.com,93,https://www.investing.com/analysis/,./../data/html/93.html,Analysis tab,no,yes
+investing.com,94,https://www.investing.com/portfolio/?portfolioID=NTVjNGUyYjswYjo%2BMmAzNw%3D%3D,./../data/html/94.html,my watchlist,yes,yes
+investing.com,95,https://www.investing.com/members-admin/settings-edit-user-details,./../data/html/95.html,settings,yes,yes
+investing.com,96,https://www.investing.com/news/stock-market-news/us-stock-futures-inch-higher-in-slim-trade-as-pce-data-approaches-3457956,./../data/html/96.html,new sample,no,yes
+investing.com,97,https://www.investing.com/about-us/risk-warning,./../data/html/97.html,risk warning,no,yes
+investing.com,98,https://www.investing.com/members-admin/alert-center,./../data/html/98.html,Alert center,yes,yes
+investing.com,99,https://www.investing.com/members-admin/sentiments,./../data/html/99.html,sentiment monitoring,yes,yes
+investing.com,100,https://www.investing.com/search/?q=nvidia,./../data/html/100.html,search results,no,yes
+investing.com,101,https://www.investing.com/equities/nvidia-corp,./../data/html/101.html,company detail,no,yes
+coinmarketcap.com,102,https://coinmarketcap.com,./../data/html/102.html,home page,no,no
+coinmarketcap.com,103,https://coinmarketcap.com,./../data/html/103.html,sign in,no,no
+coinmarketcap.com,104,https://coinmarketcap.com,./../data/html/104.html,homepage logged in,no,yes
+coinmarketcap.com,105,https://coinmarketcap.com/community/,./../data/html/105.html,comunity personal feed,yes,yes
+coinmarketcap.com,106,https://coinmarketcap.com/account/rewards/,./../data/html/106.html,product example,no,yes
+coinmarketcap.com,107,https://coinmarketcap.com/headlines/news/,./../data/html/107.html,news,no,yes
+coinmarketcap.com,108,https://coinmarketcap.com/community/articles/6655e6db519ab437fa13138d/,./../data/html/108.html,news example,no,yes
+coinmarketcap.com,109,https://coinmarketcap.com/watchlist/,./../data/html/109.html,personal watchlist,yes,yes
+coinmarketcap.com,110,https://coinmarketcap.com/settings/,./../data/html/110.html,settings,yes,yes
+coinmarketcap.com,111,https://coinmarketcap.com/settings/account-security/,./../data/html/111.html,security settings,yes,yes
+coinmarketcap.com,112,https://coinmarketcap.com/settings/notifications/,./../data/html/112.html,personal notifications,yes,yes
+coinmarketcap.com,113,https://coinmarketcap.com/jobs/,./../data/html/113.html,careers,no,yes
+coinmarketcap.com,114,https://coinmarketcap.com/about/,./../data/html/114.html,about us,no,yes
+facebook.com,115,https://www.facebook.com,./../data/html/115.html,homepage,no,no
+facebook.com,116,https://about.meta.com,./../data/html/116.html,about,no,no
+facebook.com,117,https://www.metacareers.com,./../data/html/117.html,careers,no,no
+facebook.com,118,https://www.facebook.com,./../data/html/118.html,personal feed,yes,yes
+facebook.com,119,https://www.facebook.com/messages/t,./../data/html/119.html,messages,yes,yes
+facebook.com,120,https://www.facebook.com/friends,./../data/html/120.html,friends list,yes,yes
+facebook.com,121,https://www.facebook.com/profile.php?id=61559635512582,./../data/html/121.html,profile,no,yes
+facebook.com,122,https://www.facebook.com/notifications,./../data/html/122.html,personal notifications,yes,yes
+facebook.com,123,https://www.facebook.com/search/top?q=red%20hot%20chili%20peppers,./../data/html/123.html,search results,no,yes
+facebook.com,124,https://www.facebook.com/ChiliPeppers,./../data/html/124.html,celebrity sample,no,yes
+facebook.com,125,https://www.facebook.com/groups/feed/,./../data/html/125.html,my groups,yes,yes
+facebook.com,126,https://www.facebook.com/groups/6956661264438568,./../data/html/126.html,group sample,no,yes
+facebook.com,127,https://www.facebook.com/settings/?tab=privacy,./../data/html/127.html,privacy settings,yes,yes
+instagram.com,128,https://www.instagram.com/?img_index=1,./../data/html/128.html,homepage / signin ,no,no
+instagram.com,129,https://www.facebook.com/help/instagram/261704639352628,./../data/html/129.html,information for non users,no,no
+instagram.com,130,https://about.meta.com/technologies/meta-verified/,./../data/html/130.html,meta verified,no,no
+instagram.com,131,https://www.threads.net,./../data/html/131.html,threads,no,no
+instagram.com,132,https://www.instagram.com,./../data/html/132.html,personal feed,yes,yes
+instagram.com,133,https://www.instagram.com/jamesdoe401/,./../data/html/133.html,profile,yes,yes
+instagram.com,134,https://www.instagram.com/direct/inbox/,./../data/html/134.html,messaages,yes,yes
+instagram.com,135,https://www.instagram.com/reels/C4RV9uvJt3p/,./../data/html/135.html,reels,yes,no
+instagram.com,136,https://www.instagram.com/explore/,./../data/html/136.html,explore,no,no
+instagram.com,137,https://www.instagram.com/rockinriolisboa/,./../data/html/137.html,sample page,no,no
+instagram.com,138,https://www.instagram.com/accounts/close_friends/,./../data/html/138.html,close friends,yes,yes
+twitter.com,139,https://x.com/?mx=2,./../data/html/139.html,homepage,no,no
+twitter.com,140,https://x.com/account/access,./../data/html/140.html,captcha,yes,no
+twitter.com,141,https://x.com/account/access?lang=en,./../data/html/141.html,account unlocked,yes,yes
+twitter.com,142,https://x.com/search?q=foo%20fighters&src=typed_query,./../data/html/142.html,search result,no,no
+twitter.com,143,https://x.com/foofighters,./../data/html/143.html,page sample,no,no
+twitter.com,144,https://x.com/DoeJane61070,./../data/html/144.html,profile,yes,yes
+twitter.com,145,https://x.com/explore,./../data/html/145.html,explore,no,no
+twitter.com,146,https://x.com/i/bookmarks,./../data/html/146.html,bookmarks,yes,yes
+twitter.com,147,https://x.com/notifications,./../data/html/147.html,notifications,yes,yes
+twitter.com,148,https://x.com/messages,./../data/html/148.html,messages,yes,yes
+twitter.com,149,https://x.com/settings/audience_and_tagging,./../data/html/149.html,audience and tagging,yes,yes
+tiktok.com,150,https://www.tiktok.com/explore,./../data/html/150.html,captcha,no,no
+tiktok.com,151,https://www.tiktok.com,./../data/html/151.html,homepage,no,no
+tiktok.com,152,https://www.tiktok.com,./../data/html/152.html,sign in,no,no
+tiktok.com,153,https://www.tiktok.com/foryou?lang=en,./../data/html/153.html,personal feed,yes,yes
+tiktok.com,154,https://www.tiktok.com/search?lang=en&q=holidays&t=1717253700079,./../data/html/154.html,search results,no,yes
+tiktok.com,155,https://www.tiktok.com/@bataguas?lang=en,./../data/html/155.html,sample page,no,yes
+tiktok.com,156,https://www.tiktok.com/@janedoe462?lang=en,./../data/html/156.html,personal profile,yes,yes
+tiktok.com,157,https://www.tiktok.com/friends?lang=en,./../data/html/157.html,friends,yes,yes
+tiktok.com,158,https://www.tiktok.com/messages?lang=en,./../data/html/158.html,messages,yes,yes
+tiktok.com,159,https://www.tiktok.com/coin?enter_from=web_main_nav&lang=en,./../data/html/159.html,tiktok coins,yes,yes
+tiktok.com,160,https://www.tiktok.com/setting?lang=en,./../data/html/160.html,settings,yes,yes
+tiktok.com,161,https://www.tiktok.com/about?lang=en,./../data/html/161.html,about,no,no
+tiktok.com,162,https://careers.tiktok.com/?lang=en,./../data/html/162.html,careers,no,no
+tiktok.com,163,https://www.tiktok.com/tiktok-rewards/eligibility/,./../data/html/163.html,tiktok rewards,no,no
+reddit.com,164,https://www.reddit.com/?rdt=33507,./../data/html/164.html,homepage,no,no
+reddit.com,165,https://www.redditinc.com,./../data/html/165.html,about,no,no
+reddit.com,166,https://support.reddithelp.com/hc/en-us,./../data/html/166.html,help center,no,no
+reddit.com,167,https://www.reddit.com/?rdt=33507,./../data/html/167.html,sign in,no,no
+reddit.com,168,https://www.reddit.com/?rdt=33507,./../data/html/168.html,personal feed,yes,yes
+reddit.com,169,https://www.reddit.com/best/communities/1/,./../data/html/169.html,best communities,no,yes
+reddit.com,170,https://www.reddit.com/search/?q=hqmc&type=link&cId=aba32e0d-c87f-42f7-9eaa-40fddd0e6259&iId=fc4aec3f-25e5-4e8b-b3f3-7b1dcc7dce2e,./../data/html/170.html,search result,no,yes
+reddit.com,171,https://www.reddit.com/r/HQMC/,./../data/html/171.html,comunity sample,no,yes
+reddit.com,172,https://www.reddit.com/r/sports/comments/1d57hmu/mike_tyson_medical_advice_forces_jake_paul_fight/,./../data/html/172.html,post sample,no,yes
+reddit.com,173,https://www.reddit.com/message/messages,./../data/html/173.html,messages,yes,yes
+reddit.com,174,https://www.reddit.com/settings/,./../data/html/174.html,settings,yes,yes
+reddit.com,175,https://www.reddit.com/user/Subject_Program3167/,./../data/html/175.html,personal profile,yes,yes
+linkedin.com,176,https://www.linkedin.com,./../data/html/176.html,homepage,no,no
+linkedin.com,177,https://www.linkedin.com/checkpoint/challenge/AgE6doelWQ5jXgAAAY_Ubv5c8ZIypBtRJpUZvAV9OLzT1wEBlWTHoTP6xfzlEafz94UbLx9TH6kAU0D22Xo8uZckpSA4gw?ut=1fNmf29-m5Kbg1,./../data/html/177.html,captcha,no,no
+linkedin.com,178,https://www.linkedin.com/feed/?trk=onboarding-landing,./../data/html/178.html,feed,yes,yes
+linkedin.com,179,https://www.linkedin.com/in/jane-doe-27a4a0311/,./../data/html/179.html,profile,no,yes
+linkedin.com,180,https://careers.linkedin.com,./../data/html/180.html,careers,no,no
+linkedin.com,181,https://business.linkedin.com/talent-solutions?trk=flagship_nav&veh=li-footer-lts-control&src=li-footer,./../data/html/181.html,talent solutions,no,no
+linkedin.com,182,https://about.linkedin.com,./../data/html/182.html,about,no,no
+linkedin.com,183,https://www.linkedin.com/notifications/?filter=all,./../data/html/183.html,notifications,yes,yes
+linkedin.com,184,https://www.linkedin.com/messaging/thread/new/,./../data/html/184.html,messages,yes,yes
+linkedin.com,185,https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A6498&keywords=faculdade%20de%20engenharia%20da%20universidade%20do%20porto&origin=RICH_QUERY_SUGGESTION&position=0&searchId=db3afa89-2090-4ef9-ad06-672a810fdce6&sid=hHc&spellCorrectionEnabled=false,./../data/html/185.html,search results,yes,no
+linkedin.com,186,https://www.linkedin.com/school/feup/,./../data/html/186.html,page sample,no,yes
+linkedin.com,187,https://www.linkedin.com/in/jane-doe-27a4a0311/edit/forms/intro/new/,./../data/html/187.html,personal information settings,yes,yes
+pinterest.com,188,https://pt.pinterest.com/authorizationthesis/,./../data/html/188.html,profile,yes,yes
+pinterest.com,189,https://pt.pinterest.com,./../data/html/189.html,personal feed,no,yes
+pinterest.com,190,https://pt.pinterest.com/settings/,./../data/html/190.html,settings,yes,yes
+pinterest.com,191,https://pt.pinterest.com/pin-creation-tool/,./../data/html/191.html,create pin,yes,yes
+pinterest.com,192,https://pt.pinterest.com/search/pins/?q=Travel&rs=trending&b_id=BMo5eUdwLs4FAAAAAAAAAADiblfHUxC9pqgJ_gJgh-QXdx4tKmQmfW_1DxLBb7AuChanwfeawtcYnYf3Gr4rKdEbOFVLGCvkm4DhQNJTa7WqssVyevtAlrtj_GIfbLn4Pw&source_id=1089372407589583881,./../data/html/192.html,search result,no,yes
+pinterest.com,193,https://pt.pinterest.com/pin/640637115773296393/,./../data/html/193.html,post sample,no,yes
+pinterest.com,194,https://pt.pinterest.com/edit/history,./../data/html/194.html,feed tuner,yes,yes
+pinterest.com,195,https://policy.pinterest.com/en/terms-of-service,./../data/html/195.html,terms of service,no,no
+pinterest.com,196,https://pt.pinterest.com,./../data/html/196.html,homepage,no,no
+pinterest.com,197,https://newsroom.pinterest.com/en-gb/,./../data/html/197.html,blog,no,no
+pinterest.com,198,https://pt.pinterest.com/videos/,./../data/html/198.html,videos,no,no
+discord.com,199,https://discord.com,./../data/html/199.html,homepage,no,no
+discord.com,200,https://support.discord.com/hc/en-us,./../data/html/200.html,support,no,no
+discord.com,201,https://discord.com/careers,./../data/html/201.html,career,no,no
+discord.com,202,https://discord.com/login,./../data/html/202.html,sign in,no,no
+discord.com,203,https://discord.com/channels/@me,./../data/html/203.html,personal homepage,yes,yes
+discord.com,204,https://discord.com/channels/1246523091639865344/1246523091639865347,./../data/html/204.html,own server sample,yes,yes
+discord.com,205,https://discord.com/guild-discovery,./../data/html/205.html,discoverable servers,no,yes
+discord.com,206,https://discord.com/channels/707230275175841915/956567494766764072,./../data/html/206.html,public server,no,yes
+discord.com,207,https://discord.com/shop,./../data/html/207.html,discord shop,no,yes
+discord.com,208,https://discord.com/channels/@me,./../data/html/208.html,my settings,yes,yes
+discord.com,209,https://discord.com/channels/@me,./../data/html/209.html,nitro,no,yes
+youtube.com,210,https://www.youtube.com,./../data/html/210.html,homepage logged off,no,no
+youtube.com,211,https://www.youtube.com,./../data/html/211.html,homepage logged in,yes,yes
+youtube.com,212,https://www.youtube.com/feed/trending?bp=6gQJRkVleHBsb3Jl,./../data/html/212.html,trending,no,no
+youtube.com,213,https://about.youtube,./../data/html/213.html,about,no,no
+youtube.com,214,https://blog.youtube,./../data/html/214.html,blog,no,no
+youtube.com,215,https://www.youtube.com,./../data/html/215.html,personal sugestions,yes,yes
+youtube.com,216,https://www.youtube.com/results?search_query=dani+california,./../data/html/216.html,search result,no,yes
+youtube.com,217,https://www.youtube.com/watch?v=Sb5aq5HcS1A,./../data/html/217.html,video sample,no,yes
+youtube.com,218,https://www.youtube.com/channel/UCEuOwB9vSL1oPKGNdONB4ig,./../data/html/218.html,channel sample,no,yes
+youtube.com,219,https://myaccount.google.com/u/0/yourdata/youtube?hl=en&pli=1,./../data/html/219.html,your data,no,yes
+youtube.com,220,https://www.youtube.com/paid_memberships?ybp=mAEK,./../data/html/220.html,paid memberships,no,yes
+youtube.com,221,https://www.youtube.com/feed/playlists,./../data/html/221.html,personal playlists,yes,yes
+youtube.com,222,https://www.youtube.com/feed/history,./../data/html/222.html,history,yes,yes
+fandom.com,223,https://www.fandom.com,./../data/html/223.html,homepage,no,no
+fandom.com,224,https://www.fandom.com/topics/games,./../data/html/224.html,games category,no,no
+fandom.com,225,https://www.fandom.com/topics/tv,./../data/html/225.html,tv category,no,no
+fandom.com,226,https://www.fandom.com/video,./../data/html/226.html,videos,no,no
+fandom.com,227,https://createnewwiki.fandom.com/wiki/Special:CreateNewWiki,./../data/html/227.html,create comunity,no,no
+fandom.com,228,https://matrix.fandom.com/wiki/Neo,./../data/html/228.html,caracter page example,no,no
+fandom.com,229,https://starwars.fandom.com/wiki/Din_Grogu,./../data/html/229.html,character paage example,no,no
+fandom.com,230,https://www.gamespot.com/gallery/biggest-movies-and-shows-for-netflix-in-june-2024/2900-5430/,./../data/html/230.html,post example,no,no
+fandom.com,231,https://community.fandom.com/wiki/User:JaneDoeThesis,./../data/html/231.html,profile,yes,yes
+fandom.com,232,https://community.fandom.com/wiki/User:JaneDoeThesis,./../data/html/232.html,notifications,yes,yes
+fandom.com,233,https://community.fandom.com/wiki/Special:Contributions/JaneDoeThesis,./../data/html/233.html,contributions,yes,yes
+fandom.com,234,https://community.fandom.com/wiki/User_blog:JaneDoeThesis,./../data/html/234.html,blog,yes,yes
+fandom.com,235,https://community.fandom.com/wiki/Special:Search?query=Naruto&scope=internal&navigationSearch=true&so=trending,./../data/html/235.html,search results,no,yes
+imdb.com,236,https://www.imdb.com,./../data/html/236.html,homepage,no,no
+imdb.com,237,https://www.imdb.com/video/vi114738713/?listId=ls053181649&ref_=vp_nxt_btn,./../data/html/237.html,video post sample,no,no
+imdb.com,238,https://www.imdb.com/imdbpicks/summer-watch-guide/?ref_=hm_edcft_c_pks_swg24_em00065_1_cta,./../data/html/238.html,summer watch guide,no,no
+imdb.com,239,https://www.imdb.com/title/tt15239678/?ref_=hm_fanfav_tt_i_4_pd_fp1_r,./../data/html/239.html,movie post sample,no,no
+imdb.com,240,https://www.imdb.com/name/nm0704270/?ref_=hm_brn_6,./../data/html/240.html,actor sample page,no,no
+imdb.com,241,https://advertising.amazon.com/resources/ad-specs/imdb/,./../data/html/241.html,advertisement,no,no
+imdb.com,242,https://www.amazon.jobs/content/en/teams/imdb,./../data/html/242.html,jobs,no,no
+imdb.com,243,https://www.imdb.com/registration/signin?ref_=signup_cm_nc_ca_btn&u=%2F,./../data/html/243.html,sign in ,no,no
+imdb.com,244,https://www.imdb.com/?ref_=login,./../data/html/244.html,homepage logged in ,no,yes
+imdb.com,245,https://www.imdb.com/user/ur181956778/watchlist/,./../data/html/245.html,watchlist,yes,yes
+imdb.com,246,https://www.imdb.com/user/ur181956778/?ref_=nv_usr_prof_2,./../data/html/246.html,profile,yes,yes
+imdb.com,247,https://www.imdb.com/user/ur181956778/ratings/,./../data/html/247.html,my ratings,yes,yes
+imdb.com,248,https://www.imdb.com/user/ur181956778/lists/,./../data/html/248.html,my lists,yes,yes
+imdb.com,249,https://www.imdb.com/activity/editprofile,./../data/html/249.html,edit profile,yes,yes
+spotify.com,250,https://open.spotify.com,./../data/html/250.html,homepage,no,no
+spotify.com,251,https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH,./../data/html/251.html,artist sample,no,no
+spotify.com,252,https://open.spotify.com/search,./../data/html/252.html,search enviroment,no,no
+spotify.com,253,https://open.spotify.com/genre/0JQ5DAqbMKFDXXwE9BDJAr,./../data/html/253.html,category sample,no,no
+spotify.com,254,https://www.spotify.com/pt-pt/legal/end-user-agreement/,./../data/html/254.html,legal,no,no
+spotify.com,255,https://www.spotify.com/pt-pt/legal/privacy-policy/#s3,./../data/html/255.html,privacy policy,no,no
+spotify.com,256,https://accounts.spotify.com/en/login?continue=https%3A%2F%2Fopen.spotify.com%2F,./../data/html/256.html,sign in ,no,no
+spotify.com,257,https://open.spotify.com/show/4akyjxKgznyXQMNwKj9qqJ,./../data/html/257.html,podcast sample,no,yes
+spotify.com,258,https://open.spotify.com/show/17bkR8GX6FmyKYvhQv4nOi,./../data/html/258.html,podcast description,no,yes
+spotify.com,259,https://open.spotify.com/user/31sd6javlvloo7imod6ltz4cidte,./../data/html/259.html,profile,yes,yes
+spotify.com,260,https://www.spotify.com/pt-en/account/order-history/,./../data/html/260.html,order history,yes,yes
+spotify.com,261,https://open.spotify.com/preferences,./../data/html/261.html,preferences,yes,yes
+pixiv.net,262,https://www.pixiv.net/en/,./../data/html/262.html,homepage sign in ,no,no
+pixiv.net,263,https://www.pixiv.net/manga,./../data/html/263.html,manga details,no,yes
+pixiv.net,264,https://www.pixiv.net/info.php?id=10953,./../data/html/264.html,announcement sample,no,yes
+pixiv.net,265,https://www.pixiv.net/en/artworks/119236799,./../data/html/265.html,artwork sample,no,yes
+pixiv.net,266,https://www.pixiv.net/setting_user.php,./../data/html/266.html,settings,no,yes
+pixiv.net,267,https://www.pixiv.net/manage/request/sales/2024,./../data/html/267.html,money management,yes,yes
+pixiv.net,268,https://www.pixiv.net/dashboard/works,./../data/html/268.html,my works,yes,yes
+pixiv.net,269,https://www.pixiv.net/messages.php,./../data/html/269.html,my messages,yes,yes
+pixiv.net,270,https://www.pixiv.net/en/,./../data/html/270.html,homepage sign in,no,yes
+pixiv.net,271,https://www.pixiv.net/howto,./../data/html/271.html,tutorials,no,yes
+aniwave.to,272,https://aniwave.to,./../data/html/272.html,landing page,no,no
+globo.com,273,https://www.globo.com,./../data/html/273.html,homepage,no,no
+globo.com,274,https://ge.globo.com/futebol/times/botafogo/noticia/2024/06/02/analise-botafogo-supera-tabu-volta-a-lideranca-e-mostra-forca-nas-tres-frentes.ghtml,./../data/html/274.html,news sample,no,no
+globo.com,275,https://globoplay.globo.com/assine/?origemId=1984&utm_source=globo.com&utm_medium=menu,./../data/html/275.html,globo play subscription,no,no
+globo.com,276,https://globoplay.globo.com/podcasts/categorias/podcasts-mais-ouvidos/?origemId=1760&utm_source=gcom&utm_medium=menuburguer&utm_campaign=gcom-logo-menu-podcast,./../data/html/276.html,podcasts sample,no,no
+globo.com,277,https://ge.globo.com/futebol/copa-do-brasil/,./../data/html/277.html,footbal results sample,no,no
+globo.com,278,https://login.globo.com/termosUso/6870,./../data/html/278.html,terms and conditions,no,no
+globo.com,279,https://gshow.globo.com/tudo-mais/tv-e-famosos/noticia/em-rara-aparicao-gloria-menezes-assiste-claudia-raia-no-teatro-no-rio.ghtml,./../data/html/279.html,news sample,no,no
+globo.com,280,https://authx.globoid.globo.com/6870/login?url=https%3A%2F%2Fid.globo.com%2Fauth%2Frealms%2Fglobo.com%2Flogin-actions%2Fauthenticate%3Fsession_code%3DHIKmTubRv9JlQcaRPqANdD2AMePmNExDnvI1pd_1el8%26execution%3D6bb0f789-7c54-4e55-b386-6dc871a34c66%26client_id%3Dbarra%2540apps.globoid%26tab_id%3DV_PrUQQR7JU%26request-context%3DIL8RJx&error=&request-context=IL8RJx,./../data/html/280.html,sign in ,no,no
+globo.com,281,https://minhaconta.globo.com/?code=ory_ac_MAPf6idbQDIYVzQz_Flg16BNn3EtY-Kbwyhk9Kqv1NU.AlBxZ1pQWBydvPdi6QA4fI1rI1ld7kwowVrheU8TRaQ&scope=openid+email+profile-min&state=a08b8472-c82d-4e16-aaae-966f71689301#/,./../data/html/281.html,my account ,yes,yes
+globo.com,282,https://avatar.globo.com,./../data/html/282.html,my avatar,yes,yes
+globo.com,283,https://minhaconta.globo.com/?code=ory_ac_4M9IRtQgfJSrD--YGHdF_G4nPygDBRUonWFG6f_cmJg.hoQwUGBnzPWXs0R5RmUovgZJUcCYTl2qTAvTvLIBbt0&scope=openid+email+profile-min&state=8b0ca3d7-efda-40ea-acaa-60b919d701c9#/alterar-dados,./../data/html/283.html,edit personal data,yes,yes
+globo.com,284,https://minhaconta.globo.com/?code=ory_ac_e8sILCjduoDZ1pwXCWWURw7Jd-NUFGt2hx314KIcevc.OchY1bRN_4s0GDeRr3WCsck_7jNYTJd0EH4LMhAw-tc&scope=openid+email+profile-min&state=56d425ea-259d-4d06-9f46-0187165325f1#/associate-accounts,./../data/html/284.html,associated accounts,yes,yes
+msn.com,285,https://www.msn.com/en-us,./../data/html/285.html,homepage,no,no
+msn.com,286,https://privacy.microsoft.com/en-us/privacystatement,./../data/html/286.html,privacy,no,no
+msn.com,287,"https://www.msn.com/en-us/weather/forecast/in-Arcozelo,Porto?ocid=hpmsn&cvid=30cfcb396c7a4cfc963557a1ddc1ec24&loc=eyJsIjoiQXJjb3plbG8iLCJyIjoiUG9ydG8iLCJyMiI6IlZpbGEgTm92YSBkZSBHYWlhIiwiYyI6IlBvcnR1Z2FsIiwiaSI6IlBUIiwiZyI6ImVuLXVzIiwieCI6Ii04LjY0OTk5OTYxODUzMDI3MyIsInkiOiI0MS4wNDk5OTkyMzcwNjA1NSJ9&weadegreetype=F",./../data/html/287.html,weather,no,no
+msn.com,288,https://www.msn.com/en-us/news/politics/robert-de-niro-stripped-of-leadership-award-following-fiery-anti-trump-speech/ar-BB1nrsxs?ocid=hpmsn&cvid=30cfcb396c7a4cfc963557a1ddc1ec24&ei=30,./../data/html/288.html,news sample,no,no
+msn.com,289,https://www.msn.com/en-us/news/technology/stephen-hawking-once-gave-a-simple-answer-as-to-whether-there-was-a-god/ar-BB1mISfM?ocid=hpmsn&cvid=30cfcb396c7a4cfc963557a1ddc1ec24&ei=10,./../data/html/289.html,news sample ,no,no
+msn.com,290,https://www.msn.com/en-us/channel/topic/Entertainment/tp-Y_414a7c40-a373-4025-b4ce-e9502e9e17ed?ocid=hpmsn&cvid=30cfcb396c7a4cfc963557a1ddc1ec24&ei=24,./../data/html/290.html,category sample,no,no
+msn.com,291,https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=d7b530a4-7680-4c23-a8bf-c52c121d2e87&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fwww.msn.com%2Fstaticsb%2Fstatics%2Flatest%2F0%2Fauth%2Fauth-redirect.html&client-request-id=6aca68e9-0b78-493a-8980-db1ff458b4ff&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.18.0&x-client-OS=&x-client-CPU=&client_info=1&code_challenge=KS53a9zWaBZo4lFuxavwAnNvJ4gFlyJ1e_5lFvoQXe0&code_challenge_method=S256&prompt=select_account&nonce=6b4b6348-c6c2-455c-abf4-161bc829ff77&state=eyJpZCI6IjcwMGYwNWI5LWQ2ZjEtNDgxZC04ZTA0LTVkY2FkNjU3N2VmYiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C%257B%2522appType%2522%253A%2522views%2522%252C%2522authRedirJsVer%2522%253A%25222.16%2522%252C%2522buildVersion%2522%253A%252220240530.614%2522%252C%2522msalJsVer%2522%253A%25222.18.0%2522%252C%2522returnUrl%2522%253A%2522https%253A%252F%252Fwww.msn.com%252Fen-us%252Fchannel%252Ftopic%252FEntertainment%252Ftp-Y_414a7c40-a373-4025-b4ce-e9502e9e17ed%253Focid%253Dhpmsn%2526cvid%253D30cfcb396c7a4cfc963557a1ddc1ec24%2526ei%253D24%2522%257D&edge_suppress_profile_switch=1,./../data/html/291.html,sign in,no,no
+msn.com,292,https://account.microsoft.com/?ref=MeControl&refd=www.msn.com?uaid=c242e5256ba657a3d46e7f85f46dc9c1&res=phone_cancelled&status=cancelled&ru=https%3A%2F%2Faccount.microsoft.com%2F%3Fref%3DMeControl%26refd%3Dwww.msn.com&cv=JAVKmwqIyUSNEhls.10.50&mkt=en-US&origin=AMC_Home&launchMethod=autoLaunch&renderMode=undefined,./../data/html/292.html,my account,yes,yes
+msn.com,293,https://account.microsoft.com/profile?lang=en-US#main-content-landing-react,./../data/html/293.html,profile,yes,yes
+msn.com,294,https://account.microsoft.com/security?lang=en-US#main-content-landing-react,./../data/html/294.html,security definitions,yes,yes
+msn.com,295,https://account.microsoft.com/devices?lang=en-US#main-content-landing-react,./../data/html/295.html,my devices,yes,yes
+msn.com,296,https://account.microsoft.com/billing/payments?lang=en-US#main-content-landing-react,./../data/html/296.html,payments,yes,yes
+nytimes.com,297,https://www.nytimes.com,./../data/html/297.html,homepage,no,no
+nytimes.com,298,https://nytlicensing.com,./../data/html/298.html,licencing,no,no
+nytimes.com,299,https://store.nytimes.com,./../data/html/299.html,store,no,no
+nytimes.com,300,https://www.nytimes.com/section/business,./../data/html/300.html,category sample ,no,no
+nytimes.com,301,https://www.nytimes.com/search?query=formula+1,./../data/html/301.html,search result,no,no
+nytimes.com,302,https://www.nytimes.com/2023/07/28/sports/autoracing/formula-1-owners-investments.html?searchResultPosition=1,./../data/html/302.html,news sample not logged in ,no,no
+nytimes.com,303,https://www.nytimes.com/2023/07/28/sports/autoracing/formula-1-owners-investments.html?searchResultPosition=1,./../data/html/303.html,news sample logged in,no,no
+nytimes.com,304,https://www.nytimes.com/saved,./../data/html/304.html,my list to read later,yes,yes
+nytimes.com,305,https://www.nytimes.com/account?source=vi.mum,./../data/html/305.html,my account information,yes,yes
+nytimes.com,306,https://www.nytimes.com/account/settings?source=vi.mum,./../data/html/306.html,email settings,yes,yes
+nytimes.com,307,https://help.nytimes.com/hc/en-us?referrer=masthead-user-modal,./../data/html/307.html,help center,no,no
+cnn.com,308,https://edition.cnn.com,./../data/html/308.html,homepage,no,no
+cnn.com,309,https://edition.cnn.com/business,./../data/html/309.html,category sample,no,no
+cnn.com,310,https://edition.cnn.com/interactive/2024/06/india/india-election-inequality-economy-intl-hnk-dst-cnnphotos/,./../data/html/310.html,news sample,no,no
+cnn.com,311,https://edition.cnn.com/about,./../data/html/311.html,about,no,no
+cnn.com,312,https://edition.cnn.com/profiles,./../data/html/312.html,profiles,no,no
+cnn.com,313,https://careers.wbd.com/cnnjobs,./../data/html/313.html,jobs,no,no
+cnn.com,314,https://edition.cnn.com,./../data/html/314.html,search,no,no
+cnn.com,315,https://edition.cnn.com/search?q=formula+1&from=0&size=10&page=1&sort=newest&types=all&section=,./../data/html/315.html,search result,no,no
+cnn.com,316,https://edition.cnn.com/account/log-in,./../data/html/316.html,sign in,no,no
+cnn.com,317,https://edition.cnn.com/account/settings,./../data/html/317.html,account settings,yes,yes
+cnn.com,318,https://edition.cnn.com/newsletters,./../data/html/318.html,newsletters,yes,yes
+bbc.co.uk,319,https://www.bbc.com,./../data/html/319.html,homepage,no,no
+bbc.co.uk,320,https://www.bbc.com/news/articles/clee3445w0lo,./../data/html/320.html,article sample,no,no
+bbc.co.uk,321,https://www.bbc.com/sport,./../data/html/321.html,category sample,no,no
+bbc.co.uk,322,https://www.bbc.co.uk/aboutthebbc,./../data/html/322.html,about,no,no
+bbc.co.uk,323,https://www.bbc.co.uk/usingthebbc/terms,./../data/html/323.html,terms and conditions,no,no
+bbc.co.uk,324,https://www.bbc.com/search?q=formula%201&edgeauth=eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJrZXkiOiAiZmFzdGx5LXVyaS10b2tlbi0xIiwiZXhwIjogMTcxNzMyNDk4NSwibmJmIjogMTcxNzMyNDYyNSwicmVxdWVzdHVyaSI6ICIlMkZzZWFyY2glM0ZxJTNEZm9ybXVsYSUyNTIwMSJ9.A7dFCoW7-hTZp7hboV6hp0ZD9GarDLzw_9eJax3rzsc,./../data/html/324.html,search results,no,no
+bbc.co.uk,325,https://account.bbc.com/auth?realm=%2F&clientId=Account&ptrt=https%3A%2F%2Fwww.bbc.com%2Fsearch%3Fq%3Dformula%25201%26edgeauth%3DeyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJrZXkiOiAiZmFzdGx5LXVyaS10b2tlbi0xIiwiZXhwIjogMTcxNzMyNDk4NSwibmJmIjogMTcxNzMyNDYyNSwicmVxdWVzdHVyaSI6ICIlMkZzZWFyY2glM0ZxJTNEZm9ybXVsYSUyNTIwMSJ9.A7dFCoW7-hTZp7hboV6hp0ZD9GarDLzw_9eJax3rzsc&userOrigin=BBCS_BBC&isCasso=false&action=sign-in&redirectUri=https%3A%2F%2Fsession.bbc.com%2Fsession%2Fcallback%3Frealm%3D%2F&service=IdSignInService&nonce=vOhyh4iG-ad7UDQgtFsZbROJWB0YjetgKFVE,./../data/html/325.html,sign in,no,no
+bbc.co.uk,326,https://account.bbc.com/account?ptrt=https%3A%2F%2Fwww.bbc.com%2F&userOrigin=BBCS_BBC,./../data/html/326.html,my account,yes,no
+bbc.co.uk,327,https://account.bbc.com/account/settings,./../data/html/327.html,settings,no,yes
+bbc.co.uk,328,https://account.bbc.com/account/settings/email-preferences,./../data/html/328.html,my email preferences,yes,yes
+linktr.ee,329,https://linktr.ee,./../data/html_raw/329.html,homepage,no,no
+linktr.ee,330,https://linktr.ee/marketplace,./../data/html_raw/330.html,marketplace,no,no
+linktr.ee,331,https://linktr.ee/s/pricing/,./../data/html_raw/331.html,pricing,no,no
+linktr.ee,332,https://linktr.ee/blog/,./../data/html_raw/332.html,blog,no,no
+linktr.ee,333,https://linktr.ee/s/about/,./../data/html_raw/333.html,about,no,no
+linktr.ee,334,https://linktr.ee/s/about/press/,./../data/html_raw/334.html,press,no,no
+linktr.ee,335,https://linktr.ee/s/about/careers/,./../data/html_raw/335.html,careers,no,no
+linktr.ee,336,https://auth.linktr.ee/login?state=hKFo2SBuN1ZWVGo5ZHJjR21EYzlUTmVnZEE3YmJ4VUJrN3NFVKFupWxvZ2luo3RpZNkgWUxGdkZiU3VhMDhEZHZvbVNYdGNudnpQQ3BUMTVub1-jY2lk2SBYYTl5SUJRSWh0ZTA2SVp4c1VQbFo1OE5xUGNETnk0Zg&client=Xa9yIBQIhte06IZxsUPlZ58NqPcDNy4f&protocol=oauth2&auth0Client=eyJuYW1lIjoiSFdJT0F1dGhCdW5kbGUiLCJ2ZXJzaW9uIjoidW5rbm93biIsImVudmlyb25tZW50Ijp7Im5hbWUiOiJQSFAiLCJ2ZXJzaW9uIjoiOC4xLjI2In19&response_type=code&scope=openid%20profile%20email%20username%20offline_access%20read%3Aauthenticators%20&redirect_uri=https%3A%2F%2Flinktr.ee%2Fconnect%2Fservice%2Fauth0&audience=https%3A%2F%2Flinktr.ee%2Fapi#/,./../data/html_raw/336.html,sign in ,no,no
+linktr.ee,337,https://linktr.ee/admin,./../data/html_raw/337.html,administration area,yes,yes
+linktr.ee,338,https://linktr.ee/admin/appearance,./../data/html_raw/338.html,appearence,yes,yes
+linktr.ee,339,https://linktr.ee/admin/analytics,./../data/html_raw/339.html,analitics,yes,yes
+linktr.ee,340,https://linktr.ee/admin/settings#Settings--SocialLinks,./../data/html_raw/340.html,settings,yes,yes
+linktr.ee,341,https://linktr.ee/admin/account,./../data/html_raw/341.html,account,yes,yes
+shein.com,342,https://www.shein.com/?is_manual_change_site=0&is_from_origin_btn=0&ref=pt&ret=www&from_country=pt,./../data/html_raw/342.html,homepage,no,no
+shein.com,343,https://www.shein.com/SHEIN-EZwear-Plus-Size-High-Waist-Pocketed-Cargo-Pants-p-27442904.html?src_module=All&src_identifier=on=PRODUCT_ITEMS_COMPONENT`cn=infoflow`hz=0`ps=12_0`jc=real_4436&src_tab_page_id=page_home1717336949705&mallCode=1&imgRatio=3-4,./../data/html_raw/343.html,product sample,no,no
+shein.com,344,https://www.sheingroup.com/careers/,./../data/html_raw/344.html,careers,no,no
+shein.com,345,https://www.shein.com/About-Us-a-117.html,./../data/html_raw/345.html,about us,no,no
+shein.com,346,https://www.shein.com/contact-us.html,./../data/html_raw/346.html,contact us,no,no
+shein.com,347,https://www.shein.com/user/auth/login?direction=nav,./../data/html_raw/347.html,sign in ,no,no
+shein.com,348,https://www.shein.com/user/index,./../data/html_raw/348.html,user index,yes,yes
+shein.com,349,https://www.shein.com/user/message,./../data/html_raw/349.html,my messages,yes,yes
+shein.com,350,https://www.shein.com/user/account_setting,./../data/html_raw/350.html,my profile,yes,yes
+shein.com,351,https://www.shein.com/user/wishlist?activeTab=1,./../data/html_raw/351.html,my wishlist,yes,yes
+shein.com,352,https://www.shein.com/cart,./../data/html_raw/352.html,my cart,yes,yes
+nike.com,353,https://www.nike.com/pt/en/,./../data/html_raw/353.html,homepage,no,no
+nike.com,354,https://www.nike.com/pt/en/retail/,./../data/html_raw/354.html,find a store,no,no
+nike.com,355,https://about.nike.com/en/newsroom,./../data/html_raw/355.html,news,no,no
+nike.com,356,https://about.nike.com/en,./../data/html_raw/356.html,about,no,no
+nike.com,357,https://jobs.nike.com,./../data/html_raw/357.html,jobs,no,no
+nike.com,358,https://www.nike.com/pt/en/women,./../data/html_raw/358.html,category sample,no,no
+nike.com,359,https://www.nike.com/pt/en/t/v2k-run-shoes-dkXfnV/FD0736-101,./../data/html_raw/359.html,product sample,no,no
+nike.com,360,https://accounts.nike.com/lookup?client_id=4fd2d5e7db76e0f85a6bb56721bd51df&redirect_uri=https://www.nike.com/auth/login&response_type=code&scope=openid%20nike.digital%20profile%20email%20phone%20flow%20country&state=a267cd5cd3de4e9e9a3e1dd919312e11&code_challenge=02TFdAeyIRxuMZtsM-fiqLp1s1zu9IPb-LTRkZL_aDQ&code_challenge_method=S256,./../data/html_raw/360.html,sign in,no,no
+nike.com,361,https://www.nike.com/pt/en/favorites,./../data/html_raw/361.html,favourites,yes,yes
+nike.com,362,https://www.nike.com/pt/en/cart,./../data/html_raw/362.html,bag,yes,yes
+macys.com,363,https://www.macys.com,./../data/html_raw/363.html,homepage,no,no
+macys.com,364,https://www.macys.com/shop/mens-clothing?id=1,./../data/html_raw/364.html,category sample,no,no
+macys.com,365,https://www.macys.com/shop/mens-clothing/sale-clearance?id=214951&cm_sp=c2_1111INT_catsplash_men-_-row4-_-im_suits-%26-suit-separates&edge=hybrid,./../data/html_raw/365.html,search results,no,no
+macys.com,366,https://www.macys.com/shop/product/michael-kors-mens-classic-fit-stretch-solid-blazers?ID=10671754,./../data/html_raw/366.html,product sample,no,no
+macys.com,367,https://www.macys.com/stores/,./../data/html_raw/367.html,find a store,no,no
+macys.com,368,https://customerservice-macys.com,./../data/html_raw/368.html,costumer service,no,no
+macys.com,369,https://www.macysinc.com/company/about/,./../data/html_raw/369.html,about,no,no
+macys.com,370,https://www.macys.com/account/signin,./../data/html_raw/370.html,sign in,no,no
+macys.com,371,https://www.macys.com/shop/sale?id=3536&tagid=1060202_02_01&ctype=G,./../data/html_raw/371.html,home page logged in ,no,yes
+macys.com,372,https://www.macys.com/wishlist/home?cm_sp=navigation-_-top_nav-_-lists&lid=glbtopnav_lists-us&pageSource=nav,./../data/html_raw/372.html,wishlist,yes,yes
+macys.com,373,https://www.macys.com/myaccount/home?cm_sp=navigation-_-top_nav-_-my_account&lid=glbtopnav_my_account-us&lid=glbtopnav_my_account-us,./../data/html_raw/373.html,my account,yes,yes
+macys.com,374,https://www.macys.com/account/profile?cm_sp=navigation-_-top_nav-_-profile&lid=glbtopnav_profile-us,./../data/html_raw/374.html,profile,yes,yes
+macys.com,375,https://www.macys.com/my-bag?cm_sp=navigation-_-top_nav-_-bag&lid=glbtopnav_bag-us,./../data/html_raw/375.html,cart,yes,yes
+hm.com,376,https://www2.hm.com/en_gb/index.html,./../data/html_raw/376.html,homepage,no,no
+hm.com,377,https://www2.hm.com/en_gb/ladies.html,./../data/html_raw/377.html,category sample,no,no
+hm.com,378,https://www2.hm.com/en_gb/productpage.1238073001.html,./../data/html_raw/378.html,product sample,no,no
+hm.com,379,https://www2.hm.com/en_gb/customer-service.html,./../data/html_raw/379.html,costumer service,no,no
+hm.com,380,https://www2.hm.com/en_gb/customer-service/newsletter.html,./../data/html_raw/380.html,newsletter,no,no
+hm.com,381,https://www2.hm.com/en_gb/customer-service/shopping-at-hm/store-locator,./../data/html_raw/381.html,store locator,no,no
+hm.com,382,https://career.hm.com/gb-en/,./../data/html_raw/382.html,careers,no,no
+hm.com,383,https://hmgroup.com/about-us/,./../data/html_raw/383.html,about us,no,no
+hm.com,384,https://www2.hm.com/en_gb/account,./../data/html_raw/384.html,my account,yes,yes
+hm.com,385,https://www2.hm.com/en_gb/account/points-history,./../data/html_raw/385.html,client points,yes,yes
+hm.com,386,https://www2.hm.com/en_gb/account/purchases,./../data/html_raw/386.html,my purchases,yes,yes
+hm.com,387,https://www2.hm.com/en_gb/favourites,./../data/html_raw/387.html,my bag,yes,yes
+hm.com,388,https://www2.hm.com/en_gb/cart,./../data/html_raw/388.html,my bag,yes,yes
+gap.com,389,https://www.gap.com,./../data/html_raw/389.html,homepafe,no,no
+gap.com,390,https://www.gap.com/browse/search.do?searchText=tshirt,./../data/html_raw/390.html,search results,no,no
+gap.com,391,"https://www.gap.com/browse/division.do?cid=5643&mlink=39813,30012485,Megnav_Women&nav=meganav%3AWomen%3A%3A",./../data/html_raw/391.html,category sample,no,no
+gap.com,392,"https://www.gap.com/browse/category.do?cid=5664#pageId=0&department=136&legShape=3049,2034&mlink=5664,W_JEANS_EBB_LOOSE+WIDE",./../data/html_raw/392.html,category detail,no,no
+gap.com,393,https://www.gap.com/browse/product.do?pid=404409002&cid=5664&pcid=5664&vid=1&cpos=21&kcid=CategoryIDs%3D5664&ctype=Listing&cpid=res638529410488303651#pdp-page-content,./../data/html_raw/393.html,product sample,no,no
+gap.com,394,https://www.gapinc.com/en-us/careers/gap-careers,./../data/html_raw/394.html,careers,no,no
+gap.com,395,https://www.gapinc.com/en-us/about,./../data/html_raw/395.html,about,no,no
+gap.com,396,https://www.gap.com/customer-service/accessible-customer-service-policy?cid=1005563,./../data/html_raw/396.html,costumer service,no,no
+gap.com,397,https://secure-www.gap.com/my-account/sign-in,./../data/html_raw/397.html,sign in ,no,no
+gap.com,398,https://secure-www.gap.com/my-account/gap-cards,./../data/html_raw/398.html,credit cards,yes,yes
+gap.com,399,https://secure-www.gap.com/my-account/home?login=success,./../data/html_raw/399.html,my account,yes,yes
+gap.com,400,https://secure-www.gap.com/my-account/name-and-email,./../data/html_raw/400.html,personal information ,yes,yes
+gap.com,401,https://secure-www.gap.com/my-account/shipping-addresses,./../data/html_raw/401.html,shopping address,yes,yes
+gap.com,402,https://secure-www.gap.com/my-account/gift-cards-balance,./../data/html_raw/402.html,gift cards balance,yes,yes
+gap.com,403,https://secure-www.gap.com/my-account/order-history,./../data/html_raw/403.html,order history,yes,yes
+uniqlo.com,404,https://www.uniqlo.com/eu/en/home?customCountryFlag=PT,./../data/html_raw/404.html,homepage,no,no
+uniqlo.com,405,https://www.uniqlo.com/eu/en_PT/women,./../data/html_raw/405.html,category,no,no
+uniqlo.com,406,https://www.uniqlo.com/eu/en_PT/women/tops/dresses-jumpsuits,./../data/html_raw/406.html,category sample,no,no
+uniqlo.com,407,https://www.uniqlo.com/eu/en_PT/product/linen-blend-square-neck-short-sleeved-dress-464771.html?dwvar_464771_color=COL67,./../data/html_raw/407.html,product sample,no,no
+uniqlo.com,408,https://faq-eu.uniqlo.com,./../data/html_raw/408.html,faq,no,no
+uniqlo.com,409,https://www.uniqlo.com/eu/en_PT/content/store-locator.html,./../data/html_raw/409.html,find a store,no,no
+uniqlo.com,410,https://www.fastretailing.com/employment/en/,./../data/html_raw/410.html,jobs,no,no
+uniqlo.com,411,https://www.uniqlo.com/eu/en_PT/account,./../data/html_raw/411.html,my account,yes,yes
+uniqlo.com,412,https://www.uniqlo.com/eu/en_PT/orders,./../data/html_raw/412.html,orders,no,no
+uniqlo.com,413,https://www.uniqlo.com/eu/en_PT/wishlist,./../data/html_raw/413.html,wishlist,yes,yes
+uniqlo.com,414,https://www.uniqlo.com/eu/en_PT/addresses,./../data/html_raw/414.html,my address,yes,yes
+uniqlo.com,415,https://www.uniqlo.com/eu/en_PT/details,./../data/html_raw/415.html,profile details,yes,yes
+uniqlo.com,416,https://www.uniqlo.com/eu/en_PT/newslettersubscription,./../data/html_raw/416.html,newsletter,yes,yes
+sephora.com,417,https://www.sephora.com,./../data/html_raw/417.html,homepage,no,no
+sephora.com,418,https://www.sephora.com/shop/makeup-cosmetics,./../data/html_raw/418.html,category sample,no,no
+sephora.com,419,https://www.sephora.com/product/summer-fridays-lip-butter-balm-P455936?skuId=2495497&icid2=products%20grid:p455936:product,./../data/html_raw/419.html,product sample,no,no
+sephora.com,420,https://www.sephora.com/beauty/billing,./../data/html_raw/420.html,billing,no,no
+sephora.com,421,https://www.inside-sephora.com/en/usa/join-us?market=7,./../data/html_raw/421.html,jobs,no,no
+sephora.com,422,https://www.sephora.com/profile/BeautyInsider,./../data/html_raw/422.html,profile,yes,yes
+sephora.com,423,https://www.sephora.com/purchase-history,./../data/html_raw/423.html,purchase history,yes,yes
+sephora.com,424,https://www.sephora.com/profile/MyAccount/Orders,./../data/html_raw/424.html,my orders,yes,yes
+sephora.com,425,https://www.sephora.com/shopping-list,./../data/html_raw/425.html,wishlist,yes,yes
+sephora.com,426,https://www.sephora.com/profile/MyAccount,./../data/html_raw/426.html,profile details,yes,yes
+wikipedia.org,427,https://www.wikipedia.org,./../data/html_raw/427.html,homepage,no,no
+wikipedia.org,428,https://en.wikipedia.org/wiki/Main_Page,./../data/html_raw/428.html,english main page,no,no
+wikipedia.org,429,https://en.wikipedia.org/wiki/Wikipedia:About,./../data/html_raw/429.html,wikipedia about,no,no
+wikipedia.org,430,https://en.wikipedia.org/wiki/Festa_della_Repubblica,./../data/html_raw/430.html,post sample,no,no
+wikipedia.org,431,https://www.wikibooks.org,./../data/html_raw/431.html,wikibooks,no,no
+wikipedia.org,432,https://meta.wikimedia.org/wiki/Terms_of_use,./../data/html_raw/432.html,wikimedia,no,no
+wikipedia.org,433,https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in,./../data/html_raw/433.html,sign in,no,no
+wikipedia.org,434,https://en.wikipedia.org/wiki/Special:Watchlist?hidepreviousrevisions=1&hidecategorization=1&hideWikibase=1&limit=250&days=3&urlversion=2,./../data/html_raw/434.html,my watch list,yes,yes
+wikipedia.org,435,https://en.wikipedia.org/wiki/Special:Notifications,./../data/html_raw/435.html,notifications,yes,yes
+wikipedia.org,436,https://en.wikipedia.org/w/index.php?title=Special:Homepage&source=personaltoolslink&namespace=0,./../data/html_raw/436.html,profile,yes,yes
+wikipedia.org,437,https://en.wikipedia.org/wiki/User_talk:Jane-Doe-thesis,./../data/html_raw/437.html,talk page,yes,yes
+wikipedia.org,438,https://en.wikipedia.org/wiki/Special:Preferences,./../data/html_raw/438.html,preferences,yes,yes
+yahoo.com,439,https://www.yahoo.com/?guccounter=1,./../data/html_raw/439.html,homepage,no,no
+yahoo.com,440,https://search.yahoo.com/search?p=bola+vulnerability&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&ei=UTF-8&fp=1,./../data/html_raw/440.html,search result,no,no
+yahoo.com,441,https://sports.yahoo.com/wnba-upgrades-chennedy-carters-foul-145222487.html,./../data/html_raw/441.html,news sample,no,no
+yahoo.com,442,https://www.yahooinc.com/careers/,./../data/html_raw/442.html,careers,no,no
+yahoo.com,443,https://www.advertising.yahooinc.com/our-dsp,./../data/html_raw/443.html,adds info,no,no
+yahoo.com,444,https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html,./../data/html_raw/444.html,why this add,no,no
+yahoo.com,445,https://login.yahoo.com/?.lang=en-US&src=homepage&.done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D1&pspid=2023538075&activity=ybar-signin,./../data/html_raw/445.html,sign in ,no,no
+yahoo.com,446,https://login.yahoo.com/myaccount/overview/?intl=us&lang=en-US&src=homepage&activity=ybar-acctOverview&pspid=2023538075&theme=light&done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D2%26guce_referrer%3DaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tLw%26guce_referrer_sig%3DAQAAAKm3KW-Ya9QPtMNhaLKwfXjR0VHR9PcWPe408OvS63V7zQOH6dkeaPuZyWnBW4EGR-I8cP1LeTcE630Bpf5SxHaOkyCbx2ihxwh2duU46Q_rTfJ6oVakBZG59pA2SqgOeYyonOMDRJXJHDF__4B7bYv3KldwCsTPPQFwu5Q5xn3E&scrumb=.ucoPmW7pF%2F,./../data/html_raw/446.html,account overview,yes,yes
+yahoo.com,447,https://mail.yahoo.com/d/onboarding,./../data/html_raw/447.html,mail,no,no
+yahoo.com,448,https://login.yahoo.com/myaccount/personalinfo/?intl=us&lang=en-US&src=homepage&activity=ybar-acctOverview&pspid=2023538075&theme=light&done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D2%26guce_referrer%3DaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tLw%26guce_referrer_sig%3DAQAAAKm3KW-Ya9QPtMNhaLKwfXjR0VHR9PcWPe408OvS63V7zQOH6dkeaPuZyWnBW4EGR-I8cP1LeTcE630Bpf5SxHaOkyCbx2ihxwh2duU46Q_rTfJ6oVakBZG59pA2SqgOeYyonOMDRJXJHDF__4B7bYv3KldwCsTPPQFwu5Q5xn3E&scrumb=.ucoPmW7pF%2F,./../data/html_raw/448.html,personal information,yes,yes
+yahoo.com,449,https://login.yahoo.com/myaccount/security/?intl=us&lang=en-US&src=homepage&activity=ybar-acctOverview&pspid=2023538075&theme=light&done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D2%26guce_referrer%3DaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tLw%26guce_referrer_sig%3DAQAAAKm3KW-Ya9QPtMNhaLKwfXjR0VHR9PcWPe408OvS63V7zQOH6dkeaPuZyWnBW4EGR-I8cP1LeTcE630Bpf5SxHaOkyCbx2ihxwh2duU46Q_rTfJ6oVakBZG59pA2SqgOeYyonOMDRJXJHDF__4B7bYv3KldwCsTPPQFwu5Q5xn3E&scrumb=.ucoPmW7pF%2F,./../data/html_raw/449.html,security,yes,yes
+yahoo.com,450,https://login.yahoo.com/myaccount/activity/?intl=us&lang=en-US&src=homepage&activity=ybar-acctOverview&pspid=2023538075&theme=light&done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D2%26guce_referrer%3DaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tLw%26guce_referrer_sig%3DAQAAAKm3KW-Ya9QPtMNhaLKwfXjR0VHR9PcWPe408OvS63V7zQOH6dkeaPuZyWnBW4EGR-I8cP1LeTcE630Bpf5SxHaOkyCbx2ihxwh2duU46Q_rTfJ6oVakBZG59pA2SqgOeYyonOMDRJXJHDF__4B7bYv3KldwCsTPPQFwu5Q5xn3E&scrumb=.ucoPmW7pF%2F,./../data/html_raw/450.html,recent activity,yes,yes
+yahoo.com,451,https://mysubscriptions.yahoo.com/manage/subscriptions?intl=us&lang=en-US&src=homepage&activity=ybar-acctOverview&pspid=2023538075&theme=light&done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D2%26guce_referrer%3DaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tLw%26guce_referrer_sig%3DAQAAAKm3KW-Ya9QPtMNhaLKwfXjR0VHR9PcWPe408OvS63V7zQOH6dkeaPuZyWnBW4EGR-I8cP1LeTcE630Bpf5SxHaOkyCbx2ihxwh2duU46Q_rTfJ6oVakBZG59pA2SqgOeYyonOMDRJXJHDF__4B7bYv3KldwCsTPPQFwu5Q5xn3E&scrumb=.ucoPmW7pF%2F,./../data/html_raw/451.html,my subscriptions,yes,yes
+quora.com,452,https://pt.quora.com,./../data/html_raw/452.html,sign in ,no,no
+quora.com,453,https://www.quora.com/?prevent_redirect=1,./../data/html_raw/453.html,home logged in ,no,yes
+quora.com,454,https://www.quora.com/following,./../data/html_raw/454.html,following feed,yes,yes
+quora.com,455,https://www.quora.com/answer,./../data/html_raw/455.html,question answering,no,yes
+quora.com,456,https://www.quora.com/spaces,./../data/html_raw/456.html,spaces,no,yes
+quora.com,457,https://www.quora.com/notifications,./../data/html_raw/457.html,personal notifications,yes,yes
+quora.com,458,https://www.quora.com/topic/Psychology,./../data/html_raw/458.html,topic sample,no,yes
+quora.com,459,https://www.quora.com/messages,./../data/html_raw/459.html,my messages,yes,yes
+quora.com,460,https://www.quora.com/ads/create_account?source=User_Organic&medium=Dropdown_Menu,./../data/html_raw/460.html,create ad account,yes,yes
+quora.com,461,https://www.quora.com/stats,./../data/html_raw/461.html,my personal stats,yes,yes
+quora.com,462,https://www.quora.com/bookmarks,./../data/html_raw/462.html,my bookmarks,yes,yes
+quora.com,463,https://www.quora.com/drafts,./../data/html_raw/463.html,my drafts,yes,yes
+quora.com,464,https://www.quora.com/about,./../data/html_raw/464.html,about,no,no
+quora.com,465,https://www.careers.quora.com,./../data/html_raw/465.html,careers,no,no
+deepl.com,466,https://www.deepl.com/translator,./../data/html_raw/466.html,homepage,no,no
+deepl.com,467,https://www.deepl.com/en/pro-data-security,./../data/html_raw/467.html,data security,no,no
+deepl.com,468,https://www.deepl.com/en/features,./../data/html_raw/468.html,features,no,no
+deepl.com,469,https://jobs.deepl.com/?source=DeepLFooter,./../data/html_raw/469.html,jobs,no,no
+deepl.com,470,https://www.deepl.com/contact-us?cta=pageFooter,./../data/html_raw/470.html,sales,no,no
+deepl.com,471,https://www.deepl.com/en/why-deepl-pro,./../data/html_raw/471.html,pro version,no,no
+deepl.com,472,https://www.deepl.com/login,./../data/html_raw/472.html,sign in,no,no
+deepl.com,473,https://www.deepl.com/account/summary,./../data/html_raw/473.html,account details,yes,yes
+maps.google.com,474,"https://www.google.com/maps/contrib/116321292130487439038/contribute/@41.0312338,-8.6278144,14z/data=!4m3!8m2!3m1!1e1?entry=ttu",./../data/html_raw/474.html,personal contributions,no,yes
+maps.google.com,475,"https://www.google.com/maps/@41.0312338,-8.6278144,14z/data=!4m2!10m1!1e1?entry=ttu",./../data/html_raw/475.html,saved,yes,yes
+maps.google.com,476,https://timeline.google.com/maps/timeline?hl=en&authuser=0&pli=1&rapt=AEjHL4OE-5JOAykl9_4DMfJAKOZCTlYwmL4J14VBcaEwGGhuzLj0pOs_9_ipuefHkL7t_LzLW0Ep1_WXScq03RsPYu4FiOK2on1e8EBkOfOv7n6CDJxKKA8&pb,./../data/html_raw/476.html,my timeline,yes,yes
+maps.google.com,477,https://www.google.com/preferences?entry=ttu&prev=https%3A%2F%2Fwww.google.com%2Fmaps%3Fentry%3Dttu#location,./../data/html_raw/477.html,search settings,yes,yes
+maps.google.com,478,"https://www.google.com/maps/@41.0312338,-8.6278144,14z?entry=ttu",./../data/html_raw/478.html,map,no,yes
+yelp.com,479,https://www.yelp.com.au/lisboa,./../data/html_raw/479.html,homepage,no,no
+yelp.com,480,https://www.yelp.com.au/search?find_desc=Restaurants&find_loc=Lisbon%2C+Portugal,./../data/html_raw/480.html,category sample,no,no
+yelp.com,481,https://www.yelp.com.au/search?find_desc=Home+Services&find_loc=Lisbon%2C+Portugal,./../data/html_raw/481.html,category sample,no,no
+yelp.com,482,https://www.yelp.com.au/about,./../data/html_raw/482.html,about us,no,no
+yelp.com,483,https://www.yelp.careers/us/en,./../data/html_raw/483.html,careers,no,no
+yelp.com,484,https://www.yelp-support.com,./../data/html_raw/484.html,support center,no,no
+yelp.com,485,https://www.yelp.com.au/projects,./../data/html_raw/485.html,my projects,yes,yes
+yelp.com,486,https://www.yelp.com.au/writeareview,./../data/html_raw/486.html,write review,yes,yes
+yelp.com,487,https://www.yelp.com.au/user_details?userid=xKBueQjE9AwGG67XrX27yA,./../data/html_raw/487.html,profile,yes,yes
+yelp.com,488,https://www.yelp.com.au/collections/user?userid=xKBueQjE9AwGG67XrX27yA,./../data/html_raw/488.html,my collections,yes,yes
+yelp.com,489,https://www.yelp.com.au/profile,./../data/html_raw/489.html,profile editing,yes,yes
+yelp.com,490,https://www.yelp.com.au/messaging/inbox,./../data/html_raw/490.html,messages,yes,yes
+sciencedirect.com,491,https://www.sciencedirect.com,./../data/html_raw/491.html,homepage,no,no
+sciencedirect.com,492,https://service.elsevier.com/app/home/supporthub/sciencedirect/,./../data/html_raw/492.html,support center,no,no
+sciencedirect.com,493,https://www.elsevier.com/products/sciencedirect,./../data/html_raw/493.html,about,no,no
+sciencedirect.com,494,https://www.sciencedirect.com/browse/journals-and-books?subject=computer-science,./../data/html_raw/494.html,category sample,no,no
+sciencedirect.com,495,https://www.sciencedirect.com/book/9780128163917/acoustic-signals-and-hearing,./../data/html_raw/495.html,book detail,no,no
+sciencedirect.com,496,https://www.sciencedirect.com/book/9780128163917/acoustic-signals-and-hearing,./../data/html_raw/496.html,chapter detail,no,no
+sciencedirect.com,497,https://sd-cart.elsevier.com/order-history,./../data/html_raw/497.html,purchase history,yes,yes
+sciencedirect.com,498,https://id.elsevier.com/settings/redirect?code=2EYX8dG3m03iZGUsvrjBYQmGfjAB05usGUpp3_fU,./../data/html_raw/498.html,account setting,yes,yes
+sciencedirect.com,499,https://www.sciencedirect.com/user/recommendations,./../data/html_raw/499.html,my recomendations,yes,yes
+sciencedirect.com,500,https://www.sciencedirect.com/user/history/reading,./../data/html_raw/500.html,reading history,yes,yes
+wikihow.com,501,https://www.wikihow.com/Main-Page,./../data/html_raw/501.html,home page,no,no
+wikihow.com,502,https://www.wikihow.com/Quizzes,./../data/html_raw/502.html,category sample,no,no
+wikihow.com,503,https://www.wikihow.com/wikiHow:About-wikiHow,./../data/html_raw/503.html,about,no,no
+wikihow.com,504,https://www.wikihow.com/wikiHowTo?search=how+to+make+lots+of+money&Search=,./../data/html_raw/504.html,search result,no,no
+wikihow.com,505,https://www.wikihow.com/Make-a-Lot-of-Money-by-the-Age-of-20,./../data/html_raw/505.html,post sample,no,no
+wikihow.com,506,https://www.wikihow.com/wikiHow:Jobs,./../data/html_raw/506.html,jobs,no,no
+wikihow.com,507,https://www.wikihow.com/User:Jane_Doe_Authorization,./../data/html_raw/507.html,profile,yes,yes
+wikihow.com,508,https://www.wikihow.com/Special:Notifications,./../data/html_raw/508.html,notifications,yes,yes
+wikihow.com,509,https://www.wikihow.com/Special:Watchlist,./../data/html_raw/509.html,my watchlist,yes,yes
+wikihow.com,510,https://www.wikihow.com/Special:Preferences,./../data/html_raw/510.html,preferences,yes,yes
+reverso.net,511,https://www.reverso.net/text-translation,./../data/html_raw/511.html,homepage,no,no
+reverso.net,512,https://www.reverso.net/spell-checker/english-spelling-grammar/,./../data/html_raw/512.html,spell checker,no,no
+reverso.net,513,https://conjugator.reverso.net/conjugation-english.html,./../data/html_raw/513.html,conjugator,no,no
+reverso.net,514,https://www.reverso.net/contact/en?origin=5,./../data/html_raw/514.html,contact us,no,no
+reverso.net,515,https://reverso.notion.site/Reverso-FAQ-14718d23900b44ba9586e187c6d48c75,./../data/html_raw/515.html,faqs,no,no
+reverso.net,516,https://www.reverso.net/privacy.aspx?lang=EN,./../data/html_raw/516.html,privacy policy,no,no
+reverso.net,517,https://account.reverso.net/Account/Manage?origin=www.reverso.net/en&lang=,./../data/html_raw/517.html,profile,yes,yes
+reverso.net,518,https://account.reverso.net/Account/Manage/LoginSettings,./../data/html_raw/518.html,loggin settings,yes,yes
+reverso.net,519,https://www.reverso.net/history/en,./../data/html_raw/519.html,history,yes,yes

@@ -1,0 +1,2809 @@
+<html lang="en" class="no-touch"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=10,11">
+	<title>Elsevier Account Settings</title>
+	<link rel="stylesheet" href="assets/css/elsevier/IDP-globalsignin.min.css">
+	<link rel="stylesheet" href="assets/fonts/gizmo/ss-gizmo.css">
+	<link rel="shortcut icon" type="image/png" href="assets/images/elsevier/mstile-144x144.png">
+
+	
+
+
+
+	
+		
+			<!-- OneTrust Cookies Consent Notice start for id.elsevier.com -->
+		
+			<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="0822d422-b22b-4b2b-b210-5548e2c6819b"></script><style type="text/css" id="operaUserStyle"></style>
+			
+			<script type="text/javascript">
+			
+			function OptanonWrapper() { }
+			
+			</script>
+			
+			<!-- OneTrust Cookies Consent Notice end for id.elsevier.com -->
+		
+		
+	
+
+
+
+	
+		<script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-0d5cea14c095a5c54f1ebdf851292b2bcb08f2bb.js"></script><script src="https://assets.adobedtm.com/extensions/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement_Module_ActivityMap.min.js" async=""></script><script>
+var pageDataTracker = {
+    eventCookieName: 'eventTrack',
+    debugCookie: 'els-aa-debugmode',
+    debugCounter: 1,
+    warnings: [],
+    measures: {},
+    timeoffset: 0
+
+    ,trackPageLoad: function(data) {
+        if (window.pageData && ((pageData.page && pageData.page.noTracking == 'true') || window.pageData_isLoaded)) {
+            return false;
+        }
+
+        this.updatePageData(data);
+
+        this.initWarnings();
+        if(!(window.pageData && pageData.page && pageData.page.name)) {
+            console.error('pageDataTracker.trackPageLoad() called without pageData.page.name being defined!');
+            return;
+        }
+
+        this.processIdPlusData(window.pageData);
+
+        if(window.pageData && pageData.page && !pageData.page.loadTime) {
+          pageData.page.loadTime = performance ? Math.round((performance.now())).toString() : '';
+        }
+
+        if(window.pageData && pageData.page) {
+            var localTime = new Date().getTime();
+            if(pageData.page.loadTimestamp) {
+                // calculate timeoffset
+                var serverTime = parseInt(pageData.page.loadTimestamp);
+                if(!isNaN(serverTime)) {
+                    this.timeoffset = pageData.page.loadTimestamp - localTime;
+                }
+            } else {
+                pageData.page.loadTimestamp = localTime;
+            }
+        }
+
+        this.validateData(window.pageData);
+
+        try {
+            var cookieTest = 'aa-cookie-test';
+            this.setCookie(cookieTest, cookieTest);
+            if(this.getCookie(cookieTest) != cookieTest) {
+                this.warnings.push('dtm5');
+            }
+            this.deleteCookie(cookieTest);
+        } catch(e){
+            this.warnings.push('dtm5');
+        }
+
+        this.registerCallbacks();
+        this.setAnalyticsData();
+
+        // handle any cookied event data
+        this.getEvents();
+
+        window.pageData_isLoaded = true;
+
+        this.debugMessage('Init - trackPageLoad()', window.pageData);
+
+        _satellite.track('eventDispatcher', JSON.stringify({
+          eventName: 'newPage',
+          eventData: {eventName: 'newPage'},
+          pageData: window.pageData
+        }));
+    }
+
+    ,trackEvent: function(event, data, callback) {
+        if (window.pageData && pageData.page && pageData.page.noTracking == 'true') {
+            return false;
+        }
+        
+        if(!window.pageData_isLoaded) {
+            if(this.isDebugEnabled()) {
+                console.log('[AA] pageDataTracker.trackEvent() called without calling trackPageLoad() first.');
+            }
+            return false;
+        }
+
+        if (event) {
+            this.initWarnings();
+            if(event === 'newPage') {
+                // auto fillings
+                if(data && data.page && !data.page.loadTimestamp) {
+                    data.page.loadTimestamp = ''+(new Date().getTime() + this.timeoffset);
+                }
+                this.processIdPlusData(data);
+            }
+
+            window.eventData = data ? data : {};
+            window.eventData.eventName = event;
+            if(!_satellite.getVar('blacklisted')) {
+                this.handleEventData(event, data);
+    
+                if(event === 'newPage') {
+                    this.validateData(window.pageData);
+                }
+                this.debugMessage('Event: ' + event, data);
+    
+                _satellite.track('eventDispatcher', JSON.stringify({
+                  eventName: event,
+                  eventData: window.eventData,
+                  pageData: window.pageData
+                }));
+            } else {
+                this.debugMessage('!! Blocked Event: ' + event, data);
+            }
+        }
+
+        if (typeof(callback) == 'function') {
+            callback.call();
+        }
+    }
+
+    ,processIdPlusData: function(data) {
+        if(data && data.visitor && data.visitor.idPlusData) {
+            var idPlusFields = ['userId', 'accessType', 'accountId', 'accountName'];
+            for(var i=0; i < idPlusFields.length; i++) {
+                if(typeof data.visitor.idPlusData[idPlusFields[i]] !== 'undefined') {
+                    data.visitor[idPlusFields[i]] = data.visitor.idPlusData[idPlusFields[i]];
+                }
+            }
+            data.visitor.idPlusData = undefined;
+        }
+    }
+
+    ,validateData: function(data) {
+        if(!data) {
+            this.warnings.push('dv0');
+            return;
+        }
+
+        // top 5
+        if(!(data.visitor && data.visitor.accessType)) {
+            this.warnings.push('dv1');
+        }
+        if(data.visitor && (data.visitor.accountId || data.visitor.accountName)) {
+            if(!data.visitor.accountName) {
+                this.warnings.push('dv2');
+            }
+            if(!data.visitor.accountId) {
+                this.warnings.push('dv3');
+            }
+        }
+        if(!(data.page && data.page.productName)) {
+            this.warnings.push('dv4');
+        }
+        if(!(data.page && data.page.businessUnit)) {
+            this.warnings.push('dv5');
+        }
+        if(!(data.page && data.page.name)) {
+            this.warnings.push('dv6');
+        }
+
+        // rp mandatory
+        if(data.page && data.page.businessUnit && (data.page.businessUnit.toLowerCase().indexOf('els:rp:') !== -1 || data.page.businessUnit.toLowerCase().indexOf('els:rap:') !== -1)) {
+            if(!(data.page && data.page.loadTimestamp)) {
+                this.warnings.push('dv7');
+            }
+            if(!(data.page && data.page.loadTime)) {
+                this.warnings.push('dv8');
+            }
+            if(!(data.visitor && data.visitor.ipAddress)) {
+                this.warnings.push('dv9');
+            }
+            if(!(data.page && data.page.type)) {
+                this.warnings.push('dv10');
+            }
+            if(!(data.page && data.page.language)) {
+                this.warnings.push('dv11');
+            }
+        }
+
+        // other
+        if(data.page && data.page.environment) {
+            var env = data.page.environment.toLowerCase();
+            if(!(env === 'dev' || env === 'cert' || env === 'prod')) {
+                this.warnings.push('dv12');
+            }
+        }
+        if(data.content && data.content.constructor !== Array) {
+            this.warnings.push('dv13');
+        }
+
+        if(data.visitor && data.visitor.accountId && data.visitor.accountId.indexOf(':') == -1) {
+            this.warnings.push('dv14');
+            data.visitor.accountId = "data violation"
+        }
+    }
+
+    ,initWarnings: function() {
+        this.warnings = [];
+        try {
+            var hdn = document.head.childNodes;
+            var libf = false;
+            for(var i=0; i<hdn.length; i++) {
+                if(hdn[i].src && (hdn[i].src.indexOf('satelliteLib') !== -1 || hdn[i].src.indexOf('launch') !== -1)) {
+                    libf = true;
+                    break;
+                }
+            }
+            if(!libf) {
+                this.warnings.push('dtm1');
+            }
+        } catch(e) {}
+
+        try {
+            for (let element of document.querySelectorAll('*')) {
+                // Check if the element has a src attribute and if it meets the criteria
+                if (element.src && element.src.includes('assets.adobedtm.com') && element.src.includes('launch')) {
+                    if (element.tagName.toLowerCase() !== 'script') {
+                        this.warnings.push('dtm5');
+                    }
+                    if (!element.hasAttribute('async')) {
+                        this.warnings.push('dtm4');
+                    }
+                }
+            }
+        } catch (e) { }
+    }
+
+    ,getMessages: function() {
+        return ['v1'].concat(this.warnings).join('|');
+    }
+    ,addMessage: function(message) {
+        this.warnings.push(message);
+    }
+
+    ,getPerformance: function() {
+        var copy = {};
+        for (var attr in this.measures) {
+            if(this.measures.hasOwnProperty(attr)) {
+                copy[attr] = this.measures[attr];
+            }
+        }
+
+        this.measures = {};
+        return copy;
+    }
+
+    ,dtmCodeDesc: {
+        dtm1: 'satellite-lib must be placed in the <head> section',
+        dtm2: 'trackPageLoad() must be placed and called before the closing </body> tag',
+        dtm3: 'trackEvent() must be called at a stage where Document.readyState=complete (e.g. on the load event or a user event)',
+        dtm4: 'Embed codes need to be loaded in async mode',
+        dtm5: 'Embed codes not in type script',
+        dv1: 'visitor.accessType not set but mandatory',
+        dv2: 'visitor.accountName not set but mandatory',
+        dv3: 'visitor.accountId not set but mandatory',
+        dv4: 'page.productName not set but mandatory',
+        dv5: 'page.businessUnit not set but mandatory',
+        dv6: 'page.name not set but mandatory',
+        dv7: 'page.loadTimestamp not set but mandatory',
+        dv8: 'page.loadTime not set but mandatory',
+        dv9: 'visitor.ipAddress not set but mandatory',
+        dv10: 'page.type not set but mandatory',
+        dv11: 'page.language not set but mandatory',
+        dv12: 'page.environment must be set to \'prod\', \'cert\' or \'dev\'',
+        dv13: 'content must be of type array of objects',
+        dv14: 'account number must contain at least one \':\', e.g. \'ae:12345\''
+    }
+
+    ,debugMessage: function(event, data) {
+        if(this.isDebugEnabled()) {
+            console.log('[AA] --------- [' + (this.debugCounter++) + '] Web Analytics Data ---------');
+            console.log('[AA] ' + event);
+            console.groupCollapsed("[AA] AA Data: ");
+            if(window.eventData) {
+                console.log("[AA] eventData:\n" + JSON.stringify(window.eventData, true, 2));
+            }
+            if(window.pageData) {
+                console.log("[AA] pageData:\n" + JSON.stringify(window.pageData, true, 2));
+            }
+            console.groupEnd();
+            if(this.warnings.length > 0) {
+                console.groupCollapsed("[AA] Warnings ("+this.warnings.length+"): ");
+                for(var i=0; i<this.warnings.length; i++) {
+                    var error = this.dtmCodeDesc[this.warnings[i]] ? this.dtmCodeDesc[this.warnings[i]] : 'Error Code: ' + this.warnings[i];
+                    console.log('[AA] ' + error);
+                }
+                console.log('[AA] More can be found here: https://confluence.cbsels.com/display/AA/AA+Error+Catalog');
+                console.groupEnd();
+            }
+            console.log("This mode can be disabled by calling 'pageDataTracker.disableDebug()'");
+        }
+    }
+
+    ,getTrackingCode: function() {
+      var campaign = _satellite.getVar('Campaign - ID');
+      if(!campaign) {
+        campaign = window.sessionStorage ? sessionStorage.getItem('dgcid') : '';
+      }
+      return campaign;
+    }
+
+    ,isDebugEnabled: function() {
+        if(typeof this.debug === 'undefined') {
+            this.debug = (document.cookie.indexOf(this.debugCookie) !== -1) || (window.pageData && pageData.page && pageData.page.environment && pageData.page.environment.toLowerCase() === 'dev');
+            //this.debug = (document.cookie.indexOf(this.debugCookie) !== -1);
+        }
+        return this.debug;
+    }
+
+    ,enableDebug: function(expire) {
+        if (typeof expire === 'undefined') {
+            expire = 86400;
+        }
+        console.log('You just enabled debug mode for Adobe Analytics tracking. This mode will persist for 24h.');
+        console.log("This mode can be disabled by calling 'pageDataTracker.disableDebug()'");
+        this.setCookie(this.debugCookie, 'true', expire, document.location.hostname);
+        this.debug = true;
+    }
+
+    ,disableDebug: function() {
+        console.log('Debug mode is now disabled.');
+        this.deleteCookie(this.debugCookie);
+        this.debug = false;
+    }
+
+    ,setAnalyticsData: function() {
+        if(!(window.pageData && pageData.page && pageData.page.productName && pageData.page.name)) {
+            return;
+        }
+        pageData.page.analyticsPagename = pageData.page.productName + ':' + pageData.page.name;
+
+        var pageEls = pageData.page.name.indexOf(':') > -1 ? pageData.page.name.split(':') : [pageData.page.name];
+        pageData.page.sectionName = pageData.page.productName + ':' + pageEls[0];
+    }
+
+    ,getEvents: function() {
+        pageData.savedEvents = {};
+        pageData.eventList = [];
+
+        var val = this.getCookie(this.eventCookieName);
+        if (val) {
+            pageData.savedEvents = val;
+        }
+
+        this.deleteCookie(this.eventCookieName);
+    }
+
+    ,updatePageData(data) {
+        window.pageData = window.pageData || {};
+        if (data && typeof(data) === 'object') {
+            for (var x in data) {
+                if(data.hasOwnProperty(x) && data[x] instanceof Array) {
+                    pageData[x] = data[x];
+                } else if(data.hasOwnProperty(x) && typeof(data[x]) === 'object') {
+                    if(!pageData[x]) {
+                        pageData[x] = {};
+                    }
+                    for (var y in data[x]) {
+                        if(data[x].hasOwnProperty(y)) {
+                            pageData[x][y] = data[x][y];
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    ,handleEventData: function(event, data) {
+        var val;
+        switch(event) {
+            case 'newPage':
+                this.updatePageData(data);
+                this.setAnalyticsData();
+            case 'saveSearch':
+            case 'searchResultsUpdated':
+                if (data) {
+                    // overwrite page-load object
+                    if (data.search && typeof(data.search) == 'object') {
+                        window.eventData.search.resultsPosition = '';
+                        pageData.search = pageData.search || {};
+                        var fields = ['advancedCriteria', 'criteria', 'currentPage', 'dataFormCriteria', 'facets', 'resultsByType', 'resultsPerPage', 'sortType', 'totalResults', 'type', 'database',
+                        'suggestedClickPosition','suggestedLetterCount','suggestedResultCount', 'autoSuggestCategory', 'autoSuggestDetails','typedTerm','selectedTerm', 'channel',
+                        'facetOperation', 'details'];
+                        for (var i=0; i<fields.length; i++) {
+                            if (data.search[fields[i]]) {
+                                pageData.search[fields[i]] = data.search[fields[i]];
+                            }
+                        }
+                    }
+                }
+                this.setAnalyticsData();
+                break;
+            case 'navigationClick':
+                if (data && data.link) {
+                    window.eventData.navigationLink = {
+                        name: ((data.link.location || 'no location') + ':' + (data.link.name || 'no name'))
+                    };
+                }
+                break;
+            case 'autoSuggestClick':
+                if (data && data.search) {
+                    val = {
+                        autoSuggestSearchData: (
+                            'letterct:' + (data.search.suggestedLetterCount || 'none') +
+                            '|resultct:' + (data.search.suggestedResultCount || 'none') +
+                            '|clickpos:' + (data.search.suggestedClickPosition || 'none')
+                        ).toLowerCase(),
+                        autoSuggestSearchTerm: (data.search.typedTerm || ''),
+                        autoSuggestTypedTerm: (data.search.typedTerm || ''),
+                        autoSuggestSelectedTerm: (data.search.selectedTerm || ''),
+                        autoSuggestCategory: (data.search.autoSuggestCategory || ''),
+                        autoSuggestDetails: (data.search.autoSuggestDetails || '')
+                    };
+                }
+                break;
+            case 'linkOut':
+                if (data && data.content && data.content.length > 0) {
+                    window.eventData.linkOut = data.content[0].linkOut;
+                    window.eventData.referringProduct = _satellite.getVar('Page - Product Name') + ':' + data.content[0].id;
+                }
+                break;
+            case 'socialShare':
+                if (data && data.social) {
+                    window.eventData.sharePlatform = data.social.sharePlatform || '';
+                }
+                break;
+            case 'contentInteraction':
+                if (data && data.action) {
+                    window.eventData.action.name = pageData.page.productName + ':' + data.action.name;
+                }
+                break;
+            case 'searchWithinContent':
+                if (data && data.search) {
+                    window.pageData.search = window.pageData.search || {};
+                    pageData.search.withinContentCriteria = data.search.withinContentCriteria;
+                }
+                break;
+            case 'contentShare':
+                if (data && data.content) {
+                    window.eventData.sharePlatform = data.content[0].sharePlatform;
+                }
+                break;
+            case 'contentLinkClick':
+                if (data && data.link) {
+                    window.eventData.action = { name: pageData.page.productName + ':' + (data.link.type || 'no link type') + ':' + (data.link.name || 'no link name') };
+                }
+                break;
+            case 'contentWindowLoad':
+            case 'contentTabClick':
+                if (data && data.content) {
+                    window.eventData.tabName = data.content[0].tabName || '';
+                    window.eventData.windowName = data.content[0].windowName || '';
+                }
+                break;
+            case 'userProfileUpdate':
+                if (data && data.user) {
+                    if (Object.prototype.toString.call(data.user) === "[object Array]") {
+                        window.eventData.user = data.user[0];
+                    }
+                }
+                break;
+            case 'videoStart':
+                if (data.video) {
+                    data.video.length = parseFloat(data.video.length || '0');
+                    data.video.position = parseFloat(data.video.position || '0');
+                    s.Media.open(data.video.id, data.video.length, s.Media.playerName);
+                    s.Media.play(data.video.id, data.video.position);
+                }
+                break;
+            case 'videoPlay':
+                if (data.video) {
+                    data.video.position = parseFloat(data.video.position || '0');
+                    s.Media.play(data.video.id, data.video.position);
+                }
+                break;
+            case 'videoStop':
+                if (data.video) {
+                    data.video.position = parseFloat(data.video.position || '0');
+                    s.Media.stop(data.video.id, data.video.position);
+                }
+                break;
+            case 'videoComplete':
+                if (data.video) {
+                    data.video.position = parseFloat(data.video.position || '0');
+                    s.Media.stop(data.video.id, data.video.position);
+                    s.Media.close(data.video.id);
+                }
+                break;
+            case 'addWebsiteExtension':
+                if(data && data.page) {
+                    val = {
+                        wx: data.page.websiteExtension
+                    }
+                }
+                break;
+        }
+
+        if (val) {
+            this.setCookie(this.eventCookieName, val);
+        }
+    }
+
+    ,registerCallbacks: function() {
+        var self = this;
+        if(window.usabilla_live) {
+            window.usabilla_live('setEventCallback', function(category, action, label, value) {
+                if(action == 'Campaign:Open') {
+                    self.trackEvent('ctaImpression', {
+                        cta: {
+                            ids: ['usabillaid:' + label]
+                        }
+                    });
+                } else if(action == 'Campaign:Success') {
+                    self.trackEvent('ctaClick', {
+                        cta: {
+                            ids: ['usabillaid:' + label]
+                        }
+                    });
+                }
+            });
+        }
+    }
+
+    ,getConsortiumAccountId: function() {
+        var id = '';
+        if (window.pageData && pageData.visitor && (pageData.visitor.consortiumId || pageData.visitor.accountId)) {
+            id = (pageData.visitor.consortiumId || 'no consortium ID') + '|' + (pageData.visitor.accountId || 'no account ID');
+        }
+
+        return id;
+    }
+
+    ,getSearchClickPosition: function() {
+        if (window.eventData && eventData.search && eventData.search.resultsPosition) {
+            var pos = parseInt(eventData.search.resultsPosition), clickPos;
+            if (!isNaN(pos)) {
+                var page = pageData.search.currentPage ? parseInt(pageData.search.currentPage) : '', perPage = pageData.search.resultsPerPage ? parseInt(pageData.search.resultsPerPage) : '';
+                if (!isNaN(page) && !isNaN(perPage)) {
+                    clickPos = pos + ((page - 1) * perPage);
+                }
+            }
+            return clickPos ? clickPos.toString() : eventData.search.resultsPosition;
+        }
+        return '';
+    }
+
+    ,getSearchFacets: function() {
+        var facetList = '';
+        if (window.pageData && pageData.search && pageData.search.facets) {
+            if (typeof(pageData.search.facets) == 'object') {
+                for (var i=0; i<pageData.search.facets.length; i++) {
+                    var f = pageData.search.facets[i];
+                    facetList += (facetList ? '|' : '') + f.name + '=' + f.values.join('^');
+                }
+            }
+        }
+        return facetList;
+    }
+
+    ,getSearchResultsByType: function() {
+        var resultTypes = '';
+        if (window.pageData && pageData.search && pageData.search.resultsByType) {
+            for (var i=0; i<pageData.search.resultsByType.length; i++) {
+                var r = pageData.search.resultsByType[i];
+                resultTypes += (resultTypes ? '|' : '') + r.name + (r.results || r.values ? '=' + (r.results || r.values) : '');
+            }
+        }
+        return resultTypes;
+    }
+
+    ,getJournalInfo: function() {
+        var info = '';
+        if (window.pageData && pageData.journal && (pageData.journal.name || pageData.journal.specialty || pageData.journal.section || pageData.journal.issn || pageData.journal.issueNumber || pageData.journal.volumeNumber || pageData.journal.family || pageData.journal.publisher)) {
+            var journal = pageData.journal;
+            info = (journal.name || 'no name') 
+            + '|' + (journal.specialty || 'no specialty') 
+            + '|' + (journal.section || 'no section') 
+            + '|' + (journal.issn || 'no issn') 
+            + '|' + (journal.issueNumber || 'no issue #') 
+            + '|' + (journal.volumeNumber || 'no volume #')
+            + '|' + (journal.family || 'no family')
+            + '|' + (journal.publisher || 'no publisher');
+
+        }
+        return info;
+    }
+
+    ,getBibliographicInfo: function(doc) {
+        if (!doc || !(doc.publisher || doc.indexTerms || doc.publicationType || doc.publicationRights || doc.volumeNumber || doc.issueNumber || doc.subjectAreas || doc.isbn)) {
+            return '';
+        }
+
+        var terms = doc.indexTerms ? doc.indexTerms.split('+') : '';
+        if (terms) {
+            terms = terms.slice(0, 5).join('+');
+            terms = terms.length > 100 ? terms.substring(0, 100) : terms;
+        }
+
+        var areas = doc.subjectAreas ? doc.subjectAreas.split('>') : '';
+        if (areas) {
+            areas = areas.slice(0, 5).join('>');
+            areas = areas.length > 100 ? areas.substring(0, 100) : areas;
+        }
+
+        var biblio	= (doc.publisher || 'none')
+            + '^' + (doc.publicationType || 'none')
+            + '^' + (doc.publicationRights || 'none')
+            + '^' + (terms || 'none')
+            + '^' + (doc.volumeNumber || 'none')
+            + '^' + (doc.issueNumber || 'none')
+            + '^' + (areas || 'none')
+            + '^' + (doc.isbn || 'none');
+
+        return this.stripProductDelimiters(biblio).toLowerCase();
+    }
+
+    ,getContentItem: function() {
+        var docs = window.eventData && eventData.content ? eventData.content : pageData.content;
+        if (docs && docs.length > 0) {
+            return docs[0];
+        }
+    }
+
+    ,getFormattedDate: function(ts) {
+        if (!ts) {
+            return '';
+        }
+
+        var d = new Date(parseInt(ts) * 1000);
+
+        // now do formatting
+        var year = d.getFullYear()
+            ,month = ((d.getMonth() + 1) < 10 ? '0' : '') + (d.getMonth() + 1)
+            ,date = (d.getDate() < 10 ? '0' : '') + d.getDate()
+            ,hours = d.getHours() > 12 ? d.getHours() - 12 : d.getHours()
+            ,mins = (d.getMinutes() < 10 ? '0' : '') + d.getMinutes()
+            ,ampm = d.getHours() > 12 ? 'pm' : 'am';
+
+        hours = (hours < 10 ? '0' : '') + hours;
+        return year + '-' + month + '-' + date;
+    }
+
+    ,getVisitorId: function() {
+        var orgId = '4D6368F454EC41940A4C98A6@AdobeOrg';
+        if(Visitor && Visitor.getInstance(orgId)) {
+            return Visitor.getInstance(orgId).getMarketingCloudVisitorID();
+        } else {
+            return ''
+        }
+    }
+
+    ,setProductsVariable: function() {
+        var prodList = window.eventData && eventData.content ? eventData.content : pageData.content
+            ,prods = [];
+        if (prodList) {
+            for (var i=0; i<prodList.length; i++) {
+                if (prodList[i].id || prodList[i].type || prodList[i].publishDate || prodList[i].onlineDate) {
+                    if (!prodList[i].id) {
+                        prodList[i].id = 'no id';
+                    }
+                    var prodName = (pageData.page.productName || 'xx').toLowerCase();
+                    if (prodList[i].id.indexOf(prodName + ':') != 0) {
+                        prodList[i].id = prodName + ':' + prodList[i].id;
+                    }
+                    prodList[i].id = this.stripProductDelimiters(prodList[i].id);
+                    var merch = [];
+                    if (prodList[i].format) {
+                        merch.push('evar17=' + this.stripProductDelimiters(prodList[i].format.toLowerCase()));
+                    }
+                    if (prodList[i].type) {
+                        var type = prodList[i].type;
+                        if (prodList[i].accessType) {
+                            type += ':' + prodList[i].accessType;
+                        }
+                        merch.push('evar20=' + this.stripProductDelimiters(type.toLowerCase()));
+
+                        if(type.indexOf(':manuscript') > 0) {
+                            /*
+                            var regex = /[a-z]+:manuscript:id:([a-z]+-[a-z]-[0-9]+-[0-9]+)/gmi;
+                            var m = regex.exec(prodList[i].id);
+                            if(m) {
+                                merch.push('evar200=' + m[1]);
+                            }
+                            merch.push('evar200=' + prodList[i].id);
+                            */
+                            a = prodList[i].id.lastIndexOf(':');
+                            if(a>0) {
+                                merch.push('evar200=' + prodList[i].id.substring(a+1).toUpperCase());
+                            }
+                        } else if(type.indexOf(':submission') > 0) {
+                            merch.push('evar200=' + prodList[i].id);
+                        }
+                    }
+                    if(!prodList[i].title) {
+                        prodList[i].title = prodList[i].name;
+                    }
+                    if (prodList[i].title) {
+                        merch.push('evar75=' + this.stripProductDelimiters(prodList[i].title.toLowerCase()));
+                    }
+                    if (prodList[i].breadcrumb) {
+                        merch.push('evar63=' + this.stripProductDelimiters(prodList[i].breadcrumb).toLowerCase());
+                    }
+                    var nowTs = new Date().getTime()/1000;
+                    if (prodList[i].onlineDate && !isNaN(prodList[i].onlineDate)) {
+                        if(prodList[i].onlineDate > 32503680000) {
+                            prodList[i].onlineDate = prodList[i].onlineDate/1000;
+                        }
+                        merch.push('evar122=' + this.stripProductDelimiters(pageDataTracker.getFormattedDate(prodList[i].onlineDate)));
+                        var onlineAge = Math.floor((nowTs - prodList[i].onlineDate) / 86400);
+                        onlineAge = (onlineAge === 0) ? 'zero' : onlineAge;
+                        merch.push('evar128=' + onlineAge);
+                    }
+                    if (prodList[i].publishDate && !isNaN(prodList[i].publishDate)) {
+                        if(prodList[i].publishDate > 32503680000) {
+                            prodList[i].publishDate = prodList[i].publishDate/1000;
+                        }
+                        merch.push('evar123=' + this.stripProductDelimiters(pageDataTracker.getFormattedDate(prodList[i].publishDate)));
+                        var publishAge = Math.floor((nowTs - prodList[i].publishDate) / 86400);
+                        publishAge = (publishAge === 0) ? 'zero' : publishAge;
+                        merch.push('evar127=' + publishAge);
+                    }
+                    if (prodList[i].onlineDate && prodList[i].publishDate) {
+                        merch.push('evar38=' + this.stripProductDelimiters(pageDataTracker.getFormattedDate(prodList[i].onlineDate) + '^' + pageDataTracker.getFormattedDate(prodList[i].publishDate)));
+                    }
+                    if (prodList[i].mapId) {
+                        merch.push('evar70=' + this.stripProductDelimiters(prodList[i].mapId));
+                    }
+					if (prodList[i].relevancyScore) {
+						merch.push('evar71=' + this.stripProductDelimiters(prodList[i].relevancyScore));
+					}
+                    if (prodList[i].status) {
+                        merch.push('evar73=' + this.stripProductDelimiters(prodList[i].status));
+                    }
+                    if (prodList[i].previousStatus) {
+                        merch.push('evar111=' + this.stripProductDelimiters(prodList[i].previousStatus));
+                    }
+                    if (prodList[i].entitlementType) {
+                        merch.push('evar80=' + this.stripProductDelimiters(prodList[i].entitlementType));
+                    }
+                    if (prodList[i].recordType) {
+                        merch.push('evar93=' + this.stripProductDelimiters(prodList[i].recordType));
+                    }
+                    if (prodList[i].exportType) {
+                        merch.push('evar99=' + this.stripProductDelimiters(prodList[i].exportType));
+                    }
+                    if (prodList[i].importType) {
+                        merch.push('evar142=' + this.stripProductDelimiters(prodList[i].importType));
+                    }
+                    if (prodList[i].section) {
+                        merch.push('evar100=' + this.stripProductDelimiters(prodList[i].section));
+                    }
+                    if (prodList[i].detail) {
+                        merch.push('evar104=' + this.stripProductDelimiters(prodList[i].detail.toLowerCase()));
+                    } else if(prodList[i].details) {
+                        merch.push('evar104=' + this.stripProductDelimiters(prodList[i].details.toLowerCase()));
+                    }
+                    if (prodList[i].position) {
+                        merch.push('evar116=' + this.stripProductDelimiters(prodList[i].position));
+                    }
+                    if (prodList[i].publicationTitle) {
+                        merch.push('evar129=' + this.stripProductDelimiters(prodList[i].publicationTitle));
+                    }
+                    if (prodList[i].specialIssueTitle) {
+                        merch.push('evar130=' + this.stripProductDelimiters(prodList[i].specialIssueTitle));
+                    }
+                    if (prodList[i].specialIssueNumber) {
+                        merch.push('evar131=' + this.stripProductDelimiters(prodList[i].specialIssueNumber));
+                    }
+                    if (prodList[i].referenceModuleTitle) {
+                        merch.push('evar139=' + this.stripProductDelimiters(prodList[i].referenceModuleTitle));
+                    }
+                    if (prodList[i].referenceModuleISBN) {
+                        merch.push('evar140=' + this.stripProductDelimiters(prodList[i].referenceModuleISBN));
+                    }
+                    if (prodList[i].volumeTitle) {
+                        merch.push('evar132=' + this.stripProductDelimiters(prodList[i].volumeTitle));
+                    }
+                    if (prodList[i].publicationSection) {
+                        merch.push('evar133=' + this.stripProductDelimiters(prodList[i].publicationSection));
+                    }
+                    if (prodList[i].publicationSpecialty) {
+                        merch.push('evar134=' + this.stripProductDelimiters(prodList[i].publicationSpecialty));
+                    }
+                    if (prodList[i].issn) {
+                        merch.push('evar135=' + this.stripProductDelimiters(prodList[i].issn));
+                    }
+                    if (prodList[i].id2) {
+                        merch.push('evar159=' + this.stripProductDelimiters(prodList[i].id2));
+                    }
+                    if (prodList[i].id3) {
+                        merch.push('evar160=' + this.stripProductDelimiters(prodList[i].id3));
+                    }
+                    if (prodList[i].provider) {
+                        merch.push('evar164=' + this.stripProductDelimiters(prodList[i].provider));
+                    }
+                    if (prodList[i].citationStyle) {
+                        merch.push('evar170=' + this.stripProductDelimiters(prodList[i].citationStyle));
+                    }
+
+                    var biblio = this.getBibliographicInfo(prodList[i]);
+                    if (biblio) {
+                        merch.push('evar28=' + biblio);
+                    }
+
+                    if (prodList[i].turnawayId) {
+                        pageData.eventList.push('product turnaway');
+                    }
+
+                    var price = prodList[i].price || '', qty = prodList[i].quantity || '', evts = [];
+                    if (price && qty) {
+                        qty = parseInt(qty || '1');
+                        price = parseFloat(price || '0');
+                        price = (price * qty).toFixed(2);
+
+                        if (window.eventData && eventData.eventName && eventData.eventName == 'cartAdd') {
+                            evts.push('event20=' + price);
+                        }
+                    }
+
+                    var type = window.pageData && pageData.page && pageData.page.type ? pageData.page.type : '', evt = window.eventData && eventData.eventName ? eventData.eventName : '';
+                    if (type.match(/^CP\-/gi) !== null && (!evt || evt == 'newPage' || evt == 'contentView')) {
+                        evts.push('event181=1');
+                    }
+                    if (evt == 'contentDownload' || type.match(/^CP\-DL/gi) !== null) {
+                        evts.push('event182=1');
+                    }
+                    if (evt == 'contentDownloadRequest') {
+                        evts.push('event319=1');
+                    }
+                    if (evt == 'contentExport') {
+                        evts.push('event184=1');
+                    }
+                    if (this.eventFires('recommendationViews')) {
+                        evts.push('event264=1');
+                    }
+
+                    if(prodList[i].datapoints) {
+                        evts.push('event239=' + prodList[i].datapoints);
+                    }
+                    if(prodList[i].documents) {
+                        evts.push('event240=' + prodList[i].documents);
+                    }
+                    if(prodList[i].size) {
+                        evts.push('event335=' + prodList[i].size);
+                        evts.push('event336=1')
+                    }
+
+                    prods.push([
+                        ''					// empty category
+                        ,prodList[i].id		// id
+                        ,qty				// qty
+                        ,price				// price
+                        ,evts.join('|')		// events
+                        ,merch.join('|')	// merchandising eVars
+                    ].join(';'));
+                }
+            }
+        }
+
+        return prods.join(',');
+    }
+    ,eventFires: function(eventName) {
+      var evt = window.eventData && eventData.eventName ? eventData.eventName : '';
+      if(evt == eventName) {
+        return true;
+      }
+      // initial pageload and new pages
+      if((!window.eventData || evt == 'newPage') && window.pageData && window.pageData.trackEvents) {
+        var tEvents = window.pageData.trackEvents;
+        for(var i=0; i<tEvents.length; i++) {
+          if(tEvents[i] == eventName) {
+            return true;
+          }
+        }
+      }
+      return false;
+    }
+
+    ,md5: function(s){function L(k,d){return(k<<d)|(k>>>(32-d))}function K(G,k){var I,d,F,H,x;F=(G&2147483648);H=(k&2147483648);I=(G&1073741824);d=(k&1073741824);x=(G&1073741823)+(k&1073741823);if(I&d){return(x^2147483648^F^H)}if(I|d){if(x&1073741824){return(x^3221225472^F^H)}else{return(x^1073741824^F^H)}}else{return(x^F^H)}}function r(d,F,k){return(d&F)|((~d)&k)}function q(d,F,k){return(d&k)|(F&(~k))}function p(d,F,k){return(d^F^k)}function n(d,F,k){return(F^(d|(~k)))}function u(G,F,aa,Z,k,H,I){G=K(G,K(K(r(F,aa,Z),k),I));return K(L(G,H),F)}function f(G,F,aa,Z,k,H,I){G=K(G,K(K(q(F,aa,Z),k),I));return K(L(G,H),F)}function D(G,F,aa,Z,k,H,I){G=K(G,K(K(p(F,aa,Z),k),I));return K(L(G,H),F)}function t(G,F,aa,Z,k,H,I){G=K(G,K(K(n(F,aa,Z),k),I));return K(L(G,H),F)}function e(G){var Z;var F=G.length;var x=F+8;var k=(x-(x%64))/64;var I=(k+1)*16;var aa=Array(I-1);var d=0;var H=0;while(H<F){Z=(H-(H%4))/4;d=(H%4)*8;aa[Z]=(aa[Z]| (G.charCodeAt(H)<<d));H++}Z=(H-(H%4))/4;d=(H%4)*8;aa[Z]=aa[Z]|(128<<d);aa[I-2]=F<<3;aa[I-1]=F>>>29;return aa}function B(x){var k="",F="",G,d;for(d=0;d<=3;d++){G=(x>>>(d*8))&255;F="0"+G.toString(16);k=k+F.substr(F.length-2,2)}return k}function J(k){k=k.replace(/rn/g,"n");var d="";for(var F=0;F<k.length;F++){var x=k.charCodeAt(F);if(x<128){d+=String.fromCharCode(x)}else{if((x>127)&&(x<2048)){d+=String.fromCharCode((x>>6)|192);d+=String.fromCharCode((x&63)|128)}else{d+=String.fromCharCode((x>>12)|224);d+=String.fromCharCode(((x>>6)&63)|128);d+=String.fromCharCode((x&63)|128)}}}return d}var C=Array();var P,h,E,v,g,Y,X,W,V;var S=7,Q=12,N=17,M=22;var A=5,z=9,y=14,w=20;var o=4,m=11,l=16,j=23;var U=6,T=10,R=15,O=21;s=J(s);C=e(s);Y=1732584193;X=4023233417;W=2562383102;V=271733878;for(P=0;P<C.length;P+=16){h=Y;E=X;v=W;g=V;Y=u(Y,X,W,V,C[P+0],S,3614090360);V=u(V,Y,X,W,C[P+1],Q,3905402710);W=u(W,V,Y,X,C[P+2],N,606105819);X=u(X,W,V,Y,C[P+3],M,3250441966);Y=u(Y,X,W,V,C[P+4],S,4118548399);V=u(V,Y,X,W,C[P+5],Q,1200080426);W=u(W,V,Y,X,C[P+6],N,2821735955);X=u(X,W,V,Y,C[P+7],M,4249261313);Y=u(Y,X,W,V,C[P+8],S,1770035416);V=u(V,Y,X,W,C[P+9],Q,2336552879);W=u(W,V,Y,X,C[P+10],N,4294925233);X=u(X,W,V,Y,C[P+11],M,2304563134);Y=u(Y,X,W,V,C[P+12],S,1804603682);V=u(V,Y,X,W,C[P+13],Q,4254626195);W=u(W,V,Y,X,C[P+14],N,2792965006);X=u(X,W,V,Y,C[P+15],M,1236535329);Y=f(Y,X,W,V,C[P+1],A,4129170786);V=f(V,Y,X,W,C[P+6],z,3225465664);W=f(W,V,Y,X,C[P+11],y,643717713);X=f(X,W,V,Y,C[P+0],w,3921069994);Y=f(Y,X,W,V,C[P+5],A,3593408605);V=f(V,Y,X,W,C[P+10],z,38016083);W=f(W,V,Y,X,C[P+15],y,3634488961);X=f(X,W,V,Y,C[P+4],w,3889429448);Y=f(Y,X,W,V,C[P+9],A,568446438);V=f(V,Y,X,W,C[P+14],z,3275163606);W=f(W,V,Y,X,C[P+3],y,4107603335);X=f(X,W,V,Y,C[P+8],w,1163531501);Y=f(Y,X,W,V,C[P+13],A,2850285829);V=f(V,Y,X,W,C[P+2],z,4243563512);W=f(W,V,Y,X,C[P+7],y,1735328473);X=f(X,W,V,Y,C[P+12],w,2368359562);Y=D(Y,X,W,V,C[P+5],o,4294588738);V=D(V,Y,X,W,C[P+8],m,2272392833);W=D(W,V,Y,X,C[P+11],l,1839030562);X=D(X,W,V,Y,C[P+14],j,4259657740);Y=D(Y,X,W,V,C[P+1],o,2763975236);V=D(V,Y,X,W,C[P+4],m,1272893353);W=D(W,V,Y,X,C[P+7],l,4139469664);X=D(X,W,V,Y,C[P+10],j,3200236656);Y=D(Y,X,W,V,C[P+13],o,681279174);V=D(V,Y,X,W,C[P+0],m,3936430074);W=D(W,V,Y,X,C[P+3],l,3572445317);X=D(X,W,V,Y,C[P+6],j,76029189);Y=D(Y,X,W,V,C[P+9],o,3654602809);V=D(V,Y,X,W,C[P+12],m,3873151461);W=D(W,V,Y,X,C[P+15],l,530742520);X=D(X,W,V,Y,C[P+2],j,3299628645);Y=t(Y,X,W,V,C[P+0],U,4096336452);V=t(V,Y,X,W,C[P+7],T,1126891415);W=t(W,V,Y,X,C[P+14],R,2878612391);X=t(X,W,V,Y,C[P+5],O,4237533241);Y=t(Y,X,W,V,C[P+12],U,1700485571);V=t(V,Y,X,W,C[P+3],T,2399980690);W=t(W,V,Y,X,C[P+10],R,4293915773);X=t(X,W,V,Y,C[P+1],O,2240044497);Y=t(Y,X,W,V,C[P+8],U,1873313359);V=t(V,Y,X,W,C[P+15],T,4264355552);W=t(W,V,Y,X,C[P+6],R,2734768916);X=t(X,W,V,Y,C[P+13],O,1309151649);Y=t(Y,X,W,V,C[P+4],U,4149444226);V=t(V,Y,X,W,C[P+11],T,3174756917);W=t(W,V,Y,X,C[P+2],R,718787259);X=t(X,W,V,Y,C[P+9],O,3951481745);Y=K(Y,h);X=K(X,E);W=K(W,v);V=K(V,g)}var i=B(Y)+B(X)+B(W)+B(V);return i.toLowerCase()}
+    ,stripProductDelimiters: function(val) {
+        if (val) {
+            return val.replace(/\;|\||\,/gi, '-');
+        }
+    }
+
+    ,setCookie: function(name, value, seconds, domain) {
+        domain = document.location.hostname;
+        var expires = '';
+        var expiresNow = '';
+        var date = new Date();
+        date.setTime(date.getTime() + (-1 * 1000));
+        expiresNow = "; expires=" + date.toGMTString();
+
+        if (typeof(seconds) != 'undefined') {
+            date.setTime(date.getTime() + (seconds * 1000));
+            expires = '; expires=' + date.toGMTString();
+        }
+
+        var type = typeof(value);
+        type = type.toLowerCase();
+        if (type != 'undefined' && type != 'string') {
+            value = JSON.stringify(value);
+        }
+
+        // fix scoping issues
+        // keep writing the old cookie, but make it expire
+        document.cookie = name + '=' + value + expiresNow + '; path=/';
+
+        // now just set the right one
+        document.cookie = name + '=' + value + expires + '; path=/; domain=' + domain;
+    }
+
+    ,getCookie: function(name) {
+        name = name + '=';
+        var carray = document.cookie.split(';'), value;
+
+        for (var i=0; i<carray.length; i++) {
+            var c = carray[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1, c.length);
+            }
+            if (c.indexOf(name) == 0) {
+                value = c.substring(name.length, c.length);
+                try {
+                    value = JSON.parse(value);
+                } catch(ex) {}
+
+                return value;
+            }
+        }
+
+        return null;
+    }
+
+    ,deleteCookie: function(name) {
+        this.setCookie(name, '', -1);
+        this.setCookie(name, '', -1, document.location.hostname);
+    }
+
+    ,mapAdobeVars: function(s) {
+        var vars = {
+            pageName		: 'Page - Analytics Pagename'
+            ,channel		: 'Page - Section Name'
+            ,campaign		: 'Campaign - ID'
+            ,currencyCode	: 'Page - Currency Code'
+            ,purchaseID		: 'Order - ID'
+            ,prop1			: 'Visitor - Account ID'
+            ,prop2			: 'Page - Product Name'
+            ,prop4			: 'Page - Type'
+            ,prop6			: 'Search - Type'
+            ,prop7			: 'Search - Facet List'
+            ,prop8			: 'Search - Feature Used'
+            ,prop12			: 'Visitor - User ID'
+            ,prop13			: 'Search - Sort Type'
+            ,prop14			: 'Page - Load Time'
+            ,prop15         : 'Support - Topic Name'
+            ,prop16			: 'Page - Business Unit'
+            ,prop21			: 'Search - Criteria'
+            ,prop24			: 'Page - Language'
+            ,prop25			: 'Page - Product Feature'
+            ,prop28         : 'Support - Search Criteria'
+            ,prop30			: 'Visitor - IP Address'
+            ,prop33         : 'Page - Product Application Version'
+            ,prop34         : 'Page - Website Extensions'
+            ,prop60			: 'Search - Data Form Criteria'
+            ,prop63			: 'Page - Extended Page Name'
+            ,prop65         : 'Page - Online State'
+            ,prop67         : 'Research Networks'
+            ,prop40: 'Page - UX Properties'
+
+            ,eVar3			: 'Search - Total Results'
+            ,eVar7			: 'Visitor - Account Name'
+            ,eVar15			: 'Event - Search Results Click Position'
+            ,eVar19			: 'Search - Advanced Criteria'
+            ,eVar21			: 'Promo - Clicked ID'
+            ,eVar22			: 'Page - Test ID'
+            ,eVar27			: 'Event - AutoSuggest Search Data'
+            ,eVar157		: 'Event - AutoSuggest Search Typed Term'
+            ,eVar156		: 'Event - AutoSuggest Search Selected Term'
+            ,eVar162		: 'Event - AutoSuggest Search Category'
+            ,eVar163		: 'Event - AutoSuggest Search Details'
+            ,eVar33			: 'Visitor - Access Type'
+            ,eVar34			: 'Order - Promo Code'
+            ,eVar39			: 'Order - Payment Method'
+            ,eVar41			: 'Visitor - Industry'
+            ,eVar42			: 'Visitor - SIS ID'
+            ,eVar43			: 'Page - Error Type'
+            ,eVar44			: 'Event - Updated User Fields'
+            ,eVar48			: 'Email - Recipient ID'
+            ,eVar51			: 'Email - Message ID'
+            ,eVar52			: 'Visitor - Department ID'
+            ,eVar53			: 'Visitor - Department Name'
+            ,eVar60			: 'Search - Within Content Criteria'
+            ,eVar61			: 'Search - Within Results Criteria'
+            ,eVar62			: 'Search - Result Types'
+            ,eVar74			: 'Page - Journal Info'
+            ,eVar59			: 'Page - Journal Publisher'
+            ,eVar76			: 'Email - Broadlog ID'
+            ,eVar78			: 'Visitor - Details'
+            ,eVar80         : 'Visitor - Usage Path Info'
+            ,eVar102		: 'Form - Name'
+            ,eVar103        : 'Event - Conversion Driver'
+            ,eVar105        : 'Search - Current Page'
+            ,eVar106        : 'Visitor - App Session ID'
+            ,eVar107        : 'Page - Secondary Product Name'
+            ,eVar117        : 'Search - Database'
+            ,eVar126        : 'Page - Environment'
+            ,eVar141        : 'Search - Criteria Original'
+            ,eVar143        : 'Page - Tabs'
+            ,eVar161        : 'Search - Channel'
+            ,eVar169        : 'Search - Facet Operation'
+            ,eVar173        : 'Search - Details'
+            ,eVar174        : 'Campaign - Spredfast ID'
+            ,eVar175        : 'Visitor - TMX Device ID'
+            ,eVar176        : 'Visitor - TMX Request ID'
+            ,eVar148        : 'Visitor - Platform Name'
+            ,eVar149        : 'Visitor - Platform ID'
+            ,eVar152        : 'Visitor - Product ID'
+            ,eVar153        : 'Visitor - Superaccount ID'
+            ,eVar154        : 'Visitor - Superaccount Name'
+            ,eVar177        : 'Page - Context Domain'
+            ,eVar189    : 'Page - Experimentation User Id'
+            ,eVar190    : 'Page - Identity User'
+            ,eVar199    : 'Page - ID+ Parameters'
+
+            ,list2			: 'Page - Widget Names'
+            ,list3			: 'Promo - IDs'
+        };
+
+        for (var i in vars) {
+            s[i] = s[i] ? s[i] : _satellite.getVar(vars[i]);
+        }
+    }
+};
+
+// async support fallback
+(function(w) {
+	var eventBuffer = [];
+	if(w.appData) {
+		if(Array.isArray(w.appData)) {
+			eventBuffer = w.appData;
+		} else {
+			console.error('Elsevier DataLayer "window.appData" must be specified as array');
+			return;
+		}
+    }
+
+	w.appData = [];
+
+	var oldPush = w.appData.push;
+
+	var appDataPush = function() {
+        oldPush.apply(w.appData, arguments);
+        for(var i=0; i<arguments.length; i++) {
+            var data = arguments[i];
+            if(data.event) {
+                if(data.event == 'pageLoad') {
+                    w.pageDataTracker.trackPageLoad(data);
+                } else {
+                    w.pageDataTracker.trackEvent(data.event, data);
+                }
+            }
+        }
+	};
+
+	w.appData.push = appDataPush;
+	for(var i=0; i<eventBuffer.length; i++) {
+	    var data = eventBuffer[i];
+	    w.appData.push(data);
+	}
+})(window);
+
+</script><script>
+function targetPageParams() {
+  var env = {
+    prod: {"at_property": "9ac459c5-c578-81a0-753c-2f45e783da73"},
+    dev:  {"at_property": "fd630ee8-841d-515b-b833-fcf047715ad5"}
+  }
+  return (_satellite && _satellite.buildInfo && _satellite.buildInfo.environment &&
+          _satellite.buildInfo.environment == 'production') ? env.prod : env.dev;
+}
+
+function targetPageParamsAll() {
+  var dataElements = [
+    "Page - Name",
+    "Page - Product Name",
+    "Page - Business Unit",
+    "Page - Type",
+    "Page - Language",
+    "Visitor - User ID",
+    "Visitor - Access Type",
+    "Visitor - Account ID",
+    "Visitor - Account Name"
+  ];
+  var targetParams = {};
+
+  for(var i=0; i<dataElements.length; i++) {
+    try {
+      var ele = _satellite.getVar(dataElements[i]);
+      if(ele) {
+        targetParams[dataElements[i]] = ele;
+      }
+    } catch(e){}
+  }
+
+  return targetParams;
+}
+
+</script>
+	
+	
+
+
+<script type="text/javascript" src="assets/js/els-idp-anyl.js"></script>
+
+<script type="text/javascript">	
+	window.pageData = {
+		page : {
+			environment : "prod",
+			productName : "id",
+			businessUnit : "ELS:RP:ST",
+			name : "BASIC SETTINGS: ACCOUNT",
+        	secondaryProductName : "SD/science" == "null" ? "ID/identity" : "SD/science",
+			type : "AP-MY",
+			loadTime : "",
+			language : "en-US"
+		},
+		visitor : {
+			accountId : "",
+			accountName : "",
+			userId : "ae:294914434",
+			accessType : "ae:REG:U_P::"
+		}
+	};
+</script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://cdn.cookielaw.org/scripttemplates/202402.1.0/otBannerSdk.js" async="" type="text/javascript"></script>
+	<script>
+		$(document).on("click", '.els-settings-left-list a[href]', function(e) {
+			e.preventDefault()
+			var eleName = $(this).attr("href");
+			$("html,body").animate({
+				scrollTop : $(eleName).offset().top
+			}, 1000);
+		});
+		$(document).on("click", '.els-settings-right-list a[href]', function(e) {
+			var eleName = $(this).attr("href");
+			$("html,body").animate({
+				scrollTop : $(eleName).offset().top
+			}, 1000);
+			$(".els-settings-right-list a[href]").each(function() {
+				$(this).removeClass("active-link");
+				$('.els-spine-right').removeClass("active-spine");
+				$('.els-spine-icon').addClass("closed-spine");
+				e.preventDefault();
+			});
+			$(this).addClass("active-link");
+		});
+		$(document).on("click", '.els-spine-icon', function() {
+			$('.els-spine-right').addClass("active-spine");
+			$('.els-spine-icon').removeClass("closed-spine");
+		});
+		$(document).on("click", '.els-spine-icon-open', function() {
+			$('.els-spine-right').removeClass("active-spine");
+			$('.els-spine-icon').addClass("closed-spine");
+		});
+		$(document).on("click", '.els-white', function() {
+			$('.els-spine-right').removeClass("active-spine");
+			$('.els-spine-icon').addClass("closed-spine");
+			$('.els-settings-header-popup').removeClass("open");
+		});
+		$(document).on("click", '.els-profile-initials', function() {
+			$('.els-settings-header-popup').toggleClass("open");
+		});
+		$(document).on("keypress", '.els-profile-initials', function(e) {
+			if (e.keyCode == 13) { //enter key
+				e.preventDefault();
+				$(e.target).click();
+			}
+		});
+		$(document).on("focus", '.els-spine-signout', function(e) {
+			$(e.target).find('.els-signout').focus();
+		});
+		$(document).on("focusout", '.els-signout', function(e) {
+			$('.els-profile-initials').focus();
+		});
+		$(document).on("focus", '.headerLink', function(e) {
+			$(e.target).find('.els-headerLink').focus();
+			$(e.target).attr('tabindex', '-1')
+		});
+		$(document).on("focusout", '.els-headerLink', function(e) {
+			$(e.target).parent('.headerLink').attr('tabindex', '0');
+		});
+		$(document).on("focus", '.headerLinkIcon', function(e) {
+			$(e.target).find('.els-help').focus();
+			$(e.target).attr('tabindex', '-1')
+		});
+		$(document).on("focusout", '.els-help', function(e) {
+			$(e.target).parent('.headerLinkIcon').attr('tabindex', '0');
+		});
+		var dropDownId;
+		var line1;
+		var line2;
+		var triangleElm;
+		function clearSecondaryEmailModal(index) {
+			var elm=document.getElementById(dropDownId);
+			var elm1=document.getElementById(line1);
+			var elm2=document.getElementById(line2);
+			var elm3=document.getElementById(triangleElm);
+			if(elm){
+				elm.style.display = "none";
+			}
+			if(elm1){
+				elm1.style.display = "none";
+			}
+			if(elm2){
+				elm2.style.display = "none";
+			}
+			if(elm3){
+				elm3.style.display = "none";
+			}
+
+			document.getElementById("secEmailDropdown-"+index).style.display="block";
+			dropDownId="secEmailDropdown-"+index;
+
+			document.getElementById("line1-"+index).style.display="block";
+			line1="line1-"+index;
+
+			document.getElementById("line2-"+index).style.display="block";
+			line2="line2-"+index;
+
+			document.getElementById("triangle-"+index).style.display="block";
+			triangleElm="triangle-"+index;
+
+		}
+		//It helps to page scroll-up respective field section after successful field update
+		$(document).ready(
+				function() {
+					var pathArray = window.location.pathname.split('/');
+					// When the user clicks anywhere outside of the modal, close it
+					window.onclick = function(event) {
+						var matches = event.target.matches ? event.target.matches('.ssdropbtn') : event.target.msMatchesSelector('.ssdropbtn');
+						if (!matches) {
+							var elm=document.getElementById(dropDownId);
+							if(elm){
+								elm.style.display = "none";
+							}
+							var elm1=document.getElementById(line1);
+							if(elm1){
+								elm1.style.display = "none";
+							}
+							var elm2=document.getElementById(line2);
+							if(elm2){
+								elm2.style.display = "none";
+							}
+							var elm3=document.getElementById(triangleElm);
+							if(elm3){
+								elm3.style.display = "none";
+							}
+						}
+					}
+					//Primary email - change
+					var isChangeEmail = pathArray.indexOf('changeEmailSetting');
+					if (isChangeEmail !== -1) {
+						$('html, body').animate({
+							scrollTop : $('#primaryEmailLabel').offset().top
+						}, 'slow');
+					}
+
+					//Pwd - change
+					var isChangePwd = pathArray.indexOf('changePassword');
+					if (isChangePwd !== -1) {
+						$('html, body').animate({
+							scrollTop : $('#passwordlabel').offset().top
+						}, 'slow');
+					}
+
+					//Account information - change
+					var isNameChange = pathArray.indexOf('saveNameSettings');
+					if (isNameChange !== -1) {
+						var isName = document.getElementById("nameNotification");
+						var isDisplayName = document
+								.getElementById("displayNameNotification");
+						var isSalutation = document
+								.getElementById("salutationNotification");
+						if (isName) {
+							$('html, body').animate({
+								scrollTop : $('#fullnameLabel').offset().top
+							}, 'slow');
+						} else if (isDisplayName) {
+							$('html, body').animate({
+								scrollTop : $('#displayNameLabel').offset().top
+							}, 'slow');
+						} else if (isSalutation) {
+							$('html, body').animate({
+								scrollTop : $('#salutationLabel').offset().top
+							}, 'slow');
+						}
+					}
+
+					//job Title - change
+					var isProfessionalExpChange = pathArray
+							.indexOf('updateProfessionalExperience');
+					if (isProfessionalExpChange !== -1) {
+						var isJobTitle = document
+								.getElementById("jobTitleNotification");
+						var isRole = document
+								.getElementById("academicStatusNotification");
+						var isDiscipline = document
+								.getElementById("disciplineNotification");
+						var isOrg = document
+								.getElementById("organizationNotification");
+						if (isJobTitle) {
+							$('html, body').animate({
+								scrollTop : $('#jobTitleLabel').offset().top
+							}, 'slow');
+						} else if (isRole) {
+							$('html, body').animate({
+								scrollTop : $('#academicStatusLabel').offset().top
+							}, 'slow');
+						} else if (isDiscipline) {
+							$('html, body').animate({
+								scrollTop : $('#disciplineLabel').offset().top
+							}, 'slow');
+						} else if (isOrg) {
+							$('html, body').animate({
+								scrollTop : $('#organizationLabel').offset().top
+							}, 'slow');
+						}
+					}
+
+					//Address - change
+					var isAddressChange = pathArray.indexOf('updateAddress');
+					if (isAddressChange !== -1) {
+						$('html, body').animate({
+							scrollTop : $('#addressLabel').offset().top
+						}, 'slow');
+					}
+
+					//PhoneSetting - change
+					var isPhoneChange = pathArray.indexOf('changePhoneSetting');
+					if (isPhoneChange !== -1) {
+						$('html, body').animate({
+							scrollTop : $('#phoneNumberLabel').offset().top
+						}, 'slow');
+					}
+
+					var isMktgPref = pathArray.indexOf('updateMarketingOptOut');
+					if (isMktgPref !== -1) {
+						$('html, body').animate({
+							scrollTop : $('#els-mktnPrefBtn').offset().top
+						}, 'slow');
+					}
+
+					var displayInitial = document.getElementById("displayName").innerHTML;
+					var profileInitials = [];
+					if (displayInitial.length !== 0) {
+						var names = displayInitial.split(' ');
+						var i;
+						for(i=0;i<names.length; i++){
+							profileInitials.push(names[i].charAt(0));
+						}
+						document.getElementById("els-profile-initials").innerHTML = profileInitials.join('');
+						document.getElementById("els-profile-initials-right").innerHTML = profileInitials.join('');
+
+					}
+
+					$('#privacySettings').click(function(e){
+						e.preventDefault();
+						var privacySettingsUrl = $(this).find('.els-headerLink').attr('href');
+						var win = window.open(privacySettingsUrl, '_blank');
+						if (win) {
+							win.focus();
+						} else {
+							alert('Please allow popups for this website');
+						}
+					});
+				});
+	</script>
+<script src="https://assets.adobedtm.com/4a848ae9611a/ea85aabe063c/b29c895bd0d5/RCe91a9f87cb24434390e7e7210e973a7d-source.min.js" async=""></script><style type="text/css">:root [href^="//mage98rquewz.com/"], :root [href^="//x4pollyxxpush.com/"], :root zeus-ad, :root span[id^="ezoic-pub-ad-placeholder-"], :root ins.adsbygoogle[data-ad-slot], :root guj-ad, :root gpt-ad, :root div[id^="zergnet-widget"], :root div[id^="vuukle-ad-"], :root div[id^="taboola-stream-"], :root div[id^="sticky_ad_"], :root div[id^="pa_sticky_ad_box_middle_"], :root div[id^="optidigital-adslot"], :root div[id^="gpt_ad_"], :root div[id^="ezoic-pub-ad-"], :root div[id^="dfp-ad-"], :root div[id^="crt-"][style], :root div[id^="advads_ad_"], :root div[id^="adspot-"], :root div[id^="ads300_250-widget-"], :root div[id^="ads300_100-widget-"], :root div[id^="ads250_250-widget-"], :root div[id^="adrotate_widgets-"], :root ps-connatix-module, :root div[id^="ad_position_"], :root div[id^="ad-div-"], :root div[id^="_vdo_ads_player_ai_"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root div[data-native_ad], :root div[data-native-ad], :root div[data-mini-ad-unit], :root div[data-insertion], :root div[data-id-advertdfpconf], :root div[data-google-query-id], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-content="Advertisement"], :root div[data-alias="300x250 Ad 2"], :root div[data-adzone], :root div[data-adunit-path], :root div[data-adname], :root div[data-ad-wrapper], :root div[data-ad-placeholder], :root div[class^="native-ad-"], :root div[data-dfp-id], :root div[class^="kiwi-ad-wrapper"], :root div[aria-label="Ads"], :root display-ads, :root display-ad-component, :root bottomadblock, :root atf-ad-slot, :root aside[id^="adrotate_widgets-"], :root ark-top-ad, :root amp-fx-flying-carpet, :root amp-embed[type="taboola"], :root amp-connatix-player, :root div[id^="google_dfp_"], :root ad-slot, :root a[href^="https://banners.livepartners.com/"], :root a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://www.onlineusershielder.com/"], :root a[href^="https://www.nudeidols.com/cams/"], :root a[href^="https://financeads.net/tc.php?"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://www.kingsoffetish.com/tour?partner_id="], :root a[href^="https://www.infowarsstore.com/"] > img, :root a[href^="https://www.highperformancecpmgate.com/"], :root amp-ad, :root a[href^="https://www.highcpmrevenuenetwork.com/"], :root a[href^="https://lnkxt.bannerator.com/"], :root a[href^="https://www.geekbuying.com/dynamic-ads/"], :root a[href^="https://www.friendlyduck.com/AF_"], :root a[href^="https://www.financeads.net/tc.php?"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://maymooth-stopic.com/"], :root a[href^="https://www.dql2clk.com/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="https://www.dating-finder.com/signup/?ai_d="], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root a[href^="https://www.adxsrve.com/"], :root [data-template-type="nativead"], :root a[href^="https://www.endorico.com/Smartlink/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root a[href^="https://voluum.prom-xcams.com/"], :root a[href^="https://twinrdsrv.com/"], :root a[href^="https://trk.nfl-online-streams.club/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href^="https://track.1234sd123.com/"], :root a[href^="https://torguard.net/aff.php"] > img, :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://tatrck.com/"], :root a[href^="https://click.candyoffers.com/"], :root [href^="https://zstacklife.com/"] img, :root a[href^="https://t.aslnk.link/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://safesurfingtoday.com/"][href*="?skip="], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="https://t.acam.link/"], :root a[href^="https://syndication.optimizesrv.com/"], :root a[href^="https://go.trackitalltheway.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root a[href^="https://syndication.exoclick.com/"], :root a[href^="https://syndication.dynsrvtbg.com/"], :root div[data-alias="300x250 Ad 1"], :root a[href^="https://syndicate.contentsserved.com/"], :root a[href^="https://svb-analytics.trackerrr.com/"], :root a[href^="https://streamate.com/landing/click/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="https://slkmis.com/"], :root a[href^="https://s.zlink3.com/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href^="https://s.optzsrv.com/"], :root a[href^="https://quotationfirearmrevision.com/"], :root a[href^="https://pubads.g.doubleclick.net/"], :root a[href^="https://ak.oalsauwy.net/"], :root a[href^="https://softwa.cfd/"], :root a[href^="https://play1ad.shop/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="https://www.dating-finder.com/?ai_d="], :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root app-ad, :root a[href^="https://postback1win.com/"], :root a[href^="https://a.adtng.com/"], :root a[href^="https://playnano.online/offerwalls/?ref="], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="https://mmwebhandler.aff-online.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root a[href^="https://pb-track.com/"], :root a[href^="https://pb-front.com/"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://ngineet.cfd/"], :root a[href^="https://ndt5.net/"], :root a[href^="http://eighteenderived.com/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root a[href^="https://www.sugarinstant.com/?partner_id="], :root a[href^="https://m.do.co/c/"] > img, :root .nya-slot[style], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://lobimax.com/"], :root a[href^="https://lead1.pl/"], :root a[href^="https://landing1.brazzersnetwork.com"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="https://kiksajex.com/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://www.mypornstarcams.com/landing/click/"], :root a[href^="https://snowdayonline.xyz/"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://jaxofuna.com/"], :root a[href^="https://itubego.com/video-downloader/?affid="], :root a[href^="https://italarizege.xyz/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root ad-shield-ads, :root a[href^="https://hot-growngames.life/"], :root a[href^="https://golinks.work/"], :root a[href^="https://go.xxxvjmp.com/"], :root a[href^="https://zirdough.net/"], :root [class^="tile-picker__CitrusBannerContainer-sc-"], :root a[href^="https://go.xxxiijmp.com"], :root a[href^="https://go.xtbaffiliates.com/"], :root .OUTBRAIN[data-widget-id^="FMS_REELD_"], :root [data-role="tile-ads-module"], :root a[href^="https://go.xlviirdr.com"], :root a[href^="https://go.xlviiirdr.com"], :root a[href^="https://ismlks.com/"], :root [href^="https://www.mypillow.com/"] > img, :root a[href^="https://go.xlirdr.com"], :root [data-css-class="dfp-inarticle"], :root a[href^="https://l.hyenadata.com/"], :root a[href^="https://go.tmrjmp.com"], :root a[href^="https://go.skinstrip.net"][href*="?campaignId="], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://lijavaxa.com/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.dmzjmp.com"], :root div[class^="Display_displayAd"], :root a[href^="https://www.bang.com/?aff="], :root #mgb-container > #mgb, :root a[href^="https://go.admjmp.com"], :root div[id^="div-gpt-"], :root a[href^="https://gml-grp.com/"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="https://gamingadlt.com/?offer="], :root a[href^="https://www.adskeeper.com"], :root [href^="https://www.reimageplus.com/"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root [href^="https://clicks.affstrack.com/"] > img, :root a[href^="https://ak.hauchiwu.com/"], :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="https://engine.blueistheneworanges.com/"], :root a[href^="https://eergortu.net/"], :root a[href^="https://dl-protect.net/"], :root a[href^="https://disobediencecalculatormaiden.com/"], :root a[href^="https://datingoffers30.info/"], :root a[href*=".foxqck.com/"], :root a[href^="https://ctosrd.com/"], :root a[href^="https://clixtrac.com/"], :root [href^="https://noqreport.com/"] > img, :root a[href^="https://clicks.pipaffiliates.com/"], :root a[href^="https://datewhisper.life/"], :root a[href^="https://get-link.xyz/"], :root a[href^="https://click.linksynergy.com/fs-bin/"] > img, :root a[href^="https://combodef.com/"], :root AD-TRIPLE-BOX, :root a[href^="https://click.hoolig.app/"], :root a[href^="https://track.totalav.com/"], :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://porntubemate.com/"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://click.dtiserv2.com/"], :root a[href^="https://go.xlvirdr.com"], :root a[href^="http://www.iyalc.com/"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://s.ma3ion.com/"], :root a[href^="https://cams.imagetwist.com/in/?track="], :root a[href^="https://t.ajrkm1.com/"], :root [href="https://masstortfinancing.com"] img, :root a[href^="https://bongacams10.com/track?"], :root a[href*=".g2afse.com/"], :root [data-ad-name], :root a[href^="https://bodelen.com/"], :root a[href^="http://revolvemockerycopper.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://intenseaffiliates.com/redirect/"], :root a[href^="https://ads.ad4game.com/"], :root a[href^="https://aweptjmp.com/"], :root [class^="s2nPlayer"], :root a[href^="https://chaturbate.jjgirls.com/?track="], :root a[href^="https://ausoafab.net/"], :root a[href^="https://activate-game.com/"], :root .scroll-fixable.rail-right > .deals-rail, :root [data-wpas-zoneid], :root a[href^="https://a2.adform.net/"], :root a[href^="https://auesk.cfd/"], :root a[href^="https://ak.psaltauw.net/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root div[id^="ad-position-"], :root a[href^="https://leg.xyz/?track="], :root a[href^="https://www.toprevenuegate.com/"], :root a[href^="https://bc.game/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://adultfriendfinder.com/go/"], :root a[href^="https://ads.planetwin365affiliate.com/"], :root a[href^="https://ads.leovegas.com/"], :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root div[id^="rc-widget-"], :root a[href^="http://eslp34af.click/"], :root a[href^="https://turnstileunavailablesite.com/"], :root a[href^="https://chaturbate.com/in/?"], :root [href^="https://freecourseweb.com/"] > .sitefriend, :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href*="&maxads="], :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://1betandgonow.com/"], :root a[href^="https://www.googleadservices.com/pagead/aclk?"], :root a[href^="http://www.mrskin.com/tour"], :root a[href^="http://www.friendlyduck.com/AF_"], :root a[href^="https://getvideoz.click/"], :root a[href^="http://troopsassistedstupidity.com/"], :root a[href^="https://bongacams2.com/track?"], :root amp-ad-custom, :root a[href^="http://trk.globwo.online/"], :root a-ad, :root a[href^="https://offhandpump.com/"], :root a[href^="http://stickingrepute.com/"], :root #slashboxes > .deals-rail, :root a[href^="http://premonitioninventdisagree.com/"], :root a[href^="http://naggingirresponsible.com/"], :root a[href^="https://in.rabbtrk.com/"], :root div[data-ad-targeting], :root a[href^="https://hotplaystime.life/"], :root a[href^="http://www.h4trck.com/"], :root a[href^="https://81ac.xyz/"], :root a[href^="http://guestblackmail.com/"], :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root a[href^="https://ad.kubiccomps.icu/"], :root [href^="https://www.mypatriotsupply.com/"] > img, :root a[href^="https://trk.softonixs.xyz/"], :root a[href^="https://sexynearme.com/"], :root a[href^="https://myclick-2.com/"], :root a[href^="http://dragnag.com/"], :root a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"], :root [id^="div-gpt-ad"], :root .ob_container .item-container-obpd, :root div[id^="yandex_ad"], :root a[href^="https://pb-imc.com/"], :root a[href^="http://deskfrontfreely.com/"], :root a[href^="https://track.adform.net/"], :root a[href^="http://avthelkp.net/"], :root a[href^="https://a.medfoodhome.com/"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://engine.flixtrial.com/"], :root [data-type="ad-vertical"], :root a[href^="http://annulmentequitycereals.com/"], :root citrus-ad-wrapper, :root a[href^="https://go.grinsbest.com/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href^="//startgaming.net/tienda/" i], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="//s.st1net.com/splash.php"], :root a[href^="https://a.medfoodsafety.com/"], :root a[href^="//go.eabids.com/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root .\[\&_\.gdprAdTransparencyCogWheelButton\]\:\!pjra-z-\[5\], :root [href^="http://clicks.totemcash.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root [data-d-ad-id], :root a[href*=".engine.adglare.net/"], :root [href^="https://www.profitablegatecpm.com/"], :root div[id^="lazyad-"], :root a[href^="http://com-1.pro/"], :root a[href*=".cfm?domain="][href*="&fp="], :root [data-dynamic-ads], :root a[href^="https://xbet-4.com/"], :root a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"], :root [data-ad-width], :root [data-block-type="ad"], :root [href^="https://join.playboyplus.com/track/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"] + .author, :root a[href^="https://ab.advertiserurl.com/aff/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://trk.sportsflix4k.club/"], :root a[href^="http://dragfault.com/"], :root [href^="https://cpa.10kfreesilver.com/"], :root a[href^="https://a.bestcontentfood.top/"], :root a[data-obtrack^="http://paid.outbrain.com/network/redir?"], :root a[data-href^="http://ads.trafficjunky.net/"], :root a[href^="https://go.xlivrdr.com"], :root [onclick^="location.href='https://1337x.vpnonly.site/"], :root [name^="google_ads_iframe"], :root [id^="section-ad-banner"], :root [data-advadstrackid], :root a[href^="http://muzzlematrix.com/"], :root [href^="https://zone.gotrackier.com/"], :root [href^="https://www.restoro.com/"], :root a[href^="https://bngpt.com/"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="http://adultfriendfinder.com/go/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root a[href^="https://tour.mrskin.com/"], :root a[href^="https://vo2.qrlsx.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root a[href^="https://losingoldfry.com/"], :root [href^="https://routewebtk.com/"], :root a[href^="https://t.ajump1.com/"], :root div[id^="div-ads-"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root [href^="https://join.girlsoutwest.com/"], :root [href^="https://join3.bannedsextapes.com"], :root .vid-present > .van_vid_carousel__padding, :root div[id^="adngin-"], :root [data-rc-widget], :root span[data-ez-ph-id], :root [href^="https://track.aftrk1.com/"], :root a[href^="https://go.xxxijmp.com"], :root [href^="https://istlnkcl.com/"], :root div[data-adunit], :root app-large-ad, :root [href^="https://turtlebids.irauctions.com/"] img, :root [href^="https://wct.link/click?"], :root [href^="https://ilovemyfreedoms.com/landing-"], :root [href^="https://go.xlrdr.com"], :root a[href^="https://tm-offers.gamingadult.com/"], :root [href^="https://charmingdatings.life/"], :root [href^="https://glersakr.com/"], :root [href^="https://v.investologic.co.uk/"], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root [id^="ad-wrap-"], :root a[href*="//jjgirls.com/sex/Chaturbate"], :root [data-id^="div-gpt-ad"], :root a[href^="https://tracker.loropartners.com/"], :root [href^="https://awbbjmp.com/"], :root a[href*=".adsrv.eacdn.com/"], :root [href^="https://antiagingbed.com/discount/"] > img, :root [href^="https://www.brighteonstore.com/products/"] img, :root a[href^="https://bngprm.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="https://go.strpjmp.com/"], :root a[href^="https://go.bushheel.com/"], :root a[href^="https://ctjdwm.com/"], :root a[href^="https://camfapr.com/landing/click/"], :root [href="//sexcams.plus/"], :root [href^="http://www.mypillow.com/"] > img, :root [href^="https://www.targetingpartner.com/"], :root div[class^="Adstyled__AdWrapper-"], :root a[href^="https://startgaming.net/tienda/" i], :root .section-subheader > .section-hotel-prices-header, :root [href^="https://www.hostg.xyz/"] > img, :root a[href^="https://join.virtualtaboo.com/track/"], :root [id^="ad_sky"], :root #kt_player > a[target="_blank"], :root a[href^="http://bongacams.com/track?"], :root [href^="http://mypillow.com/"] > img, :root [href="https://ourgoldguy.com/contact/"] img, :root [href="https://www.masstortfinancing.com/"] > img, :root [href="https://jdrucker.com/gold"] > img, :root [href^="https://ad.admitad.com/"], :root [href^="https://mypillow.com/"] > img, :root [data-testid="ad_testID"], :root a[href^="http://handgripvegetationhols.com/"], :root [class^="amp-ad-"], :root a[href^="http://tc.tradetracker.net/"] > img, :root [data-ez-name], :root a[href^="https://black77854.com/"], :root [data-revive-zoneid] > iframe, :root [data-testid="adBanner-wrapper"], :root [href^="https://mylead.global/stl/"] > img, :root [href^="https://mypatriotsupply.com/"] > img, :root a[href^="https://go.hpyjmp.com"], :root [href^="https://mystore.com/"] > img, :root a[href^="https://witnessjacket.com/"], :root [data-mobile-ad-id], :root a[href^="https://fc.lc/ref/"], :root [data-adshim], :root topadblock, :root a[href^="//s.zlinkd.com/"], :root a[href^="https://bs.serving-sys.com"], :root [href^="https://goldcometals.com/clk.trk"], :root [data-desktop-ad-id], :root [href^="https://www.cloudways.com/en/?id"], :root a[href^="https://www.liquidfire.mobi/"], :root .grid > .container > #aside-promotion, :root DFP-AD, :root [id^="ad_slider"], :root [data-adbridg-ad-class], :root a[href^="https://linkboss.shop/"], :root [data-adblockkey], :root a[href^="https://go.cmtaffiliates.com/"], :root [href^="https://optimizedelite.com/"] > img, :root [data-name="adaptiveConstructorAd"], :root [onclick*="content.ad/"], :root [data-ad-manager-id], :root AMP-AD, :root [data-ad-cls], :root a[href^="https://6-partner.com/"], :root [href^="https://affiliate.fastcomet.com/"] > img, :root a[href^="https://go.mnaspm.com/"], :root [class^="adDisplay-module"], :root AD-SLOT, :root #kt_player > div[style="position: absolute; inset: 0px; z-index: 170;"], :root [data-freestar-ad][id], :root a[href^="https://go.xxxjmp.com"], :root #leader-companion > a[href], :root a[href^="http://www.adultdvdempire.com/?partner_id="][href*="&utm_"], :root [data-ad-module], :root a[href^="http://partners.etoro.com/"], :root a[href^=" https://www.friendlyduck.com/AF_"], :root a[href*="/jump/next.php?r="], :root app-advertisement, :root a[href^="https://getmatchedlocally.com/"], :root a[href^="https://clickins.slixa.com/"], :root [class^="div-gpt-ad"], :root a[href^="https://traffdaq.com/"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[href^="http://li.blogtrottr.com/click?"], :root .ob_dual_right > .ob_ads_header ~ .odb_div { display: none !important; }</style><style id="onetrust-style">#onetrust-banner-sdk{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}#onetrust-banner-sdk .onetrust-vendors-list-handler{cursor:pointer;color:#1f96db;font-size:inherit;font-weight:bold;text-decoration:none;margin-left:5px}#onetrust-banner-sdk .onetrust-vendors-list-handler:hover{color:#1f96db}#onetrust-banner-sdk:focus{outline:2px solid #000;outline-offset:-2px}#onetrust-banner-sdk a:focus{outline:2px solid #000}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{outline-offset:1px}#onetrust-banner-sdk.ot-bnr-w-logo .ot-bnr-logo{height:64px;width:64px}#onetrust-banner-sdk .ot-tcf2-vendor-count.ot-text-bold{font-weight:bold}#onetrust-banner-sdk .ot-close-icon,#onetrust-pc-sdk .ot-close-icon,#ot-sync-ntfy .ot-close-icon{background-size:contain;background-repeat:no-repeat;background-position:center;height:12px;width:12px}#onetrust-banner-sdk .powered-by-logo,#onetrust-banner-sdk .ot-pc-footer-logo a,#onetrust-pc-sdk .powered-by-logo,#onetrust-pc-sdk .ot-pc-footer-logo a,#ot-sync-ntfy .powered-by-logo,#ot-sync-ntfy .ot-pc-footer-logo a{background-size:contain;background-repeat:no-repeat;background-position:center;height:25px;width:152px;display:block;text-decoration:none;font-size:.75em}#onetrust-banner-sdk .powered-by-logo:hover,#onetrust-banner-sdk .ot-pc-footer-logo a:hover,#onetrust-pc-sdk .powered-by-logo:hover,#onetrust-pc-sdk .ot-pc-footer-logo a:hover,#ot-sync-ntfy .powered-by-logo:hover,#ot-sync-ntfy .ot-pc-footer-logo a:hover{color:#565656}#onetrust-banner-sdk h3 *,#onetrust-banner-sdk h4 *,#onetrust-banner-sdk h6 *,#onetrust-banner-sdk button *,#onetrust-banner-sdk a[data-parent-id] *,#onetrust-pc-sdk h3 *,#onetrust-pc-sdk h4 *,#onetrust-pc-sdk h6 *,#onetrust-pc-sdk button *,#onetrust-pc-sdk a[data-parent-id] *,#ot-sync-ntfy h3 *,#ot-sync-ntfy h4 *,#ot-sync-ntfy h6 *,#ot-sync-ntfy button *,#ot-sync-ntfy a[data-parent-id] *{font-size:inherit;font-weight:inherit;color:inherit}#onetrust-banner-sdk .ot-hide,#onetrust-pc-sdk .ot-hide,#ot-sync-ntfy .ot-hide{display:none !important}#onetrust-banner-sdk button.ot-link-btn:hover,#onetrust-pc-sdk button.ot-link-btn:hover,#ot-sync-ntfy button.ot-link-btn:hover{text-decoration:underline;opacity:1}#onetrust-pc-sdk .ot-sdk-row .ot-sdk-column{padding:0}#onetrust-pc-sdk .ot-sdk-container{padding-right:0}#onetrust-pc-sdk .ot-sdk-row{flex-direction:initial;width:100%}#onetrust-pc-sdk [type=checkbox]:checked,#onetrust-pc-sdk [type=checkbox]:not(:checked){pointer-events:initial}#onetrust-pc-sdk [type=checkbox]:disabled+label::before,#onetrust-pc-sdk [type=checkbox]:disabled+label:after,#onetrust-pc-sdk [type=checkbox]:disabled+label{pointer-events:none;opacity:.7}#onetrust-pc-sdk #vendor-list-content{transform:translate3d(0, 0, 0)}#onetrust-pc-sdk li input[type=checkbox]{z-index:1}#onetrust-pc-sdk li .ot-checkbox label{z-index:2}#onetrust-pc-sdk li .ot-checkbox input[type=checkbox]{height:auto;width:auto}#onetrust-pc-sdk li .host-title a,#onetrust-pc-sdk li .ot-host-name a,#onetrust-pc-sdk li .accordion-text,#onetrust-pc-sdk li .ot-acc-txt{z-index:2;position:relative}#onetrust-pc-sdk input{margin:3px .1ex}#onetrust-pc-sdk .pc-logo,#onetrust-pc-sdk .ot-pc-logo{height:60px;width:180px;background-position:center;background-size:contain;background-repeat:no-repeat;display:inline-flex;justify-content:center;align-items:center}#onetrust-pc-sdk .pc-logo img,#onetrust-pc-sdk .ot-pc-logo img{max-height:100%;max-width:100%}#onetrust-pc-sdk .screen-reader-only,#onetrust-pc-sdk .ot-scrn-rdr,.ot-sdk-cookie-policy .screen-reader-only,.ot-sdk-cookie-policy .ot-scrn-rdr{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#onetrust-pc-sdk.ot-fade-in,.onetrust-pc-dark-filter.ot-fade-in,#onetrust-banner-sdk.ot-fade-in{animation-name:onetrust-fade-in;animation-duration:400ms;animation-timing-function:ease-in-out}#onetrust-pc-sdk.ot-hide{display:none !important}.onetrust-pc-dark-filter.ot-hide{display:none !important}#ot-sdk-btn.ot-sdk-show-settings,#ot-sdk-btn.optanon-show-settings{color:#68b631;border:1px solid #68b631;height:auto;white-space:normal;word-wrap:break-word;padding:.8em 2em;font-size:.8em;line-height:1.2;cursor:pointer;-moz-transition:.1s ease;-o-transition:.1s ease;-webkit-transition:1s ease;transition:.1s ease}#ot-sdk-btn.ot-sdk-show-settings:hover,#ot-sdk-btn.optanon-show-settings:hover{color:#fff;background-color:#68b631}.onetrust-pc-dark-filter{background:rgba(0,0,0,.5);z-index:2147483646;width:100%;height:100%;overflow:hidden;position:fixed;top:0;bottom:0;left:0}@keyframes onetrust-fade-in{0%{opacity:0}100%{opacity:1}}.ot-cookie-label{text-decoration:underline}@media only screen and (min-width: 426px)and (max-width: 896px)and (orientation: landscape){#onetrust-pc-sdk p{font-size:.75em}}#onetrust-banner-sdk .banner-option-input:focus+label{outline:1px solid #000;outline-style:auto}.category-vendors-list-handler+a:focus,.category-vendors-list-handler+a:focus-visible{outline:2px solid #000}#onetrust-pc-sdk .ot-userid-title{margin-top:10px}#onetrust-pc-sdk .ot-userid-title>span,#onetrust-pc-sdk .ot-userid-timestamp>span{font-weight:700}#onetrust-pc-sdk .ot-userid-desc{font-style:italic}#onetrust-pc-sdk .ot-host-desc a{pointer-events:initial}#onetrust-pc-sdk .ot-ven-hdr>p a{position:relative;z-index:2;pointer-events:initial}#onetrust-pc-sdk .ot-vnd-serv .ot-vnd-item .ot-vnd-info a,#onetrust-pc-sdk .ot-vs-list .ot-vnd-item .ot-vnd-info a{margin-right:auto}#onetrust-pc-sdk .ot-pc-footer-logo img{width:136px;height:16px}#onetrust-pc-sdk .ot-pur-vdr-count{font-weight:400;font-size:.7rem;padding-top:3px;display:block}#onetrust-banner-sdk .ot-optout-signal,#onetrust-pc-sdk .ot-optout-signal{border:1px solid #32ae88;border-radius:3px;padding:5px;margin-bottom:10px;background-color:#f9fffa;font-size:.85rem;line-height:2}#onetrust-banner-sdk .ot-optout-signal .ot-optout-icon,#onetrust-pc-sdk .ot-optout-signal .ot-optout-icon{display:inline;margin-right:5px}#onetrust-banner-sdk .ot-optout-signal svg,#onetrust-pc-sdk .ot-optout-signal svg{height:20px;width:30px;transform:scale(0.5)}#onetrust-banner-sdk .ot-optout-signal svg path,#onetrust-pc-sdk .ot-optout-signal svg path{fill:#32ae88}#onetrust-banner-sdk,#onetrust-pc-sdk,#ot-sdk-cookie-policy,#ot-sync-ntfy{font-size:16px}#onetrust-banner-sdk *,#onetrust-banner-sdk ::after,#onetrust-banner-sdk ::before,#onetrust-pc-sdk *,#onetrust-pc-sdk ::after,#onetrust-pc-sdk ::before,#ot-sdk-cookie-policy *,#ot-sdk-cookie-policy ::after,#ot-sdk-cookie-policy ::before,#ot-sync-ntfy *,#ot-sync-ntfy ::after,#ot-sync-ntfy ::before{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}#onetrust-banner-sdk div,#onetrust-banner-sdk span,#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-banner-sdk p,#onetrust-banner-sdk img,#onetrust-banner-sdk svg,#onetrust-banner-sdk button,#onetrust-banner-sdk section,#onetrust-banner-sdk a,#onetrust-banner-sdk label,#onetrust-banner-sdk input,#onetrust-banner-sdk ul,#onetrust-banner-sdk li,#onetrust-banner-sdk nav,#onetrust-banner-sdk table,#onetrust-banner-sdk thead,#onetrust-banner-sdk tr,#onetrust-banner-sdk td,#onetrust-banner-sdk tbody,#onetrust-banner-sdk .ot-main-content,#onetrust-banner-sdk .ot-toggle,#onetrust-banner-sdk #ot-content,#onetrust-banner-sdk #ot-pc-content,#onetrust-banner-sdk .checkbox,#onetrust-pc-sdk div,#onetrust-pc-sdk span,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#onetrust-pc-sdk p,#onetrust-pc-sdk img,#onetrust-pc-sdk svg,#onetrust-pc-sdk button,#onetrust-pc-sdk section,#onetrust-pc-sdk a,#onetrust-pc-sdk label,#onetrust-pc-sdk input,#onetrust-pc-sdk ul,#onetrust-pc-sdk li,#onetrust-pc-sdk nav,#onetrust-pc-sdk table,#onetrust-pc-sdk thead,#onetrust-pc-sdk tr,#onetrust-pc-sdk td,#onetrust-pc-sdk tbody,#onetrust-pc-sdk .ot-main-content,#onetrust-pc-sdk .ot-toggle,#onetrust-pc-sdk #ot-content,#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk .checkbox,#ot-sdk-cookie-policy div,#ot-sdk-cookie-policy span,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy p,#ot-sdk-cookie-policy img,#ot-sdk-cookie-policy svg,#ot-sdk-cookie-policy button,#ot-sdk-cookie-policy section,#ot-sdk-cookie-policy a,#ot-sdk-cookie-policy label,#ot-sdk-cookie-policy input,#ot-sdk-cookie-policy ul,#ot-sdk-cookie-policy li,#ot-sdk-cookie-policy nav,#ot-sdk-cookie-policy table,#ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy tr,#ot-sdk-cookie-policy td,#ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy .ot-main-content,#ot-sdk-cookie-policy .ot-toggle,#ot-sdk-cookie-policy #ot-content,#ot-sdk-cookie-policy #ot-pc-content,#ot-sdk-cookie-policy .checkbox,#ot-sync-ntfy div,#ot-sync-ntfy span,#ot-sync-ntfy h1,#ot-sync-ntfy h2,#ot-sync-ntfy h3,#ot-sync-ntfy h4,#ot-sync-ntfy h5,#ot-sync-ntfy h6,#ot-sync-ntfy p,#ot-sync-ntfy img,#ot-sync-ntfy svg,#ot-sync-ntfy button,#ot-sync-ntfy section,#ot-sync-ntfy a,#ot-sync-ntfy label,#ot-sync-ntfy input,#ot-sync-ntfy ul,#ot-sync-ntfy li,#ot-sync-ntfy nav,#ot-sync-ntfy table,#ot-sync-ntfy thead,#ot-sync-ntfy tr,#ot-sync-ntfy td,#ot-sync-ntfy tbody,#ot-sync-ntfy .ot-main-content,#ot-sync-ntfy .ot-toggle,#ot-sync-ntfy #ot-content,#ot-sync-ntfy #ot-pc-content,#ot-sync-ntfy .checkbox{font-family:inherit;font-weight:normal;-webkit-font-smoothing:auto;letter-spacing:normal;line-height:normal;padding:0;margin:0;height:auto;min-height:0;max-height:none;width:auto;min-width:0;max-width:none;border-radius:0;border:none;clear:none;float:none;position:static;bottom:auto;left:auto;right:auto;top:auto;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;white-space:normal;background:none;overflow:visible;vertical-align:baseline;visibility:visible;z-index:auto;box-shadow:none}#onetrust-banner-sdk label:before,#onetrust-banner-sdk label:after,#onetrust-banner-sdk .checkbox:after,#onetrust-banner-sdk .checkbox:before,#onetrust-pc-sdk label:before,#onetrust-pc-sdk label:after,#onetrust-pc-sdk .checkbox:after,#onetrust-pc-sdk .checkbox:before,#ot-sdk-cookie-policy label:before,#ot-sdk-cookie-policy label:after,#ot-sdk-cookie-policy .checkbox:after,#ot-sdk-cookie-policy .checkbox:before,#ot-sync-ntfy label:before,#ot-sync-ntfy label:after,#ot-sync-ntfy .checkbox:after,#ot-sync-ntfy .checkbox:before{content:"";content:none}#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{position:relative;width:100%;max-width:100%;margin:0 auto;padding:0 20px;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{width:100%;float:left;box-sizing:border-box;padding:0;display:initial}@media(min-width: 400px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:90%;padding:0}}@media(min-width: 550px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:100%}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{margin-left:4%}#onetrust-banner-sdk .ot-sdk-column:first-child,#onetrust-banner-sdk .ot-sdk-columns:first-child,#onetrust-pc-sdk .ot-sdk-column:first-child,#onetrust-pc-sdk .ot-sdk-columns:first-child,#ot-sdk-cookie-policy .ot-sdk-column:first-child,#ot-sdk-cookie-policy .ot-sdk-columns:first-child{margin-left:0}#onetrust-banner-sdk .ot-sdk-two.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-two.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-two.ot-sdk-columns{width:13.3333333333%}#onetrust-banner-sdk .ot-sdk-three.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-three.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-three.ot-sdk-columns{width:22%}#onetrust-banner-sdk .ot-sdk-four.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-four.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-four.ot-sdk-columns{width:30.6666666667%}#onetrust-banner-sdk .ot-sdk-eight.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eight.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eight.ot-sdk-columns{width:65.3333333333%}#onetrust-banner-sdk .ot-sdk-nine.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-nine.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-nine.ot-sdk-columns{width:74%}#onetrust-banner-sdk .ot-sdk-ten.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-ten.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-ten.ot-sdk-columns{width:82.6666666667%}#onetrust-banner-sdk .ot-sdk-eleven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eleven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eleven.ot-sdk-columns{width:91.3333333333%}#onetrust-banner-sdk .ot-sdk-twelve.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-twelve.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-twelve.ot-sdk-columns{width:100%;margin-left:0}}#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6{margin-top:0;font-weight:600;font-family:inherit}#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem;line-height:1.2}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem;line-height:1.25}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem;line-height:1.3}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem;line-height:1.35}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem;line-height:1.5}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem;line-height:1.6}@media(min-width: 550px){#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem}}#onetrust-banner-sdk p,#onetrust-pc-sdk p,#ot-sdk-cookie-policy p{margin:0 0 1em 0;font-family:inherit;line-height:normal}#onetrust-banner-sdk a,#onetrust-pc-sdk a,#ot-sdk-cookie-policy a{color:#565656;text-decoration:underline}#onetrust-banner-sdk a:hover,#onetrust-pc-sdk a:hover,#ot-sdk-cookie-policy a:hover{color:#565656;text-decoration:none}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{display:inline-block;height:38px;padding:0 30px;color:#555;text-align:center;font-size:.9em;font-weight:400;line-height:38px;letter-spacing:.01em;text-decoration:none;white-space:nowrap;background-color:rgba(0,0,0,0);border-radius:2px;border:1px solid #bbb;cursor:pointer;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-button:hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus,#onetrust-pc-sdk .ot-sdk-button:hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus,#ot-sdk-cookie-policy .ot-sdk-button:hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:not(.ot-link-btn):focus{color:#333;border-color:#888;opacity:.7}#onetrust-banner-sdk .ot-sdk-button:focus,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk .ot-sdk-button:focus,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy .ot-sdk-button:focus,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus{outline:2px solid #000}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-banner-sdk button.ot-sdk-button-primary,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-pc-sdk button.ot-sdk-button-primary,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary,#ot-sdk-cookie-policy button.ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary{color:#fff;background-color:#33c3f0;border-color:#33c3f0}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-banner-sdk button.ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary:hover,#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-banner-sdk button.ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=submit].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=reset].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type=button].ot-sdk-button-primary:focus,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-pc-sdk button.ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary:hover,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-pc-sdk button.ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=submit].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=reset].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type=button].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=button].ot-sdk-button-primary:focus{color:#fff;background-color:#1eaedb;border-color:#1eaedb}#onetrust-banner-sdk input[type=text],#onetrust-pc-sdk input[type=text],#ot-sdk-cookie-policy input[type=text]{height:38px;padding:6px 10px;background-color:#fff;border:1px solid #d1d1d1;border-radius:4px;box-shadow:none;box-sizing:border-box}#onetrust-banner-sdk input[type=text],#onetrust-pc-sdk input[type=text],#ot-sdk-cookie-policy input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none}#onetrust-banner-sdk input[type=text]:focus,#onetrust-pc-sdk input[type=text]:focus,#ot-sdk-cookie-policy input[type=text]:focus{border:1px solid #000;outline:0}#onetrust-banner-sdk label,#onetrust-pc-sdk label,#ot-sdk-cookie-policy label{display:block;margin-bottom:.5rem;font-weight:600}#onetrust-banner-sdk input[type=checkbox],#onetrust-pc-sdk input[type=checkbox],#ot-sdk-cookie-policy input[type=checkbox]{display:inline}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{list-style:circle inside}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{padding-left:0;margin-top:0}#onetrust-banner-sdk ul ul,#onetrust-pc-sdk ul ul,#ot-sdk-cookie-policy ul ul{margin:1.5rem 0 1.5rem 3rem;font-size:90%}#onetrust-banner-sdk li,#onetrust-pc-sdk li,#ot-sdk-cookie-policy li{margin-bottom:1rem}#onetrust-banner-sdk th,#onetrust-banner-sdk td,#onetrust-pc-sdk th,#onetrust-pc-sdk td,#ot-sdk-cookie-policy th,#ot-sdk-cookie-policy td{padding:12px 15px;text-align:left;border-bottom:1px solid #e1e1e1}#onetrust-banner-sdk button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-container:after,#onetrust-banner-sdk .ot-sdk-row:after,#onetrust-pc-sdk .ot-sdk-container:after,#onetrust-pc-sdk .ot-sdk-row:after,#ot-sdk-cookie-policy .ot-sdk-container:after,#ot-sdk-cookie-policy .ot-sdk-row:after{content:"";display:table;clear:both}#onetrust-banner-sdk .ot-sdk-row,#onetrust-pc-sdk .ot-sdk-row,#ot-sdk-cookie-policy .ot-sdk-row{margin:0;max-width:none;display:block}.ot-sdk-cookie-policy{font-family:inherit;font-size:16px}.ot-sdk-cookie-policy.otRelFont{font-size:1rem}.ot-sdk-cookie-policy h3,.ot-sdk-cookie-policy h4,.ot-sdk-cookie-policy h6,.ot-sdk-cookie-policy p,.ot-sdk-cookie-policy li,.ot-sdk-cookie-policy a,.ot-sdk-cookie-policy th,.ot-sdk-cookie-policy #cookie-policy-description,.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group,.ot-sdk-cookie-policy #cookie-policy-title{color:dimgray}.ot-sdk-cookie-policy #cookie-policy-description{margin-bottom:1em}.ot-sdk-cookie-policy h4{font-size:1.2em}.ot-sdk-cookie-policy h6{font-size:1em;margin-top:2em}.ot-sdk-cookie-policy th{min-width:75px}.ot-sdk-cookie-policy a,.ot-sdk-cookie-policy a:hover{background:#fff}.ot-sdk-cookie-policy thead{background-color:#f6f6f4;font-weight:bold}.ot-sdk-cookie-policy .ot-mobile-border{display:none}.ot-sdk-cookie-policy section{margin-bottom:2em}.ot-sdk-cookie-policy table{border-collapse:inherit}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy{font-family:inherit;font-size:1rem}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title{color:dimgray}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description{margin-bottom:1em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup{margin-left:1.5em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group-desc,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-table-header,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td{font-size:.9em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td span,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td a{font-size:inherit}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group{font-size:1em;margin-bottom:.6em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-title{margin-bottom:1.2em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy>section{margin-bottom:1em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th{min-width:75px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a:hover{background:#fff}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead{background-color:#f6f6f4;font-weight:bold}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-mobile-border{display:none}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy section{margin-bottom:2em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup ul li{list-style:disc;margin-left:1.5em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup ul li h4{display:inline-block}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table{border-collapse:inherit;margin:auto;border:1px solid #d7d7d7;border-radius:5px;border-spacing:initial;width:100%;overflow:hidden}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table td{border-bottom:1px solid #d7d7d7;border-right:1px solid #d7d7d7}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td{border-bottom:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr th:last-child,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr td:last-child{border-right:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-host,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-cookies-type{width:25%}.ot-sdk-cookie-policy[dir=rtl]{text-align:left}#ot-sdk-cookie-policy h3{font-size:1.5em}@media only screen and (max-width: 530px){.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) table,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) thead,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tbody,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) th,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr{display:block}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) thead tr{position:absolute;top:-9999px;left:-9999px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr{margin:0 0 1em 0}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr:nth-child(odd),.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr:nth-child(odd) a{background:#f6f6f4}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td{border:none;border-bottom:1px solid #eee;position:relative;padding-left:50%}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td:before{position:absolute;height:100%;left:6px;width:40%;padding-right:10px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) .ot-mobile-border{display:inline-block;background-color:#e4e4e4;position:absolute;height:100%;top:0;left:45%;width:2px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td:before{content:attr(data-label);font-weight:bold}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) li{word-break:break-word;word-wrap:break-word}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table{overflow:hidden}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table td{border:none;border-bottom:1px solid #d7d7d7}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tr{display:block}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-host,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-cookies-type{width:auto}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tr{margin:0 0 1em 0}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td:before{height:100%;width:40%;padding-right:10px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td:before{content:attr(data-label);font-weight:bold}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li{word-break:break-word;word-wrap:break-word}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead tr{position:absolute;top:-9999px;left:-9999px;z-index:-9999}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td{border-bottom:1px solid #d7d7d7;border-right:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td:last-child{border-bottom:0px}}
+                
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h5,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description {
+                        color: #696969;
+                    }
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th {
+                        color: #696969;
+                    }
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group {
+                        color: #696969;
+                    }
+                    
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title {
+                            color: #696969;
+                        }
+                    
+            
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table th {
+                            background-color: #F8F8F8;
+                        }
+                    
+            .ot-floating-button__front{background-image:url('https://cdn.cookielaw.org/logos/static/ot_persistent_cookie_icon.png')}</style><style type="text/css">.TnITTtw-fp-collapsed-button {
+    display: none;
+    position: fixed !important;
+    top: 16px !important;
+    right: 16px !important;
+}
+
+.TnITTtw-fp-collapsed-button:hover {
+    opacity: 1.0 !important;
+}
+
+.TnITTtw-mate-fp-bar {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif !important;
+    color: #000;
+    position: fixed;
+    top: 16px;
+    right: 16px;
+    z-index: 999;
+    background: rgb(255 255 255 / 0.95);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 16px;
+    border-radius: 11px;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 25%);
+    width: 320px;
+    line-height: initial;
+}
+
+@-moz-document url-prefix() {
+    .TnITTtw-mate-fp-bar {
+        background: rgb(255 255 255 / 1.0);
+    }
+}
+
+.TnITTtw-mate-fp-bar.TnITTtw-dark-mode {
+    background: rgb(44, 44, 43);
+}
+
+.TnITTtw-hide-fp-bar {
+    width: 12px;
+    height: 12px;
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/regular-close-tt.png) !important;
+    background-size: 12px 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    cursor: pointer;
+}
+
+.TnITTtw-hide-fp-bar:hover {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/hover-close-tt.png) !important;
+}
+
+.TnITTtw-current-page-lang {
+    color: #6d6d72;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.TnITTtw-dark-mode .TnITTtw-current-page-lang {
+    color: #98989D;
+}
+
+.TnITTtw-fp-translate {
+    width: calc(100% - 73px) !important;
+    font-size: 14px !important;
+    text-transform: none !important;
+}
+
+.TnITTtw-fp-translate.TnITTtw-in-progress {
+    animation-name: funky-bg;
+    animation-duration: 10s;
+    animation-timing-function: ease-in;
+}
+
+.TnITTtw-fp-translate.TnITTtw-show-original {
+    width: calc(100% - 20px) !important;
+}
+
+@keyframes funky-bg {
+    from {
+        background-image: linear-gradient(145deg, #01EF92, #00D8FB),
+        linear-gradient(35deg, rgba(1, 239, 146, 0.25), rgba(0, 216, 251, 0.25)) !important;
+    }
+
+    to {
+        background-image: linear-gradient(90deg, #01EF92, #00D8FB),
+        linear-gradient(35deg, rgba(1, 239, 146, 0.25), rgba(0, 216, 251, 0.25)) !important;
+    }
+}
+
+.TnITTtw-change-language, .TnITTtw-stop-fp {
+    width: 38px;
+    height: 38px;
+    background-color: #EFEFF4;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 16px 16px;
+    border-radius: 11px;
+    display: inline-block;
+    vertical-align: top;
+    cursor: pointer;
+}
+
+.TnITTtw-change-language {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/globe-earth.png) !important;
+}
+
+.TnITTtw-dark-mode .TnITTtw-change-language {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/globe-earth-dark.png) !important;
+}
+
+.TnITTtw-stop-fp {
+    display: none;
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/regular-stt-stop.png) !important;
+    background-size: 12px 12px;
+}
+
+.TnITTtw-dark-mode .TnITTtw-change-language, .TnITTtw-dark-mode .TnITTtw-stop-fp {
+    background-color: #525251 !important;
+}
+
+.TnITTtw-change-language:hover, .TnITTtw-stop-fp:hover {
+    background-color: #F6F6F6;
+}
+
+.TnITTtw-change-language:active, .TnITTtw-stop-fp:active {
+    background-color: #E9E9E9;
+}
+
+.TnITTtw-dark-mode .TnITTtw-change-language:hover,
+.TnITTtw-dark-mode .TnITTtw-stop-fp:hover,
+.TnITTtw-dark-mode .TnITTtw-change-language:active,
+.TnITTtw-dark-mode .TnITTtw-stop-fp:active {
+    background-color: #767675;
+}
+
+#TnITTtw-always-translate {
+}
+
+.TnITTtw-fp-options input {
+    padding: initial;
+    width: auto;
+    border: initial;
+    box-shadow: initial;
+    line-height: initial;
+    height: auto;
+    display: initial;
+    position: initial;
+    appearance: auto;
+    top: initial;
+    cursor: pointer;
+    margin: 0;
+}
+
+.TnITTtw-fp-options input[readonly="readonly"] {
+    opacity: 0.5;
+}
+
+#TnITTtw-always-translate + label,
+#TnITTtw-never-translate-lang + label,
+#TnITTtw-never-translate-site + label {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif !important;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 4px;
+    color: #000;
+    cursor: pointer;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 296px;
+    vertical-align: top;
+    line-height: initial;
+    letter-spacing: initial;
+    text-transform: initial;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+#TnITTtw-always-translate + label::before,
+#TnITTtw-never-translate-lang + label::before,
+#TnITTtw-never-translate-site + label::before,
+#TnITTtw-always-translate + label::after,
+#TnITTtw-never-translate-lang + label::after,
+#TnITTtw-never-translate-site + label::after  {
+    content: initial;
+} 
+
+.TnITTtw-always-translate-inner-label {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 252px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.TnITTtw-dark-mode #TnITTtw-always-translate + label,
+.TnITTtw-dark-mode #TnITTtw-never-translate-lang + label,
+.TnITTtw-dark-mode #TnITTtw-never-translate-site + label {
+    color: #FFF;
+}
+
+#TnITTtw-always-translate + label.TnITTtw-not-pro {
+    opacity: 0.5;
+}
+
+#TnITTtw-always-translate + label .TnITTtw-pro-label {
+    position: relative;
+    background: #000;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #FFF;
+    padding: 2px 5px;
+    border-radius: 4px;
+    margin-left: 10px;
+    top: -1px;
+    user-select: none;
+    -webkit-user-select: none;
+    display: inline;
+    font-weight: 500;
+}
+
+.TnITTtw-dark-mode #TnITTtw-always-translate + label .TnITTtw-pro-label {
+    background: #FFF;
+    color: #000;
+}
+
+.TnITTtw-inline-original-tooltip {
+    display: none;
+    position: absolute;
+    margin: 0px;
+    border: none;
+    padding: 16px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255 255 255 / 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 11px;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 25%);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: normal;
+}
+
+.TnITTtw-dark-mode.TnITTtw-inline-original-tooltip {
+    background-color: rgb(0 0 0 / 0.915);
+    color: #FFF;
+}
+
+.TnITTtw-inline-original-tooltip .TnITTtw-close-original-tooltip {
+    width: 12px;
+    height: 12px;
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/regular-close-tt.png) !important;
+    background-size: 12px 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    cursor: pointer;
+}
+
+.TnITTtw-inline-original-tooltip .TnITTtw-close-original-tooltip:hover {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/hover-close-tt.png) !important;
+}
+
+.TnITTtw-inline-original-tooltip .TnITTtw-original-label {
+    margin: 0;
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #6d6d72;
+    margin-bottom: 10px;
+}
+
+.TnITTtw-inline-original-tooltip.TnITTtw-dark-mode .TnITTtw-original-label {
+    color: #98989D;
+}
+
+.TnITTtw-inline-original-tooltip .TnITTtw-text-layout {
+    display: inline-block;
+    margin: 0;
+    font-size: 16px;
+    color: #000;
+}
+
+.TnITTtw-inline-original-tooltip.TnITTtw-dark-mode .TnITTtw-text-layout {
+    color: #FFF;
+}
+
+.TnITTtw-highlighted-for-original {
+    color: #0F0F5F;
+    background-color: #F0F0A0;
+}
+
+/* Dropdown scrollbars */
+
+#selVisibleScroll-1, #selVisibleScroll-2, #selVisibleScroll-3 {
+    overflow: hidden;
+    height: 259px;
+    width: 100%;
+    position: relative;
+}
+
+#sel-scrollbar-1, #sel-scrollbar-2, #sel-scrollbar-3 {
+    position: absolute;
+    width: 4px;
+    height: 259px;
+    left: 225px;
+}
+
+#sel-track-1, #sel-track-2, #sel-track-3 {
+    position: absolute;
+    top: 1px;
+    width: 4px;
+    height: calc(100% - 6px);
+}
+
+#sel-dragBar-1, #sel-dragBar-2, #sel-dragBar-3 {
+    position: absolute;
+    top: 1px;
+    width: 4px;
+    background: rgba(43, 43, 43, 0.5);
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.dark-mode #sel-dragBar-1, .dark-mode #sel-dragBar-2, .dark-mode #sel-dragBar-3 {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+#sel-dragBar-1:hover, #sel-dragBar-2:hover, #sel-dragBar-3:hover, 
+#sel-dragBar-1:active, #sel-dragBar-2:active, #sel-dragBar-3:active {
+    background: rgba(43, 43, 43, 0.675);
+}
+
+.dark-mode #sel-dragBar-1:hover,
+.dark-mode #sel-dragBar-2:hover,
+.dark-mode #sel-dragBar-3:hover,
+.dark-mode #sel-dragBar-1:active,
+.dark-mode #sel-dragBar-2:active,
+.dark-mode #sel-dragBar-3:active {
+    background: rgba(255, 255, 255, 0.675);
+}
+
+#sel-scrollbar-1, #sel-track-1, #sel-dragBar-1, 
+#sel-scrollbar-2, #sel-track-2, #sel-dragBar-2,
+#sel-scrollbar-3, #sel-track-3, #sel-dragBar-3 {
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+/* Spinner for when it's translating a page */
+
+.TnITTtw-cta-button-layout {
+    position: relative;
+    display: inline;
+}
+
+.TnITTtw-spinner {
+    display: none;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    user-select: none;
+    -webkit-user-select: none;
+}
+  
+  @media screen and (max-width: 800px) {
+    .TnITTtw-spinner {
+      top: 28px;
+    }
+  }
+
+  .TnITTtw-spinner.in-text {
+    display: block;
+    background: transparent;
+    position: initial;
+  }
+
+  .TnITTtw-spinner.left {
+    text-align: left;
+  }
+  
+  .TnITTtw-spinner > div {
+    width: 12px;
+    height: 12px;
+    background-color: rgb(0, 71, 46);
+  
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+    animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  }
+
+  .TnITTtw-spinner.in-text > div {
+    background-color: #000;
+  }
+  
+  .TnITTtw-spinner .TnITTtw-bounce1 {
+    -webkit-animation-delay: -0.32s;
+    animation-delay: -0.32s;
+  }
+  
+  .TnITTtw-spinner .TnITTtw-bounce2 {
+    -webkit-animation-delay: -0.16s;
+    animation-delay: -0.16s;
+  }
+  
+  @-webkit-keyframes sk-bouncedelay {
+    0%, 80%, 100% { -webkit-transform: scale(0) }
+    40% { -webkit-transform: scale(1.0) }
+  }
+  
+  @keyframes sk-bouncedelay {
+    0%, 80%, 100% { 
+      -webkit-transform: scale(0);
+      transform: scale(0);
+    } 40% { 
+      -webkit-transform: scale(1.0);
+      transform: scale(1.0);
+    }
+  }</style><style type="text/css">/*
+ * contextMenu.js v 1.4.0
+ * Author: Sudhanshu Yadav
+ * s-yadav.github.com
+ * Copyright (c) 2013 Sudhanshu Yadav.
+ * Dual licensed under the MIT and GPL licenses
+**/
+
+.iw-contextMenu {
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.10) !important;
+    border: 1px solid #c8c7cc !important;
+    border-radius: 11px !important;
+    display: none;
+    z-index: 1000000132;
+    max-width: 300px !important;
+    width: auto !important;
+}
+
+.dark-mode .iw-contextMenu,
+.TnITTtw-dark-mode.iw-contextMenu,
+.TnITTtw-dark-mode .iw-contextMenu {
+    border-color: #747473 !important;
+}
+
+.iw-cm-menu {
+    background: #fff !important;
+    color: #000 !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    overflow: visible !important;
+}
+
+.dark-mode .iw-cm-menu,
+.TnITTtw-dark-mode.iw-cm-menu,
+.TnITTtw-dark-mode .iw-cm-menu {
+    background: #525251 !important;
+    color: #FFF !important;
+}
+
+.iw-curMenu {
+}
+
+.iw-cm-menu li {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif !important;
+    list-style: none !important;
+    padding: 10px !important;
+    padding-right: 20px !important;
+    border-bottom: 1px solid #c8c7cc !important;
+    font-weight: 400 !important;
+    cursor: pointer !important;
+    position: relative !important;
+    font-size: 14px !important;
+    margin: 0 !important;
+    line-height: inherit !important;
+    border-radius: 0 !important;
+    display: block !important;
+}
+
+.dark-mode .iw-cm-menu li, .TnITTtw-dark-mode .iw-cm-menu li {
+    border-bottom-color: #747473 !important;
+}
+
+.iw-cm-menu li:first-child {
+    border-top-left-radius: 11px !important;
+    border-top-right-radius: 11px !important;
+}
+
+.iw-cm-menu li:last-child {
+    border-bottom-left-radius: 11px !important;
+    border-bottom-right-radius: 11px !important;
+    border-bottom: none !important;
+}
+
+.iw-mOverlay {
+    position: absolute !important;
+    width: 100% !important;
+    height: 100% !important;
+    top: 0px !important;
+    left: 0px !important;
+    background: #FFF !important;
+    opacity: .5 !important;
+}
+
+.iw-contextMenu li.iw-mDisable {
+    opacity: 0.3 !important;
+    cursor: default !important;
+}
+
+.iw-mSelected {
+    background-color: #F6F6F6 !important;
+}
+
+.dark-mode .iw-mSelected, .TnITTtw-dark-mode .iw-mSelected {
+    background-color: #676766 !important;
+}
+
+.iw-cm-arrow-right {
+    width: 0 !important;
+    height: 0 !important;
+    border-top: 5px solid transparent !important;
+    border-bottom: 5px solid transparent !important;
+    border-left: 5px solid #000 !important;
+    position: absolute !important;
+    right: 5px !important;
+    top: 50% !important;
+    margin-top: -5px !important;
+}
+
+.dark-mode .iw-cm-arrow-right, .TnITTtw-dark-mode .iw-cm-arrow-right {
+    border-left-color: #FFF !important;
+}
+
+.iw-mSelected > .iw-cm-arrow-right {
+}
+
+/*context menu css end */</style><style type="text/css">.ui_selector, .TnITTtw-ui_selector {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
+    display: inline-block;
+}
+
+.ui_selector .select, .TnITTtw-ui_selector .TnITTtw-select {
+    color: #000;
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
+    border: 1px solid rgba(200, 199, 204, 0.5);
+    padding: 10px 15px;
+    width: 201px;
+    -webkit-user-select: none;
+    cursor: pointer;
+    border-radius: 11px;
+    display: inline-block;
+    background-image: -webkit-linear-gradient(top, #FAFAFA, #F6F6F6);
+    background-image: -moz-linear-gradient(top, #FAFAFA, #F6F6F6);
+    background-size: auto 48px;
+    background-position: 0px -11px;
+    box-shadow: 0 0.5px 1px rgba(0, 0, 0, 0.10);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.dark-mode .ui_selector .select, 
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-select {
+    background-image: -webkit-linear-gradient(top, #4A4A49, #40403F);
+    background-image: -moz-linear-gradient(top, #4A4A49, #40403F);
+    color: #FFF;
+    border-color: #747473;
+}
+
+.ui_selector .select:hover,
+.TnITTtw-ui_selector .TnITTtw-select:hover {
+    color: #424242;
+    background-image: -webkit-linear-gradient(top, #FAFAFA, #FAFAFA);
+    background-image: -moz-linear-gradient(top, #FAFAFA, #FAFAFA);
+}
+
+.ui_selector .select:active,
+.TnITTtw-ui_selector .TnITTtw-select:active {
+    color: #6d6d72;
+    background-image: -webkit-linear-gradient(top, #F6F6F6, #F6F6F6);
+    background-image: -moz-linear-gradient(top, #F6F6F6, #F6F6F6);
+}
+
+.dark-mode .ui_selector .select:hover,
+.dark-mode .ui_selector .select:active,
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-select:hover,
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-select:active {
+    background-image: -webkit-linear-gradient(top, #4A4A49, #4A4A49);
+    background-image: -moz-linear-gradient(top, #4A4A49, #4A4A49);
+    color: #FFF;
+    border-color: #747473;
+}
+
+.ui_selector .select .detected-ico,
+.TnITTtw-ui_selector .TnITTtw-select .TnITTtw-detected-ico {
+    display: inline-block;
+}
+
+.ui_selector .active, .ui_selector .active:hover, .ui_selector .active:active,
+.TnITTtw-ui_selector .TnITTtw-active, .TnITTtw-ui_selector .TnITTtw-active:hover, .TnITTtw-ui_selector .TnITTtw-active:active {
+    box-shadow: 0 -1px 15px -10px rgba(0, 0, 0, 0.85) !important;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background: #F3F3F3;
+}
+
+.sliding-text,
+.TnITTtw-sliding-text {
+    position: relative;
+}
+
+.ui_selector .options,
+.TnITTtw-ui_selector .TnITTtw-options {
+    margin-left: 0px;
+    margin-top: -4px;
+    background: #fff;
+    border: 1px solid rgba(200, 199, 204, 0.5);
+    width: 231px;
+    overflow: hidden;
+    max-height: 313px;
+    position: absolute;
+    font-size: 12px;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 25%);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    display: none;
+}
+
+.ui_selector .options.standalone,
+.TnITTtw-ui_selector .TnITTtw-options.TnITTtw-standalone {
+    border-radius: 11px;
+    margin-top: 16px;
+}
+
+/* for now, it can only be on the top */
+.ui_selector .options-arrow,
+.TnITTtw-ui_selector .TnITTtw-options-arrow {
+    display: none;
+    position: absolute;
+    width: 32px !important;
+    height: 18px !important;
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/tt-dropdown-arrow.png);
+    background-size: 32px 18px;
+    transform: rotate(180deg);
+    margin-top: -1px;
+}
+
+.dark-mode .ui_selector .options-arrow,
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-options-arrow {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/tt-dropdown-arrow-dark.png);
+}
+
+.dark-mode .ui_selector .options,
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-options {
+    background: #525251;
+}
+
+.ui_selector .options ul,
+.TnITTtw-ui_selector .TnITTtw-options ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 232px;
+}
+
+.ui_selector .options ul li,
+.TnITTtw-ui_selector .TnITTtw-options ul li {
+    padding: 10px 0px;
+    -webkit-user-select: none;
+    text-align: center;
+    font-size: 17px;
+    -webkit-transition: all 600ms cubic-bezier(0.23, 1, 0.32, 1);
+    margin: 0 10px;
+    border-radius: 6px;
+    position: relative;
+}
+
+.dark-mode .options ul li,
+.TnITTtw-dark-mode .TnITTtw-options ul li {
+    color: #fff;
+}
+
+.ui_selector .options ul li:last-child,
+.TnITTtw-ui_selector .TnITTtw-options ul li:last-child {
+    margin-bottom: 16px;
+}
+
+.ui_selector .options ul li.option:first-child,
+.ui_selector .options ul li.option_selected:first-child,
+.TnITTtw-ui_selector .TnITTtw-options ul li.TnITTtw-option:first-child,
+.TnITTtw-ui_selector .TnITTtw-options ul li.TnITTtw-option_selected:first-child {
+    margin-top: 16px;
+}
+
+.ui_selector .options ul li.whenHover,
+.TnITTtw-ui_selector .TnITTtw-options ul li.TnITTtw-whenHover {
+    cursor: pointer;
+    background: #f3f3f3;
+    text-align: center;
+}
+
+.dark-mode .ui_selector .options ul li.whenHover,
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-options ul li.TnITTtw-whenHover {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.ui_selector .options ul li.option_selected,
+.TnITTtw-ui_selector .TnITTtw-options ul li.TnITTtw-option_selected {
+    cursor: pointer;
+    background-image: linear-gradient(145deg, #01EF92, #00D8FB),
+    linear-gradient(35deg, rgba(1, 239, 146, 0.25), rgba(0, 216, 251, 0.25)) !important;
+    color: #fff;
+    font-weight: 600;
+}
+
+.ui_selector .options ul .group,
+.ui_selector .options ul .group:hover,
+.ui_selector .options ul .group.whenHover,
+.TnITTtw-ui_selector .TnITTtw-options ul .TnITTtw-group,
+.TnITTtw-ui_selector .TnITTtw-options ul .TnITTtw-group:hover,
+.TnITTtw-ui_selector .TnITTtw-options ul .TnITTtw-group.whenHover {
+    padding: 16px 10px;
+    color: #8e8e93;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-align: center;
+    cursor: default;
+    background: #FFF;
+}
+
+.dark-mode .ui_selector .options ul .group,
+.dark-mode .ui_selector .options ul .group:hover,
+.dark-mode .ui_selector .options ul .group.whenHover,
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-options ul .TnITTtw-group,
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-options ul .TnITTtw-group:hover,
+.TnITTtw-dark-mode .TnITTtw-ui_selector .TnITTtw-options ul .TnITTtw-group.TnITTtw-whenHover {
+    color: #98989D;
+    background: #525251;
+}
+
+.group-element,
+.TnITTtw-group-element {
+    width: 153px;
+}
+
+.options .dd-search,
+.TnITTtw-options .TnITTtw-dd-search {
+    border-bottom: 1px solid rgba(200, 199, 204, 0.5);
+}
+
+.dark-mode .options .dd-search,
+.TnITTtw-dark-mode .TnITTtw-options .TnITTtw-dd-search {
+    border-bottom-color: #747473;
+}
+
+.dd-search .dd-input,
+.TnITTtw-dd-search .TnITTtw-dd-input {
+    padding: 16px;
+    padding-left: calc(16px * 3);
+    width: 168px;
+    border: none;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
+    text-align: left;
+    color: #000;
+    font-size: 17px;
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/searchfield-icon.png);
+    background-position: 16px;
+    background-size: 16px;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: auto;
+}
+
+.dark-mode .dd-search .dd-input,
+.TnITTtw-dark-mode .TnITTtw-dd-search .TnITTtw-dd-input {
+    color: #FFF;
+    background-color: #525251;
+}
+
+.dd-search .dd-input:focus,
+.TnITTtw-dd-search .TnITTtw-dd-input:focus {
+    -webkit-transition: all 275ms cubic-bezier(0.23, 1, 0.32, 1);
+    outline: none;
+    text-align: left;
+}
+
+.dd-input::-webkit-input-placeholder,
+.TnITTtw-dd-input::-webkit-input-placeholder {
+    color: #8e8e93;
+}
+
+.search-failed-plaque,
+.TnITTtw-search-failed-plaque {
+    text-align: center;
+    padding: 20px;
+    color: #8e8e93;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.dark-mode .search-failed-plaque,
+.TnITTtw-dark-mode .TnITTtw-search-failed-plaque {
+    color: #98989D;
+}
+
+.rm-recent,
+.TnITTtw-rm-recent {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/regular-lang-remove.png);
+    background-size: 10px 10px;
+    top: 15px;
+    right: 10px;
+}
+
+.rm-recent:hover,
+.TnITTtw-rm-recent:hover {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/hover-lang-remove.png);
+}
+
+.rm-recent:active,
+.TnITTtw-rm-recent:active {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/down-lang-remove.png);
+}
+
+.option_selected .rm-recent,
+.TnITTtw-option_selected .TnITTtw-rm-recent {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/down-active-lang-remove.png);
+}
+
+.option_selected .rm-recent:hover,
+.TnITTtw-option_selected .TnITTtw-rm-recent:hover {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/hover-active-lang-remove.png);
+}
+
+.option_selected .rm-recent:active,
+.TnITTtw-option_selected .TnITTtw-rm-recent:active {
+    background-image: url(chrome-extension://ollghamalkmmhboihmhoaaobmamehjgn/res/images/ui/down-active-lang-remove.png);
+}
+
+.TnITTtw-hidden {
+    display: none;
+}</style><style type="text/css">@-webkit-keyframes load4 {
+    0%,
+    100% {
+        box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
+    }
+    12.5% {
+        box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+    }
+    25% {
+        box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+    }
+    37.5% {
+        box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
+    }
+    50% {
+        box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
+    }
+    62.5% {
+        box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
+    }
+    75% {
+        box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
+    }
+    87.5% {
+        box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
+    }
+}
+
+@keyframes load4 {
+    0%,
+    100% {
+        box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
+    }
+    12.5% {
+        box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+    }
+    25% {
+        box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+    }
+    37.5% {
+        box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
+    }
+    50% {
+        box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
+    }
+    62.5% {
+        box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
+    }
+    75% {
+        box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
+    }
+    87.5% {
+        box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
+    }
+}</style><style type="text/css">/* This is not a zero-length file! */</style></head>
+<body class="els-footer-noImage" data-new-gr-c-s-check-loaded="14.1176.0" data-gr-ext-installed="">
+<a class="accessibility-link-skip" title="Skip to content" href="#maincontent">Skip to content</a>
+<header class="els-account-header-main" aria-label="Header area">
+	<img class="els-settings-logo" src="assets/images/elsevier/elsevier-logo.svg" alt="Elsevier">
+	<div id="els-account-name" class="els-account-name" data-label="Page Heading">
+		<h1>
+			Elsevier account
+		</h1>
+	</div>
+	<span class="els-settings-header-right">
+			<div id="accountSettings" class="headerLink" tabindex="0">
+				
+				<a href="#" class="els-headerLink">Account settings </a>
+			</div>
+			<div id="privacySettings" class="headerLink" tabindex="0">
+				
+				<a href="https://privacy.elsevier.com/your-privacy" class="els-headerLink">Privacy settings 
+						<span id="privacyLink-icon" class="privacyLink-icon">↗</span></a>
+			</div>
+            <div id="Help" class="headerLinkIcon" tabindex="0">
+            <a class="els-help" href="https://service.elsevier.com/app/home/supporthub/elsevieraccess/" target="_blank" rel="noopener noreferrer" aria-label="Help page opens in new window" alt=""></a></div>
+			<div tabindex="0" id="els-profile-initials" class="els-profile-link els-profile-initials">JD</div>
+			<div class="els-settings-header-popup">
+				<div class="els-header-popup"></div>
+				<div class="els-profile-info">
+					<div class="els-account-info">
+						<i class="els-profile-icon ss-user"></i>
+						
+							
+								<p class="els-display-profile-info">Jane Doe</p>
+								<p class="els-display-profile-info">authorization.thesis@gmail.com</p>
+							
+							
+						
+					</div>
+					<div class="els-spine-signout" tabindex="0">
+						<i class="els-signout-icon ss-logout"></i> <a href="logout" class="els-signout">Sign out</a>
+					</div>
+				</div>
+			</div>
+		</span>
+	<a href="#" class="els-spine-icon closed-spine"></a>
+	<div class="els-spine-right">
+		<div class="els-settings-right">
+			<div class="els-account-info">
+				<span id="els-profile-initials-right" class="els-profile-link els-profile-initials">JD</span>
+				
+					
+							<span><p class="els-display-profile-info">Jane Doe</p>
+							<p class="els-display-profile-info">authorization.thesis@gmail.com</p></span>
+					
+					
+				
+				<a href="#" class="els-spine-icon-open"></a>
+			</div>
+			<ul class="els-settings-right-list">
+				<li class="els-settings-right-list-items"><a href="#" class="els-href active-link">Account settings </a></li>
+				<li class="els-settings-right-list-items"><a href="https://privacy.elsevier.com/your-privacy" target="_blank" class="els-href">Privacy settings <span id="privacyLink-icon_list" class="privacyLink-icon"> ↗</span></a></li>
+				<li class="els-settings-right-list-items">
+					<a class="els-href" href="https://service.elsevier.com/app/home/supporthub/elsevieraccess/" target="_blank rel=" noopener="" noreferrer"="" aria-label="Help page opens in new window"><span id=" Help" class="Help" alt="Help">Help ↗</span></a></li>
+				<li class="els-settings-right-list-items "><a href="logout" class="els-href">Sign out</a></li>
+			</ul>
+		</div>
+	</div>
+	<noscript>
+		<style>
+			.els-spine-icon, .els-profile-icon, .els-settings-left {
+				display: none;
+			}
+
+			.els-settings-nojs {
+				display: block;
+				padding-left: 32px;
+			}
+
+			@media screen and (max-width:767px) {
+				.els-settings-nojs {
+					padding-left: 16px;
+				}
+			}
+
+			.els-account-header {
+				height: 250px;
+			}
+
+			.els-display-profile-info {
+				padding-top: 10px;
+			}
+
+			. {
+				padding: 8px 0;
+			}
+
+			.els-settings-main {
+				margin: 0 auto;
+			}
+		</style>
+		<ul class="els-settings-nojs">
+			
+				
+					<li class="els-display-profile-info">Jane Doe</li>
+					<li class="els-display-profile-info">authorization.thesis@gmail.com</li>
+				
+				
+			
+			<li><a href="logout" class="els-signout">Sign out</a></li>
+		</ul>
+	</noscript>
+</header>
+<nav aria-label="Important info">
+	<div id="bannerId">
+		<p class="els-banner-content">
+			Any changes made here will update your account details and settings of all other Elsevier products such as Mendeley and ScienceDirect. If you have any account-settings feedback, please <a href="https://survey.alchemer.eu/s3/90675578/Account-Settings-Feedback-Form" target="_blank" id="accountSettingsFeedback" class="tryAgain">contact us</a>.
+		</p>
+	</div>
+</nav>
+<div class="els-white">
+	<nav class="els-settings-left">
+		<ul class="els-settings-left-list">
+			<li class="els-settings-left-list-items active"><a href="#sign-in-details" class="els-href active-link">Sign in details</a></li>
+			<li class="els-settings-left-list-items"><a href="#basic-info" class="els-href">Account information</a></li>
+			<li class="els-settings-left-list-items"><a href="#communications" class="els-href">Marketing preferences</a></li>
+			
+			
+			
+		</ul>
+	</nav>
+	
+	
+		
+		
+			<div class="els-client-login">
+				<form action="backToProduct" name="" class="els-client-to-settings">
+					<button name="" id="backToClient" type="submit" class="els-back">
+						<span class="ss-navigateleft els-client-left"></span><span class="els-back-to-client">Back to ScienceDirect </span>
+					</button>
+				</form>
+			</div>
+		
+	
+
+	
+	<div class="els-settings-main">
+		<section class="container-fluid-borderless">
+			<main id="maincontent">
+				<h2 class="els-account-flow" id="sign-in-details">
+					Sign in details
+				</h2>
+				
+					
+					
+						<p class="els-account-flow-message">
+							You can add multiple emails to your account and use any of the emails below to sign in to Elsevier.
+						</p>
+					
+				
+				<div class="els-show-settings">
+					<!-- start: primary email -->
+					<div class="form-row-disabled">
+						<label id="primaryEmailLabel" for="primaryEmail">Primary email</label>
+						<form action="changeEmail" method="post" id="change-primaryEmail">
+							
+								
+								
+									<div class="disableddiv">
+										<p class="disabled" id="primaryEmail">authorization.thesis@gmail.com</p>
+										<span class="els-edit-icon">
+											<button type="submit" aria-label="Change primary email" name="change-primaryEmail" value="editEmail" class="ss-write"></button>
+											</span>
+									</div>
+								
+							
+							
+						</form>
+					</div>
+					<!-- end: primary email -->
+					
+						
+							
+							
+								
+								<div class="form-row-disabled">
+									<label id="secondaryEmailLabel" for="">Other sign in emails</label>
+									
+									<form id="add-secondaryEmail" action="addSecondaryEmail" method="post">
+										<div class="disableddiv nodata">
+											<button type="submit" name="add-secondaryEmail" class="nodataBtn nodataBtn-secondary-Email">
+												<span class="ss-plus"></span><span class="els-changed-info">Add new email
+											</span></button>
+										</div>
+									</form>
+									
+								</div>
+								
+							
+						
+					
+					<!-- start: password block full -->
+					<!-- start: password exists -->
+					
+						
+							<div class="form-row-disabled password">
+								<label id="passwordlabel" for="password">Password</label>
+								<form action="changePassword" method="post" id="change-pwd">
+									<div class="disableddiv">
+										<input type="password" name="" value="password" class="disabled" id="password" disabled=""> <span class="els-edit-icon">
+												<button type="submit" aria-label="Change password" name="change-pwd" value="editPwd" class="ss-write"></button>
+											</span>
+									</div>
+									
+										
+									
+								</form>
+							</div>
+							
+						
+						
+					
+
+					<!-- end: password block full -->
+				</div>
+				<h2 class="els-account-flow" id="basic-info">
+					Account information
+				</h2>
+				<p class="els-account-flow-message">
+					Please make sure all the information is correct and up to date.
+				</p>
+				<div class="els-show-settings">
+					<!-- start: name block full -->
+					
+						
+						
+							<div class="form-row-disabled">
+								<label id="fullnameLabel" for="fullname">Name</label>
+								<form action="changeAccountName" method="post" id="change-name">
+									<div class="disableddiv">
+										<p class="disabled" id="fullname">Jane Doe</p>
+										<span class="els-edit-icon">
+											<button type="submit" aria-label="Change name" name="change-name" class="ss-write"></button>
+										</span>
+									</div>
+									
+										
+										
+
+										
+										
+
+
+
+									
+								</form>
+							</div>
+						
+						
+						
+						
+						
+					
+					<!-- end: name block full -->
+
+					<!-- start: display name block full -->
+					<!-- start: display name exists -->
+					
+
+						
+							<div class="form-row-disabled">
+								<label id="displayNameLabel" for="displayName">Display name</label>
+								<form action="changeAccountName" method="post" id="change-displayName">
+									<div class="disableddiv">
+										<p class="disabled" id="displayName">Jane Doe</p>
+										<span class="els-edit-icon"><button type="submit" aria-label="Change display name" name="change-displayName" class="ss-write"></button></span>
+									</div>
+									
+
+										
+										
+									
+								</form>
+							</div>
+						
+
+						
+					
+					<!-- end: display name exists
+						start: no display name -->
+					<!-- end: no display name -->
+					<!-- end: display name block full -->
+
+					<!-- start: job title block full -->
+					<!-- As per ID-12554 commented jobTitle block-->
+					
+						
+						
+							<div class="form-row-disabled">
+								<label id="jobTitleLabel" for="">Job title</label>
+								<form action="professionalExperience" method="post" id="add-jobTitle">
+									<div class="disableddiv nodata">
+										<button type="submit" name="add-jobTitle" class="nodataBtn">
+											<span class="ss-plus"></span><span class="els-changed-info">Add job title</span>
+										</button>
+									</div>
+								</form>
+							</div>
+						
+					
+					<!-- end: job title block full -->
+
+					<!-- start: academic status or role block full -->
+					<!-- As per ID-12554 commented academicStatus block-->
+					
+						
+						
+							<div class="form-row-disabled">
+								<label id="academicStatusLabel" for="">Role</label>
+								<form action="professionalExperience" method="post" id="add-academicStatus">
+									<div class="disableddiv nodata">
+										<button type="submit" name="add-academicStatus" class="nodataBtn">
+											<span class="ss-plus"></span><span class="els-changed-info">Add role</span>
+										</button>
+									</div>
+								</form>
+							</div>
+						
+					
+					<!-- end: academic status or role block full -->
+
+					<!-- start: discipline block full -->
+					<!-- As per ID-12554 commented discipline block-->
+					
+						
+						
+							<div class="form-row-disabled">
+								<label id="disciplineLabel" for="">Discipline</label>
+								<form action="professionalExperience" method="post" id="add-discipline">
+									<div class="disableddiv nodata">
+										<button type="submit" name="add-discipline" class="nodataBtn">
+											<span class="ss-plus"></span><span class="els-changed-info">Add discipline</span>
+										</button>
+									</div>
+								</form>
+							</div>
+						
+					
+					<!-- end: discipline block full -->
+
+					<!-- start: organization block full -->
+					
+						
+						
+							<div class="form-row-disabled">
+								<label id="organizationLabel" for="organization">Organization</label>
+								<form action="professionalExperience" method="post" id="add-organization">
+									<div class="disableddiv nodata">
+										<button type="submit" name="add-organization" class="nodataBtn">
+											<span class="ss-plus"></span><span class="els-changed-info">Add organization</span>
+										</button>
+									</div>
+								</form>
+							</div>
+						
+					
+					<!-- end: organization block full -->
+
+
+					<!-- start: address block full -->
+					<!-- As per ID-12554 commented address block-->
+					
+						
+						
+							<div class="form-row-disabled">
+								<label id="addressLabel" for="">Address</label>
+								<form action="address" method="post" id="add-address">
+									<div class="disableddiv nodata">
+										<button type="submit" name="add-address" class="nodataBtn">
+											<span class="ss-plus"></span><span class="els-changed-info">Address</span>
+										</button>
+									</div>
+								</form>
+							</div>
+						
+					
+					<!-- end: address block full -->
+
+					<!-- start: phoneNumber block full, show only if phone number exists -->
+					
+						
+					
+					<!-- end:  phoneNumber block full -->
+				</div>
+				<h2 class="els-account-flow" id="communications">
+					Marketing preferences
+				</h2>
+						<div>
+							<label id="rememberMe" for="rememberme"> <span class="els-mktnPrefTxt">Elsevier may send you information about relevant products and events. Visit our Marketing Preference Center to decide whether you wish to receive such messages or not.</span>
+							</label>
+							<div class="els-mktnPref">
+								<button type="submit" class="els-mktnPrefSubBtn btn-border" id="els-mktnPrefBtn" name="MarketingPreferencesCenter" role="link" aria-label="Go to Marketing Preferences Center" onclick="window.open('https://prefcentre.marketing-np.tio.systems/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEwMzIxMjU2LCJpc0FkbWluIjpmYWxzZSwiaWF0IjoxNzE3MzUzODc4LCJleHAiOjE3MjI1Mzc4Nzh9.ks4MY4uw9TY2rrUSHs-iPyIASx8SxssFvODMtNILHlg/preferences/all','_blank')">
+									  Marketing Preference Center ↗
+								</button>
+							</div>
+						</div>
+			</main>
+		</section>
+	</div>
+</div>
+<div id="dialog-message" class="modal"></div>
+
+ 
+ 
+
+<footer class="els-footer">
+    <div class="els-footer-logo">
+        <a class="els-footer-non-solus" title="Go to Elsevier Homepage" href="http://www.elsevier.com/" target="_blank"><img src="assets/images/elsevier/Non_Solus_Logo.svg" alt="Elsevier"></a>
+        <a class="els-footer-elsevier-letter" title="Go to Elsevier Homepage" href="http://www.elsevier.com/" target="_blank"><img src="assets/images/elsevier/ELS_Letter_Logo.svg" alt="Elsevier"></a>
+    </div>
+    <div class="els-document-links">
+        <div class="els-footer-copyright">
+                    Copyright © 2024 Elsevier, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+        </div>
+        <div class="els-document-link-row links-row">
+        	<ul class="els-footer-links u-margin-xs-bottom" style="list-style:none">
+            <li> <a href="https://www.elsevier.com/about" target="_blank" class="anchor els-document-link"><span class="anchor-text">About Elsevier</span></a></li>
+       
+       		
+			<li> <a href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" target="_blank" class="anchor els-document-link">
+			<span class="anchor-text">Terms and conditions </span></a></li>
+			
+			
+			<li> <a href="https://www.elsevier.com/legal/privacy-policy" target="_blank" class="anchor els-document-link">
+			<span class="anchor-text">Privacy policy </span></a></li>
+		
+            <li> <a href="https://service.elsevier.com/app/home/supporthub/elsevieraccess/" class="anchor els-document-link"><span class="anchor-text">Help</span></a></li>
+        </ul></div>
+        <div class="els-document-link-row cookies-row">
+            We use cookies to help provide and enhance our service. By continuing you agree to the <a href="https://service.elsevier.com/app/answers/detail/a_id/28037/supporthub/elsevieraccess/p/15095/" target="_blank" class="els-document-link cookie anchor"><span class="cookies"><strong>use of cookies</strong></span></a>. 
+        </div>
+    </div>
+    <div class="els-footer-reed-logo">
+        <a class="relx-logo-e" title="Go to RELX Group Homepage" href="http://www.reedelsevier.com/" target="_blank"><img src="assets/images/elsevier/Relx_Logo_E.svg" alt="RELXGroup"></a>
+        <a class="relx-logo-letter" title="Go to RELX Group Homepage" href="http://www.reedelsevier.com/" target="_blank"><img src="assets/images/elsevier/Relx_Logo_Letter.svg" alt="RELXGroup"></a>
+    </div>
+</footer>
+
+<script type="text/javascript">
+	pageDataTracker.trackPageLoad();
+
+window.addEventListener("load", function(event) {
+		window.pageData.page.loadTime = getPageLoadTime();
+  	});
+  	
+ 
+</script>
+<script src="assets/js/navLinks.js"></script>
+
+
+<div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div id="WidgetFloaterPanels" translate="no" style="display: none; text-align: left; direction: ltr; visibility: hidden;" class="LTRStyle"> <div id="WidgetFloater" style="display: none" onmouseover="Microsoft.Translator.OnMouseOverFloater()" onmouseout="Microsoft.Translator.OnMouseOutFloater()"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"></span> <span id="WidgetCloseButton" title="Exit Translation" onclick="Microsoft.Translator.FloaterOnClose()">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input name="LanguageMenu_svid" type="text" id="LanguageMenu_svid" style="display:none;" autocomplete="on" value="en" onclick="this.select()"> <input name="LanguageMenu_textid" type="text" id="LanguageMenu_textid" style="display:none;" autocomplete="on" onclick="this.select()"> <span onselectstart="return false" tabindex="0" class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" style="display:none;" id="__LanguageMenu_popup"> <table id="LanguageMenu" border="0"> <tbody><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" href="#ar">Arabic</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" href="#he">Hebrew</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" href="#pl">Polish</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" href="#bg">Bulgarian</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" href="#hi">Hindi</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" href="#pt">Portuguese</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" href="#ca">Catalan</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" href="#mww">Hmong Daw</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" href="#ro">Romanian</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" href="#zh-CHS">Chinese Simplified</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" href="#hu">Hungarian</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" href="#ru">Russian</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" href="#zh-CHT">Chinese Traditional</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" href="#id">Indonesian</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" href="#sk">Slovak</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" href="#cs">Czech</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" href="#it">Italian</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" href="#sl">Slovenian</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" href="#da">Danish</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" href="#ja">Japanese</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" href="#es">Spanish</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" href="#nl">Dutch</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" href="#tlh">Klingon</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" href="#sv">Swedish</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" href="#en">English</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" href="#ko">Korean</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" href="#th">Thai</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" href="#et">Estonian</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" href="#lv">Latvian</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" href="#tr">Turkish</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" href="#fi">Finnish</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" href="#lt">Lithuanian</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" href="#uk">Ukrainian</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" href="#fr">French</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" href="#ms">Malay</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" href="#ur">Urdu</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" href="#de">German</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" href="#mt">Maltese</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" href="#vi">Vietnamese</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" href="#el">Greek</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" href="#no">Norwegian</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" href="#cy">Welsh</a></td> </tr><tr> <td><a tabindex="-1" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" href="#ht">Haitian Creole</a></td><td><a tabindex="-1" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" href="#fa">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"> </div></div></div></div> <script type="text/javascript"> var LanguageMenu; var LanguageMenu_keys=["ar","bg","ca","zh-CHS","zh-CHT","cs","da","nl","en","et","fi","fr","de","el","ht","he","hi","mww","hu","id","it","ja","tlh","ko","lv","lt","ms","mt","no","fa","pl","pt","ro","ru","sk","sl","es","sv","th","tr","uk","ur","vi","cy"]; var LanguageMenu_values=["Arabic","Bulgarian","Catalan","Chinese Simplified","Chinese Traditional","Czech","Danish","Dutch","English","Estonian","Finnish","French","German","Greek","Haitian Creole","Hebrew","Hindi","Hmong Daw","Hungarian","Indonesian","Italian","Japanese","Klingon","Korean","Latvian","Lithuanian","Malay","Maltese","Norwegian","Persian","Polish","Portuguese","Romanian","Russian","Slovak","Slovenian","Spanish","Swedish","Thai","Turkish","Ukrainian","Urdu","Vietnamese","Welsh"]; var LanguageMenu_callback=function(){ }; var LanguageMenu_popupid='__LanguageMenu_popup'; </script> </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a id="HelpLink" title="Help" target="_blank" href="https://go.microsoft.com/?linkid=9722454"> <img id="HelpImg"></a> <a id="EmbedLink" href="javascript:Microsoft.Translator.FloaterShowEmbed()" title="Get this widget for your own site"> <img id="EmbedImg"></a> <a id="ShareLink" title="Share translated page with friends" href="javascript:Microsoft.Translator.FloaterShowSharePanel()"> <img id="ShareImg"></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" style="display: none" onmouseover="Microsoft.Translator.OnMouseOverFloater()"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input name="ShareTextbox" type="text" id="ShareTextbox" readonly="readonly" onclick="this.select()"> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"></a></span> <span id="ShareBackSpan"><a id="ShareBack" href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" title="Back To Translation"> Back</a></span> </div> <input name="EmailSubject" type="hidden" id="EmailSubject" value="Check out this page in {0} translated from {1}"> <input name="EmailBody" type="hidden" id="EmailBody" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"> <input type="hidden" id="ShareHelpText" value="This link allows visitors to launch this page and automatically translate it to {0}."> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"></a> </div> <div id="EmbedTextboxDiv"> <input name="EmbedSnippetTextBox" type="text" id="EmbedSnippetTextBox" readonly="readonly" value="<div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'></div><script type='text/javascript'>setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);</script>" onclick="this.select()"> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div> <script type="text/javascript"> var intervalId = setInterval(function () { if (MtPopUpList) { LanguageMenu = new MtPopUpList(); var langMenu = document.getElementById(LanguageMenu_popupid); var origLangDiv = document.createElement("div"); origLangDiv.id = "OriginalLanguageDiv"; origLangDiv.innerHTML = "<span id='OriginalTextSpan'>ORIGINAL: </span><span id='OriginalLanguageSpan'></span>"; langMenu.appendChild(origLangDiv); LanguageMenu.Init('LanguageMenu', LanguageMenu_keys, LanguageMenu_values, LanguageMenu_callback, LanguageMenu_popupid); window["LanguageMenu"] = LanguageMenu; clearInterval(intervalId); } }, 1); </script> </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

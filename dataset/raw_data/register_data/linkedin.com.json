@@ -1,0 +1,13 @@
+{
+    "name" : "Jane Doe", 
+    "email" : "authorization.thesis2@gmail.com", 
+    "gender" : "female", 
+    "birthday": "01-01-1970", 
+    "country": "Portugal",
+    "postal_code": "4200-465",
+    "location": "Porto",
+    "job_title": "Student",
+    "school": "FEUP",
+    "start_year": "2019",
+    "end_year": "2024"
+}

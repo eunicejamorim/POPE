@@ -1,0 +1,1123 @@
+The following text is the html file of a webpage. <html class="StudioLegacy Legacy no-touch" id="4dfc07cccdd814fbf7abadd04547d00107d44381" lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Company - About :: Macy's, Inc.
+</title><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><meta content="RevealTrans(Duration=0,Transition=0)" http-equiv="Page-Enter"/><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="default-src 'self' https: http: 'unsafe-inline' 'unsafe-eval' data: *.q4inc.com *.q4cdn.com; script-src 'self' *.cloudflareinsights.com *.vimeo.com *.bootstrapcdn.com *.jsdelivr.net *.datatables.net *.cloudfront.net *.pusherapp.com *.newrelic.com *.nr-data.net *.bugherd.com *.q4cdn.com *.q4web.com *.amazonaws.com *.highcharts.com *.googletagmanager.com *.googleadservices.com *.google-analytics.com *.analytics.google.com *.google.com *.gstatic.com *.q4app.com *.pendo.io staticcontents.investisdigital.com *.lfeeder.com 'unsafe-inline' 'unsafe-eval' *.q4inc.com" http-equiv="Content-Security-Policy"/><meta content="A4oo5WQpx-YjUS3XY4FcYDc4Jvn-2Zn6CMXgRo8WY9M" name="google-site-verification"/><meta charset="utf-8" content="/files/images/macys-banner.jpg" http-equiv="content-type" lang="en" name="macys" property="og:image"/><meta content="HfVQRf33Ntyk7sXT8NERFm_iBt0Ekz-3bZ3tWL6kR0s" name="google-site-verification"/><!--[if lte IE 8]>
+<link id="respond-proxy" rel="respond-proxy" media="screen" href="//s202.q4cdn.com/285121676/files/js/respond-proxy.html" />
+<link id="respond-redirect" rel="respond-redirect" media="screen" href="https://www.macysinc.com/js/respond.proxy.gif" />
+<![endif]-->
+<link href="https://fonts.gstatic.com" media="all" rel="preconnect" type="text/css"/>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&amp;amp;display=swap" media="all" rel="stylesheet" type="text/css"/>
+<link href="//s202.q4cdn.com/285121676/files/favicon.ico" id="icon" media="all" rel="icon" type="image/x-icon"/>
+<link href="//s202.q4cdn.com/285121676/files/favicon.ico" id="shortcut-icon" media="all" rel="shortcut icon" type="image/x-icon"/>
+<link href="//s202.q4cdn.com/285121676/files/css/print.css" media="print" rel="stylesheet"/>
+<link href="https://d1azc1qln24ryf.cloudfront.net/50912/Q4studioclassic2018na1/style-cf.css?5j2dpc" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//s202.q4cdn.com/285121676/files/css/global.css?v=60161" id="htmlGlobalLinkCss" media="all" rel="stylesheet" type="text/css"/><link href="//s202.q4cdn.com/285121676/files/css/client.css?v=59645" id="htmlClientLinkCss" media="all" rel="stylesheet" type="text/css"/><link href="//s202.q4cdn.com/285121676/files/css/print.css" id="htmlLinkPrintCss" media="print" rel="stylesheet" type="text/css"/><link href="/css/evergreen/dist/default/evergreen.1.0.0.min.css" id="htmlLinkEvergreenCss" media="all" rel="stylesheet" type="text/css"/><link href="/GlobalBranding.ashx" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lte IE 8]>
+<script type="text/javascript" src="https://www.macysinc.com/js/respond.proxy.js"></script>
+<![endif]-->
+</head>
+<body class="BodyBackground" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" style="margin: 0px">
+<input id="hdnRedirectToLoginUrl" name="hdnRedirectToLoginUrl" type="hidden" value="https://login.q4inc.com/authorize?client_id=gKrDY1E9BUSWfU7DGuW2CO4rjdskiNg7&amp;pendoQ4PId=_q4pidval_&amp;projectId=studio&amp;step=login&amp;companyName=Macy%27s%2c+Inc.&amp;projectIdentifier=Macy%27s%2c+Inc.&amp;mainColor=%230F5CA3&amp;scope=openid+profile+email&amp;helpUrl=https%3a%2f%2fhelp.events.q4inc.com%2fen%2fir-website.html&amp;response_type=code&amp;response_mode=query&amp;nonce=JokOKBpBBFZwAxbJVP1BoflA&amp;skipUrl=https%3a%2f%2fwww.macysinc.com%2fcompany%2fabout%2f&amp;userEmail=_q4lemail_&amp;redirect_uri=https%3a%2f%2fauth.platform.q4inc.com%2fauth%2fpublicAuthRedirect%3fstate%3deyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJyZXR1cm5VcmwiOiJodHRwczovL3d3dy5tYWN5c2luYy5jb20vY29tcGFueS9hYm91dC8iLCJleHAiOjE3MjI1NTExODMuMCwiaWF0IjoxNzE3MjkxNTgzLjAsImlzcyI6IlE0LldlYi5QdWJsaWMuU2l0ZSIsImF1ZCI6InVwc3RyZWFtLmNkbi53ZWIucHJkLnE0aW5jLmNvbSJ9.UPHo49qb4u6E-TYRdRLOnKxoqPMvKcr5lPr3dhThJvg"/>
+<input id="__RequestVerificationToken" type="hidden"/>
+<!-- Google Tag Manager -->
+<noscript>
+<iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-K58MZ9KQ" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+
+<!-- End Google Tag Manager -->
+<div class="Sectioncompany PageDefault PageCompanyAbout LayoutOneColumnLayout Languageen-US Sectionsection--company page--about highlighted-title" id="pageClass">
+<div class="PageDefaultInner">
+<div class="PageCompanyAbout SectionCompanyAbout ParentSection_company" id="litPageDiv">
+<a name="top"></a>
+<form action="default.aspx" id="fmForm1" method="post">
+<div class="aspNetHidden">
+<input id="__EVENTTARGET" name="__EVENTTARGET" type="hidden" value=""/>
+<input id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden" value=""/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value=""/>
+</div>
+
+
+<a href="javascript:__doPostBack('lnkPostback','')" id="lnkPostback" style="display: none"></a>
+<div class="layout layout--one-column"><div class="nav--mobile--search_container"><label class="module-search_text sr-only" for="navMobileSearchInput" id="navMobileSearchText">Search query</label><input class="nav--mobile--search_container--input" form="navMobileSearchForm" id="navMobileSearchInput" maxlength="256" name="SearchTerm" placeholder="Search" title="Search query" type="text"/><button aria-label="search" class="nav--mobile--search_container--btn" form="navMobileSearchForm" id="navMobileSearchBtn" type="submit"><span aria-hidden="true" class="button_text q4-icon_search"></span></button></div><nav class="nav--mobile left" id="nav--mobile-menu" style="transition: transform 0.5s ease-in-out 0s; display: none;"><div class="nav--mobile--inner_toggle_container"><button aria-controls="nav--mobile-menu" aria-expanded="false" aria-label="Click to open mobile menu" class="nav--mobile--toggle left">
+<span aria-hidden="true" class="q4-icon_menu"></span>
+</button></div><ul class="nav--mobile--panel--topMenu level0"><li class="nav--mobile--panel--topMenu--menuItem has-innerMenu expanded" role="none"><button aria-controls="menu-0-mobile" aria-expanded="false" class="button" id="button--menu-0-mobile" tabindex="0" type="button"><span class="text">Company</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-0-mobile" class="level1 nav--mobile--panel--innerMenu left" id="menu-0-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-0-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-0-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Back</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu selected" role="none"><button aria-controls="menu-0-1-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-0-1-mobile" tabindex="-1" type="button"><span class="text">About</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-0-1-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-0-1-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-0-1-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-0-1-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Company</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/about/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/company/about/default.aspx#history" tabindex="-1" target="_self"><span class="text">Timeline</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/company/about/default.aspx#company_governance" tabindex="-1" target="_self"><span class="text">Leadership Team</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-0-2-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-0-2-mobile" tabindex="-1" type="button"><span class="text">Governance</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-0-2-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-0-2-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-0-2-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-0-2-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Company</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/company-governance/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/company/company-governance/default.aspx#bod" tabindex="-1" target="_self"><span class="text">Board of Directors</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/company/company-governance/default.aspx#committee" tabindex="-1" target="_self"><span class="text">Board Committees</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/company/company-governance/default.aspx#governance-documents" tabindex="-1" target="_self"><span class="text">Governance Documents</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/macys/default.aspx" tabindex="-1" target="_self"><span class="text">Macy's</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/bloomingdales/default.aspx" tabindex="-1" target="_self"><span class="text">Bloomingdale's</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/bluemercury/default.aspx" tabindex="-1" target="_self"><span class="text">Bluemercury</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/macys-media-network/default.aspx" tabindex="-1" target="_self"><span class="text">Macy's Media Network</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/macys-marketplace/default.aspx" tabindex="-1" target="_self"><span class="text">Macy's Marketplace</span></a></li></ul></li><li class="nav--mobile--panel--topMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-1-mobile" aria-expanded="false" class="button" id="button--menu-1-mobile" tabindex="-1" type="button"><span class="text">Purpose</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-1-mobile" class="level1 nav--mobile--panel--innerMenu left" id="menu-1-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-1-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-1-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Back</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-1-1-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-1-1-mobile" tabindex="-1" type="button"><span class="text">Mission Every One</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-1-1-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-1-1-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-1-1-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-1-1-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Purpose</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/mission-every-one/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/mission-every-one/default.aspx#our-mission" tabindex="-1" target="_self"><span class="text">Our Mission</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/mission-every-one/default.aspx#our-pillars" tabindex="-1" target="_self"><span class="text">Our Pillars</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-1-2-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-1-2-mobile" tabindex="-1" type="button"><span class="text">Diversity, Equity &amp; Inclusion</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-1-2-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-1-2-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-1-2-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-1-2-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Purpose</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/diversity-equity-and-inclusion/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/diversity-equity-and-inclusion/default.aspx#focus-areas" tabindex="-1" target="_self"><span class="text">Focus Areas</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/diversity-equity-and-inclusion/default.aspx#impact" tabindex="-1" target="_self"><span class="text">DE&amp;I Impact by the Numbers</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/diversity-equity-and-inclusion/default.aspx#awards-honors" tabindex="-1" target="_self"><span class="text">Awards and Honors</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/diversity-equity-and-inclusion/spur-pathways/default.aspx" tabindex="-1" target="_self"><span class="text">S.P.U.R. Pathways</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-1-3-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-1-3-mobile" tabindex="-1" type="button"><span class="text">Sustainability</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-1-3-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-1-3-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-1-3-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-1-3-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Purpose</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/sustainability/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/sustainability/default.aspx#success" tabindex="-1" target="_self"><span class="text">How We're Measuring Success</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/sustainability/default.aspx#responsible" tabindex="-1" target="_self"><span class="text">Responsible Products and Sourcing</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/sustainability/default.aspx#minimizing" tabindex="-1" target="_self"><span class="text">Minimizing Environmental Impacts</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/sustainability/default.aspx#partners-awards" tabindex="-1" target="_self"><span class="text">Partners and Awards</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/sustainability/esg-resources-reports/default.aspx" tabindex="-1" target="_self"><span class="text">Resources &amp; Reports</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-1-4-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-1-4-mobile" tabindex="-1" type="button"><span class="text">Social Impact</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-1-4-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-1-4-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-1-4-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-1-4-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Purpose</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/social-impact/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/social-impact/default.aspx#giving-back" tabindex="-1" target="_self"><span class="text">How We're Giving Back</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/social-impact/default.aspx#community" tabindex="-1" target="_self"><span class="text">Building and Celebrating Community</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/purpose/social-impact/default.aspx#partners" tabindex="-1" target="_self"><span class="text">Our Partners</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/social-impact/social-impact-report/default.aspx" tabindex="-1" target="_self"><span class="text">2022 Social Impact Progress and Partnerships</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/our-commitments-and-policies/default.aspx" tabindex="-1" target="_self"><span class="text">Our Commitments &amp; Policies</span></a></li></ul></li><li class="nav--mobile--panel--topMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-2-mobile" aria-expanded="false" class="button" id="button--menu-2-mobile" tabindex="-1" type="button"><span class="text">Work With Us</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-2-mobile" class="level1 nav--mobile--panel--innerMenu left" id="menu-2-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-2-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-2-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Back</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/work-with-us/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-2-1-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-2-1-mobile" tabindex="-1" type="button"><span class="text">Careers</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-2-1-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-2-1-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-2-1-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-2-1-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Work With Us</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/work-with-us/careers/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/" tabindex="-1" target="_blank"><span class="text">Macy's Open Positions</span><span class="sr-only">(opens in a new window)</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/" tabindex="-1" target="_blank"><span class="text">Bloomingdale's Open Positions</span><span class="sr-only">(opens in a new window)</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://bluemercury.com/pages/careers" tabindex="-1" target="_blank"><span class="text">Bluemercury's Open Positions</span><span class="sr-only">(opens in a new window)</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/work-with-us/careers/default.aspx#attracting-talent" tabindex="-1" target="_self"><span class="text">Attracting and Retaining Talented Colleagues</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-2-2-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-2-2-mobile" tabindex="-1" type="button"><span class="text">Vendors</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-2-2-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-2-2-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-2-2-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-2-2-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Work With Us</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/work-with-us/vendors/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/work-with-us/vendors/Become-a-Vendor-Partner/default.aspx" tabindex="-1" target="_self"><span class="text">Become a Vendor Partner</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/work-with-us/vendors/become-a-vendor-partner/default.aspx#vendor-supplier-applications" tabindex="-1" target="_self"><span class="text">Vendor and Supplier Applications</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/work-with-us/vendors/non-retail-supplier-application/default.aspx" tabindex="-1" target="_self"><span class="text">Non-Retail Diverse Supplier Application</span></a></li></ul></li></ul></li><li class="nav--mobile--panel--topMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-3-mobile" aria-expanded="false" class="button" id="button--menu-3-mobile" tabindex="-1" type="button"><span class="text">Newsroom</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-3-mobile" class="level1 nav--mobile--panel--innerMenu left" id="menu-3-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-3-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-3-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Back</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/newsroom/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/newsroom/news/default.aspx" tabindex="-1" target="_self"><span class="text">News</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/events-presentations-and-investor-updates/Events/default.aspx" tabindex="-1" target="_self"><span class="text">Events, Presentations &amp; Investor Updates</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/newsroom/media-assets/default.aspx" tabindex="-1" target="_self"><span class="text">Media Assets</span></a></li></ul></li><li class="nav--mobile--panel--topMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-4-mobile" aria-expanded="false" class="button" id="button--menu-4-mobile" tabindex="-1" type="button"><span class="text">Investors</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-4-mobile" class="level1 nav--mobile--panel--innerMenu left" id="menu-4-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-4-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-4-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Back</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/default.aspx" tabindex="-1" target="_self"><span class="text">Overview</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/about/default.aspx" tabindex="-1" target="_self"><span class="text">Company Info</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/newsroom/default.aspx" tabindex="-1" target="_self"><span class="text">Financial News</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-4-3-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-4-3-mobile" tabindex="-1" type="button"><span class="text">Financial Reporting</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-4-3-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-4-3-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-4-3-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-4-3-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Investors</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/financials/quarterly-results/default.aspx" tabindex="-1" target="_self"><span class="text">Quarterly Results</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/financials/annual-reports-and-proxy-statements/default.aspx" tabindex="-1" target="_self"><span class="text">Annual Reports &amp; Proxy Statements</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/financials/sec-filings/default.aspx" tabindex="-1" target="_self"><span class="text">SEC Filings</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/financials/store--count/default.aspx" tabindex="-1" target="_self"><span class="text">Store Count </span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-4-4-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-4-4-mobile" tabindex="-1" type="button"><span class="text">Stock Data</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-4-4-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-4-4-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-4-4-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-4-4-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Investors</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/investors/stock-data/default.aspx#stock-quote" tabindex="-1" target="_self"><span class="text">Stock Quote</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/investors/stock-data/default.aspx#stock-chart" tabindex="-1" target="_self"><span class="text">Stock Chart</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="/investors/stock-data/default.aspx#stock-historical" tabindex="-1" target="_self"><span class="text">Historical Stock Quote</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-4-5-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-4-5-mobile" tabindex="-1" type="button"><span class="text">Governance</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-4-5-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-4-5-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-4-5-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-4-5-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Investors</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/company-governance/board-of-directors/default.aspx" tabindex="-1" target="_self"><span class="text">Board of Directors</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/company-governance/board-committees/default.aspx" tabindex="-1" target="_self"><span class="text">Board Commitees</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/company/company-governance/governance-documents/default.aspx" tabindex="-1" target="_self"><span class="text">Governance Documents</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-4-6-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-4-6-mobile" tabindex="-1" type="button"><span class="text">ESG</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-4-6-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-4-6-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-4-6-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-4-6-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Investors</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/default.aspx" tabindex="-1" target="_self"><span class="text">Purpose</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/purpose/sustainability/esg-resources-reports/default.aspx" tabindex="-1" target="_self"><span class="text">ESG Resources &amp; Reports</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/esg/ESG-FAQs/default.aspx" tabindex="-1" target="_self"><span class="text">ESG FAQs</span></a></li></ul></li><li class="nav--mobile--panel--innerMenu--menuItem has-innerMenu" role="none"><button aria-controls="menu-4-7-mobile" aria-expanded="false" aria-haspopup="true" class="button" id="button--menu-4-7-mobile" tabindex="-1" type="button"><span class="text">Investor Resources</span><span aria-hidden="true" class="icon q4-icon_chevron-left"></span></button><ul aria-labelledby="button--menu-4-7-mobile" class="level2 nav--mobile--panel--innerMenu left" id="menu-4-7-mobile" style="transition: transform 0.5s ease-in-out 0s; opacity: 0; display: none;" tabindex="-1"><li class="nav--mobile--panel--innerMenu--menuItem panel-control" role="none"><button aria-controls="menu-4-7-mobile" aria-expanded="false" aria-haspopup="true" aria-label="Click to go back to previous navigation level" class="button" id="button--menu-4-7-mobile--close" tabindex="-1" type="button"><span aria-hidden="true" class="icon q4-icon_chevron-left"></span><span class="text">Investors</span></button></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/investor-resources/shareholder-services/default.aspx" tabindex="-1" target="_self"><span class="text">Shareholder Services</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/investor-resources/analyst-coverage/default.aspx" tabindex="-1" target="_self"><span class="text">Analyst Coverage</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/investor-resources/investor-faqs/default.aspx" tabindex="-1" target="_self"><span class="text">Investor FAQs</span></a></li><li class="nav--mobile--panel--innerMenu--menuItem" role="none"><a class="link" href="https://www.macysinc.com/investors/investor-resources/contacts/default.aspx" tabindex="-1" target="_self"><span class="text">Contacts</span></a></li></ul></li></ul></li></ul></nav>
+<div class="pane pane--generic">
+<div class="pane_inner"></div>
+</div>
+<div class="layout_inner">
+<header class="layout_header" role="banner">
+<div class="pane pane--header grid--no-gutter">
+<div class="pane_inner"><span class="HeaderPaneDiv"><span class="HeaderPaneDiv1"><nav class="nav-data hidden"><ul class="level1">
+<li class="has-children home expanded"><a href="https://www.macysinc.com/overview/default.aspx">Overview</a><ul class="level2">
+<li class="has-children expanded"><a href="https://www.macysinc.com/company/about/default.aspx">Company</a><ul class="level3">
+<li><a href="https://www.macysinc.com/company/default.aspx">Overview</a></li><li class="selected has-children"><a href="https://www.macysinc.com/company/about/default.aspx">About</a><ul class="level4">
+<li><a href="https://www.macysinc.com/company/about/default.aspx">Overview</a></li><li><a href="/company/about/default.aspx#history">Timeline</a></li><li><a href="/company/about/default.aspx#company_governance">Leadership Team</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/company/company-governance/default.aspx">Governance</a><ul class="level4">
+<li><a href="https://www.macysinc.com/company/company-governance/default.aspx">Overview</a></li><li><a href="/company/company-governance/default.aspx#bod">Board of Directors</a></li><li><a href="/company/company-governance/default.aspx#committee">Board Committees</a></li><li><a href="/company/company-governance/default.aspx#governance-documents">Governance Documents</a></li>
+</ul></li><li><a href="https://www.macysinc.com/company/macys/default.aspx">Macy's</a></li><li><a href="https://www.macysinc.com/company/bloomingdales/default.aspx">Bloomingdale's</a></li><li><a href="https://www.macysinc.com/company/bluemercury/default.aspx">Bluemercury</a></li><li><a href="https://www.macysinc.com/company/macys-media-network/default.aspx">Macy's Media Network</a></li><li><a href="https://www.macysinc.com/company/macys-marketplace/default.aspx">Macy's Marketplace</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/mission-every-one/default.aspx">Purpose</a><ul class="level3">
+<li><a href="https://www.macysinc.com/purpose/default.aspx">Overview</a></li><li class="has-children"><a href="https://www.macysinc.com/purpose/mission-every-one/default.aspx">Mission Every One</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/mission-every-one/default.aspx">Overview</a></li><li><a href="/purpose/mission-every-one/default.aspx#our-mission">Our Mission</a></li><li><a href="/purpose/mission-every-one/default.aspx#our-pillars">Our Pillars</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/diversity-equity-and-inclusion/default.aspx">Diversity, Equity &amp; Inclusion</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/diversity-equity-and-inclusion/default.aspx">Overview</a></li><li><a href="/purpose/diversity-equity-and-inclusion/default.aspx#focus-areas">Focus Areas</a></li><li><a href="/purpose/diversity-equity-and-inclusion/default.aspx#impact">DE&amp;I Impact by the Numbers</a></li><li><a href="/purpose/diversity-equity-and-inclusion/default.aspx#awards-honors">Awards and Honors</a></li><li><a href="https://www.macysinc.com/purpose/diversity-equity-and-inclusion/spur-pathways/default.aspx">S.P.U.R. Pathways</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/sustainability/default.aspx">Sustainability</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/sustainability/default.aspx">Overview</a></li><li><a href="/purpose/sustainability/default.aspx#success">How We're Measuring Success</a></li><li><a href="/purpose/sustainability/default.aspx#responsible">Responsible Products and Sourcing</a></li><li><a href="/purpose/sustainability/default.aspx#minimizing">Minimizing Environmental Impacts</a></li><li><a href="/purpose/sustainability/default.aspx#partners-awards">Partners and Awards</a></li><li><a href="https://www.macysinc.com/purpose/sustainability/esg-resources-reports/default.aspx">Resources &amp; Reports</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/social-impact/default.aspx">Social Impact</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/social-impact/default.aspx">Overview</a></li><li><a href="/purpose/social-impact/default.aspx#giving-back">How We're Giving Back</a></li><li><a href="/purpose/social-impact/default.aspx#community">Building and Celebrating Community</a></li><li><a href="/purpose/social-impact/default.aspx#partners">Our Partners</a></li><li><a href="https://www.macysinc.com/purpose/social-impact/social-impact-report/default.aspx">2022 Social Impact Progress and Partnerships</a></li>
+</ul></li><li><a href="https://www.macysinc.com/purpose/our-commitments-and-policies/default.aspx">Our Commitments &amp; Policies</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/work-with-us/careers/default.aspx">Work With Us</a><ul class="level3">
+<li><a href="https://www.macysinc.com/work-with-us/default.aspx">Overview</a></li><li class="has-children"><a href="https://www.macysinc.com/work-with-us/careers/default.aspx">Careers</a><ul class="level4">
+<li><a href="https://www.macysinc.com/work-with-us/careers/default.aspx">Overview</a></li><li><a href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/" target="_blank">Macy's Open Positions<span class="sr-only">(opens in a new window)</span></a></li><li><a href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/" target="_blank">Bloomingdale's Open Positions<span class="sr-only">(opens in a new window)</span></a></li><li><a href="https://bluemercury.com/pages/careers" target="_blank">Bluemercury's Open Positions<span class="sr-only">(opens in a new window)</span></a></li><li><a href="/work-with-us/careers/default.aspx#attracting-talent">Attracting and Retaining Talented Colleagues</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/work-with-us/vendors/Become-a-Vendor-Partner/default.aspx">Vendors</a><ul class="level4">
+<li><a href="https://www.macysinc.com/work-with-us/vendors/default.aspx">Overview</a></li><li><a href="https://www.macysinc.com/work-with-us/vendors/Become-a-Vendor-Partner/default.aspx">Become a Vendor Partner</a></li><li><a href="/work-with-us/vendors/become-a-vendor-partner/default.aspx#vendor-supplier-applications">Vendor and Supplier Applications</a></li><li><a href="https://www.macysinc.com/work-with-us/vendors/non-retail-supplier-application/default.aspx">Non-Retail Diverse Supplier Application</a></li>
+</ul></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/newsroom/default.aspx">Investors</a><ul class="level3">
+<li><a href="https://www.macysinc.com/newsroom/default.aspx">Overview</a></li><li><a href="https://www.macysinc.com/newsroom/news/default.aspx">News</a></li><li><a href="https://www.macysinc.com/investors/events-presentations-and-investor-updates/Events/default.aspx">Events, Presentations &amp; Investor Updates</a></li><li><a href="https://www.macysinc.com/newsroom/media-assets/default.aspx">Media Assets</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/investors/default.aspx">Investors</a><ul class="level3">
+<li><a href="https://www.macysinc.com/investors/default.aspx">Overview</a></li><li><a href="https://www.macysinc.com/company/about/default.aspx">Company Info</a></li><li><a href="https://www.macysinc.com/newsroom/default.aspx">Financial News</a></li><li class="has-children"><a href="https://www.macysinc.com/investors/financials/quarterly-results/default.aspx">Financial Reporting</a><ul class="level4">
+<li><a href="https://www.macysinc.com/investors/financials/quarterly-results/default.aspx">Quarterly Results</a></li><li><a href="https://www.macysinc.com/investors/financials/annual-reports-and-proxy-statements/default.aspx">Annual Reports &amp; Proxy Statements</a></li><li><a href="https://www.macysinc.com/investors/financials/sec-filings/default.aspx">SEC Filings</a></li><li><a href="https://www.macysinc.com/investors/financials/store--count/default.aspx">Store Count </a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/investors/stock-data/default.aspx">Stock Data</a><ul class="level4">
+<li><a href="/investors/stock-data/default.aspx#stock-quote">Stock Quote</a></li><li><a href="/investors/stock-data/default.aspx#stock-chart">Stock Chart</a></li><li><a href="/investors/stock-data/default.aspx#stock-historical">Historical Stock Quote</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/company/company-governance/default.aspx">Governance</a><ul class="level4">
+<li><a href="https://www.macysinc.com/company/company-governance/board-of-directors/default.aspx">Board of Directors</a></li><li><a href="https://www.macysinc.com/company/company-governance/board-committees/default.aspx">Board Commitees</a></li><li><a href="https://www.macysinc.com/company/company-governance/governance-documents/default.aspx">Governance Documents</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/default.aspx">ESG</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/default.aspx">Purpose</a></li><li><a href="https://www.macysinc.com/purpose/sustainability/esg-resources-reports/default.aspx">ESG Resources &amp; Reports</a></li><li><a href="https://www.macysinc.com/investors/esg/ESG-FAQs/default.aspx">ESG FAQs</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/investors/investor-resources/shareholder-services/default.aspx">Investor Resources</a><ul class="level4">
+<li><a href="https://www.macysinc.com/investors/investor-resources/shareholder-services/default.aspx">Shareholder Services</a></li><li><a href="https://www.macysinc.com/investors/investor-resources/analyst-coverage/default.aspx">Analyst Coverage</a></li><li><a href="https://www.macysinc.com/investors/investor-resources/investor-faqs/default.aspx">Investor FAQs</a></li><li><a href="https://www.macysinc.com/investors/investor-resources/contacts/default.aspx">Contacts</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></nav></span><span class="HeaderPaneDiv2"><div class="module module-embed module-skip" id="_ctrl0_ctl09_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<a class="module-skip_link" href="#maincontent">Skip to main content</a>
+</div>
+</div>
+</div></span><span class="HeaderPaneDiv3"><div class="module module-embed module-logo grid_col grid_col--1-of-6 grid_col--lc-1-of-2 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="_ctrl0_ctl12_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<a href="/">
+<img alt="Macy's Inc Logo - Click to go to homepage" src="//s202.q4cdn.com/285121676/files/design/svg/macysinc-logo.svg"/>
+</a>
+</div>
+</div>
+</div></span><span class="HeaderPaneDiv5"><div class="module module-embed nav--desktop--container grid_col grid_col--5-of-6" id="_ctrl0_ctl15_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<nav class="nav--desktop hoz"><ul class="nav--desktop--list--topMenu level0" role="menubar"><li class="nav--desktop--list--topMenu--menuItem expanded"><a class="link" href="https://www.macysinc.com/company/about/default.aspx" role="menuitem" tabindex="0" target="_self"><span class="text">Company</span></a></li><li class="nav--desktop--list--topMenu--menuItem"><a class="link" href="https://www.macysinc.com/purpose/mission-every-one/default.aspx" role="menuitem" tabindex="0" target="_self"><span class="text">Purpose</span></a></li><li class="nav--desktop--list--topMenu--menuItem"><a class="link" href="https://www.macysinc.com/work-with-us/careers/default.aspx" role="menuitem" tabindex="0" target="_self"><span class="text">Work With Us</span></a></li><li class="nav--desktop--list--topMenu--menuItem"><a class="link" href="https://www.macysinc.com/newsroom/default.aspx" role="menuitem" tabindex="0" target="_self"><span class="text">Investors</span></a></li><li class="nav--desktop--list--topMenu--menuItem"><a class="link" href="https://www.macysinc.com/investors/default.aspx" role="menuitem" tabindex="0" target="_self"><span class="text">Investors</span></a></li></ul></nav>
+<button aria-controls="nav--mobile-menu" aria-expanded="false" aria-label="Click to open mobile menu" class="nav--mobile--toggle left">
+<span aria-hidden="true" class="q4-icon_menu"></span>
+</button>
+
+</div>
+</div>
+</div></span><span class="HeaderPaneDiv6"><div class="module module-embed" id="_ctrl0_ctl18_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<button aria-controls="navMobileSearchInput" aria-expanded="true" aria-haspopup="true" aria-hidden="false" aria-label="Click to open search" class="nav--mobile--search_container--btn" form="navMobileSearchForm" id="navMobileSearchBtnCustom" type="button">
+<span aria-hidden="true" class="button_text q4-icon_search"></span>
+</button>
+
+</div>
+</div>
+</div></span><span class="HeaderPaneDiv7"><div class="module module-embed pane--static-header-container" id="_ctrl0_ctl21_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<div class="pane--static-header">
+<div class="pane--static-header-logo">
+<div class="module-logo">
+<a href="/">
+<img alt="Macy's inc Logo - click to go to the homepage" src="//s202.q4cdn.com/285121676/files/design/svg/macysinc-logo.svg"/>
+</a>
+</div>
+</div>
+<div class="pane--static-nav">
+<nav aria-label="primary" class="pane--static-nav-menu">
+<ul class="nav--desktop--list--topMenu level0" role="menubar">
+<li class="nav--desktop--list--innerMenu--menuItem company" role="menuitem">
+<a aria-controls="menu-0-desktop" aria-expanded="true" aria-haspopup="true" aria-hidden="false" class="button" href="/company/about/default.aspx" id="button--menu-0-desktop" role="button" type="button">
+<span class="text">Company</span>
+</a>
+<!--             <button id="button--menu-0-desktop" class="button" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu-0-desktop">
+                 <span class="text">Company</span>
+                 </button> -->
+<span aria-hidden="true" aria-labelledby="button--menu-0-desktop" class="nav--desktop--list--submenu-item closed" id="menu-0-desktop" style="display: none;">
+<span class="nav--desktop--list--submenu-container">
+<span class="nav--desktop--list--innerMenu--menuItem-title-container">
+<a class="nav--desktop--list--innerMenu--menuItem-title" href="/company/about/default.aspx" tabindex="-1">
+<span class="text">Company</span>
+</a>
+</span>
+<span class="nav--desktop--list--submenus">
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/company/about/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">About</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/company/about/default.aspx#history" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Timeline</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/company/about/default.aspx#company_leadership" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Leadership Team</span>
+</a>
+</li>
+<!--                     <li class="nav--desktop--list--innerMenu--menuItem">
+                             <a class="link" target="_self" href="/company/about/default.aspx#polaris-strategy">
+                               <span class="text">Macy's Polaris Strategy</span>
+                             </a>
+                             </li> -->
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/company/company-governance/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Governance</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/company/company-governance/default.aspx#bod" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Board of Directors</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/company/company-governance/default.aspx#committee" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Board Committees</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/company/company-governance/default.aspx#governance-documents" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Governance Documents</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/company/macys/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Macy's</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/company/bloomingdales/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Bloomingdale's</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/company/bluemercury/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Bluemercury</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/company/macys-media-network/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Macy's Media Network</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/company/macys-marketplace/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Macy's Marketplace</span>
+</a>
+</li>
+</ul>
+</span>
+</span>
+</span>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem purpose" role="menuitem">
+<a aria-controls="menu-1-desktop" aria-expanded="true" aria-haspopup="true" aria-hidden="false" class="button" href="/purpose/mission-every-one/default.aspx" id="button--menu-1-desktop" role="button" type="button">
+<span class="text">Purpose</span>
+</a>
+<!--             <button id="button--menu-1-desktop" class="button" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu-1-desktop">
+                 <span class="text">Purpose</span>
+                 </button> -->
+<span aria-hidden="true" aria-labelledby="button--menu-1-desktop" class="nav--desktop--list--submenu-item closed" id="menu-1-desktop" style="display: none;">
+<span class="nav--desktop--list--submenu-container">
+<span class="nav--desktop--list--innerMenu--menuItem-title-container">
+<a class="nav--desktop--list--innerMenu--menuItem-title" href="/purpose/mission-every-one/default.aspx" tabindex="-1">
+<span class="text">Purpose</span>
+</a>
+</span>
+<span class="nav--desktop--list--submenus">
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/purpose/mission-every-one/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Mission Every One</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/mission-every-one/default.aspx#our-mission" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Our Mission</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/mission-every-one/default.aspx#our-pillars" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Our Pillars</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/purpose/diversity-equity-and-inclusion/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Diversity, Equity &amp; Inclusion</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/diversity-equity-and-inclusion/default.aspx#focus-areas" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Our Focus Areas</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/diversity-equity-and-inclusion/default.aspx#impact" role="menuitem" tabindex="-1" target="_self">
+<span class="text">DE&amp;I Impact by the Numbers</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/diversity-equity-and-inclusion/default.aspx#awards" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Awards and Honors</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/diversity-equity-and-inclusion/spur-pathways/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">S.P.U.R. Pathways</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/purpose/sustainability/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Sustainability</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/sustainability/default.aspx#success" role="menuitem" tabindex="-1" target="_self">
+<span class="text">How We're Measuring Success</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/sustainability/default.aspx#responsible" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Responsible Products and Sourcing</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/sustainability/default.aspx#minimizing-impact" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Minimizing Environmental Impacts</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/sustainability/default.aspx#partners" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Partners and Awards</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/sustainability/esg-resources-reports/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Resources &amp; Reports</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/purpose/social-impact/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Social Impact</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/social-impact/default.aspx#giving-back" role="menuitem" tabindex="-1" target="_self">
+<span class="text">How We're Giving Back</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/social-impact/default.aspx#community" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Building and Celebrating
+                             Community</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/social-impact/social-impact-report/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Social Impact Progress and Partnerships</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/purpose/our-commitments-and-policies/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Our Commitments &amp; Policies</span>
+</a>
+</li>
+</ul>
+</span>
+</span>
+</span>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem work-with-us" role="menuitem">
+<a aria-controls="menu-2-desktop" aria-expanded="false" aria-haspopup="true" class="button" href="/work-with-us/careers/default.aspx" id="button--menu-2-desktop" role="button" type="button">
+<span class="text">Work With Us</span>
+</a>
+<!--             <button id="button--menu-2-desktop" class="button" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu-2-desktop">
+                 <span class="text">Work with Us</span>
+                 </button> -->
+<span aria-labelledby="button--menu-2-desktop" class="nav--desktop--list--submenu-item" id="menu-2-desktop">
+<span class="nav--desktop--list--submenu-container">
+<span class="nav--desktop--list--innerMenu--menuItem-title-container">
+<a class="nav--desktop--list--innerMenu--menuItem-title" href="/work-with-us/careers/default.aspx" tabindex="-1">
+<span class="text">Work With Us</span>
+</a>
+</span>
+<span class="nav--desktop--list--submenus">
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/work-with-us/careers/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Careers</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/" role="menuitem" tabindex="-1" target="_blank">
+<span class="text">Macy's Open Positions</span>
+<span class="sr-only">(opens in a new window)</span></a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/" role="menuitem" tabindex="-1" target="_blank">
+<span class="text">Bloomingdale's Open Positions</span>
+<span class="sr-only">(opens in a new window)</span></a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="https://bluemercury.com/pages/careers" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Bluemercury Open Positions</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/work-with-us/careers/default.aspx#attracting-talent" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Attracting and Retaining Talented Colleagues</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/work-with-us/vendors/become-a-vendor-partner/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Vendors</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/work-with-us/vendors/become-a-vendor-partner/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Become a Vendor Partner</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/work-with-us/vendors/become-a-vendor-partner/default.aspx#vendor-supplier-applications" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Vendor and Supplier Applications</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/work-with-us/vendors/non-retail-supplier-application/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Non-Retail Diverse Supplier Application</span>
+</a>
+</li>
+</ul>
+</span>
+</span>
+</span>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem newsroom" role="menuitem">
+<a aria-controls="menu-3-desktop" aria-expanded="false" aria-haspopup="true" class="button" href="/newsroom/default.aspx" id="button--menu-3-desktop" role="button" type="button">
+<span class="text">Newsroom</span>
+</a>
+<!--             <button id="button--menu-3-desktop" class="button" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu-3-desktop">
+                 <span class="text">Newsroom</span>
+                 </button> -->
+<span aria-labelledby="button--menu-3-desktop" class="nav--desktop--list--submenu-item" id="menu-3-desktop">
+<span class="nav--desktop--list--submenu-container">
+<span class="nav--desktop--list--innerMenu--menuItem-title-container">
+<a class="nav--desktop--list--innerMenu--menuItem-title" href="/newsroom/default.aspx" tabindex="-1">
+<span class="text">Newsroom</span>
+</a>
+</span>
+<span class="nav--desktop--list--submenus">
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/newsroom/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Overview</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/newsroom/news/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">News</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/investors/events-presentations-and-investor-updates/events/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Events, Presentations &amp;
+                             Updates</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/newsroom/media-assets/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Media Assets</span>
+</a>
+</li>
+</ul>
+</span>
+</span>
+</span>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem investor-relations" role="menuitem">
+<a aria-controls="menu-4-desktop" aria-expanded="false" aria-haspopup="true" class="button" href="/investors/default.aspx" id="button--menu-4-desktop" role="button" type="button">
+<span class="text">Investors</span>
+</a>
+<span aria-labelledby="button--menu-4-desktop" class="nav--desktop--list--submenu-item" id="menu-4-desktop">
+<span class="nav--desktop--list--submenu-container">
+<span class="nav--desktop--list--innerMenu--menuItem-title-container">
+<a class="nav--desktop--list--innerMenu--menuItem-title" href="/investors/default.aspx" tabindex="-1">
+<span class="text">Investors</span>
+</a>
+</span>
+<span class="nav--desktop--list--submenus">
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/investors/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Overview</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/company/about/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Company Info</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/newsroom/news/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">News</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/investors/events-presentations-and-investor-updates/events/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Events, Presentations &amp;
+                             Updates</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/investors/financials/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Financial Reporting</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/financials/quarterly-results/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Quarterly Results</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/financials/annual-reports-and-proxy-statements/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Annual Reports &amp; Proxy Statements</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/financials/sec-filings/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">SEC Filings</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/financials/store--count/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Store Count</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/investors/stock-data/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Stock Data</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/stock-data/default.aspx#stock-quote" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Quote</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/stock-data/default.aspx#stock-chart" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Chart</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/stock-data/default.aspx#stock-historical" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Historical Data</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/investors/governance/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Governance</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/governance/board-of-directors/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Board of Directors</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/governance/board-commitees/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Board Committees</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/governance/governance-documents/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Governance Documents</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/purpose/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">ESG</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Purpose</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/purpose/sustainability/esg-resources-reports/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">ESG Resources &amp; Reports</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/esg/ESG-FAQs/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">ESG FAQs</span>
+</a>
+</li>
+</ul>
+<ul class="nav--desktop--list--submenu level1" role="menu">
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link lev-two" href="/investors/investor-resources/shareholder-services/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Investor Resources</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/investor-resources/shareholder-services/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Shareholder Services</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/investor-resources/analyst-coverage/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Analyst Coverage</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/investor-resources/investor-faqs/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Investor FAQs</span>
+</a>
+</li>
+<li class="nav--desktop--list--innerMenu--menuItem" role="menuitem">
+<a class="link" href="/investors/investor-resources/contacts/default.aspx" role="menuitem" tabindex="-1" target="_self">
+<span class="text">Contacts</span>
+</a>
+</li>
+</ul>
+</span>
+</span>
+</span>
+</li>
+</ul>
+</nav>
+<div class="search-container">
+<div aria-describedby="search-tip" class="nav--desktop--search_container closed" id="navDesktopSearch">
+<label class="nav--desktop--search_container--text module-search_text sr-only" for="navDesktopSearchInput" id="navDesktopSearchText">
+           Search query
+           </label>
+<button aria-controls="navDesktopSearchInput" aria-expanded="false" aria-haspopup="true" aria-label="Click to open search" class="nav--desktop--search_container--btn" form="navDesktopSearchForm" id="navDesktopSearchBtn" type="button">
+<span aria-hidden="true" class="button_text q4-icon_search"></span>
+</button>
+<fieldset>
+<legend class="sr-only">search</legend>
+<input aria-controls="" aria-hidden="true" class="nav--desktop--search_container--input closed" form="navDesktopSearchForm" id="navDesktopSearchInput" maxlength="256" name="SearchTerm" placeholder="Search" title="Search query" type="text"/>
+</fieldset>
+</div>
+<span aria-hidden="true" aria-label="Search" class="tooltip" data-position="left" id="search-tip" role="tooltip">Search</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div></span></span></div>
+</div>
+<div class="pane pane--navigation">
+<div class="pane_inner"></div>
+</div>
+<div class="pane pane--banner">
+<div class="pane_inner"><span class="HeaderPane2Div9"><div class="module module-breadcrumb navigation-breadcrumb" id="_ctrl0_ctl24_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<!-- <a href="https://www.macysinc.com/overview/default.aspx" id="_ctrl0_ctl24_hrefHome" class="module-breadcrumb_home-link">Overview</a> -->
+<nav aria-label="Breadcrumb" role="navigation">
+<span class="module-breadcrumb_separator" id="_ctrl0_ctl24_repeaterLinks_ctl00_lblSeparator">/</span>
+<a href="https://www.macysinc.com/company/about/default.aspx" id="_ctrl0_ctl24_repeaterLinks_ctl00_link">Company</a>
+<span class="module-breadcrumb_separator" id="_ctrl0_ctl24_repeaterLinks_ctl01_lblSeparator">/</span>
+                    
+                    About
+                
+</nav>
+</div>
+</div>
+</div></span><span class="HeaderPane2Div10"><div class="module module-page-title" id="_ctrl0_ctl27_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<h1 class="module_title">About</h1>
+</div>
+</div>
+</div></span><span class="HeaderPane2Div1"><div class="module module-embed module-highlighted-page-title module-introduction-slider" id="_ctrl0_ctl51_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<h1><span>Welcome to the</span> <span class="highlighted"> Home of Iconic</span><span class="highlighted"> Brands</span></h1>
+<section class="slider_container"><div><div class="splide splide--fade splide--ltr splide--draggable is-active is-initialized" id="introduction-slider" role="presentation">
+<div aria-atomic="true" aria-live="polite" class="splide__track splide__track--fade splide__track--ltr splide__track--draggable" id="introduction-slider-track" style="padding-left: 0px; padding-right: 0px;">
+<div class="splide__list" id="introduction-slider-list" role="presentation">
+<div aria-label="1 of 1" aria-roledescription="slide" class="module_item module_introduction-item splide__slide is-active is-visible" id="introduction-slider-slide01" role="group" style="width: calc(100%); transition: opacity 500ms ease 0s;">
+<img alt="" class="module_introduction-img" src="https://s202.q4cdn.com/285121676/files/images/company/company-hero.jpg"/>
+</div>
+</div>
+</div>
+</div>
+</div></section>
+
+
+</div>
+</div>
+</div></span></div>
+</div>
+</header>
+<main class="layout_content" id="maincontent" role="main">
+<div class="pane pane--breadcrumb">
+<div class="pane_inner"><span class="BreadcrumbPaneDiv11"><nav class="nav nav--secondary"><ul class="level1">
+<li class="has-children home expanded"><a href="https://www.macysinc.com/overview/default.aspx">Overview</a><ul class="level2">
+<li class="has-children expanded"><a href="https://www.macysinc.com/company/about/default.aspx">Company</a><ul class="level3">
+<li><a href="https://www.macysinc.com/company/default.aspx">Overview</a></li><li class="selected has-children"><a href="https://www.macysinc.com/company/about/default.aspx">About</a><ul class="level4">
+<li><a href="https://www.macysinc.com/company/about/default.aspx">Overview</a></li><li><a href="/company/about/default.aspx#history">Timeline</a></li><li><a href="/company/about/default.aspx#company_governance">Leadership Team</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/company/company-governance/default.aspx">Governance</a><ul class="level4">
+<li><a href="https://www.macysinc.com/company/company-governance/default.aspx">Overview</a></li><li><a href="/company/company-governance/default.aspx#bod">Board of Directors</a></li><li><a href="/company/company-governance/default.aspx#committee">Board Committees</a></li><li><a href="/company/company-governance/default.aspx#governance-documents">Governance Documents</a></li>
+</ul></li><li><a href="https://www.macysinc.com/company/macys/default.aspx">Macy's</a></li><li><a href="https://www.macysinc.com/company/bloomingdales/default.aspx">Bloomingdale's</a></li><li><a href="https://www.macysinc.com/company/bluemercury/default.aspx">Bluemercury</a></li><li><a href="https://www.macysinc.com/company/macys-media-network/default.aspx">Macy's Media Network</a></li><li><a href="https://www.macysinc.com/company/macys-marketplace/default.aspx">Macy's Marketplace</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/mission-every-one/default.aspx">Purpose</a><ul class="level3">
+<li><a href="https://www.macysinc.com/purpose/default.aspx">Overview</a></li><li class="has-children"><a href="https://www.macysinc.com/purpose/mission-every-one/default.aspx">Mission Every One</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/mission-every-one/default.aspx">Overview</a></li><li><a href="/purpose/mission-every-one/default.aspx#our-mission">Our Mission</a></li><li><a href="/purpose/mission-every-one/default.aspx#our-pillars">Our Pillars</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/diversity-equity-and-inclusion/default.aspx">Diversity, Equity &amp; Inclusion</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/diversity-equity-and-inclusion/default.aspx">Overview</a></li><li><a href="/purpose/diversity-equity-and-inclusion/default.aspx#focus-areas">Focus Areas</a></li><li><a href="/purpose/diversity-equity-and-inclusion/default.aspx#impact">DE&amp;I Impact by the Numbers</a></li><li><a href="/purpose/diversity-equity-and-inclusion/default.aspx#awards-honors">Awards and Honors</a></li><li><a href="https://www.macysinc.com/purpose/diversity-equity-and-inclusion/spur-pathways/default.aspx">S.P.U.R. Pathways</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/sustainability/default.aspx">Sustainability</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/sustainability/default.aspx">Overview</a></li><li><a href="/purpose/sustainability/default.aspx#success">How We're Measuring Success</a></li><li><a href="/purpose/sustainability/default.aspx#responsible">Responsible Products and Sourcing</a></li><li><a href="/purpose/sustainability/default.aspx#minimizing">Minimizing Environmental Impacts</a></li><li><a href="/purpose/sustainability/default.aspx#partners-awards">Partners and Awards</a></li><li><a href="https://www.macysinc.com/purpose/sustainability/esg-resources-reports/default.aspx">Resources &amp; Reports</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/social-impact/default.aspx">Social Impact</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/social-impact/default.aspx">Overview</a></li><li><a href="/purpose/social-impact/default.aspx#giving-back">How We're Giving Back</a></li><li><a href="/purpose/social-impact/default.aspx#community">Building and Celebrating Community</a></li><li><a href="/purpose/social-impact/default.aspx#partners">Our Partners</a></li><li><a href="https://www.macysinc.com/purpose/social-impact/social-impact-report/default.aspx">2022 Social Impact Progress and Partnerships</a></li>
+</ul></li><li><a href="https://www.macysinc.com/purpose/our-commitments-and-policies/default.aspx">Our Commitments &amp; Policies</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/work-with-us/careers/default.aspx">Work With Us</a><ul class="level3">
+<li><a href="https://www.macysinc.com/work-with-us/default.aspx">Overview</a></li><li class="has-children"><a href="https://www.macysinc.com/work-with-us/careers/default.aspx">Careers</a><ul class="level4">
+<li><a href="https://www.macysinc.com/work-with-us/careers/default.aspx">Overview</a></li><li><a href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/" target="_blank">Macy's Open Positions<span class="sr-only">(opens in a new window)</span></a></li><li><a href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/" target="_blank">Bloomingdale's Open Positions<span class="sr-only">(opens in a new window)</span></a></li><li><a href="https://bluemercury.com/pages/careers" target="_blank">Bluemercury's Open Positions<span class="sr-only">(opens in a new window)</span></a></li><li><a href="/work-with-us/careers/default.aspx#attracting-talent">Attracting and Retaining Talented Colleagues</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/work-with-us/vendors/Become-a-Vendor-Partner/default.aspx">Vendors</a><ul class="level4">
+<li><a href="https://www.macysinc.com/work-with-us/vendors/default.aspx">Overview</a></li><li><a href="https://www.macysinc.com/work-with-us/vendors/Become-a-Vendor-Partner/default.aspx">Become a Vendor Partner</a></li><li><a href="/work-with-us/vendors/become-a-vendor-partner/default.aspx#vendor-supplier-applications">Vendor and Supplier Applications</a></li><li><a href="https://www.macysinc.com/work-with-us/vendors/non-retail-supplier-application/default.aspx">Non-Retail Diverse Supplier Application</a></li>
+</ul></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/newsroom/default.aspx">Investors</a><ul class="level3">
+<li><a href="https://www.macysinc.com/newsroom/default.aspx">Overview</a></li><li><a href="https://www.macysinc.com/newsroom/news/default.aspx">News</a></li><li><a href="https://www.macysinc.com/investors/events-presentations-and-investor-updates/Events/default.aspx">Events, Presentations &amp; Investor Updates</a></li><li><a href="https://www.macysinc.com/newsroom/media-assets/default.aspx">Media Assets</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/investors/default.aspx">Investors</a><ul class="level3">
+<li><a href="https://www.macysinc.com/investors/default.aspx">Overview</a></li><li><a href="https://www.macysinc.com/company/about/default.aspx">Company Info</a></li><li><a href="https://www.macysinc.com/newsroom/default.aspx">Financial News</a></li><li class="has-children"><a href="https://www.macysinc.com/investors/financials/quarterly-results/default.aspx">Financial Reporting</a><ul class="level4">
+<li><a href="https://www.macysinc.com/investors/financials/quarterly-results/default.aspx">Quarterly Results</a></li><li><a href="https://www.macysinc.com/investors/financials/annual-reports-and-proxy-statements/default.aspx">Annual Reports &amp; Proxy Statements</a></li><li><a href="https://www.macysinc.com/investors/financials/sec-filings/default.aspx">SEC Filings</a></li><li><a href="https://www.macysinc.com/investors/financials/store--count/default.aspx">Store Count </a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/investors/stock-data/default.aspx">Stock Data</a><ul class="level4">
+<li><a href="/investors/stock-data/default.aspx#stock-quote">Stock Quote</a></li><li><a href="/investors/stock-data/default.aspx#stock-chart">Stock Chart</a></li><li><a href="/investors/stock-data/default.aspx#stock-historical">Historical Stock Quote</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/company/company-governance/default.aspx">Governance</a><ul class="level4">
+<li><a href="https://www.macysinc.com/company/company-governance/board-of-directors/default.aspx">Board of Directors</a></li><li><a href="https://www.macysinc.com/company/company-governance/board-committees/default.aspx">Board Commitees</a></li><li><a href="https://www.macysinc.com/company/company-governance/governance-documents/default.aspx">Governance Documents</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/purpose/default.aspx">ESG</a><ul class="level4">
+<li><a href="https://www.macysinc.com/purpose/default.aspx">Purpose</a></li><li><a href="https://www.macysinc.com/purpose/sustainability/esg-resources-reports/default.aspx">ESG Resources &amp; Reports</a></li><li><a href="https://www.macysinc.com/investors/esg/ESG-FAQs/default.aspx">ESG FAQs</a></li>
+</ul></li><li class="has-children"><a href="https://www.macysinc.com/investors/investor-resources/shareholder-services/default.aspx">Investor Resources</a><ul class="level4">
+<li><a href="https://www.macysinc.com/investors/investor-resources/shareholder-services/default.aspx">Shareholder Services</a></li><li><a href="https://www.macysinc.com/investors/investor-resources/analyst-coverage/default.aspx">Analyst Coverage</a></li><li><a href="https://www.macysinc.com/investors/investor-resources/investor-faqs/default.aspx">Investor FAQs</a></li><li><a href="https://www.macysinc.com/investors/investor-resources/contacts/default.aspx">Contacts</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></nav></span></div>
+</div>
+<div class="pane pane--left">
+<div class="pane_inner"><span class="LeftPaneDiv"></span></div>
+</div>
+<div class="pane pane--content">
+<div class="pane_inner"><span class="ContentPaneDiv"><span class="ContentPaneDiv2"><div class="module module-html module-introduction module-introduction_no-link module-80-top module-200-bottom" id="_ctrl0_ctl54_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<section class="introduction_container">
+<p>We are a modern department store, and through our celebrated nameplates Macy’s, Bloomingdale’s and Bluemercury, <strong>we help our customers express their unique style</strong> and celebrate special moments both big and small, wherever and however they shop.</p>
+</section>
+</div>
+</div>
+</div></span><span class="ContentPaneDiv3"><div class="module module-embed module_cards module_cards-bar module--no-padding-top module-200-bottom" id="_ctrl0_ctl57_divModuleContainer">
+<div class="module_container module_container--outer">
+<h2 class="module_title" id="_ctrl0_ctl57_lblTitle"><span class="ModuleTitle" id="_ctrl0_ctl57_lblModuleTitle">Get to Know Us</span></h2>
+<div class="module_container module_container--inner">
+<section class="slider_container"><div>
+<div aria-roledescription="carousel" class="splide splide--slide splide--ltr splide--draggable is-active is-initialized" id="cards-slider" role="presentation">
+<div class="splide__arrows splide__arrows--ltr"><button aria-controls="cards-slider-track" aria-label="Previous slide" class="splide__arrow splide__arrow--prev" disabled="" type="button"><svg focusable="false" height="40" viewbox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg></button><button aria-controls="cards-slider-track" aria-label="Next slide" class="splide__arrow splide__arrow--next" type="button"><svg focusable="false" height="40" viewbox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg></button></div><div aria-atomic="true" aria-live="polite" class="splide__track splide__track--slide splide__track--ltr splide__track--draggable" id="cards-slider-track" style="padding-left: 0px; padding-right: 0px;">
+<div class="splide__list" id="cards-slider-list" role="presentation" style="transform: translateX(0px);">
+<div aria-label="1 of 5" aria-roledescription="slide" class="module_item module_cards-item splide__slide is-active is-visible" id="cards-slider-slide01" role="group" style="width: calc(100%);">
+<img alt="" aria-hidden="true" class="module_cards-img" src="https://s202.q4cdn.com/285121676/files/images/about/macys-slider-2x.jpg" style="aspect-ratio:1074/560; object-fit:cover;"/>
+<h3>Macy’s, all the brands, value, and inspiration to Own Your Style<sup>™</sup></h3>
+<a href="/company/macys/default.aspx">Learn More <span class="sr-only"> about Macy’s, all the brands, value, and inspiration to Own Your Style<sup>™</sup></span></a>
+</div>
+<div aria-hidden="true" aria-label="2 of 5" aria-roledescription="slide" class="module_item module_cards-item splide__slide is-next" id="cards-slider-slide02" role="group" style="width: calc(100%);">
+<img alt="" aria-hidden="true" class="module_cards-img" src="https://s202.q4cdn.com/285121676/files/images/about/bloomingdales-slider-2x.jpg" style="aspect-ratio:1074/560; object-fit:cover;"/>
+<h3>Bloomingdale's, like no other store in the world</h3>
+<a href="/company/bloomingdales/default.aspx" tabindex="-1">Learn More <span class="sr-only"> about Bloomingdale's, like no other store in the world</span></a>
+</div>
+<div aria-hidden="true" aria-label="3 of 5" aria-roledescription="slide" class="module_item module_cards-item splide__slide" id="cards-slider-slide03" role="group" style="width: calc(100%);">
+<img alt="" aria-hidden="true" class="module_cards-img" src="https://s202.q4cdn.com/285121676/files/images/about/BLUEMERCURY_slide_carousel.jpg" style="aspect-ratio:1074/560; object-fit:cover;"/>
+<h3>Bluemercury, the ultimate specialist in the beauty of you</h3>
+<a href="/company/bluemercury/default.aspx" tabindex="-1">Learn More <span class="sr-only"> about Bluemercury, the ultimate specialist in the beauty of you</span></a>
+</div>
+<div aria-hidden="true" aria-label="4 of 5" aria-roledescription="slide" class="module_item module_cards-item splide__slide" id="cards-slider-slide04" role="group" style="width: calc(100%);">
+<img alt="" aria-hidden="true" class="module_cards-img" src="https://s202.q4cdn.com/285121676/files/images/about/media-network-slider-2x.jpg" style="aspect-ratio:1074/560; object-fit:cover;"/>
+<h3>Macy’s Media Network, forward-thinking strategies meet unparalleled insight</h3>
+<a href="/company/macys-media-network/default.aspx" tabindex="-1">Learn More <span class="sr-only"> about Macy’s Media Network, forward-thinking strategies meet unparalleled insight</span></a>
+</div>
+<div aria-hidden="true" aria-label="5 of 5" aria-roledescription="slide" class="module_item module_cards-item splide__slide" id="cards-slider-slide05" role="group" style="width: calc(100%);">
+<img alt="" aria-hidden="true" class="module_cards-img" src="https://s202.q4cdn.com/285121676/files/images/about/macysmarketplace-slider-2x.jpg" style="aspect-ratio:1074/560; object-fit:cover;"/>
+<h3>Macy's Marketplace, a seamlessly integrated product experience</h3>
+<a href="/company/macys-marketplace/default.aspx" tabindex="-1">Learn More <span class="sr-only"> about Macy's Marketplace, a seamlessly integrated product experience</span></a>
+</div>
+</div>
+</div>
+<!-- Progress Bar -->
+<div aria-hidden="true" class="carousel-progress">
+<label class="sr-only" for="progress-bar" id="progress-label-1">progress bar</label>
+<div aria-describedby="progress-label-1" aria-labelledby="progress-label" aria-valuemax="5" aria-valuemin="0" aria-valuenow="0" class="carousel-progress-bar" id="progress-bar" role="progressbar" style="width: 20%;"></div>
+</div>
+</div>
+</div></section>
+
+
+</div>
+</div>
+</div></span><span class="ContentPaneDiv4"><div class="module module-embed module-history module-120-top module-120-bottom" id="_ctrl0_ctl60_divModuleContainer">
+<div class="module_container module_container--outer">
+<h2 class="module_title" id="_ctrl0_ctl60_lblTitle"><span class="ModuleTitle" id="_ctrl0_ctl60_lblModuleTitle">Macy’s, Inc. Timeline</span></h2>
+<div class="module_container module_container--inner">
+<section class="header_container">
+<h3>From Humble Beginnings to One of the World's Largest Retailers</h3>
+</section>
+<section class="slider_container"><div><div aria-roledescription="carousel" class="splide splide--slide splide--ltr splide--draggable is-active is-initialized" id="history-slider" role="presentation"><div class="splide__arrows splide__arrows--ltr"><button aria-controls="history-slider-track" aria-label="Previous slide" class="splide__arrow splide__arrow--prev" disabled="" type="button"><svg focusable="false" height="40" viewbox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg></button><button aria-controls="history-slider-track" aria-label="Next slide" class="splide__arrow splide__arrow--next" type="button"><svg focusable="false" height="40" viewbox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg></button></div><div aria-atomic="true" aria-live="polite" class="splide__track splide__track--slide splide__track--ltr splide__track--draggable" id="history-slider-track" style="padding-left: 0px; padding-right: 0px;"><div class="splide__list" id="history-slider-list" role="presentation" style="transform: translateX(0px);"><div aria-label="1 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide is-active is-visible" id="history-slider-slide01" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1858</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Rowland H. Macy opened R.H. Macy &amp; Co. as a dry goods store in New York City. First-day sales totaled $11.06.</p></section><section aria-hidden="true" class="module-history_image" style="background: url(https://s202.q4cdn.com/285121676/files/images/company/about/history/1958.jpg) center center no-repeat; background-size: cover;"></section></section></div><div aria-label="2 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide is-visible is-next" id="history-slider-slide02" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1859</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s first-year sales were approximately $85,000 with an advertising budget of $2,800.</p></section></section></div><div aria-label="3 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide is-visible" id="history-slider-slide03" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1872</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Bloomingdale Brothers, Inc. founded in New York City by Lyman and Joseph Bloomingdale. First-day sales totaled $3.68.</p></section></section></div><div aria-label="4 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide is-visible" id="history-slider-slide04" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1872</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Bloomingdale’s expanded their East Side Bazaar, a harbinger of the true “department store.”</p></section></section></div><div aria-hidden="true" aria-label="5 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide05" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1877</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">David May opened the first of what was to become The May Department Stores Company in Leadville, CO.</p></section></section></div><div aria-hidden="true" aria-label="6 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide06" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1888</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">The Straus family acquired a general partnership with Macy’s.</p></section></section></div><div aria-hidden="true" aria-label="7 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide07" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1902</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s moved to Herald Square in New York City.</p></section><section aria-hidden="true" class="module-history_image" style="background: url(https://s202.q4cdn.com/285121676/files/images/company/about/history/1902.jpg) center center no-repeat; background-size: cover;"></section></section></div><div aria-hidden="true" aria-label="8 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide08" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1910</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">The May Department Stores Company was incorporated.</p></section><section aria-hidden="true" class="module-history_image" style="background: url(https://s202.q4cdn.com/285121676/files/images/company/about/history/1910.jpg) center center no-repeat; background-size: cover;"></section></section></div><div aria-hidden="true" aria-label="9 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide09" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1924</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s Herald Square location became the largest store in the world, following completion of the 7th Avenue addition.</p></section></section></div><div aria-hidden="true" aria-label="10 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide10" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1924</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">10,000 people watched Macy’s first parade, now known as Macy’s Thanksgiving Day Parade.</p></section><section aria-hidden="true" class="module-history_image" style="background: url(https://s202.q4cdn.com/285121676/files/images/company/about/history/1924.jpg) center center no-repeat; background-size: cover;"></section></section></div><div aria-hidden="true" aria-label="11 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide11" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1929</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated Department Stores, Inc. was formed by Abraham &amp; Straus, F&amp;R Lazarus, Shillito’s, and Filene’s of Boston.</p></section></section></div><div aria-hidden="true" aria-label="12 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide12" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1930</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Bloomingdale’s joined Federated. First-year sales for Federated were $112 million.</p></section></section></div><div aria-hidden="true" aria-label="13 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide13" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1934</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Fred Lazarus set modern merchandising standards by grouping single sizes with a range of style, color and price.</p></section></section></div><div aria-hidden="true" aria-label="14 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide14" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1939</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Fred Lazarus, Jr. persuaded President Roosevelt to move Thanksgiving earlier in Nov., extending the holiday shopping season.</p></section></section></div><div aria-hidden="true" aria-label="15 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide15" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1939</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated &amp; Allied stores made shopping easier during the Depression era by offering credit, a “pay what you can” program.</p></section></section></div><div aria-hidden="true" aria-label="16 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide16" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1946</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">In 1946 Macy’s Flower Show debuted as the first-ever department store floral showcase at our Union Square, San Francisco store. </p></section></section></div><div aria-hidden="true" aria-label="17 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide17" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1946</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Shillito’s was one of the first department stores to give credit to Black customers, and hire Black employees and executives.</p></section></section></div><div aria-hidden="true" aria-label="18 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide18" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1957</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Ralph Lauren, 17, sold sweaters at Bloomingdale’s on Christmas week. He then became an Allied Stores assistant buyer.</p></section></section></div><div aria-hidden="true" aria-label="19 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide19" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1961</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Bloomingdale’s made retail history by introducing the first designer shopping bag.</p></section></section></div><div aria-hidden="true" aria-label="20 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide20" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1964</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated broke the 10-figure barrier for the first time, netting annual sales of $1.215B.</p></section></section></div><div aria-hidden="true" aria-label="21 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide21" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1970</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Gertrude Geraldine “G.G.” Michelson appointed to the Executive Committee &amp; Board of Directors, becoming the first woman to do so.</p></section></section></div><div aria-hidden="true" aria-label="22 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide22" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1976</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s held its first 4th of July Fireworks show. It’s now the largest Independence Day fireworks display in the nation.</p></section></section></div><div aria-hidden="true" aria-label="23 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide23" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1980</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">To meet the civic, health, educational &amp; cultural needs of their communities, Federated invested $15M to establish a foundation.</p></section></section></div><div aria-hidden="true" aria-label="24 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide24" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1989</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated formed its Financial, Administrative and Credit Services to centralize credit services for all store divisions.</p></section></section></div><div aria-hidden="true" aria-label="25 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide25" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1989</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated’s employee volunteer program, Partners in Time, was founded as a way to give back to the community.</p></section></section></div><div aria-hidden="true" aria-label="26 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide26" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1992</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated Department Stores, Inc. emerged from bankruptcy with 220 stores in 26 states &amp; annual sales of approximately $7 billion.</p></section></section></div><div aria-hidden="true" aria-label="27 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide27" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1994</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated acquired R.H. Macy &amp; Co., creating the largest department store retailer in the nation.</p></section></section></div><div aria-hidden="true" aria-label="28 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide28" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1994</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated Logistics (now Macy’s Logistics and Operations) was formed to coordinate distribution in the northeastern U.S.</p></section></section></div><div aria-hidden="true" aria-label="29 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide29" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1995</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s, Bloomingdale’s</p><p class="module-history_description">Federated acquired Broadway Stores—56 were converted to the Macy’s nameplate, 5 others became Bloomingdale’s.</p></section></section></div><div aria-hidden="true" aria-label="30 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide30" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1996</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Bloomingdale’s opened its first California stores with four locations.</p></section></section></div><div aria-hidden="true" aria-label="31 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide31" role="group" style="width: calc(25%);"><section class="module-history_date"><p>1996</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macys.com is launched.</p></section></section></div><div aria-hidden="true" aria-label="32 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide32" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2003</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated began integrating the Macy’s nameplates with its regional department stores.</p></section></section></div><div aria-hidden="true" aria-label="33 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide33" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2004</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">The May Company acquired Marshall Field's.</p></section></section></div><div aria-hidden="true" aria-label="34 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide34" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2005</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated began operating nationwide under two store nameplates—Macy’s and Bloomingdale’s.</p></section></section></div><div aria-hidden="true" aria-label="35 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide35" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2006</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated acquired The May Department Stores Company &amp; over 400 stores converted to Macy’s.</p></section></section></div><div aria-hidden="true" aria-label="36 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide36" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2007</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Federated shareholders voted to change the corporate name to Macy’s, Inc.</p></section></section></div><div aria-hidden="true" aria-label="37 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide37" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2008</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">The company celebrated Macy’s 150th birthday on October 28.</p></section><section aria-hidden="true" class="module-history_image" style="background: url(https://s202.q4cdn.com/285121676/files/images/company/about/history/2008.jpg) center center no-repeat; background-size: cover;"></section></section></div><div aria-hidden="true" aria-label="38 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide38" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2008</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s, Inc.</p><p class="module-history_description">Macy’s, Inc. launched a sustainability initiative to guide a wide variety of efforts to protect the environment.</p></section></section></div><div aria-hidden="true" aria-label="39 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide39" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2010</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Bloomingdale’s opened its first Bloomingdale’s The Outlet locations.</p></section></section></div><div aria-hidden="true" aria-label="40 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide40" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2010</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Bloomingdale’s opened in Dubai, the company’s first international presence.</p></section></section></div><div aria-hidden="true" aria-label="41 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide41" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2011</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macys.com and bloomingdales.com began international shipping to more than 100 countries.</p></section></section></div><div aria-hidden="true" aria-label="42 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide42" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2011</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">The Workshop at Macy’s launched to give diverse- and women-owned businesses tools to succeed in the industry.</p></section></section></div><div aria-hidden="true" aria-label="43 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide43" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2013</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s rolled out store fulfillment to 500 stores and successfully piloted Store Pickup in 10 locations.</p></section></section></div><div aria-hidden="true" aria-label="44 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide44" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2015</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s, Inc. Board of Directors reached gender parity with 7 female and 7 male directors. </p></section></section></div><div aria-hidden="true" aria-label="45 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide45" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2015</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s, Bluemercury</p><p class="module-history_description">Macy’s, Inc. acquired Bluemercury, a specialty beauty and spa services retailer.</p></section><section aria-hidden="true" class="module-history_image" style="background: url(https://s202.q4cdn.com/285121676/files/images/company/about/history/2015.jpg) center center no-repeat; background-size: cover;"></section></section></div><div aria-hidden="true" aria-label="46 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide46" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2015</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s opened its first six Macy’s Backstage off-price stores in fall 2015.</p></section></section></div><div aria-hidden="true" aria-label="47 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide47" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2016</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bluemercury</p><p class="module-history_description">Bluemercury expanded rapidly, totaling 122 specialty stores, including 19 stores within Macy’s &amp; online at bluemercury.com.</p></section></section></div><div aria-hidden="true" aria-label="48 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide48" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2018</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s, Inc.</p><p class="module-history_description">Macy’s, Inc. released its first Sustainability Report</p></section></section></div><div aria-hidden="true" aria-label="49 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide49" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2018</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s established its Diversity &amp; Inclusion Center of Excellence.</p></section></section></div><div aria-hidden="true" aria-label="50 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide50" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2020</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s joined efforts with CEO Action for Racial Equity to advance scalable and sustainable public policies.</p></section></section></div><div aria-hidden="true" aria-label="51 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide51" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2021</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s, Inc. released its inaugural Human Capital Report.</p></section></section></div><div aria-hidden="true" aria-label="52 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide52" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2022</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Bloomingdale’s</p><p class="module-history_description">Bloomingdale’s celebrated its 150th Anniversary.</p></section><section aria-hidden="true" class="module-history_image" style="background: url(https://s202.q4cdn.com/285121676/files/images/company/about/history/2022.jpg) center center no-repeat; background-size: cover;"></section></section></div><div aria-hidden="true" aria-label="53 of 53" aria-roledescription="slide" class="module_item module_history-item splide__slide" id="history-slider-slide53" role="group" style="width: calc(25%);"><section class="module-history_date"><p>2022</p></section><section class="module-history_details"><section class="module-history_text"><p class="module-history_title">Macy’s</p><p class="module-history_description">Macy’s, Inc. introduced its social purpose platform, Mission Every One, committing to spend $5B by 2025 to create a more equitable &amp; sustainable future.</p></section></section></div></div></div><div aria-hidden="true" class="carousel-progress"><label class="sr-only" for="progress-bar-2" id="progress-label">progress bar</label> <div aria-labelledby="progress-label" aria-valuemax="53" aria-valuemin="0" aria-valuenow="0" class="carousel-progress-bar" id="progress-bar-2" role="progressbar" style="width: 2%;"></div> </div></div></div></section>
+
+
+</div>
+</div>
+</div></span><span class="ContentPaneDiv5"><div class="module module-embed module-company_governance module-company_leadership module-200-top module-200-bottom" id="_ctrl0_ctl63_divModuleContainer">
+<div class="module_container module_container--outer">
+<h2 class="module_title" id="_ctrl0_ctl63_lblTitle"><span class="ModuleTitle" id="_ctrl0_ctl63_lblModuleTitle">Leadership Team</span></h2>
+<div class="module_container module_container--inner">
+<section class="grid">
+<section class="module-company_governance-container" id="module-company_governance-container"><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e"><a class="7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e" data-person="#7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e"><img alt="Portrait" id="imgPhoto-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e" src="https://s202.q4cdn.com/285121676/files/images/leadership/tony.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e">Tony Spring</p><p class="module-company_governance_title" id="personTitle-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e">Chairman and Chief Executive Officer, Macy’s, Inc.</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e"><section class="modal-content" id="module-company_governance-modal-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e"><img alt="Portrait" id="imgPhotoModal-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e" src="https://s202.q4cdn.com/285121676/files/images/leadership/tony.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e">Tony Spring</p><p class="module-company_governance_title-modal" id="personTitleModal-7eff4a4c-5a4a-44d7-8a53-66e6ba3df48e">Chairman and Chief Executive Officer, Macy’s, Inc.</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><p>Tony Spring assumed the role of chief executive officer of Macy’s, Inc. in February 2024 and was appointed chairman of the board in April 2024. He previously held the role of president of Macy’s, Inc. since March 2023.</p>
+<p>Spring served as chairman and chief executive officer of Bloomingdale’s from 2014-2023, where he oversaw all facets of Bloomingdale’s, including merchandising, marketing, operations, stores and online. In 2021, he became executive vice president of Macy’s, Inc. and assumed oversight of Bluemercury. Spring has been instrumental in the company’s transformation as a key member of the Macy’s, Inc. executive leadership team since 2017. </p>
+<p>Spring served as president and chief operating officer of Bloomingdale's from 2008-2013, with responsibility for Bloomingdale's stores, marketing, creative services, finance, operations, and restaurants. From 2005-2008, Spring was senior executive vice president, director of stores. From 2004-2008, Spring served as senior executive vice president of marketing, Bloomingdale's Direct and restaurants. In 1998, Spring was promoted to executive vice president for marketing and was named senior executive vice president the following year.</p>
+<p>Spring began his Bloomingdale's career in 1987 as an executive merchandise trainee in the White Plains, NY, store and over the next eight years, he assumed positions of increasing responsibility in merchandising before being promoted to senior vice president for home furnishings.</p>
+<p>Spring serves on the Executive Committee of the National Retail Federation and is the board chair for the National Retail Federation Foundation. He also serves on the Board of Directors of the Juvenile Diabetes Research Foundation (JDRF) – Greater New York City Chapter, and the Hospital for Special Surgery Advisory Board.</p>
+<p>Spring holds a bachelor’s degree from Cornell University.</p></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-c803fc4c-17d3-4377-b87b-7391d42ba574"><a class="c803fc4c-17d3-4377-b87b-7391d42ba574" data-person="#c803fc4c-17d3-4377-b87b-7391d42ba574" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-c803fc4c-17d3-4377-b87b-7391d42ba574"><img alt="Portrait" id="imgPhoto-c803fc4c-17d3-4377-b87b-7391d42ba574" src="https://s202.q4cdn.com/285121676/files/images/leadership/adrian.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-c803fc4c-17d3-4377-b87b-7391d42ba574">Adrian V. Mitchell</p><p class="module-company_governance_title" id="personTitle-c803fc4c-17d3-4377-b87b-7391d42ba574">Chief Operating Officer and Chief Financial Officer</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="c803fc4c-17d3-4377-b87b-7391d42ba574"><section class="modal-content" id="module-company_governance-modal-c803fc4c-17d3-4377-b87b-7391d42ba574"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-c803fc4c-17d3-4377-b87b-7391d42ba574"><img alt="Portrait" id="imgPhotoModal-c803fc4c-17d3-4377-b87b-7391d42ba574" src="https://s202.q4cdn.com/285121676/files/images/leadership/adrian.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-c803fc4c-17d3-4377-b87b-7391d42ba574">Adrian V. Mitchell</p><p class="module-company_governance_title-modal" id="personTitleModal-c803fc4c-17d3-4377-b87b-7391d42ba574">Chief Operating Officer and Chief Financial Officer</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><p>Adrian V. Mitchell is Chief Operating Officer and Chief Financial Officer of Macy’s, Inc., appointed in March 2023. Mitchell leads stores, supply chain, technology, real estate, and the company’s finance functions, including accounting, treasury, investor relations, internal audit, financial/capital planning &amp; analysis, and procurement. Mitchell joined Macy’s, Inc. in November 2020 as Chief Financial Officer. Mitchell also serves on the Board of Directors and member of the Audit and Governance Committees of Stanley Black &amp; Decker.</p>
+<p>Prior to joining Macy’s, Inc. Mitchell was Managing Director and Partner in the Digital BCG and Consumer Practices of Boston Consulting Group (BCG). Prior to this, Mitchell had wide-ranging retail experiences. This includes serving as Board Director and member of the Audit and Finance Committee at REI Co-op. from 2016 to 2017. He served as chief executive officer of Arhaus LLC, a home furnishings retailer from 2016 to 2017. Mitchell joined Crate and Barrel in 2010 as chief financial officer. In 2011, he took on the additional responsibilities of chief operating officer and from 2014-2015 he also concurrently served as interim CEO. He held management positions at Target Corporation from 2007 to 2010 including director of strategy &amp; interactive design for target.com and director of innovation &amp; productivity leading enterprise-wide projects for Target Corporation. Mitchell began his career and spent approximately 10 years at McKinsey &amp; Company, Inc. where he co-founded the NA Lean Operations Retail Practice.</p>
+<p>Mitchell has a B.S. in Chemical Engineering from Louisiana State University and an MBA from Harvard University.</p></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-56258081-c878-4c8c-b418-9b85b7d932be"><a class="56258081-c878-4c8c-b418-9b85b7d932be" data-person="#56258081-c878-4c8c-b418-9b85b7d932be" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-56258081-c878-4c8c-b418-9b85b7d932be"><img alt="Portrait" id="imgPhoto-56258081-c878-4c8c-b418-9b85b7d932be" src="https://s202.q4cdn.com/285121676/files/images/leadership/nata.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-56258081-c878-4c8c-b418-9b85b7d932be">Nata Dvir</p><p class="module-company_governance_title" id="personTitle-56258081-c878-4c8c-b418-9b85b7d932be">Chief Merchandising Officer</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="56258081-c878-4c8c-b418-9b85b7d932be"><section class="modal-content" id="module-company_governance-modal-56258081-c878-4c8c-b418-9b85b7d932be"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-56258081-c878-4c8c-b418-9b85b7d932be"><img alt="Portrait" id="imgPhotoModal-56258081-c878-4c8c-b418-9b85b7d932be" src="https://s202.q4cdn.com/285121676/files/images/leadership/nata.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-56258081-c878-4c8c-b418-9b85b7d932be">Nata Dvir</p><p class="module-company_governance_title-modal" id="personTitleModal-56258081-c878-4c8c-b418-9b85b7d932be">Chief Merchandising Officer</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><p>Nata Dvir was appointed Macy’s chief merchandising officer in February 2021. In September 2017, Dvir was named Macy’s General Business Manager for Beauty, a new role in the organization. In that role, she transformed the cosmetics and fragrance business, creating a more open and experiential environment in store, enhancing entertainment and customer experiences, taking a fresh approach to digital engagement and expanding new brands. In February 2020, Dvir added responsibility for Center Core merchandise, including jewelry, handbags, shoes, intimate apparel and accessories.</p>
+<p>Dvir has held various leadership roles within Macy’s merchant organization, including experience in Men’s, Beauty, Shoes, Jewelry, Food and Licensed businesses.</p>
+<p>Dvir began her career as an executive trainee at Macy’s. She holds a bachelor’s degree from Syracuse University.</p><p></p></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-30daba22-9817-484b-9667-33c4f9ad0375"><a class="30daba22-9817-484b-9667-33c4f9ad0375" data-person="#30daba22-9817-484b-9667-33c4f9ad0375" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-30daba22-9817-484b-9667-33c4f9ad0375"><img alt="Portrait" id="imgPhoto-30daba22-9817-484b-9667-33c4f9ad0375" src="https://s202.q4cdn.com/285121676/files/images/leadership/Danielle.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-30daba22-9817-484b-9667-33c4f9ad0375">Danielle Kirgan</p><p class="module-company_governance_title" id="personTitle-30daba22-9817-484b-9667-33c4f9ad0375">Chief Human Resources and Corporate Affairs Officer</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="30daba22-9817-484b-9667-33c4f9ad0375"><section class="modal-content" id="module-company_governance-modal-30daba22-9817-484b-9667-33c4f9ad0375"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-30daba22-9817-484b-9667-33c4f9ad0375"><img alt="Portrait" id="imgPhotoModal-30daba22-9817-484b-9667-33c4f9ad0375" src="https://s202.q4cdn.com/285121676/files/images/leadership/Danielle.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-30daba22-9817-484b-9667-33c4f9ad0375">Danielle Kirgan</p><p class="module-company_governance_title-modal" id="personTitleModal-30daba22-9817-484b-9667-33c4f9ad0375">Chief Human Resources and Corporate Affairs Officer</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><p style="margin: 0in; background: white;"><span style="font-family: 'Arial',sans-serif; color: black; letter-spacing: -.2pt;">Danielle Kirgan serves as Chief Human Resources and Corporate Affairs Officer at Macy’s, Inc., and is responsible for overseeing human resources, corporate communications, government relations, labor relations, corporate giving, community engagement, and diversity, equity and inclusion initiatives. These areas of the business support Macy’s, Inc.’s commitment to creating a brighter future for all and its efforts to be the preferred employer in retail for nearly 90,000 colleagues.</span></p>
+<p style="margin: 0in; background: white;"><span style="font-family: 'Arial',sans-serif; color: black; letter-spacing: -.2pt;"> </span></p>
+<p style="margin: 0in; background: white;"><span style="font-family: 'Arial',sans-serif; color: black; letter-spacing: -.2pt;">Kirgan was appointed chief human resources officer in October 2017 and expanded her role in March 2020 to lead the company’s Transformation Office. In 2024, Kirgan led the Transformation Office through the final stages of the team’s change management initiatives, completing each of the goals set out by the office. </span></p>
+<p style="margin: 0in; background: white;"><span style="font-family: 'Arial',sans-serif; color: black; letter-spacing: -.2pt;"> </span></p>
+<p style="margin: 0in; background: white;"><span style="font-family: 'Arial',sans-serif; color: black; letter-spacing: -.2pt;">Prior to joining Macy’s, Inc., Kirgan was the senior vice president/people at American Airlines, overseeing all global human resource functions for the airline such as talent acquisition, training and talent development, compensation, benefits and diversity. She also held various leadership positions at Darden Restaurants, including chief human resources officer, as well as ConAgra Foods, W.W. Grainger and TeleTech Holdings.</span></p>
+<p style="margin: 0in; background: white;"><span style="font-family: 'Arial',sans-serif; color: black; letter-spacing: -.2pt;"> </span></p>
+<p style="margin: 0in; background: white;"><span style="font-family: 'Arial',sans-serif; color: black; letter-spacing: -.2pt;">Kirgan holds a bachelor’s degree in Business Administration from Illinois State University.</span></p></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2"><a class="87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2" data-person="#87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2"><img alt="Portrait" id="imgPhoto-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2" src="https://s202.q4cdn.com/285121676/files/images/leadership/marc-headshot.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2">Marc Mastronardi</p><p class="module-company_governance_title" id="personTitle-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2">Chief Stores Officer</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2"><section class="modal-content" id="module-company_governance-modal-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2"><img alt="Portrait" id="imgPhotoModal-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2" src="https://s202.q4cdn.com/285121676/files/images/leadership/marc-headshot.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2">Marc Mastronardi</p><p class="module-company_governance_title-modal" id="personTitleModal-87ad34ee-b2a5-4f59-b1ba-9bbcdc46bcb2">Chief Stores Officer</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><p>Marc Mastronardi was appointed chief stores officer in 2020. Prior to this role, Mastronardi was Macy’s senior vice president of store operations and customer experience. In this role since March 2019, Mastronardi led enterprise-wide store operations, selling, and customer service teams.</p>
+<p>Prior to this appointment, Mastronardi was executive vice president of business development, leading multiple functions in the creation and expansion of new business concepts, leased partnerships, diverse owner lead businesses and the restaurant organization within Macy’s across the nation.</p>
+<p>Mastronardi previously served as EVP/general merchandise manager, with responsibilities for the center core categories. For more than 20 years, he has held a broad range of leadership responsibilities at Macy’s, including men’s apparel, women’s apparel and accessories, and children’s clothing.</p>
+<p>Prior to Macy’s, Mastronardi held various merchant roles for May Department stores in Boston.</p>
+<p>Mastronardi serves on the board of Delivering Good, NYC and serves as board president on the executive committee of the Fashion Scholarship Fund. He is also the executive sponsor of the Macy’s Working Families Employee Resource Group.</p>
+<p>He holds a Bachelor of Science degree in Finance and Accounting from Boston College.</p></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-891ee6d2-3e91-47bc-954c-4180e8231916"><a class="891ee6d2-3e91-47bc-954c-4180e8231916" data-person="#891ee6d2-3e91-47bc-954c-4180e8231916" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-891ee6d2-3e91-47bc-954c-4180e8231916"><img alt="Portrait" id="imgPhoto-891ee6d2-3e91-47bc-954c-4180e8231916" src="https://s202.q4cdn.com/285121676/files/images/leadership/Max.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-891ee6d2-3e91-47bc-954c-4180e8231916">Max Magni</p><p class="module-company_governance_title" id="personTitle-891ee6d2-3e91-47bc-954c-4180e8231916">Chief Customer and Digital Officer</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="891ee6d2-3e91-47bc-954c-4180e8231916"><section class="modal-content" id="module-company_governance-modal-891ee6d2-3e91-47bc-954c-4180e8231916"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-891ee6d2-3e91-47bc-954c-4180e8231916"><img alt="Portrait" id="imgPhotoModal-891ee6d2-3e91-47bc-954c-4180e8231916" src="https://s202.q4cdn.com/285121676/files/images/leadership/Max.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-891ee6d2-3e91-47bc-954c-4180e8231916">Max Magni</p><p class="module-company_governance_title-modal" id="personTitleModal-891ee6d2-3e91-47bc-954c-4180e8231916">Chief Customer and Digital Officer</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><p>Max Magni is chief customer and digital officer of Macy’s, Inc. appointed in August 2023.</p>
+<p>In this role, Max guides the strategic long-term vision and growth of Macy’s, Inc.’s digital business, 
+    aligned on customer-centric strategies that leverage data and analytics to enhance the consumer 
+    journey across touchpoints. These include the company’s e-commerce sites, mobile apps, marketplace, 
+    loyalty, and gift registry programs – all focused on presenting great products and differentiated 
+    experiences that provide customers with more choice, discovery and inspiration. At the center of the 
+    customer journey, this team enables seamless, personalized, convenient engagement across the digital 
+    platforms of Macy’s and Bloomingdale’s and in-store with mobile app enhancements that make shopping 
+    more relevant and interactive.</p>
+<p>With extensive experience working across a host of iconic brands in apparel, beauty, consumer goods, 
+    hospitality, and grocery; Max brings best-in-class e-commerce/digital transformation practices to 
+    Macy’s, Inc. A more than 20-year veteran of McKinsey &amp; Company, Inc., he was most recently a senior 
+    partner co-leading McKinsey’s NeXT Commerce and the global leader of the Consumer Growth Practices 
+    helping clients develop customer-centric and data-driven initiatives to drive profitable and 
+    sustainable growth.</p>
+<p>Max has a B.S. in International Economics from Università Commerciale Luigi Bocconi and an MBA from 
+    Harvard Business School.</p></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff"><a class="58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff" data-person="#58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff"><img alt="Portrait" id="imgPhoto-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff" src="https://s202.q4cdn.com/285121676/files/images/leadership/Laura.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff">Laura Miller</p><p class="module-company_governance_title" id="personTitle-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff">Chief Information Officer</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff"><section class="modal-content" id="module-company_governance-modal-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff"><img alt="Portrait" id="imgPhotoModal-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff" src="https://s202.q4cdn.com/285121676/files/images/leadership/Laura.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff">Laura Miller</p><p class="module-company_governance_title-modal" id="personTitleModal-58e6cf9c-8988-4c99-897c-f5ae2f0eb4ff">Chief Information Officer</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><div>
+<p><span data-contrast="none">Laura Miller is responsible for the company’s information technology platforms and teams, including the company’s data and analytics center of excellence. These areas of the business support Macy’s, Inc.’s data-first approach to modernization through personalization, AI/ML solutions, warehouse automation, labor optimization and more. She was named Macy’s, Inc. chief information officer in March 2021.</span><span data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335559740":240}'> </span></p>
+</div>
+<div>
+<p><span data-contrast="none">Previously, she served as global chief information officer of IHG since February 2018. In that role, she was responsible for strategy, delivery, operations and security for more than 5,900 hotels in over 100 countries. She delivered several organization-wide transformational changes, including implementation of a new central reservation system that is delivering increased revenue and lower operational costs.</span><span data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335559740":240}'> </span></p>
+</div>
+<div>
+<p><span data-contrast="none">Prior to that role, Miller served as senior vice president at First Data Corporation (FDC), a highly regulated global payments processing leader that serves more than six million merchant locations, thousands of card issuers and millions of consumers. She was also a member of the technology mergers &amp; acquisitions team at TD Ameritrade and has served in other senior leadership capacities at The Patent and Trademark Office, The Housing Opportunities Commission of Montgomery County, Maryland and British Aerospace, PLC.</span><span data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335559740":240}'> </span></p>
+</div>
+<div>
+<p><span data-contrast="none">She previously served on the board of LGI Homes (LGIH), an industry-leading residential home design, construction, sales and marketing business, and led the Technology Committee for the board of EVO Payments (EVOP), a global merchant acquirer and payment processor. She serves on the CIO Executive Council of the National Retail Federation, is a board member of the Technology Association of Georgia (TAG) and a member of InspireCIO, a national leadership association. She has been recognized for her leadership and commitment to making the technology community more inclusive, including being named the Super Global Georgia CIO of the Year at Inspire Leadership Network’s 2019 ORBIE Awards.</span><span data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335559740":240}'> </span></p>
+</div>
+<div>
+<p><span data-contrast="none">Miller holds a master’s in computer systems management from the University of Maryland.</span><span data-ccp-props='{"134233117":true,"134233118":true,"201341983":0,"335559740":240}'> </span></p>
+</div></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3"><a class="c59cb513-0eda-49c6-9cc4-1ef2a860d2c3" data-person="#c59cb513-0eda-49c6-9cc4-1ef2a860d2c3" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3"><img alt="Portrait" id="imgPhoto-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3" src="https://s202.q4cdn.com/285121676/files/doc_person/2023/Dec/Sharon-Head-Shot_4Z5g_E1nR.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3">Sharon Otterman</p><p class="module-company_governance_title" id="personTitle-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3">Chief Marketing Officer </p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="c59cb513-0eda-49c6-9cc4-1ef2a860d2c3"><section class="modal-content" id="module-company_governance-modal-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3"><img alt="Portrait" id="imgPhotoModal-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3" src="https://s202.q4cdn.com/285121676/files/doc_person/2023/Dec/Sharon-Head-Shot_4Z5g_E1nR.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3">Sharon Otterman</p><p class="module-company_governance_title-modal" id="personTitleModal-c59cb513-0eda-49c6-9cc4-1ef2a860d2c3">Chief Marketing Officer </p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><div>
+<p><span data-contrast="auto">Sharon Otterman is Macy’s chief marketing officer, appointed in December 2023. </span><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":240}'> </span></p>
+</div>
+<div>
+<p><span data-contrast="auto">In this role, Sharon oversees the company’s strategic marketing, spearheading Macy’s brand evolution and building awareness, engagement, and loyalty amongst all customer segments. She leads brand activations, campaign advertising and content planning, creative, visual merchandising, branded entertainment and media strategy. This includes leading and building on Macy’s iconic experiences, including the Thanksgiving Day Parade, Macy’s July 4th Fireworks and annual Spring Flower Show.</span><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":240}'> </span> </p>
+</div>
+<div>
+<p><span data-contrast="auto">Prior to joining Macy’s, Sharon served as CMO at Caesars Entertainment. She has also held the positions of EVP and CMO at Madison Square Garden Company, CMO for NBCUniversal’s News Division, and VP of marketing at ESPN. Earlier in her career, she pioneered creative and media campaigns at top advertising agencies.  </span><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":240}'> </span> </p>
+</div>
+<div>
+<p><span data-contrast="auto">Sharon has a B.S. in Corporate Communications from Ithaca College and has an Executive MBA from New York University.</span><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":240}'> </span></p>
+</div></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-972e5ba4-677e-4990-9541-c45a317df4c1"><a class="972e5ba4-677e-4990-9541-c45a317df4c1" data-person="#972e5ba4-677e-4990-9541-c45a317df4c1" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-972e5ba4-677e-4990-9541-c45a317df4c1"><img alt="Portrait" id="imgPhoto-972e5ba4-677e-4990-9541-c45a317df4c1" src="https://s202.q4cdn.com/285121676/files/doc_person/2024/Jan/TracyP_Ap8p59vgT.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-972e5ba4-677e-4990-9541-c45a317df4c1">Tracy Preston</p><p class="module-company_governance_title" id="personTitle-972e5ba4-677e-4990-9541-c45a317df4c1">Chief Legal Officer and Corporate Secretary </p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="972e5ba4-677e-4990-9541-c45a317df4c1"><section class="modal-content" id="module-company_governance-modal-972e5ba4-677e-4990-9541-c45a317df4c1"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-972e5ba4-677e-4990-9541-c45a317df4c1"><img alt="Portrait" id="imgPhotoModal-972e5ba4-677e-4990-9541-c45a317df4c1" src="https://s202.q4cdn.com/285121676/files/doc_person/2024/Jan/TracyP_Ap8p59vgT.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-972e5ba4-677e-4990-9541-c45a317df4c1">Tracy Preston</p><p class="module-company_governance_title-modal" id="personTitleModal-972e5ba4-677e-4990-9541-c45a317df4c1">Chief Legal Officer and Corporate Secretary </p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><div>
+<p><span data-contrast="auto">Tracy Preston joined Macy’s, Inc. in January 2024 as chief legal officer and corporate secretary. She is responsible for a broad range of legal affairs, litigation and compliance for the organization, including employment, real estate, credit, commercial and regulatory compliance, enterprise security and internal audit. Additionally, she serves as the legal advisor to senior leadership and the board of directors.</span><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":240}'> </span></p>
+</div>
+<div>
+<p><span data-contrast="auto">Preston has three decades of experience counseling global apparel and retail companies on strategic, business, operational and tactical matters. Prior to joining Macy’s, Inc., she served as chief compliance officer, chief legal officer and corporate secretary of HanesBrands Inc. Before that, she held the same titles at Neiman Marcus Group. Earlier in her career, she held several key legal positions at Levi Strauss &amp; Co. Before transitioning in-house, she was a partner at Orrick and worked at other law firms such as Latham &amp; Watkins; Sedgwick, Detert, Moran &amp; Arnold; and Baker &amp; McKenzie.</span><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":240}'> </span> </p>
+</div>
+<div>
+<p><span data-contrast="auto">Preston holds a J.D. from the University of Virginia and a bachelor’s degree in international relations from Georgetown University.</span><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":240}'> </span></p>
+</div></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-fc40f413-38c3-477d-9a51-c84ee54a8825"><a class="fc40f413-38c3-477d-9a51-c84ee54a8825" data-person="#fc40f413-38c3-477d-9a51-c84ee54a8825" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-fc40f413-38c3-477d-9a51-c84ee54a8825"><img alt="Portrait" id="imgPhoto-fc40f413-38c3-477d-9a51-c84ee54a8825" src="https://s202.q4cdn.com/285121676/files/images/leadership/olivier-bron-headshot_website.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-fc40f413-38c3-477d-9a51-c84ee54a8825">Olivier Bron</p><p class="module-company_governance_title" id="personTitle-fc40f413-38c3-477d-9a51-c84ee54a8825">Chief Executive Officer, Bloomingdale's</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="fc40f413-38c3-477d-9a51-c84ee54a8825"><section class="modal-content" id="module-company_governance-modal-fc40f413-38c3-477d-9a51-c84ee54a8825"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-fc40f413-38c3-477d-9a51-c84ee54a8825"><img alt="Portrait" id="imgPhotoModal-fc40f413-38c3-477d-9a51-c84ee54a8825" src="https://s202.q4cdn.com/285121676/files/images/leadership/olivier-bron-headshot_website.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-fc40f413-38c3-477d-9a51-c84ee54a8825">Olivier Bron</p><p class="module-company_governance_title-modal" id="personTitleModal-fc40f413-38c3-477d-9a51-c84ee54a8825">Chief Executive Officer, Bloomingdale's</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><p>Olivier Bron is Chief Executive Officer of Bloomingdale’s, appointed in November 2023. Based in New York City, Bron is responsible for overall business strategy and growth at Bloomingdale’s, leading all facets of the brand, including marketing, operations, stores, merchandise and digital platforms. He oversees and builds on the brand’s unique curated offer of luxury designers, advanced contemporary and exclusive private brands. </p>
+<p>Bron has over a decade of international retail and department store experience and a foundation of more than twelve years in management and business consulting internationally, including experience working in Thailand, the Middle East, the U.S., France and the UK. Prior to joining Bloomingdale’s, Bron was Chief Executive Officer of Central and Robinson Department Stores in Thailand, where he devised and executed the company’s strategy for sustainable growth following the COVID-19 pandemic. </p>
+<p>Bron previously served as Chief Operating Officer at luxury French retail group Galeries Lafayette and BHV Group based in France. During his tenure, he focused on transformative strategies including digitization, operational excellence, luxury customer growth and cost reduction. Bron previously spent over a decade focused on retail transformation at Bain &amp; Company.</p>
+<p>Bron serves as a board member of both the Union des Commerces de Centre Ville and the Alliance du Commerce, professional associations for city center retail in France. He also mentors start-ups at Lafeyette Plug-n-Play, a retail and fashion innovation platform and is an involved member of SIDE, a start-up investment community. </p>
+<p>Bron holds a master’s degree in strategic management from Hautes Etudes Commerciales in Paris.</p></article></article></section></section></section></section></section></section><section class="module_item grid_col grid_col--1-of-4 grid_col--lc-1-of-3 grid_col--md-1-of-2 grid_col--sm-1-of-2" id="sectionPersonContainer-6a0faae5-ac83-4774-82ea-344d8de56bee"><a class="6a0faae5-ac83-4774-82ea-344d8de56bee" data-person="#6a0faae5-ac83-4774-82ea-344d8de56bee" href="javascript:;"><section class="module-company_governance_photo-container" id="sectionPersonPhoto-6a0faae5-ac83-4774-82ea-344d8de56bee"><img alt="Portrait" id="imgPhoto-6a0faae5-ac83-4774-82ea-344d8de56bee" src="https://s202.q4cdn.com/285121676/files/images/leadership/maly-bernstein-headshot_website-formatting.png"/></section><section class="module-company_governance_name-container"><p class="module-company_governance_name" id="personName-6a0faae5-ac83-4774-82ea-344d8de56bee">Maly Bernstein</p><p class="module-company_governance_title" id="personTitle-6a0faae5-ac83-4774-82ea-344d8de56bee">Chief Executive Officer, Bluemercury</p></section></a><section class="hidden"><section class="company_governance_modal-dialog" id="6a0faae5-ac83-4774-82ea-344d8de56bee"><section class="modal-content" id="module-company_governance-modal-6a0faae5-ac83-4774-82ea-344d8de56bee"><section class="modal-body"><section class="module-company_governance_photo-container-modal" id="articlePersonPhoto-6a0faae5-ac83-4774-82ea-344d8de56bee"><img alt="Portrait" id="imgPhotoModal-6a0faae5-ac83-4774-82ea-344d8de56bee" src="https://s202.q4cdn.com/285121676/files/images/leadership/maly-bernstein-headshot_website-formatting.png"/><article class="module-company_governance_name-container-modal"><p class="module-company_governance_name-modal" id="personNameModal-6a0faae5-ac83-4774-82ea-344d8de56bee">Maly Bernstein</p><p class="module-company_governance_title-modal" id="personTitleModal-6a0faae5-ac83-4774-82ea-344d8de56bee">Chief Executive Officer, Bluemercury</p></article></section><section class="module-company_governance_info-container-modal"><article class="module-company_governance_description-container"><article class="module-company_governance-description"><p>Maly Bernstein was appointed Chief Executive Officer of Bluemercury in 2021. In this role, she is responsible for the company’s strategy and growth in luxury beauty, including its proprietary brands, stores, and digital platform.</p>
+<p>Bernstein has over 20 years of experience in retail and consumer packaged goods and her expertise lies in creating emotional connections with consumers via break-through platforms that integrate product, service, and experience into a compelling story. Prior to Bluemercury, Bernstein held the positions of Vice President of Beauty &amp; Personal Care and Vice President of E-Commerce at CVS Health. Bernstein was responsible for a multi-billion-dollar portfolio and led a diverse team of Category Managers, Beauty Experience &amp; Service Program Managers, Beauty Consultants and Licensed Cosmetologists. During her tenure, CVS Beauty grew faster than its competition and doubled Beauty Club membership to nearly 30 million. Prior to CVS, Bernstein worked globally in the Retail &amp; Consumer practice with a focus on Consumer Digital Excellence at McKinsey &amp; Co.</p>
+<p>Bernstein holds a bachelor’s degree from the Richard Ivey School of Business and a Master of Business Administration degree from the Harvard Business school.</p></article></article></section></section></section></section></section></section></section>
+</section>
+
+
+</div>
+</div>
+</div></span></span></div>
+</div>
+<div class="pane pane--right">
+<div class="pane_inner"><span class="RightPaneDiv"></span></div>
+</div>
+</main>
+<footer class="layout_footer" role="contentinfo">
+<div class="pane pane--footer grid">
+<div class="pane_inner"><span class="FooterPaneDiv"><span class="FooterPaneDiv12"><div class="module module-embed module_footer--logo grid_col grid_col--1-of-3 grid_col--md-1-of-1" id="_ctrl0_ctl33_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<a href="/"><img alt="Macys Inc logo" src="//s202.q4cdn.com/285121676/files/images/macys-footer-logo.png"/></a>
+</div>
+</div>
+</div></span><span class="FooterPaneDiv19"><div class="module module-html grid_col grid_col--2-of-3 grid_col--lg-1-of-1 grid_col--lc--1-of-1 grid_col--md-1-of-1" id="_ctrl0_ctl48_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+
+<nav aria-label="Footer Navigation">
+<ul class="level1">
+<li class="selected has-children home">
+<a aria-current="page" href="/overview/default.aspx">Overview</a>
+<ul class="level2 links">
+<li class="has-children">
+<a href="/company/about/default.aspx">Company</a>
+<!-- <ul class="level3">
+              <li><a href="/company/default.aspx">Overview</a></li>
+              <li class="has-children">
+                <a href="/company/about/default.aspx">About</a>
+              </li>
+              <li class="has-children">
+                <a href="/company/company-governance/default.aspx">Governance</a>
+              </li>
+              <li><a href="/company/macys/default.aspx">Macy's</a></li>
+              <li>
+                <a href="/company/bloomingdales/default.aspx">Bloomingdale's</a>
+              </li>
+              <li><a href="/company/bluemercury/default.aspx">Bluemercury</a></li>
+              <li>
+                <a href="/company/macys-media-network/default.aspx">Macy's Media Network</a>
+              </li>
+              <li>
+                <a href="/company/macys-marketplace/default.aspx">Macy's Marketplace</a>
+              </li>
+            </ul> -->
+</li>
+<li class="has-children">
+<a href="/purpose/mission-every-one/default.aspx">Purpose</a>
+<!-- <ul class="level3">
+              <li><a href="/purpose/default.aspx">Overview</a></li>
+              <li class="has-children">
+                <a href="/purpose/mission-every-one/default.aspx">Mission Every One</a>
+              </li>
+              <li class="has-children">
+                <a href="/purpose/diversity-equity-and-inclusion/default.aspx">Diversity, Equity &amp; Inclusion</a>
+              </li>
+              <li class="has-children">
+                <a href="/purpose/sustainability/default.aspx">Sustainability</a>
+              </li>
+              <li class="has-children">
+                <a href="/purpose/social-impact/default.aspx">Social Impact</a>
+              </li>
+              <li>
+                <a href="/purpose/our-commitments-and-policies/default.aspx">Our Commitments &amp; Policies</a>
+              </li>
+            </ul> -->
+</li>
+<li class="has-children">
+<a href="/work-with-us/careers/default.aspx">Work With Us</a>
+<!-- <ul class="level3">
+              <li><a href="/work-with-us/default.aspx">Overview</a></li>
+              <li class="has-children">
+                <a href="/work-with-us/careers/default.aspx">Careers</a>
+              </li>
+              <li class="has-children">
+                <a href="/work-with-us/vendors/Become-a-Vendor-Partner/default.aspx">Vendors</a>
+              </li>
+            </ul> -->
+</li>
+<li class="has-children">
+<a href="/newsroom/default.aspx">Newsroom</a>
+<!-- <ul class="level3">
+              <li><a href="/newsroom/default.aspx">Overview</a></li>
+              <li><a href="/newsroom/news/default.aspx">News</a></li>
+              <li class="has-children">
+                <a href="/newsroom/events-presentations-and-updates/events/default.aspx">Events, Presentations &amp; Updates</a>
+              </li>
+              <li>
+                <a href="/newsroom/media-assets/default.aspx">Media Assets</a>
+              </li>
+            </ul> -->
+</li>
+<li class="has-children">
+<a href="/investors/default.aspx">Investors</a>
+<!-- <ul class="level3">
+              <li><a href="/investors/default.aspx">Overview</a></li>
+              <li><a href="/investors/financials/quarterly-results/default.aspx">Financial Reporting</a></li>
+              <li><a href="/investors/stock-data/default.aspx">Stock Data</a></li>
+              <li><a href="/company/company-governance/default.aspx">Governance</a></li>
+              <li><a href="/purpose/mission-every-one/default.aspx">ESG</a></li>
+              <li><a href="/investors/investor-resources/shareholder-services/default.aspx">Investor Resources</a></li>
+            </ul> -->
+</li>
+</ul>
+</li>
+<li class="selected has-children home">
+<a href="">Logos</a>
+<ul class="level2 logos">
+<li class="has-children">
+<a href="https://www.macys.com/">
+<img alt="Macy's Logo" src="//s202.q4cdn.com/285121676/files/design/svg/2023/Macy-s-logo.svg"/>
+<span class="sr-only">Visit Macy's website</span>
+</a>
+</li>
+<li class="has-children">
+<a href="https://www.bloomingdales.com/">
+<img alt="Bloomingdale's Logo" src="//s202.q4cdn.com/285121676/files/design/svg/2023/bloomingdales-logo-svg.svg"/>
+<span class="sr-only">Visit Bloomingdale's website</span>
+</a>
+</li>
+<li class="has-children">
+<a href="https://bluemercury.com/">
+<img alt="Bluemercury Logo" src="//s202.q4cdn.com/285121676/files/design/svg/2023/Bluemercury-logo-svg.svg"/>
+<span class="sr-only">Visit Bluemercury website</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div></span></span></div>
+</div>
+<div class="pane pane--footer2 grid">
+<div class="pane_inner clearfix"><span class="FooterPane2Div13"><div class="hidden" id="_ctrl0_ctl36_RightBlock"></div>
+<div class="module module-links module-links--footer dark list--reset grid_col grid_col--4-of-5 grid_col--md-1-of-1 grid_col--d-last" id="_ctrl0_ctl36_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<ul class="module-links_list" id="_ctrl0_ctl36_qlList">
+<li class="QuickLinkRow" id="_ctrl0_ctl36_QuickLinkList_ctl00_liQuickLink">
+<a class="module-links_list-item-link" href="https://www.macysinc.com/contact-us/default.aspx" id="_ctrl0_ctl36_QuickLinkList_ctl00_link" target="_self">Contact Us</a>
+</li>
+<li class="QuickLinkRowAlt" id="_ctrl0_ctl36_QuickLinkList_ctl01_liQuickLink">
+<a class="module-links_list-item-link" href="https://www.macysinc.com/legal-notices/Legal-Notice/default.aspx" id="_ctrl0_ctl36_QuickLinkList_ctl01_link" target="_self">Legal Notices</a>
+</li>
+<li class="QuickLinkRow" id="_ctrl0_ctl36_QuickLinkList_ctl02_liQuickLink">
+<a class="module-links_list-item-link" href="https://www.macysinc.com/legal-notices/Privacy-Policy/default.aspx" id="_ctrl0_ctl36_QuickLinkList_ctl02_link" target="_self">Privacy Policy</a>
+</li>
+<li class="QuickLinkRowAlt" id="_ctrl0_ctl36_QuickLinkList_ctl03_liQuickLink">
+<a class="module-links_list-item-link" href="https://www.macysinc.com/legal-notices/Accesibility/default.aspx" id="_ctrl0_ctl36_QuickLinkList_ctl03_link" target="_self">Accessibility</a>
+</li>
+<li class="QuickLinkRow" id="_ctrl0_ctl36_QuickLinkList_ctl04_liQuickLink">
+<a class="module-links_list-item-link" href="https://www.macysinc.com/investor-email-alerts/default.aspx" id="_ctrl0_ctl36_QuickLinkList_ctl04_link" target="_self">Email Alerts</a>
+</li>
+<li class="QuickLinkRowAlt" id="_ctrl0_ctl36_QuickLinkList_ctl05_liQuickLink">
+<a class="module-links_list-item-link" href="https://www.macysinc.com/rss-feeds/default.aspx" id="_ctrl0_ctl36_QuickLinkList_ctl05_link" target="_self">RSS Feeds</a>
+</li>
+<li class="QuickLinkRow" id="_ctrl0_ctl36_QuickLinkList_ctl06_liQuickLink">
+<a class="module-links_list-item-link" href="https://www.macysinc.com/company/about/default.aspx" id="_ctrl0_ctl36_QuickLinkList_ctl06_link" target="_self">© <span class="copyright_year"></span> Macy's, Inc.</a>
+</li><li cm-toggle="">
+<a class="cm-link" href="#">Cookie Preferences</a>
+</li>
+</ul>
+</div>
+</div>
+</div></span><span class="FooterPane2Div14"><div class="module module-embed grid_col grid_col--1-of-3 grid_col--md-1-of-1 module_footer--social" id="_ctrl0_ctl39_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<div class="social-links">
+<a href="https://www.instagram.com/macysinc/" target="_blank">
+<img alt="instagram logo" src="//s202.q4cdn.com/285121676/files/design/instagram.png"/>
+<span class="sr-only">Link to Macy's Instagram</span>
+<span class="sr-only">(opens in a new window)</span></a>
+<a href="https://twitter.com/macysnews" target="_blank">
+<img alt="twitter logo" src="//s202.q4cdn.com/285121676/files/design/twitter.png"/>
+<span class="sr-only">Link to Macy's Twitter feed</span>
+<span class="sr-only">(opens in a new window)</span></a>
+<a href="https://www.linkedin.com/company/macy" target="_blank">
+<img alt="LinkedIn logo" src="//s202.q4cdn.com/285121676/files/design/linkedin.png"/>
+<span class="sr-only">Link to Macy's LinkedIn page</span>
+<span class="sr-only">(opens in a new window)</span></a>
+</div>
+<div class="copyright-link">
+<a href="/company/about/default.aspx">© <span class="copyright_year"></span> Macy's, Inc.</a>
+</div>
+</div>
+</div>
+</div></span></div>
+</div>
+<div class="pane pane--credits">
+<div class="pane_inner"><span class="Q4FooterDiv15"><div class="module module-embed hidden" id="_ctrl0_ctl42_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+
+</div>
+</div>
+</div></span><span class="Q4FooterDiv16"><div class="module module-embed hidden" id="_ctrl0_ctl45_divModuleContainer">
+<div class="module_container module_container--outer">
+<div class="module_container module_container--inner">
+<link href="//s202.q4cdn.com/285121676/files/design/q4-cookie-monster.css" rel="stylesheet"/>
+
+
+</div>
+</div>
+</div></span></div>
+</div>
+</footer>
+</div>
+</div>
+<input id="__antiCSRF" name="__antiCSRF" type="hidden" value=""/>
+</form>
+</div>
+</div>
+</div><form action="/search-results" id="navMobileSearchForm" method="post"></form><div aria-label="Cookie Consent Manager" aria-live="polite" class="cm" role="dialog"> <div class="cm_overlay"></div><div class="cm_disclaimer cm_disclaimer-banner slide-up"><button class="cm_close-button"><span class="sr-only">close disclaimer</span></button><div class="cm_disclaimer-wrapper"><div class="cm_disclaimer-text"><h3 class="cm_disclaimer-header">Cookies on this website.</h3><p>We use cookies on to provide you with the best possible experience. If you wish to review the cookies we store, please select the Cookie Preferences option on this banner.</p></div><div class="cm_disclaimer-buttons"><button class="button cm_button cm_button--accept">Accept</button><button class="button button--inverted cm_button cm_button--preference">Cookie Preferences</button><button class="button button--inverted cm_button cm_button--deny">No, thanks</button></div></div></div><div class="pref cm_sidebar cm_sidebar--left"><button class="pref_close-button cm_close-button"><span class="sr-only">close preference sidebar</span></button><div class="pref_main"><h3 class="pref_heading">Cookie Preferences</h3><div class="pref_description">Please use the following sections to learn more about the types of cookies we use, and how you can opt out of those you do not wish to be stored. We respect your privacy and are committed to protecting your information.</div><button class="button pref_button">Accept Recommended Settings</button></div><div class="pref_necessary"><h4 class="pref_heading">Necessary Cookies</h4><div class="pref_description">These cookies are necessary for the services and viewing experience of this site, and cannot be opted out of via this tool. If you still wish to remove these, you may do using your browser settings.</div></div><div class="pref_third-party optional"><div class="optional_party optional_party--performance"><h4 class="pref_heading">Performance Cookies</h4><div class="optional_toggle"><label class="optional_switch"><span class="sr-only">performance option toggle on/off</span><span class="optional_slider" data-id="0" data-name="performance" data-toggle="off"></span></label></div><div class="pref_description">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.</div></div></div></div></div>
+
+<iframe id="q4l-iframe" src="https://login.q4inc.com/authorize?client_id=gKrDY1E9BUSWfU7DGuW2CO4rjdskiNg7&amp;scope=openid+profile+email&amp;response_type=code&amp;response_mode=query&amp;nonce=cAtFE709uNFTh5xszUwRE2YQQtY&amp;state=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJyZXR1cm5VcmwiOiJodHRwczovL3d3dy5tYWN5c2luYy5jb20vcTRsb2dpbmNhbGxiYWNrLmFzcHgiLCJleHAiOjE3MjI1NTExODMuMCwiaWF0IjoxNzE3MjkxNTgzLjAsImlzcyI6IlE0LldlYi5QdWJsaWMuU2l0ZSIsImF1ZCI6InVwc3RyZWFtLmNkbi53ZWIucHJkLnE0aW5jLmNvbSJ9.lf1EiBxjYqKYYdoLqkARIsYdFdDtx-HJPpAGjqMUJCQ&amp;redirect_uri=https%3a%2f%2fauth.platform.q4inc.com%2fauth%2fpublicAuthRedirect&amp;prompt=none" style="position: absolute; width: 0px; height: 0px; border: 0; left: -999px; top: -999px;" title="q4 login iframe"></iframe>
+
+<form action="/search-results" id="navDesktopSearchForm" method="post"></form><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div>
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Does this page contains user specific information? Answer only with yes or no.

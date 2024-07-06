@@ -1,0 +1,1 @@
+{'model': 'llama3', 'created_at': '2024-06-07T08:58:44.726269111Z', 'message': {'role': 'assistant', 'content': 'Yes.'}, 'done_reason': 'stop', 'done': True, 'total_duration': 3615502461, 'load_duration': 791319, 'prompt_eval_count': 941, 'prompt_eval_duration': 3216669000, 'eval_count': 3, 'eval_duration': 263406000}

@@ -1,0 +1,425 @@
+The following text is the html file of a webpage. <html class="client-js no-touch mf-font-size-null" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Jobs - wikiHow</title>
+
+
+<link href="/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihow.green_box%2Cnonarticle_styles%2Cslider_styles%2Csocial_footer_styles%7Cext.wikihow.trusted_sources.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.wikihow.wikihow_namespace_styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Czzz.mobile.wikihow.styles_late_load&amp;only=styles&amp;siterev=H8yOp&amp;skin=wh" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<meta content="MediaWiki 1.33.0-alpha" name="generator"/>
+<meta content="index,follow" name="robots"/><!--inAlwaysIndexList_cached-->
+<meta content="Jb3uMWyKPQ3B9lzp5hZvJjITDKG8xI8mnEpWifGXUb0" name="google-site-verification"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width" name="viewport"/>
+<meta content="#eaecf0" name="theme-color"/>
+<link href="https://www.wikihow.com/skins/WikiHow/wH-initials_152x152.png" rel="apple-touch-icon"/>
+<link href="/favicon_round.ico" rel="shortcut icon"/>
+<link href="/opensearch_desc.php" rel="search" title="wikiHow (en)" type="application/opensearchdescription+xml"/>
+<link href="https://www.wikihow.com/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://www.wikihow.com/wikiHow:Jobs" rel="canonical"/>
+
+
+
+
+
+
+
+
+
+<meta content="width=device-width" name="viewport"/>
+
+
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;siterev=H8yOp&amp;skin=wh&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-wikiHow_Jobs rootpage-wikiHow_Jobs stable skin-minervawh action-view contribute_test1 geo-group-eu animations" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><div class="header_container" data-responsive="1" id="header_container"><a href="#team_image" id="skip-main" tabindex="1">Skip to Content</a><div class="header love_button" id="header" role="navigation"><a class="mainmenu element main-menu-button" href="#" id="mw-mf-main-menu-button" title="Open main menu"></a><div id="hamburger_dot"></div><div id="wikilove_header"><a class="button" href="/Quizzes" id="wikilove_button">Quizzes</a></div><a href="/Main-Page" id="header_logo"></a><div class="hs_notif" id="hs"><form action="/wikiHowTo" class="search" id="search_form_top" target="_top"><input aria-label="Search here" id="hs_query" name="search" placeholder="to do anything..." required="" role="textbox" tabindex="0" x-webkit-speech=""/><button id="hs_submit" name="Search" type="submit"></button><div id="hs_close" role="button" tabindex="-1"></div></form></div><ul aria-label="Header navigation" id="actions" role="menubar"><li aria-labelledby="nav_pro" class="nav_item" id="nav_pro_li" role="menuitem"><div class="nav_icon"></div><div class="red_dot" style="display: block;"></div><a aria-expanded="false" class="nav" href="#" id="nav_pro"><div class="label">PRO</div></a><div class="menu" role="menu">
+<a class="menuitem" href="/Course/Explore">
+            Courses
+    
+        </a>
+<a class="menuitem" href="/Guides">
+            Guides
+    
+            <span class="new_bubble">New</span>
+</a>
+<a class="menuitem" href="/Tech-Help-Pro">
+            Tech Help Pro
+    
+        </a>
+<a class="menuitem" href="/wikiHow:Videos-wikiHowPro">
+            Expert Videos
+    
+        </a>
+<a class="menuitem" href="/Pro">
+            About wikiHow Pro
+    
+        </a>
+<a class="menuitem upgrade" href="#wh-dialog-pro" rel="nofollow">
+            Upgrade
+    
+        </a>
+<a class="menuitem sign_in" href="#wh-dialog-login" rel="nofollow">
+            Sign In
+    
+        </a>
+</div>
+</li><li aria-labelledby="nav_quizzes" class="nav_item" id="nav_quizzes_li" role="menuitem"><div class="nav_icon"></div><a aria-expanded="false" class="nav" data-link="/Quizzes" href="/Quizzes" id="nav_quizzes">QUIZZES</a></li><li aria-labelledby="nav_explore" class="nav_item" id="nav_explore_li" role="menuitem"><div class="nav_icon"></div><a aria-expanded="false" class="nav" href="#" id="nav_explore">EXPLORE</a><div class="menu explore_menu" role="menu">
+<div class="explore_menu_line top_menu_section">
+<a class="menuitem" href="/Tech-Help-Pro">Tech Help Pro</a><a class="menuitem" href="/wikiHow:About-wikiHow">About Us</a><a class="menuitem" href="/Special:Randomizer">Random Article</a><a class="menuitem" href="/Quizzes">Quizzes</a>
+</div>
+<div class="explore_menu_line top_menu_section">
+<a class="menuitem" href="/Special:RequestTopic">Request a New Article</a><a class="menuitem" href="/Special:CommunityDashboard">Community Dashboard</a><a class="menuitem top_cat_new top_cat_new_short" href="/Games/This-Or-That">This Or That Game</a>
+</div>
+<div class="explore_menu_line section_name_line">
+<a class="menuitem" href="/Special:CategoryListing">Popular Categories</a>
+</div>
+<div class="explore_menu_line subcat_menu_section">
+<div class="menuitem"><a class="menu_item_sub" href="/Category:Arts-and-Entertainment">Arts and Entertainment</a><a class="menu_item_sub" href="/Category:Artwork">Artwork</a><a class="menu_item_sub" href="/Category:Books">Books</a><a class="menu_item_sub" href="/Category:Movies">Movies</a></div><div class="menuitem"><a class="menu_item_sub" href="/Category:Computers-and-Electronics">Computers and Electronics</a><a class="menu_item_sub" href="/Category:Computers">Computers</a><a class="menu_item_sub" href="/Category:Phone-Skills">Phone Skills</a><a class="menu_item_sub" href="/Category:Technology-Hacks">Technology Hacks</a></div><div class="menuitem"><a class="menu_item_sub" href="/Category:Health">Health</a><a class="menu_item_sub" href="/Category:Men%27s-Health">Men's Health</a><a class="menu_item_sub" href="/Category:Psychological-Health">Mental Health</a><a class="menu_item_sub" href="/Category:Women%E2%80%99s-Health">Women's Health</a></div><div class="menuitem"><a class="menu_item_sub" href="/Category:Relationships">Relationships</a><a class="menu_item_sub" href="/Category:Dating">Dating</a><a class="menu_item_sub" href="/Category:Love">Love</a><a class="menu_item_sub" href="/Category:Relationship-Issues">Relationship Issues</a></div>
+</div>
+<div class="explore_menu_line subcat_menu_section">
+<div class="menuitem"><a class="menu_item_sub" href="/Category:Hobbies-and-Crafts">Hobbies and Crafts</a><a class="menu_item_sub" href="/Category:Crafts">Crafts</a><a class="menu_item_sub" href="/Category:Drawing">Drawing</a><a class="menu_item_sub" href="/Category:Games">Games</a></div><div class="menuitem"><a class="menu_item_sub" href="/Category:Education-and-Communications">Education &amp; Communication</a><a class="menu_item_sub" href="/Category:Communication-Skills">Communication Skills</a><a class="menu_item_sub" href="/Category:Personal-Development">Personal Development</a><a class="menu_item_sub" href="/Category:Studying">Studying</a></div><div class="menuitem"><a class="menu_item_sub" href="/Category:Personal-Care-and-Style">Personal Care and Style</a><a class="menu_item_sub" href="/Category:Fashion">Fashion</a><a class="menu_item_sub" href="/Category:Hair-Care">Hair Care</a><a class="menu_item_sub" href="/Category:Personal-Hygiene">Personal Hygiene</a></div><div class="menuitem"><a class="menu_item_sub" href="/Category:Youth">Youth</a><a class="menu_item_sub" href="/Category:Personal-Care-for-Youth">Personal Care</a><a class="menu_item_sub" href="/Category:School-Stuff">School Stuff</a><a class="menu_item_sub" href="/Category:Dating">Dating</a></div>
+</div>
+<div class="explore_menu_line section_name_line">
+<a class="menuitem" href="/Special:CategoryListing#AllCategories">All Categories</a>
+</div>
+<div class="explore_menu_line cat_menu_section">
+<a class="menuitem top_cat" href="/Category:Arts-and-Entertainment">Arts and Entertainment</a><a class="menuitem top_cat" href="/Category:Finance-and-Business">Finance and Business</a><a class="menuitem top_cat" href="/Category:Home-and-Garden">Home and Garden</a><a class="menuitem top_cat" href="/Relationships#Quizzes">Relationship Quizzes</a>
+</div>
+<div class="explore_menu_line cat_menu_section">
+<a class="menuitem top_cat" href="/Category:Cars-%26-Other-Vehicles">Cars &amp; Other Vehicles</a><a class="menuitem top_cat" href="/Category:Food-and-Entertaining">Food and Entertaining</a><a class="menuitem top_cat" href="/Category:Personal-Care-and-Style">Personal Care and Style</a><a class="menuitem top_cat" href="/Category:Sports-and-Fitness">Sports and Fitness</a>
+</div>
+<div class="explore_menu_line cat_menu_section">
+<a class="menuitem top_cat" href="/Category:Computers-and-Electronics">Computers and Electronics</a><a class="menuitem top_cat" href="/Category:Health">Health</a><a class="menuitem top_cat" href="/Category:Pets-and-Animals">Pets and Animals</a><a class="menuitem top_cat" href="/Category:Travel">Travel</a>
+</div>
+<div class="explore_menu_line cat_menu_section">
+<a class="menuitem top_cat" href="/Category:Education-and-Communications">Education &amp; Communication</a><a class="menuitem top_cat" href="/Category:Hobbies-and-Crafts">Hobbies and Crafts</a><a class="menuitem top_cat" href="/Category:Philosophy-and-Religion">Philosophy and Religion</a><a class="menuitem top_cat" href="/Category:Work-World">Work World</a>
+</div>
+<div class="explore_menu_line cat_menu_section">
+<a class="menuitem top_cat" href="/Category:Family-Life">Family Life</a><a class="menuitem top_cat" href="/Category:Holidays-and-Traditions">Holidays and Traditions</a><a class="menuitem top_cat" href="/Category:Relationships">Relationships</a><a class="menuitem top_cat" href="/Category:Youth">Youth</a>
+</div>
+</div>
+</li><li aria-labelledby="nav_profile" class="nav_item" id="nav_profile_li" role="menuitem"><div class="nav_icon"></div><a aria-expanded="false" class="nav" data-link="#wh-dialog-login" href="#wh-dialog-login" id="nav_profile" rel="nofollow">LOG IN</a><div class="menu_login" role="menu">
+<div class="userlogin" name="userlogin">
+<h3>Log in</h3>
+<div data-return-to="" id="social-login-navbar">
+<label class="social-disabled">Social login does not work in incognito and private browsers. Please log in with your username or email to continue.</label>
+<div id="fb_connect_head">
+<a aria-label="Log in with Facebook" class="ulb_button ulb_social_button loading" href="#" id="fb_login_head" role="button">
+<span class="ulb_icon"></span>
+<span class="ulb_label">Facebook</span>
+</a>
+</div>
+<div id="gplus_connect_head">
+<a aria-label="Log in with Google" class="ulb_button ulb_social_button loading" href="#" id="gplus_login_head" role="button">
+<span class="ulb_icon"></span>
+<span class="ulb_label">Google</span>
+</a>
+</div>
+</div>
+<div>
+<a aria-label="Log in" class="ulb_button ulb_login" href="#wh-dialog-login" id="wh_login_head" role="button"><span class="ulb_icon"></span><span class="ulb_label">wikiHow Account</span></a>
+</div>
+<div class="userlogin_links">
+            No account yet?		<a href="/Special:UserLogin?type=signup">Create an account</a>
+</div>
+</div>
+</div>
+</li><li aria-labelledby="nav_random" class="nav_item" id="nav_random_li" role="menuitem"><div class="nav_icon"></div><a aria-expanded="false" class="nav" data-link="/Special:Randomizer" href="#" id="nav_random">RANDOM</a></li></ul><a href="/Special:Randomizer" id="random-button"></a></div></div><div class="header_container shrunk" id="header_container_small" style="display: none;"></div><div id="header_top_watch"></div><div id="mw-mf-viewport"><div id="mw-mf-page-left"><ul id="mobile_menu"><li class="icon-home"><a href="/Main-Page">Home</a></li><li class="icon-random" id="randomButton"><a href="/Special:Randomizer">Random</a></li><li class="icon-categories" id="icon-categories"><a href="/Special:CategoryListing">Browse Articles</a></li><li class="side_header" id="header3">Learn Something New</li><li class="icon-quizzes" id="icon-quizzes"><a href="/Quizzes">Quizzes<span class="hot_bubble">Hot</span></a></li><li class="icon-courses" id="icon-courses"><a href="/Course/Explore">Courses</a></li><li class="side_header" id="header4">Play Games</li><li class="icon-thisorthat" id="icon-thisorthat"><a href="/Games/This-Or-That">This Or That Game</a></li><li class="icon-trainyourbrain" id="icon-trainyourbrain"><a href="/Games/Train-Your-Brain">Train Your Brain</a></li><li class="side_header" id="header5">Explore More</li><li class="icon-contribute" id="icon-contribute"><a href="/Special:Contribute">Support wikiHow</a></li><li class="icon-aboutwikihow" id="icon-aboutwikihow"><a href="/wikiHow:About-wikiHow">About wikiHow</a></li></ul><ul><li class="icon-anon"><a href="#wh-dialog-login">Log in / Sign up</a></li></ul><div class="mw-mf-display-toggle"><a class="gdpr-menu" href="/wikiHow:Terms-of-Use">Terms of Use</a></div></div><div id="mw-mf-page-center"><div id="siteNotice"></div><div id="content_wrapper" role="main"><div id="content_inner"><div class="content" id="bodyContent">
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<div class="mw-parser-output">
+<div class="section sticky" id="intro">
+<div class="mf-section-0" id="mf-section-0">
+<div class="mwimg largeimage floatcenter" style="max-width:728px"><a class="image" href="#/Image:Team-Google-Photo.jpg"><div class="content-spacer" style="padding-top: 48.2609%;">
+<img alt='The wikiHow logo in the center, accompanied by the words "Meet the Team" and surrounded by a grid of screen captures of 25 wikiHow staff members in wikiHow hats making goofy faces.' class="whcdn content-fill" data-firstimage="1" data-height="222" data-src="https://www.wikihow.com/images/thumb/d/d5/Team-Google-Photo.jpg/460px-Team-Google-Photo.jpg" data-srclarge="/images/thumb/d/d5/Team-Google-Photo.jpg/728px-Team-Google-Photo.jpg" data-width="460" decoding="async" id="team_image" loading="lazy" src="/images/thumb/d/d5/Team-Google-Photo.jpg/728px-Team-Google-Photo.jpg.webp"/>
+</div>
+<noscript><img alt='The wikiHow logo in the center, accompanied by the words "Meet the Team" and surrounded by a grid of screen captures of 25 wikiHow staff members in wikiHow hats making goofy faces.' class="whcdn content-fill" data-firstimage="1" data-height="222" data-srclarge="/images/thumb/d/d5/Team-Google-Photo.jpg/728px-Team-Google-Photo.jpg" data-width="460" decoding="async" id="28d26ea3211b2a93a2fe2f00476e0bea" src="https://www.wikihow.com/images/thumb/d/d5/Team-Google-Photo.jpg/460px-Team-Google-Photo.jpg"/></noscript>
+<div class="image_details" style="display:none;"><span style="display:none;">{"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/d\/d5\/Team-Google-Photo.jpg\/460px-Team-Google-Photo.jpg","bigUrl":"\/images\/thumb\/d\/d5\/Team-Google-Photo.jpg\/728px-Team-Google-Photo.jpg","smallWidth":460,"smallHeight":222,"bigWidth":728,"bigHeight":352,"licensing":"&lt;div class=\"mw-parser-output\"&gt;&lt;p&gt;Image by: Uploader&lt;br&gt;\nLicense: &lt;a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by\/3.0\/\"&gt;Creative Commons&lt;\/a&gt;\n&lt;\/p&gt;&lt;\/div&gt;"}</span></div></a></div>
+<p><br/></p>
+<div class="title_div" style="font-size: 25px"><b class="jobs_title">Imagine a world where anyone can learn how to do anything.</b></div>
+<p><br/>
+</p>
+<p>Where access to comprehensive step-by-step instructions in multiple languages
+    enables billions of people to improve their lives, in ordinary and extraordinary ways.
+    </p>
+<p>That's the world we want to create.
+    </p>
+<p class="highlight_block">We’re looking for a few talented, collaborative, delightful employees with an interest in education to join our cause. Are you in?</p>
+</div>
+<div class="clearall"></div>
+<div class="sticky-sentinel sticky-sentinel-top"></div></div>
+<h2 class="section-heading hidden" onclick="javascript:mfTempOpenSection(1)">
+<div class="mw-ui-icon mw-ui-icon-element indicator"></div>
+<span class="mw-headline" id="Steps">Steps</span>
+</h2>
+<div class="mf-section-1 collapsible-block" id="mf-section-1">
+<div class="section steps steps_first sticky">
+<div class="headline_container block_header in-block subheadline"><div class="headline_info"><h3><span class="mw-headline" id="Fast-Facts">Fast Facts</span></h3></div></div>
+<div class="section_text" id="steps_1">
+<ul>
+<li class="hasimg"><div class="mwimg largeimage underwidth floatcenter" style="max-width:670px"><a class="image" href="#/Image:Quick_Facts.jpg"><div class="content-spacer" style="padding-top:35%">
+<img alt="Collage of scenes from around the wikiHow office, showing employees at tables and on couches, interacting and working on their laptops." class="whcdn content-fill" data-height="161" data-src="https://www.wikihow.com/images/thumb/6/6f/Quick_Facts.jpg/460px-Quick_Facts.jpg" data-srclarge="/images/thumb/6/6f/Quick_Facts.jpg/670px-Quick_Facts.jpg" data-width="460" decoding="async" id="0c7e05b87dcac7b5894606c6b67df3e8" loading="lazy" src="/images/thumb/6/6f/Quick_Facts.jpg/670px-Quick_Facts.jpg.webp"/>
+</div>
+<noscript><img alt="Collage of scenes from around the wikiHow office, showing employees at tables and on couches, interacting and working on their laptops." class="whcdn content-fill" data-height="161" data-srclarge="/images/thumb/6/6f/Quick_Facts.jpg/670px-Quick_Facts.jpg" data-width="460" decoding="async" id="0c7e05b87dcac7b5894606c6b67df3e8" src="https://www.wikihow.com/images/thumb/6/6f/Quick_Facts.jpg/460px-Quick_Facts.jpg"/></noscript>
+<div class="image_details" style="display:none;"><span style="display:none;">{"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/6\/6f\/Quick_Facts.jpg\/460px-Quick_Facts.jpg","bigUrl":"\/images\/thumb\/6\/6f\/Quick_Facts.jpg\/670px-Quick_Facts.jpg","smallWidth":460,"smallHeight":161,"bigWidth":670,"bigHeight":234,"licensing":"&lt;div class=\"mw-parser-output\"&gt;&lt;p&gt;License: &lt;a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\"&gt;Creative Commons&lt;\/a&gt;&lt;br&gt;\n&lt;\/p&gt;&lt;p&gt;&lt;br \/&gt;\n&lt;\/p&gt;&lt;\/div&gt;"}</span></div></a></div></li>
+<li>wikiHow is the only company in the Comscore top 150 that has under <b>30 employees.</b>
+</li>
+<li>wikiHow <b>helps 100 million people every month,</b> in 19 languages. We have ambitions to push our mission <a href="/wikiHow:About-wikiHow" title="wikiHow:About wikiHow">much further</a>.</li>
+<li>
+<b>wikiHow is completely remote friendly.</b> We have people working from Washington, Oregon, Colorado, and beyond, but we love having a homey office to work in when we can. You can find our office, the wikiHaus, in downtown Palo Alto, California. Bonus: we’re just 3 blocks from the Palo Alto Caltrain Station!</li>
+<li>wikiHow is considered <a class="external text" href="https://gizmodo.com/100-websites-that-shaped-the-internet-as-we-know-it-1829634771" rel="nofollow noreferrer noopener" target="_blank">one of the Internet’s most influential websites</a>.<br/><br/>
+</li>
+</ul>
+<div class="clearall"></div>
+</div>
+<div class="sticky-sentinel sticky-sentinel-top"></div></div>
+<div class="section steps sticky">
+<div class="headline_container block_header in-block subheadline"><div class="headline_info">
+<span id="What-sets-us-apart?"></span><h3><span class="mw-headline" id="What-sets-us-apart.3F">What sets us apart?</span></h3>
+</div></div>
+<div class="section_text" id="steps_2">
+<ul>
+<li class="hasimg"><div class="mwimg largeimage underwidth floatcenter" style="max-width:670px"><a class="image" href="#/Image:What_Sets_Us_Apart.jpg" title="Collage of scenes from around the wikiHow office, showing employees at tables, on couches, and at a treadmill desk, interacting and working on their laptops."><div class="content-spacer" style="padding-top:35%">
+<img alt="Collage of scenes from around the wikiHow office, showing employees at tables, on couches, and at a treadmill desk, interacting and working on their laptops." class="whcdn content-fill" data-height="161" data-src="https://www.wikihow.com/images/thumb/9/9d/What_Sets_Us_Apart.jpg/460px-What_Sets_Us_Apart.jpg" data-srclarge="/images/thumb/9/9d/What_Sets_Us_Apart.jpg/670px-What_Sets_Us_Apart.jpg" data-width="460" decoding="async" id="fd79abfe536ec46680ad930553b3fb85" loading="lazy" src="/images/thumb/9/9d/What_Sets_Us_Apart.jpg/670px-What_Sets_Us_Apart.jpg.webp"/>
+</div>
+<noscript><img alt="Collage of scenes from around the wikiHow office, showing employees at tables, on couches, and at a treadmill desk, interacting and working on their laptops." class="whcdn content-fill" data-height="161" data-srclarge="/images/thumb/9/9d/What_Sets_Us_Apart.jpg/670px-What_Sets_Us_Apart.jpg" data-width="460" decoding="async" id="fd79abfe536ec46680ad930553b3fb85" src="https://www.wikihow.com/images/thumb/9/9d/What_Sets_Us_Apart.jpg/460px-What_Sets_Us_Apart.jpg"/></noscript>
+<div class="image_details" style="display:none;"><span style="display:none;">{"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/9\/9d\/What_Sets_Us_Apart.jpg\/460px-What_Sets_Us_Apart.jpg","bigUrl":"\/images\/thumb\/9\/9d\/What_Sets_Us_Apart.jpg\/670px-What_Sets_Us_Apart.jpg","smallWidth":460,"smallHeight":161,"bigWidth":670,"bigHeight":234,"licensing":"&lt;div class=\"mw-parser-output\"&gt;&lt;p&gt;License: &lt;a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\"&gt;Creative Commons&lt;\/a&gt;&lt;br&gt;\n&lt;\/p&gt;&lt;p&gt;&lt;br \/&gt;\n&lt;\/p&gt;&lt;\/div&gt;"}</span></div></a></div></li>
+<li>
+<b>We value our mission over short-term goals:</b> We take our mission very seriously.</li>
+<li>Our team consists of a rare breed: <b>humble, high-performers.</b>
+</li>
+<li>Each of us is insanely productive. Our small team of 29 people <b>is competing with mega corporations with hundreds of employees. And beating them!</b>
+</li>
+<li>Huge number of users + Small team = <b>Your work will make an immediate, noticeable impact on millions of people.</b><br/><div class="mwimg largeimage tallportrait floatcenter" style="max-width:728px"><a class="image" href="#/Image:2021-Alexa-Ranking-Graphic-2.png"><div class="content-spacer" style="padding-top: 101.304%;">
+<img alt="Table of 2021 Alexa rankings, showing wikiHow at number 239 with only 29 employees, compared to other higher and similarly-ranked companies with hundreds or thousands of employees." class="whcdn content-fill" data-height="466" data-src="https://www.wikihow.com/images/thumb/f/f3/2021-Alexa-Ranking-Graphic-2.png/460px-2021-Alexa-Ranking-Graphic-2.png" data-srclarge="/images/thumb/f/f3/2021-Alexa-Ranking-Graphic-2.png/728px-2021-Alexa-Ranking-Graphic-2.png" data-width="460" decoding="async" id="8baa25c6d1c1b846c265b135d9cc1dae" loading="lazy" src="/images/thumb/f/f3/2021-Alexa-Ranking-Graphic-2.png/728px-2021-Alexa-Ranking-Graphic-2.png.webp"/>
+</div>
+<noscript><img alt="Table of 2021 Alexa rankings, showing wikiHow at number 239 with only 29 employees, compared to other higher and similarly-ranked companies with hundreds or thousands of employees." class="whcdn content-fill" data-height="466" data-srclarge="/images/thumb/f/f3/2021-Alexa-Ranking-Graphic-2.png/728px-2021-Alexa-Ranking-Graphic-2.png" data-width="460" decoding="async" id="8baa25c6d1c1b846c265b135d9cc1dae" src="https://www.wikihow.com/images/thumb/f/f3/2021-Alexa-Ranking-Graphic-2.png/460px-2021-Alexa-Ranking-Graphic-2.png"/></noscript>
+<div class="image_details" style="display:none;"><span style="display:none;">{"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/f\/f3\/2021-Alexa-Ranking-Graphic-2.png\/460px-2021-Alexa-Ranking-Graphic-2.png","bigUrl":"\/images\/thumb\/f\/f3\/2021-Alexa-Ranking-Graphic-2.png\/728px-2021-Alexa-Ranking-Graphic-2.png","smallWidth":460,"smallHeight":466,"bigWidth":728,"bigHeight":737,"licensing":"&lt;div class=\"mw-parser-output\"&gt;&lt;\/div&gt;"}</span></div></a></div>
+<br/><br/><center><i>“Well, wikiHow about that?”<br/>-- The Big Bang Theory</i></center>
+<br/>
+</li>
+</ul>
+<div class="clearall"></div>
+</div>
+<div class="sticky-sentinel sticky-sentinel-top"></div></div>
+<div class="section steps sticky">
+<div class="headline_container block_header in-block subheadline"><div class="headline_info"><h3><span class="mw-headline" id="Company-Culture">Company Culture</span></h3></div></div>
+<div class="section_text" id="steps_3">
+<ul>
+<li class="hasimg"><div class="mwimg largeimage underwidth floatcenter" style="max-width:670px"><a class="image" href="#/Image:Company_Culture.jpg"><div class="content-spacer" style="padding-top:35%"><div class="loading-container"><div class="loader"><div class="loader-dot"></div><div class="loader-dot"></div><div class="loader-dot"></div></div></div>
+<img alt="" class="whcdn content-fill img-loading-alt" data-height="161" data-src="https://www.wikihow.com/images/thumb/c/c8/Company_Culture.jpg/460px-Company_Culture.jpg" data-srclarge="/images/thumb/c/c8/Company_Culture.jpg/670px-Company_Culture.jpg" data-width="460" decoding="async" id="3f98c02dda92d1fbff4630e799d30da4" loading="lazy" src="/images/thumb/c/c8/Company_Culture.jpg/670px-Company_Culture.jpg.webp"/>
+</div>
+<noscript><img alt="Collage of scenes from the wikiHow office backyard, including employees eating lunch outside together and the vegetable garden." class="whcdn content-fill" data-height="161" data-srclarge="/images/thumb/c/c8/Company_Culture.jpg/670px-Company_Culture.jpg" data-width="460" decoding="async" id="3f98c02dda92d1fbff4630e799d30da4" src="https://www.wikihow.com/images/thumb/c/c8/Company_Culture.jpg/460px-Company_Culture.jpg"/></noscript>
+<div class="image_details" style="display:none;"><span style="display:none;">{"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/c\/c8\/Company_Culture.jpg\/460px-Company_Culture.jpg","bigUrl":"\/images\/thumb\/c\/c8\/Company_Culture.jpg\/670px-Company_Culture.jpg","smallWidth":460,"smallHeight":161,"bigWidth":670,"bigHeight":234,"licensing":"&lt;div class=\"mw-parser-output\"&gt;&lt;p&gt;License: &lt;a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\"&gt;Creative Commons&lt;\/a&gt;&lt;br&gt;\n&lt;\/p&gt;&lt;p&gt;&lt;br \/&gt;\n&lt;\/p&gt;&lt;\/div&gt;"}</span></div></a></div></li>
+<li>We love coming to work every day. <b>Working with intelligent people to accomplish something globally ambitious is intrinsically satisfying.</b>
+</li>
+<li>We are profitable and growing. We are self-funded. We refuse VC money on a regular basis. <b>Investors don’t make our decisions, we do.</b>
+</li>
+<li>Our small, cohesive team is <b>gender balanced.</b>
+</li>
+<li>We’re often wrong (and that’s OK). Making mistakes show that we are innovating. <b>We love to innovate.</b>
+</li>
+<li>We like walking. We even have a few treadmill desks.</li>
+<li>Find us working outside on a sunny California day overlooking <b>our own organic garden,</b> with fresh seasonal vegetables ready to be picked or taken home.</li>
+<li>We don't think working long start-up hours is healthy. We work hard and productively, then go enjoy rich lives outside of work.</li>
+<li>We pay top performers well.</li>
+<li>We are better in person <a class="external text" href="https://www.youtube.com/watch?v=gYdfGsYyALI%7C" rel="nofollow noreferrer noopener" target="_blank">than on TV</a>. <b>We're delightfully quirky (but you probably figured that out already).</b>
+</li>
+<li>Just because we’re remote doesn’t mean we don’t enjoy team bonding! We love taking time for online games, the occasional virtual ice cream tasting, and live team meetups.<br/><br/><div class="mwimg largeimage underwidth floatcenter" style="max-width:629.76744186047px"><a class="image" href="#/Image:Team-Collage-2x.png"><div class="content-spacer" style="padding-top: 88.913%;"><div class="loading-container"><div class="loader"><div class="loader-dot"></div><div class="loader-dot"></div><div class="loader-dot"></div></div></div>
+<img alt="" class="whcdn content-fill img-loading-alt" data-height="409" data-src="https://www.wikihow.com/images/thumb/e/e9/Team-Collage-2x.png/460px-Team-Collage-2x.png" data-srclarge="/images/thumb/e/e9/Team-Collage-2x.png/629px-Team-Collage-2x.png" data-width="460" decoding="async" id="7759726737bc77c9a3dd463453474f19" loading="lazy" src="/images/thumb/e/e9/Team-Collage-2x.png/629px-Team-Collage-2x.png.webp"/>
+</div>
+<noscript><img alt="Collage of fifteen headshots of smiling wikiHow employees (and one gnome, resident of the wikiHaus)." class="whcdn content-fill" data-height="409" data-srclarge="/images/thumb/e/e9/Team-Collage-2x.png/629px-Team-Collage-2x.png" data-width="460" decoding="async" id="7759726737bc77c9a3dd463453474f19" src="https://www.wikihow.com/images/thumb/e/e9/Team-Collage-2x.png/460px-Team-Collage-2x.png"/></noscript>
+<div class="image_details" style="display:none;"><span style="display:none;">{"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/e\/e9\/Team-Collage-2x.png\/460px-Team-Collage-2x.png","bigUrl":"\/images\/thumb\/e\/e9\/Team-Collage-2x.png\/629px-Team-Collage-2x.png","smallWidth":460,"smallHeight":409,"bigWidth":630,"bigHeight":560,"licensing":"&lt;div class=\"mw-parser-output\"&gt;&lt;p&gt;Image by: Uploader&lt;br&gt;\nLicense: &lt;a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by\/3.0\/\"&gt;Creative Commons&lt;\/a&gt;\n&lt;\/p&gt;&lt;\/div&gt;"}</span></div></a></div>
+<br/>
+</li>
+</ul>
+<div class="clearall"></div>
+</div>
+<div class="sticky-sentinel sticky-sentinel-top"></div></div>
+<div class="section steps sticky">
+<div class="headline_container block_header in-block subheadline"><div class="headline_info"><h3><span class="mw-headline" id="One-Thing-to-Keep-In-Mind">One Thing to Keep In Mind</span></h3></div></div>
+<div class="section_text" id="steps_4">
+<p>wikiHow is not hoping to be acquired or looking for a quick financial exit. <b>We're already profitable, financially stable, and we all love working here, so we aren't in a rush to sell out.</b> Selling might mean the end to a product that we all love working on. It is an amazing feeling to work on such a popular, high-impact product! That amazing feeling makes us smile when we wake up every day. If all of this sounds appealing to you, we encourage you to apply. If this is a bummer, then that’s okay too, we probably aren't the best fit for you right now, and that’s totally fine!<br/><br/>
+</p>
+<div class="clearall"></div>
+</div>
+<div class="sticky-sentinel sticky-sentinel-top"></div></div>
+<div class="section steps sticky">
+<div class="headline_container block_header in-block subheadline"><div class="headline_info"><h3><span class="mw-headline" id="Employee-Benefits">Employee Benefits</span></h3></div></div>
+<div class="section_text" id="steps_5">
+<div class="benefits_list">
+<ul>
+<li>Competitive Compensation</li>
+<li>Medical, Dental, and Vision Insurance (Paid 100% by wikiHow for employee)</li>
+<li>Short &amp; Long Term Disability Insurance</li>
+<li>Paid Maternity/Paternity Leave</li>
+<li>Flexible Spending Accounts (e.g. Medical FSA, Dependent Care FSA)</li>
+<li>401(k) Plan with up to a 4% Company Match*</li>
+<li>Remote Work Friendly (West Coast only)</li>
+<li>Continuing Education Reimbursement</li>
+<li>Office in downtown Palo Alto</li>
+<li>Gender-Balanced Team</li>
+<li>15 days PTO per year, paid holidays, and additional paid one-week company-wide closure during winter holidays (so you don't have to use your PTO days for the holidays**)</li>
+</ul>
+</div>
+<div style="font-size:.75em">
+<p><i>*employees qualify for 401k after one year of service</i><br/>
+<i>**minimal critical operations required during closure</i>
+</p>
+</div>
+<div class="clearall"></div>
+</div>
+<div class="sticky-sentinel sticky-sentinel-top"></div></div>
+<div class="section steps sticky">
+<div class="headline_container block_header in-block subheadline"><div class="headline_info">
+<span id="Want-to-Work-With-Us?"></span><h3><span class="mw-headline" id="Want-to-Work-With-Us.3F">Want to Work With Us?</span></h3>
+</div></div>
+<div class="section_text" id="steps_6">
+<p>We're always looking for talented individuals to join our team. If you're interested in joining us on our mission to help millions of people learn how to do anything, please reach out by sharing your resume and cover letter over Google Drive to <a class="external text" href="mailto:jobs@wikiHow.com" rel="nofollow noreferrer noopener" target="_blank">jobs@wikiHow.com</a>.<br/><br/>Just want to help wikiHow? <a class="external text" href="https://www.wikihow.com/index.php?title=Special:UserLogin&amp;returnto=&amp;returntoquery=&amp;type=signup&amp;fromhttp=1&amp;fromhttp=1%7C" rel="noreferrer noopener" target="_blank">Volunteer.</a><br/><br/>
+</p>
+<div class="clearall"></div>
+</div>
+<div class="sticky-sentinel sticky-sentinel-top"></div></div>
+</div>
+</div>
+</div>
+<div class="printfooter">
+</div>
+</div></div><div id="sidebar"><div class="sidebox notice_bgcolor" id="cookie_notice"><a href="#" id="cookie_notice_x"></a>Cookies make wikiHow better. By continuing to use our site, you agree to our <a href="/wikiHow:Cookie-Policy" target="_blank">cookie policy</a>.</div><div class="sidebox" id="top_links"><a accesskey="x" class="button secondary" href="/Special:Randomizer" id="gatRandom">Random Article</a><a class="button secondary" href="/Special:CreatePage" id="gatWriteAnArticle">Write An Article</a></div><div class="sidebox" id="side_featured_articles">
+<h3><span onclick="location='/Category:Featured-Articles';" style="cursor:pointer;">Featured Articles</span></h3>
+<div class="thumbnail" style="width:126px; height:120px;">
+<a href="/Talk-to-a-Shy-Girl">
+<img alt="Talk to a Shy Girl" src="https://www.wikihow.com/images/thumb/0/05/Talk-to-a-Shy-Girl-Step-19-Version-3.jpg/-crop-126-120-126px-Talk-to-a-Shy-Girl-Step-19-Version-3.jpg"/>
+<div class="text">
+<p>
+                    How to<br/><span>Talk to a Shy Girl</span>
+</p>
+</div>
+</a>
+</div><div class="thumbnail" style="width:126px; height:120px;">
+<a href="/Know-if-Your-Friend-Is-Really-a-Friend">
+<img alt="Know if Your Friend Is Really a Friend" src="https://www.wikihow.com/images/thumb/8/88/Know-if-Your-Friend-Is-Really-a-Friend-Step-12.jpg/-crop-126-120-126px-Know-if-Your-Friend-Is-Really-a-Friend-Step-12.jpg"/>
+<div class="text">
+<p>
+                    How to<br/><span>Know if Your Friend Is Really a Friend</span>
+</p>
+</div>
+</a>
+</div><div class="thumbnail" style="width:126px; height:120px;">
+<a href="/Improve-Your-Life">
+<img alt="Improve Your Life" src="https://www.wikihow.com/images/thumb/8/86/Improve-Your-Life-Step-21-Version-3.jpg/-crop-126-120-126px-Improve-Your-Life-Step-21-Version-3.jpg"/>
+<div class="text">
+<p>
+<span>21 Ways to Make Your Life Better Starting Today</span>
+</p>
+</div>
+</a>
+</div><div class="thumbnail" style="width:126px; height:120px;">
+<a href="/Be-a-Better-Person">
+<img alt="Be a Better Person" src="https://www.wikihow.com/images/thumb/d/da/Be-a-Better-Person-Step-13-Version-6.jpg/-crop-126-120-126px-Be-a-Better-Person-Step-13-Version-6.jpg"/>
+<div class="text">
+<p>
+<span>How to Be a Better Person: A Guide to Self-Improvement</span>
+</p>
+</div>
+</a>
+</div><div class="clearall"></div>
+</div></div><br class="clearall"/></div><br class="clearall"/>
+<div id="fb-root"></div>
+<div id="footer" role="navigation">
+<div id="footer_inner">
+<a href="/Main-Page" id="footer_logo">
+<img alt="wikiHow" height="42" src="/skins/owl/images/wikihow_logo_intl.png" width="162"/>
+</a>
+<div id="footer_crumbs">
+<ul class="breadcrumbs">
+</ul>
+</div>
+<div class="footer_divider" id="footer_top_divider"></div>
+<div id="footer_vertical_divider"></div>
+<div id="footer_newsletter">
+<div id="footer_subscribe_icon"></div>
+<div id="footer_subscribe_title">wikiHow Newsletter</div>
+<div id="footer_subscribe_confirm_text">You're all set!</div>
+<div id="footer_subscribe_text">Helpful how-tos delivered to<br/>your inbox every week!</div>
+<input class="news_sub_element email_input" id="footer_subscribe_email" placeholder="Enter your email" type="email"/>
+<a class="button news_sub_element email_submit" href="#" id="footer_subscribe_button">Sign me up!</a>
+<div class="news_sub_element" id="footer_subscribe_notice">By signing up you are agreeing to receive emails according to our privacy policy.</div>
+</div>
+<div class="footer_divider" id="footer_newsletter_divider"></div>
+<div class="wh_search" id="search_footer" role="search">
+<div class="cse_x" role="button"></div>
+<form action="/wikiHowTo" id="cse-search-box-bottom">
+<div>
+<input aria-label="Search here" class="cse_q search_box" id="search_field_bottom" name="search" placeholder="wikiHow to..." type="text" value="" x-webkit-speech=""/>
+<input alt="" class="cse_sa" name="Search" type="submit" value=""/>
+</div>
+</form>
+</div>
+<!--end search-->
+<div id="footer_links">
+<ul>
+<li><a href="/Main-Page" title="Main Page">Home</a></li>
+<li><a class="mw-redirect" href="/About-wikiHow" title="About wikiHow">About wikiHow</a></li>
+<li><a class="external text" href="https://www.wikihow.com/Experts" rel="noreferrer noopener" target="_blank">Experts</a></li>
+<li><a class="mw-selflink selflink">Jobs</a></li>
+<li><a href="/wikiHow:Contact-Us" title="wikiHow:Contact Us">Contact Us</a></li>
+<li><a href="/Special:Sitemap" title="Special:Sitemap">Site Map</a></li>
+<li><a href="/wikiHow:Terms-of-Use" title="wikiHow:Terms of Use">Terms of Use</a></li>
+<li><a href="/wikiHow:Privacy-Policy" title="wikiHow:Privacy Policy">Privacy Policy</a></li>
+<li><a href="#" id="footer_ccpa">Do Not <span class="ccpa_footer_extra">Sell or </span>Share My Info</a></li>
+<li><a href="#" id="footer_ccpa_optout">Not Selling Info</a></li>
+<li><a class="external text" href="https://www.wikihow.com/wikiHow:Contribute" rel="noreferrer noopener" target="_blank">Contribute</a></li>
+</ul>
+</div>
+<div id="sf">
+<div>
+<p>Follow Us</p>
+<a class="sf_icon" href="https://www.pinterest.com/wikihow/_created/" id="sf_pin" target="_blank" title="Pinterest"></a><a class="sf_icon" href="https://www.instagram.com/wikihow/" id="sf_ig" target="_blank" title="Instagram"></a><a class="sf_icon" href="https://www.tiktok.com/@wikihow?lang=en" id="sf_tktk" target="_blank" title="TikTok"></a><a class="sf_icon" href="https://www.facebook.com/wikiHow/" id="sf_fb" target="_blank" title="Facebook"></a><a class="sf_icon" href="https://x.com/wikihow" id="sf_tt" target="_blank" title="Twitter"></a><a class="sf_icon" href="https://www.youtube.com/wikihow" id="sf_yt" target="_blank" title="YouTube"></a><a class="sf_icon" href="https://www.wikihow.com/Newsletters" id="sf_nl" target="_blank" title="Newsletter"></a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__method_high"></div>
+<div class="pswp__button pswp__button--close" title="Close (Esc)"></div>
+<div class="pswp__button pswp__button--share" title="Share"></div>
+<div class="pswp__button pswp__button--fs" title="Toggle fullscreen"></div>
+<div class="pswp__button pswp__button--zoom" title="Zoom in/out"></div>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<div class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+</div>
+<div class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+</div>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+<div class="pswp__caption__info"></div>
+</div>
+<div class="pswp__method"></div>
+<div class="pswp__counter"></div>
+</div>
+</div>
+</div>
+<div class="maticons_for_googlefc">-</div><div class="opensans_for_googlefc">-</div><div class="transparent-shield cloaked-element"></div></div></div><div data-app="app5" id="servedtime" style="display:none">154</div>
+<noscript>  </noscript>
+
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be private to a certain user? Answer only with yes or no.

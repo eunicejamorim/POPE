@@ -1,0 +1,822 @@
+The following text is the html file of a webpage. <html class="no-touch" lang="en-US"><head>
+<meta charset="utf-8"/>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots"/>
+<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>About us - H&amp;M Group</title>
+<meta content="We are a family of brands, driven by our desire to make great design available to everyone in a sustainable way." name="description"/>
+<link href="https://hmgroup.com/about-us/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="About us - H&amp;M Group" property="og:title"/>
+<meta content="We are a family of brands, driven by our desire to make great design available to everyone in a sustainable way." property="og:description"/>
+<meta content="https://hmgroup-prd-app.azurewebsites.net/about-us/" property="og:url"/>
+<meta content="H&amp;M Group" property="og:site_name"/>
+<meta content="2024-04-24T12:58:34+00:00" property="article:modified_time"/>
+<meta content="https://hmgroup.com/wp-content/uploads/2020/03/cq5dam.web_.2400.720.5.jpeg" property="og:image"/>
+<meta content="1280" property="og:image:width"/>
+<meta content="512" property="og:image:height"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://hmgroup.com/wp-content/uploads/2020/03/cq5dam.web_.2400.720.5.jpeg" name="twitter:image"/>
+<meta content="Est. reading time" name="twitter:label1"/>
+<meta content="1 minute" name="twitter:data1"/>
+
+<!-- / Yoast SEO plugin. -->
+<link href="https://hmgroup.com/feed/" rel="alternate" title="H&amp;M Group » Feed" type="application/rss+xml"/>
+<link href="https://hmgroup.com/comments/feed/" rel="alternate" title="H&amp;M Group » Comments Feed" type="application/rss+xml"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" name="SKYPE_TOOLBAR"/>
+<meta content="#2c2c2c" name="theme-color"/>
+
+
+<link href="https://hmgroup.com/wp-includes/css/dashicons.min.css?ver=6.2.2" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-includes/css/jquery-ui-dialog.min.css?ver=6.2.2" id="wp-jquery-ui-dialog-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-includes/css/classic-themes.min.css?ver=6.2.2" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+
+<link href="https://hmgroup.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/plugins/hmgroup-share-ticker/public/assets/css/main.css?ver=6.2.2" id="hmgroup_shareticker_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.3.4" id="rs-plugin-settings-css" media="all" rel="stylesheet" type="text/css"/>
+
+<link href="https://hmgroup.com/wp-content/plugins/simple-embed-code/css/video-container.min.css?ver=6.2.2" id="ce_responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/themes/hm-group-theme/assets/css/style.css?ver=1.0.0" id="theme-tools-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/plugins/easy-tables-vc/assets/css/style.min.css?ver=2.0.1" id="vc_plugin_table_style_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/plugins/easy-tables-vc/assets/css/themes.min.css?ver=2.0.1" id="vc_plugin_themes_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/themes/Impreza/css/style.min.css?ver=7.12" id="us-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/themes/hm-group-theme/style.css?ver=7.12" id="theme-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=3.19.8" id="bsf-Defaults-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/uploads/smile_fonts/icomoon/icomoon.css?ver=3.19.8" id="bsf-icomoon-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hmgroup.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.19.8" id="ultimate-style-css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+<link href="https://hmgroup.com/wp-json/" rel="https://api.w.org/"/><link href="https://hmgroup.com/wp-json/wp/v2/pages/293" rel="alternate" type="application/json"/><link href="https://hmgroup.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://hmgroup.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 6.2.2" name="generator"/>
+<link href="https://hmgroup.com/?p=293" rel="shortlink"/>
+<link href="https://hmgroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhmgroup.com%2Fabout-us%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://hmgroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhmgroup.com%2Fabout-us%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+
+
+<!-- End Google Tag Manager -->
+
+<meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
+<meta content="Powered by Slider Revolution 6.3.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." name="generator"/>
+<link href="/wp-content/uploads/2021/01/hm_group_logo.svg" rel="icon" sizes="32x32"/>
+<link href="/wp-content/uploads/2021/01/hm_group_logo.svg" rel="icon" sizes="192x192"/>
+<link href="/wp-content/uploads/2021/01/hm_group_logo.svg" rel="apple-touch-icon"/>
+<meta content="/wp-content/uploads/2021/01/hm_group_logo.svg" name="msapplication-TileImage"/>
+
+<noscript></noscript> 
+
+
+
+<meta content="hbuaW0Dgnjg0yiyAaMrsbhfDoXc1H2p-MhUC6XbJ8gs" name="google-site-verification"/>
+</head>
+<body class="page-template-default page page-id-293 page-parent wp-embed-responsive l-body Impreza_7.12 us-core_7.12 header_none links_underline headerinpos_top state_default wpb-js-composer js-comp-ver-6.5.0 vc_responsive" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" itemscope="" itemtype="https://schema.org/WebPage">
+<a class="back-to-top" title="Back to top"><span class="fas fa-chevron-up"></span></a>
+<div class="l-canvas type_wide">
+<header class="main-header">
+<a class="brand-link" href="https://hmgroup.com" title="H&amp;M Group">
+<svg alt="H&amp;M Group" class="brand-logo" overflow="visible" viewbox="0 0 654.7 125.7" x="0px" xml:space="preserve" y="0px">
+<path d="M11.7,98H0V2h11.7v41.7h49.9V2h11.9v96H61.6V54H11.7V98"></path>
+<path d="M128.9,20.4c0-6.4-3.9-10.4-10.8-10.4c-6.8,0-10.9,4.1-10.9,10.4c0,4.7,2.3,9.3,8.8,17.2 C125.1,31.7,128.9,27.5,128.9,20.4z M113.3,50.5C100.4,58.7,97.2,64.3,97.2,72c0,11.1,8.1,18,20.8,18c8.7,0,15.7-2.9,21.2-8.5 L113.3,50.5z M96.1,20.4C96.1,8.7,105.2,0,118,0c12.9,0,22,8.9,22,20.4c0,8.9-5.6,16.8-17.9,24.5c7.7,9.2,15.3,18.4,23.1,27.5 c3.1-6.5,4.7-14.1,5.1-22.7h11.1c-0.4,11.7-3.3,22.1-8.9,31.2L166.8,98h-13.6c-2.5-2.8-4.9-5.9-7.5-8.8 c-7.6,7.3-16.9,10.8-27.7,10.8c-19.7,0-32.1-11.2-32.1-28c0-10.9,6.4-20,21.3-28.8C98.8,33.7,96.1,26.9,96.1,20.4"></path>
+<path d="M228.5,98h-11.2l-28.1-74.8h-0.3V98h-11.1V2h14.5l30.8,82.1c10.4-27.3,20.7-54.8,30.9-82.1h14 v96h-11.2V23.2h-0.1C247.5,48.1,238,73.1,228.5,98"></path>
+<path d="M378.4,60.1h-28.3V50h40.5v48h-8.4l-2.7-12.4C372,96,361.3,100,350.1,100 c-29.2,0-45.1-21.1-45.1-50c0-27.6,15.7-50,45.1-50c19.5,0,35.3,10.5,38.9,29.7h-12.3c-3.1-12.5-13.6-19.2-26.7-19.2 c-22.9,0-32.9,19.3-32.9,39.5c0,22,9.9,39.6,32.9,39.6C363.5,89.6,377.3,78.3,378.4,60.1"></path>
+<path d="M405.5,30.9h10.9v9.3c3.5-7.5,10.4-11.3,20-11.3c2.3,0,4.3,0.1,6.1,0.4v9.9 c-2.1-0.3-4.1-0.4-6.1-0.4c-13.2,0-20,6.8-20,20V98h-10.9V30.9"></path>
+<path d="M498.7,64.5c0-17.1-9.5-25.6-21.9-25.6c-12.7,0-21.9,8.5-21.9,25.6c0,16.9,9.2,25.5,21.9,25.5 C489.3,90,498.7,81.5,498.7,64.5z M510,64.5c0,22.4-14.9,35.5-33.2,35.5c-18.4,0-33.1-13.2-33.1-35.5c0-22.1,14.7-35.6,33.1-35.6 C494.9,28.9,510,42,510,64.5"></path>
+<path d="M565.2,98v-7.9c-4.9,6.5-12,9.9-21.5,9.9c-15.7,0-23.6-9.1-23.6-27.1v-42h10.9v41.5 c0,12.3,4.5,17.9,14.9,17.9c11.1,0,19.2-7.2,19.2-19.5V30.9h10.9V98H565.2"></path>
+<path d="M622.7,90.3c12.8,0,20.7-9.2,20.7-25.9c0-16.5-8-25.7-20.7-25.7c-13.7,0-21.2,8.4-21.2,25.9 C601.5,81.5,608.9,90.3,622.7,90.3z M601.5,39.2c5.1-6.8,12.3-10.3,22-10.3c18.5,0,31.2,14.4,31.2,35.6c0,21.1-12.4,35.5-31.2,35.5 c-9.7,0-17.1-3.3-22-10.3v36h-10.9V30.9h10.9V39.2"></path>
+</svg>
+</a>
+<nav class="hmgroup-nav-menu" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<div class="hmgroup-nav-menu__placeholder">
+</div>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-1">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-1__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-1__item-link hmgroup-nav-menu__item-link--active" href="https://hmgroup.com/about-us/">
+                            About us                        </a>
+<div class="hmgroup-nav-menu__submenu">
+<div class="hmgroup-nav-menu__submenu-wrapper">
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-2">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/business-idea/">
+                            Business idea                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/markets-and-expansion/">
+                            Markets and expansion                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/our-values/">
+                            Our values                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/inclusion-and-diversity/">
+                            Inclusion and diversity                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-3">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/about-us/inclusion-and-diversity/inclusive-people/">
+                            People                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/about-us/inclusion-and-diversity/inclusive-business/">
+                            Business                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/about-us/inclusion-and-diversity/inclusive-communities/">
+                            Communities                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/history/">
+                            History                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/contact-us/">
+                            Contact and services                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-3">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/about-us/contact-us/raise-a-concern/">
+                            Raise a concern                         </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-1__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-1__item-link" href="https://hmgroup.com/brands/">
+                            Brands                        </a>
+<div class="hmgroup-nav-menu__submenu">
+<div class="hmgroup-nav-menu__submenu-wrapper">
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-2">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/brands/hm/">
+                            H&amp;M                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/brands/cos/">
+                            COS                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/brands/weekday/">
+                            Weekday                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/brands/monki/">
+                            Monki                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/brands/hm-home/">
+                            H&amp;M HOME                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/brands/and-other-stories/">
+                            &amp; Other Stories                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/brands/arket/">
+                            ARKET                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/brands/afound/">
+                            Afound                        </a>
+</li>
+</ul>
+</div>
+</div>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-1__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-1__item-link" href="https://hmgroup.com/career/">
+                            Join us                        </a>
+<div class="hmgroup-nav-menu__submenu">
+<div class="hmgroup-nav-menu__submenu-wrapper">
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-2">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/career/a-welcoming-workplace/">
+                            A welcoming workplace                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/career/be-yourself/">
+                            A caring employer                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/career/enjoy-our-culture/">
+                            Our culture                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/career/lead-the-way/">
+                            Lead the way                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-3">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/career/randall-april-h-m/">
+                            Randall April, H&amp;M                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/career/andreas-sjunnesson-weekday/">
+                            Andreas Sjunnesson, Weekday                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/career/michael-hafner-monki/">
+                            Michael Hafner, Monki                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/career/sofia-carpentier-other-stories/">
+                            Sofia Carpentier, &amp; Other Stories                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/career/helene-fredell-h-m-home/">
+                            Helene Fredell, H&amp;M Home                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/career/h-m-incentive-program/">
+                            H&amp;M Incentive Program                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/career/find-your-career-with-us/">
+                            Careers                        </a>
+</li>
+</ul>
+</div>
+</div>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-1__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-1__item-link" href="https://hmgroup.com/sustainability/">
+                            Sustainability                        </a>
+<div class="hmgroup-nav-menu__submenu">
+<div class="hmgroup-nav-menu__submenu-wrapper">
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-2">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/sustainability/sustainability-reporting/">
+                            Sustainability reporting                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-3">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/sustainability-reporting/how-we-report/">
+                            How we report                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-4">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/sustainability-reporting/how-we-report/materiality/">
+                            Materiality                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/sustainability-reporting/how-we-report/reporting-frameworks/">
+                            Reporting frameworks and indexes                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/sustainability/leading-the-change/">
+                            Leading the change                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-3">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/leading-the-change/vision-and-strategy/">
+                            Vision and strategy                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/leading-the-change/goals-and-ambitions/">
+                            Goals and ambition                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/leading-the-change/transparency/">
+                            Transparency                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-4">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/leading-the-change/transparency/supply-chain/">
+                            Supply chain                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/leading-the-change/transparency/responsible-purchasing-practices/">
+                            Responsible purchasing practices                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/leading-the-change/green-investment/">
+                            Green investment                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/leading-the-change/awards-and-recognitions/">
+                            Awards and recognitions                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/leading-the-change/memberships-and-collaborations/">
+                            Memberships and collaborations                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/leading-the-change/stakeholder-engagement/">
+                            Stakeholder engagement                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/">
+                            Circularity &amp; climate                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-3">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/climate/">
+                            Climate                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/biodiversity/">
+                            Biodiversity                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/our-work-with-wwf/">
+                            Our work with WWF                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/circularity/">
+                            Circularity                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-4">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/circularity/designing-for-circularity/">
+                            Designing for circularity                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/circularity/circular-business-models/">
+                            Circular business models                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/recycling/">
+                            Collect, recirculate and recycle                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/materials/">
+                            Materials                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-4">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/materials/cotton/">
+                            Cotton                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/materials/leather/">
+                            Leather                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/materials/man-made-cellulosic-fibres/">
+                            Man-made cellulosic fibres                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/materials/microfibres/">
+                            Microfibres                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/materials/synthetics/">
+                            Synthetics                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/packaging/">
+                            Packaging                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/buildings/">
+                            Built Environment                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/animal-welfare/">
+                            Animal welfare                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/water/">
+                            Water                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/chemicals/">
+                            Chemicals                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-4">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/chemicals/key-milestones/">
+                            Key Milestones                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/circularity-and-climate/chemicals/chemical-restrictions/">
+                            Chemical restrictions                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/sustainability/fair-and-equal/">
+                            Fair &amp; equal                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-3">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/fair-and-equal/human-rights/">
+                            Human rights                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-4">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/fair-and-equal/human-rights/our_approach/">
+                            Our approach to respecting human rights                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-4__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-4__item-link" href="https://hmgroup.com/sustainability/fair-and-equal/human-rights/due-diligence/">
+                            Due diligence                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/fair-and-equal/gender-equality-in-our-supply-chain/">
+                            Gender equality in our supply chain                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/fair-and-equal/working-conditions/">
+                            Working conditions                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/fair-and-equal/wages/">
+                            Wages                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/fair-and-equal/community-engagement/">
+                            Community engagement                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/sustainability/standards-and-policies/">
+                            Standards &amp; policies                        </a>
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-3">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/standards-and-policies/code-of-ethics/">
+                            Code of Ethics                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/standards-and-policies/sustainability-commitment/">
+                            Sustainability Commitment                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/standards-and-policies/responsible-marketing/">
+                            Responsible Marketing                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/standards-and-policies/modern-slavery-statement/">
+                            Modern slavery statement                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/standards-and-policies/human-rights-policy/">
+                            Human rights policy                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-3__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-3__item-link" href="https://hmgroup.com/sustainability/standards-and-policies/sustainable-impact-partnership-program/">
+                            Sustainable Impact Partnership Program                        </a>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-1__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-1__item-link" href="https://hmgroup.com/investors/">
+                            Investors                        </a>
+<div class="hmgroup-nav-menu__submenu">
+<div class="hmgroup-nav-menu__submenu-wrapper">
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-2">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/annual-and-sustainability-report/">
+                            Annual and Sustainability Report 2023                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/financial-calendar/">
+                            Financial calendar                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/reports/">
+                            Reports and presentations                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/the-share/">
+                            The share                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/shareholders/">
+                            Shareholders                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/dividend/">
+                            Dividend                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/share-buyback/">
+                            Share buyback                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/debt-financing/">
+                            Debt Financing                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/sustainable-finance/">
+                            Sustainable Finance                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/five-year-summary/">
+                            Five year summary                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/financial-calendar/communication-in-conjunction-with-the-quarterly-report/">
+                            Communication in conjunction with the quarterly report                        </a>
+</li>
+</ul>
+</div>
+</div>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-1__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-1__item-link" href="https://hmgroup.com/about-us/corporate-governance/">
+                            Corporate governance                        </a>
+<div class="hmgroup-nav-menu__submenu">
+<div class="hmgroup-nav-menu__submenu-wrapper">
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-2">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/about-corporate-governance/">
+                            About corporate governance                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/corporate-governance-report/">
+                            Corporate governance report                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/investors/financial-calendar/">
+                            Financial calendar                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/agm/">
+                            Annual general meeting                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/annual-report/">
+                            Annual report                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/nomination-commitee/">
+                            Nomination committee                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/auditors/">
+                            Auditors                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/board-of-directors/">
+                            Board of Directors                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/audit-committee/">
+                            Audit committee                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/ceo/">
+                            CEO                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/company-management/">
+                            Company management                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/remuneration/">
+                            Remuneration                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/risk-management/">
+                            Risk management                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/articles-of-association/">
+                            Articles of association                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/corporate-governance/policies/">
+                            Tax policy                        </a>
+</li>
+</ul>
+</div>
+</div>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-1__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-1__item-link" href="https://hmgroup.com/media/">
+                            Media                        </a>
+<div class="hmgroup-nav-menu__submenu">
+<div class="hmgroup-nav-menu__submenu-wrapper">
+<ul class="hmgroup-nav-menu__level hmgroup-nav-menu__level-2">
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/media/news/">
+                            Newsroom                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/media/our-stories/">
+                            Our stories                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/media/gallery/">
+                            Image galleries                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/about-us/contact-us/">
+                            Media contacts                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/media/social-media/">
+                            Social media                        </a>
+</li>
+<li class="hmgroup-nav-menu__item hmgroup-nav-menu__level-2__item">
+<a class="hmgroup-nav-menu__item-link hmgroup-nav-menu__level-2__item-link" href="https://hmgroup.com/media/subscribe/">
+                            Subscribe                        </a>
+</li>
+</ul>
+</div>
+</div>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--chevron">
+<i class="fal fa-chevron-down"></i>
+</span>
+</li>
+</ul>
+<span class="hmgroup-nav-menu__toggle-icon hmgroup-nav-menu__toggle-icon--bars" id="menu-toggle">
+<i class="fal fa-bars menu-toggle-icon"></i>
+</span>
+</nav>
+<div class="search-bar">
+<div class="hmgroup-search">
+<a class="hmgroup-search__open search-open" href="javascript:void(0);">
+<i class="fal fa-search"></i>
+</a>
+<div class="hmgroup-search__form">
+<form action="\" method="get">
+<div>
+<input autocomplete="off" id="hmgroup-search__input" name="s" placeholder="Type to search..." type="text" value=""/>
+</div>
+<a aria-label="Close" class="hmgroup-search__close search-close" href="javascript:void(0);">
+<i class="fal fa-times"></i>
+</a>
+</form>
+</div>
+<ul class="hmgroup-search__result" id="hmgroup-search__result" style="display: none;">
+</ul>
+</div>
+</div>
+</header><main class="l-main" id="page-content" itemprop="mainContentOfPage">
+<section class="l-section wpb_row height_large width_full with_overlay ult-vc-hide-row vc_row-has-fill" data-img-parallax-mobile-disable="true" data-row-effect-mobile-disable="true" data-rtl="false" style="position: relative;"><div class="upb_row_bg vcpb-default" data-animation-repeat="repeat" data-bg-animation="left-animation" data-bg-animation-type="h" data-bg-override="0" data-parallax_sense="30" data-upb_br_animation="" style='background-size: cover; background-repeat: no-repeat; background-position: center bottom; background-color: rgba(0, 0, 0, 0); background-image: url("/wp-content/uploads/2023/09/about-us-hero-2.jpg"); background-attachment: fixed; min-width: 1399px; left: 0px; width: 1399px;'></div><div class="l-section-overlay" style="background: rgba(0,0,0,0.5)"></div><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-vwrapper align_center valign_middle" style="--vwrapper-gap:0"><h1 class="vc_custom_heading us_custom_3213872e" style="text-align: center">About us</h1></div><div class="w-separator size_small"></div><div class="g-cols wpb_row us_custom_23fef07f type_default valign_middle vc_inner"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_text_column us_custom_da2d8b6a has_text_color preamble"><div class="wpb_wrapper"><p>We are a global family of brands and businesses. We make it possible for customers around the world to express themselves through fashion and design in a sustainable way.</p>
+</div></div></div></div></div></div></div></div></div></div></div></section><!-- Row Backgrounds --><section class="l-section wpb_row height_small ult-vc-hide-row vc_row-has-fill" data-row-effect-mobile-disable="true" data-rtl="false" style="position: relative;"><div class="upb_row_bg" data-bg-override="0" style="background: rgb(200, 200, 180); min-width: 1399px; left: 0px; width: 1398px;"></div><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_text_column"><div class="wpb_wrapper"><h2 style="text-align: center;">H&amp;M Group at a glance¹</h2>
+</div></div><div class="w-separator size_small"></div><div class="g-cols wpb_row type_default valign_top vc_inner"><div class="vc_col-sm-3 vc_col-md-3 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-counter us_custom_4ed7332b color_heading align_center" data-duration="2000"><div class="w-counter-value"><span class="w-counter-value-part type_text" data-final=""></span><span class="w-counter-value-part type_number" data-final="143,000">143,000</span><span class="w-counter-value-part type_text" data-final=""></span></div></div><div class="wpb_text_column us_custom_e3b3a37c"><div class="wpb_wrapper"><p style="text-align: center;">employees globally</p>
+</div></div></div></div></div><div class="vc_col-sm-3 vc_col-md-3 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-counter us_custom_405b4026 color_heading align_center" data-duration="2000"><div class="w-counter-value"><span class="w-counter-value-part type_text" data-final=""></span><span class="w-counter-value-part type_number" data-final="78">78</span><span class="w-counter-value-part type_text" data-final=""></span></div></div><div class="wpb_text_column us_custom_e3b3a37c"><div class="wpb_wrapper"><p style="text-align: center;">markets with online sales in 60 markets</p>
+</div></div></div></div></div><div class="vc_col-sm-3 vc_col-md-3 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-counter us_custom_405b4026 color_heading align_center" data-duration="2000"><div class="w-counter-value"><span class="w-counter-value-part type_text" data-final=""></span><span class="w-counter-value-part type_number" data-final="236">236</span><span class="w-counter-value-part type_text" data-final=""></span></div></div><div class="wpb_text_column us_custom_e3b3a37c"><div class="wpb_wrapper"><p style="text-align: center;">billion SEK in net sales in 2023, +6% vs. 2022</p>
+</div></div></div></div></div><div class="vc_col-sm-3 vc_col-md-3 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-counter us_custom_405b4026 color_heading align_center" data-duration="2000"><div class="w-counter-value"><span class="w-counter-value-part type_text" data-final=""></span><span class="w-counter-value-part type_number" data-final="85">85</span><span class="w-counter-value-part type_text" data-final="%">%</span></div></div><div class="wpb_text_column us_custom_e3b3a37c"><div class="wpb_wrapper"><p style="text-align: center;">recycled or sustainably sourced materials in our commercial,<br/>
+including 25% recycled materials</p>
+</div></div></div></div></div><div class="vc_col-sm-12 wpb_column vc_column_container font-footer-1"><div class="vc_column-inner us_custom_41ef9969"><div class="wpb_wrapper"><div class="wpb_text_column"><div class="wpb_wrapper"><ol>
+<li><span class="ui-provider brj brk c d e f g h i j k l m n o p q r s t brl brm w x y z ab ac ae af ag ah ai aj ak" dir="ltr">Figures from our <a href="https://hmgroup.com/wp-content/uploads/2024/03/HM-Group-Annual-and-Sustainability-Report-2023.pdf" rel="noopener" target="_blank">Annual and Sustainability Report 2023</a></span></li>
+</ol>
+</div></div></div></div></div></div></div></div></div></div></div></section><!-- Row Backgrounds --><section class="l-section wpb_row height_small"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-separator size_medium"></div><div class="wpb_text_column"><div class="wpb_wrapper"><h2 style="text-align: center;">Our brands and business ventures</h2>
+</div></div><div class="w-separator size_medium"></div><div class="w-hwrapper align_center valign_top wrap" style="--hwrapper-gap:10px"><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/1_HM_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="/brands/hm/"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/2_COS_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="/brands/cos/"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/3_Weekday_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="/brands/weekday/"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2024/04/4__Monki_Black-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="/brands/monki/"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/5_HM_Home_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="/brands/hm-home/"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/6_OtherStories_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="/brands/and-other-stories/"></a></div></div><div class="w-hwrapper us_custom_3090c82c align_center valign_top wrap" style="--hwrapper-gap:10px"><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/7_Arket_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="/brands/arket/" title="ARKET"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/Afound_Black_logoframe_new-1-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="/brands/afound/" title="Afound"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/9_TheSingularSociety_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="https://singular-society.com/"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/10_CreatorStudio_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="https://www.creatorstudio.com/"></a></div><div class="w-ibanner us_custom_c5b1e650 animation_aphelia ratio_1x1 easing_ease"><div class="w-ibanner-h"><div class="w-ibanner-image" style="background-image: url(/wp-content/uploads/2023/09/11_Sellpy_Black_logoframe-400x400.png)"></div><div class="w-ibanner-content"><div class="w-ibanner-content-h"><h2 class="w-ibanner-title"></h2><div class="w-ibanner-desc"></div></div></div></div><a aria-label="" href="https://hmgroupventures.com/sellpy/"></a></div></div><div class="w-separator size_medium"></div><div class="wpb_text_column"><div class="wpb_wrapper"><p>H&amp;M Group is a global fashion and design company, with over 4,000 stores in more than <a href="/about-us/markets-and-expansion/">75 markets and online sales in 60 markets</a>.</p>
+</div></div><div class="wpb_text_column"><div class="wpb_wrapper"><p>All <a href="/brands/">our brands</a> and business ventures share the same passion for making great and more sustainable fashion and design available to everyone. Each brand has its own unique identity, and together they complement each other and strengthen H&amp;M Group – all to offer our customers unbeatable value and to enable a more circular lifestyle.</p>
+</div></div><div class="w-separator size_small"></div><div class="w-btn-wrapper width_auto align_center"><a class="w-btn us-btn-style_1" href="https://hmgroup.com/business-idea/" title="Business idea"><span class="w-btn-label">Read more about our business</span></a></div><div class="w-separator size_medium"></div></div></div></div></div></div></section><section class="l-section wpb_row height_small"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="g-cols wpb_row us_custom_43285c77 type_default valign_top vc_inner"><div class="vc_col-sm-8 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_text_column"><div class="wpb_wrapper"><h2>This is our way</h2>
+<p>We are committed to meeting all external regulations where we do business and to doing the right thing. Acting consistently and with a strong ethical compass is vital if H&amp;M Group is to continue being a trusted company and partner, a company that is valued by customers, respected by society, and for which we are all proud to work.</p>
+<p>The “Our way” document sums up H&amp;M Group’s culture, values, policies and guidelines. It defines who we are, what we do and how we do it.</p>
+</div></div></div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-separator size_small"></div><div class="w-image align_none"><a aria-label="Link" class="w-image-h" href="/wp-content/uploads/2024/02/HM-Group_Our-way.pdf" rel="noopener" target="_blank"><img alt="" class="attachment-large size-large" decoding="async" height="690" loading="lazy" sizes="(max-width: 976px) 100vw, 976px" src="/wp-content/uploads/2023/09/our_way_about_us.png" srcset="https://hmgroup.com/wp-content/uploads/2023/09/our_way_about_us.png 1019w, https://hmgroup.com/wp-content/uploads/2023/09/our_way_about_us-400x283.png 400w, https://hmgroup.com/wp-content/uploads/2023/09/our_way_about_us-60x42.png 60w, https://hmgroup.com/wp-content/uploads/2023/09/our_way_about_us-600x424.png 600w" width="976"/></a></div><div class="w-separator size_small"></div><div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_18" href="/wp-content/uploads/2024/04/HM-Group_Our-way-1.pdf" rel="noopener" target="_blank" title="Our way"><span class="w-btn-label">Download [PDF]</span></a></div></div></div></div></div><div class="w-separator size_medium"></div></div></div></div></div></div></section><section class="l-section wpb_row height_small"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-image align_none"><div class="w-image-h"><img alt="" class="attachment-large size-large" decoding="async" height="624" loading="lazy" sizes="(max-width: 912px) 100vw, 912px" src="/wp-content/uploads/2023/09/erling-persson-hennes.jpg" srcset="https://hmgroup.com/wp-content/uploads/2023/09/erling-persson-hennes.jpg 912w, https://hmgroup.com/wp-content/uploads/2023/09/erling-persson-hennes-400x274.jpg 400w, https://hmgroup.com/wp-content/uploads/2023/09/erling-persson-hennes-60x41.jpg 60w, https://hmgroup.com/wp-content/uploads/2023/09/erling-persson-hennes-600x411.jpg 600w" width="912"/></div></div><div class="w-separator size_small"></div><div class="wpb_text_column"><div class="wpb_wrapper"><h3>Our story</h3>
+</div></div><div class="wpb_text_column"><div class="wpb_wrapper"><p>From a single store in 1947 we became a family of brands, offering fashion and design to customers worldwide.</p>
+</div></div><div class="w-btn-wrapper width_auto align_left"><a class="w-btn us-btn-style_15 icon_atright" href="/about-us/history/" title="Our history"><span class="w-btn-label">Our history</span><i class="fal fa-chevron-right"></i></a></div></div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-image align_none"><div class="w-image-h"><img alt="" class="attachment-large size-large" decoding="async" height="624" loading="lazy" sizes="(max-width: 912px) 100vw, 912px" src="/wp-content/uploads/2023/09/about-us-our-values.jpg" srcset="https://hmgroup.com/wp-content/uploads/2023/09/about-us-our-values.jpg 912w, https://hmgroup.com/wp-content/uploads/2023/09/about-us-our-values-400x274.jpg 400w, https://hmgroup.com/wp-content/uploads/2023/09/about-us-our-values-60x41.jpg 60w, https://hmgroup.com/wp-content/uploads/2023/09/about-us-our-values-600x411.jpg 600w" width="912"/></div></div><div class="w-separator size_small"></div><div class="wpb_text_column"><div class="wpb_wrapper"><h3>Living our values</h3>
+</div></div><div class="wpb_text_column"><div class="wpb_wrapper"><p>At H&amp;M Group, we are guided by shared values. They are part of who we are, what we stand for and how we act.</p>
+</div></div><div class="w-btn-wrapper width_auto align_left"><a class="w-btn us-btn-style_15 icon_atright" href="/about-us/our-values/" title="Our values"><span class="w-btn-label">Our values</span><i class="fal fa-chevron-right"></i></a></div></div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-image align_none"><div class="w-image-h"><img alt="" class="attachment-large size-large" decoding="async" height="624" loading="lazy" sizes="(max-width: 912px) 100vw, 912px" src="/wp-content/uploads/2023/09/about-us-inclusion-and-diversity.jpg" srcset="https://hmgroup.com/wp-content/uploads/2023/09/about-us-inclusion-and-diversity.jpg 912w, https://hmgroup.com/wp-content/uploads/2023/09/about-us-inclusion-and-diversity-400x274.jpg 400w, https://hmgroup.com/wp-content/uploads/2023/09/about-us-inclusion-and-diversity-60x41.jpg 60w, https://hmgroup.com/wp-content/uploads/2023/09/about-us-inclusion-and-diversity-600x411.jpg 600w" width="912"/></div></div><div class="w-separator size_small"></div><div class="wpb_text_column"><div class="wpb_wrapper"><h3>Inclusion and diversity</h3>
+</div></div><div class="wpb_text_column"><div class="wpb_wrapper"><p>We are a value-driven company that wants to lead the way to a more inclusive and diverse fashion industry.</p>
+</div></div><div class="w-btn-wrapper width_auto align_left"><a class="w-btn us-btn-style_15 icon_atright" href="/about-us/inclusion-and-diversity/" title="Inclusion and diversity"><span class="w-btn-label">Inclusion and diversity</span><i class="fal fa-chevron-right"></i></a></div></div></div></div></div></div></section><section class="l-section wpb_row height_small"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-8 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-image align_none"><div class="w-image-h"><img alt="" class="attachment-large size-large" decoding="async" height="354" loading="lazy" sizes="(max-width: 976px) 100vw, 976px" src="/wp-content/uploads/2023/09/sustainability-about-us-1024x371-1.jpg" srcset="https://hmgroup.com/wp-content/uploads/2023/09/sustainability-about-us-1024x371-1.jpg 1024w, https://hmgroup.com/wp-content/uploads/2023/09/sustainability-about-us-1024x371-1-400x145.jpg 400w, https://hmgroup.com/wp-content/uploads/2023/09/sustainability-about-us-1024x371-1-60x22.jpg 60w, https://hmgroup.com/wp-content/uploads/2023/09/sustainability-about-us-1024x371-1-600x217.jpg 600w" width="976"/></div></div><div class="w-separator size_small"></div><div class="wpb_text_column"><div class="wpb_wrapper"><h3>Our sustainability strategy</h3>
+</div></div><div class="wpb_text_column"><div class="wpb_wrapper"><p>H&amp;M Group’s <a href="/sustainability/">vision for sustainability</a> is to lead the change towards a circular fashion industry with net-zero climate impact, while being a fair and equal company. We work according to our sustainability strategy produced jointly with external and internal experts. Our sustainability work spans the entire value chain, focusing both on our own operations and, together with other stakeholders, the industry in general.</p>
+</div></div><div class="w-btn-wrapper width_auto align_left"><a class="w-btn us-btn-style_15 icon_atright" href="/sustainability/" title="Our way"><span class="w-btn-label">Our sustainability work</span><i class="fal fa-chevron-right"></i></a></div></div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container has-fill"><div class="vc_column-inner us_custom_f3af2b19"><div class="wpb_wrapper"><div class="g-cols wpb_row type_default valign_top vc_inner"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_text_column"><div class="wpb_wrapper"><h3>H&amp;M Foundation</h3>
+<p>The H&amp;M Foundation is a long-term commitment from the Stefan Persson family, the founders and main owners of the H&amp;M Group.</p>
+<p>As a philanthropic foundation, they find, fund and facilitate disruptive innovations, initiatives and research with the vision to enable an inclusive and planet positive textile industry.</p>
+</div></div><div class="w-btn-wrapper width_auto align_left"><a class="w-btn us-btn-style_15 icon_atright" href="https://hmfoundation.com/" rel="noopener" target="_blank" title="Our way"><span class="w-btn-label">H&amp;M Foundation</span><i class="fal fa-external-link"></i></a></div></div></div></div></div></div></div></div></div></div></section><section class="l-section wpb_row us_custom_00c5df9f height_small"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="g-cols wpb_row us_custom_6618e26b type_default valign_top vc_inner"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner us_custom_4c19081d"><div class="wpb_wrapper"><div class="wpb_text_column"><div class="wpb_wrapper"><h3 style="text-align: center;">Read more in our Annual and Sustainability Report 2023</h3>
+</div></div><div class="w-btn-wrapper width_auto align_center"><a class="w-btn us-btn-style_20" href="/investors/annual-and-sustainability-report/" title="Our way"><span class="w-btn-label">Annual and Sustainability Report 2023</span></a></div></div></div></div></div></div></div></div></div></div></section><section class="l-section wpb_row height_small width_full"><div class="l-section-h i-cf"><div class="g-cols vc_row type_boxes valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-separator size_medium with_line width_30 thick_1 style_solid color_border align_center"><div class="w-separator-h"></div></div><h2 class="vc_custom_heading" style="text-align: center">Related</h2><div class="w-grid type_carousel layout_2718 cols_3 ratio_16x9" id="us_grid_1"><div class="w-grid-list owl-carousel navstyle_2 navpos_inside owl-loaded owl-drag">
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1263px;"><div class="owl-item active" style="width: 421px;"><article class="w-grid-item post-316 page type-page status-publish has-post-thumbnail hentry" data-id="316" id="contact_us">
+<div class="w-grid-item-h">
+<div class="w-vwrapper usg_vwrapper_3 align_center valign_middle related_card" style="--vwrapper-gap:0"><div class="w-post-elm post_image usg_post_image_1 has_ratio"><div style="padding-bottom:56.2500%"></div><a aria-label="Contact us" href="https://hmgroup.com/about-us/contact-us/"><img alt="" class="attachment-large size-large wp-post-image" decoding="async" height="549" loading="lazy" sizes="(max-width: 976px) 100vw, 976px" src="/wp-content/uploads/2022/01/press_contacts-1024x576.jpg" srcset="https://hmgroup.com/wp-content/uploads/2022/01/press_contacts-1024x576.jpg 1024w, https://hmgroup.com/wp-content/uploads/2022/01/press_contacts-400x225.jpg 400w, https://hmgroup.com/wp-content/uploads/2022/01/press_contacts-60x34.jpg 60w, https://hmgroup.com/wp-content/uploads/2022/01/press_contacts-600x338.jpg 600w, https://hmgroup.com/wp-content/uploads/2022/01/press_contacts.jpg 1280w" width="976"/></a></div><h3 class="w-post-elm post_title usg_post_title_1 align_center entry-title color_link_inherit has_text_color"><a href="https://hmgroup.com/about-us/contact-us/">Contact us</a></h3></div> </div>
+</article></div><div class="owl-item active" style="width: 421px;"><article class="w-grid-item post-298 page type-page status-publish has-post-thumbnail hentry" data-id="298" id="investors">
+<div class="w-grid-item-h">
+<div class="w-vwrapper usg_vwrapper_3 align_center valign_middle related_card" style="--vwrapper-gap:0"><div class="w-post-elm post_image usg_post_image_1 has_ratio"><div style="padding-bottom:56.2500%"></div><a aria-label="Investors" href="https://hmgroup.com/investors/"><img alt="" class="attachment-large size-large wp-post-image" decoding="async" height="549" loading="lazy" sizes="(max-width: 976px) 100vw, 976px" src="/wp-content/uploads/2022/01/investors-1024x576.jpg" srcset="https://hmgroup.com/wp-content/uploads/2022/01/investors-1024x576.jpg 1024w, https://hmgroup.com/wp-content/uploads/2022/01/investors-400x225.jpg 400w, https://hmgroup.com/wp-content/uploads/2022/01/investors-60x34.jpg 60w, https://hmgroup.com/wp-content/uploads/2022/01/investors-600x338.jpg 600w, https://hmgroup.com/wp-content/uploads/2022/01/investors.jpg 1280w" width="976"/></a></div><h3 class="w-post-elm post_title usg_post_title_1 align_center entry-title color_link_inherit has_text_color"><a href="https://hmgroup.com/investors/">Investors</a></h3></div> </div>
+</article></div><div class="owl-item active" style="width: 421px;"><article class="w-grid-item post-313 page type-page status-publish has-post-thumbnail hentry" data-id="313" id="corporate_governance">
+<div class="w-grid-item-h">
+<div class="w-vwrapper usg_vwrapper_3 align_center valign_middle related_card" style="--vwrapper-gap:0"><div class="w-post-elm post_image usg_post_image_1 has_ratio"><div style="padding-bottom:56.2500%"></div><a aria-label="Corporate governance" href="https://hmgroup.com/about-us/corporate-governance/"><img alt="" class="attachment-large size-large wp-post-image" decoding="async" height="391" loading="lazy" sizes="(max-width: 976px) 100vw, 976px" src="/wp-content/uploads/2020/04/corporate-governance-hero-banner-1024x410.jpeg" srcset="https://hmgroup.com/wp-content/uploads/2020/04/corporate-governance-hero-banner-1024x410.jpeg 1024w, https://hmgroup.com/wp-content/uploads/2020/04/corporate-governance-hero-banner-400x160.jpeg 400w, https://hmgroup.com/wp-content/uploads/2020/04/corporate-governance-hero-banner-60x24.jpeg 60w, https://hmgroup.com/wp-content/uploads/2020/04/corporate-governance-hero-banner.jpeg 1280w" width="976"/></a></div><h3 class="w-post-elm post_title usg_post_title_1 align_center entry-title color_link_inherit has_text_color"><a href="https://hmgroup.com/about-us/corporate-governance/">Corporate governance</a></h3></div> </div>
+</article></div></div></div><div class="owl-nav disabled"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots disabled"></div></div><div class="g-preloader type_1">
+<div></div>
+</div>
+</div></div></div></div></div></div></section>
+</main>
+</div>
+<footer class="l-footer" id="page-footer" itemscope="" itemtype="https://schema.org/WPFooter">
+<section class="l-section wpb_row height_auto width_full color_footer-bottom"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-1 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="vc_col-sm-10 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-separator size_large"></div><div class="w-vwrapper align_center valign_top"><div class="w-image us_custom_736cdede align_center"><a aria-label="Link" class="w-image-h" href="/"><img alt="" class="attachment-full size-full" decoding="async" loading="lazy" src="/wp-content/uploads/2020/06/hm_group_logo_white.svg"/></a></div><div class="w-separator size_small"></div></div></div></div></div><div class="vc_col-sm-1 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div></div></section><section class="l-section wpb_row us_custom_0741ea35 height_small width_full color_footer-bottom"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-1 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="vc_col-sm-10 wpb_column vc_column_container"><div class="vc_column-inner us_custom_eb849559"><div class="wpb_wrapper"><div class="w-menu us_custom_ca053815 layout_hor spread style_links us_menu_1 with_children"><ul class="menu" id="menu-footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9305" id="menu-item-9305"><a href="https://hmgroup.com/about-us/contact-us/">Contact us</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9307" id="menu-item-9307"><a href="https://hmgroup.com/media/subscribe/">Subscribe</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14761" id="menu-item-14761"><a href="https://hmgroup.com/sitemap/">Sitemap</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9309" id="menu-item-9309"><a href="https://hmgroup.com/legal-notice/">Privacy Notice</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34265" id="menu-item-34265"><a href="https://hmgroup.com/cookie-notice/">Cookie Notice</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27559" id="menu-item-27559"><a class="ot-sdk-show-settings" href="#cookie_settings">Cookie settings</a></li></ul></div></div></div></div><div class="vc_col-sm-1 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div></div></section><section class="l-section wpb_row height_small width_full color_footer-bottom"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_middle"><div class="vc_col-sm-1 vc_hidden-xs wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="vc_col-sm-5 vc_col-xs-6 wpb_column vc_column_container"><div class="vc_column-inner us_custom_ba07e34b"><div class="wpb_wrapper"><div class="wpb_text_column us_custom_a642994e has_text_color"><div class="wpb_wrapper"><p>Copyright © 2024 <span style="color: white;">H&amp;M Group</span>. All rights reserved.</p>
+<p> </p>
+</div></div></div></div></div><div class="vc_col-sm-5 vc_col-xs-6 wpb_column vc_column_container"><div class="vc_column-inner us_custom_ba07e34b"><div class="wpb_wrapper"><div class="w-socials us_custom_8843776a color_text shape_square style_default hover_none"><div class="w-socials-list"><div class="w-socials-item youtube"><a aria-label="YouTube" class="w-socials-item-link" href="https://www.youtube.com/channel/UCNy3ABE5MMBOiFPv6R2xwUw" rel="noopener nofollow" target="_blank" title="YouTube"><span class="w-socials-item-link-hover"></span><i class="fab fa-youtube"></i></a></div><div class="w-socials-item linkedin"><a aria-label="LinkedIn" class="w-socials-item-link" href="https://www.linkedin.com/company/hmgroup/" rel="noopener nofollow" target="_blank" title="LinkedIn"><span class="w-socials-item-link-hover"></span><i class="fab fa-linkedin"></i></a></div></div></div></div></div></div><div class="vc_col-sm-1 vc_hidden-xs wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div></div></section>
+</footer>
+
+ <!-- OneTrust Cookies Consent Notice start for hmgroup.com -->
+
+
+
+<!-- OneTrust Cookies Consent Notice end for hmgroup.com -->
+<link href="https://hmgroup.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/background-style.min.css?ver=3.19.8" id="ult-background-style-css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in" style="display: none;
+                    transition: visibility 0s 500ms, opacity 500ms linear;
+                    opacity: 0;visibility: hidden;"></div><div aria-label="Cookie banner" class="otFloatingRoundedCorner ot-bottom-left vertical-align-content ot-buttons-fw" id="onetrust-banner-sdk" role="region" style="display: none;bottom: 1rem;visibility: hidden;
+                    opacity: 0;transition: visibility 0s 400ms, opacity 400ms linear;" tabindex="0"><div aria-describedby="onetrust-policy-text" aria-label="We care about your privacy" class="ot-sdk-container" role="alertdialog"><div class="ot-sdk-row"><div class="ot-sdk-twelve ot-sdk-columns" id="onetrust-group-container"><div id="onetrust-policy"><div class="banner-header"><div class="banner_logo"></div></div><h2 id="onetrust-policy-title">We care about your privacy</h2><div id="onetrust-policy-text">We use first- and third-party cookies including other tracking technologies from third party publishers to give you the full functionality of our website, to customize your user experience, perform analytics and deliver personalized advertising on our websites, apps and newsletters across internet and via social media platforms. For that purpose, we collect information about user, browsing patterns and device.
+<br/><br/>
+By clicking "Accept All Cookies", you accept this, and agree that we share this information with third parties, such as our advertising partners. If you prefer, you can choose to continue with "Only Required Cookies". But keep in mind that blocking some types of cookies may impact how we can deliver tailored content that you might like.
+ <br/><br/>
+For more information and to customize your options, click on "Cookie settings". If you want to learn more about cookies and why we use them, visit our <a href="https://hmgroup.com/cookie-notice/" rel="noopener" target="_blank">Cookie Policy</a> page at any time.</div></div></div><div class="ot-sdk-twelve ot-sdk-columns has-reject-all-button" id="onetrust-button-group-parent"><div id="onetrust-button-group"><div class="banner-actions-container"><button id="onetrust-accept-btn-handler">Accept all cookies</button> <button id="onetrust-reject-all-handler">Only required cookies</button></div><button class="cookie-setting-link" id="onetrust-pc-btn-handler">Cookie settings</button></div></div><!-- Close Button --><div id="onetrust-close-btn-container"></div><!-- Close Button END--></div></div></div><div aria-describedby="pc-policy-text" aria-label="Preference center" aria-modal="true" class="ot-sdk-container otPcPanel ot-hide ot-fade-in ot-accordions-pc ot-slide-out-left" id="onetrust-pc-sdk" lang="en-US" role="region" style="display: none;
+                    transition: visibility 0s 500ms, opacity 500ms linear;
+                    opacity: 0;visibility: hidden;"><!-- Close Button --><div><button aria-label="Close" class="main close-pc-btn-handler pc-close-button ot-close-icon" id="close-pc-btn-handler" style='display: block;background-image: url("https://cdn.cookielaw.org/logos/static/ot_close.svg");'></button></div><!-- Close Button --><div class="ot-main-content" id="ot-content" style="display: block;"><!-- Logo Tag --><div class="pc-logo-container"><div aria-label="Company Logo" class="pc-logo" role="img"><img alt="Company Logo" src="https://cdn.cookielaw.org/logos/6e0ffeab-df84-4fee-b293-9e6498bfa887/85e11b07-a496-4761-94b4-83c880017103/a36489b4-9aa6-4ddf-82fc-0bb404f6bff2/H&amp;M-Group-logotype-black-normal(CMYK).png"/></div></div><h2 id="pc-title">Privacy Preference Center</h2><div id="pc-policy-text">When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalised web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+<br/><br/>
+Read more in our <a href="https://hmgroup.com/cookie-notice/">Cookie Policy</a>
+</div><div class="ot-sdk-row" id="accept-recommended-container"><div class="ot-sdk-column"><button class="button-theme" id="accept-recommended-btn-handler">Accept all cookies</button></div></div><section class="ot-sdk-row category-group" id="cookie-preferences"><h3 id="manage-cookies-text"> Manage Consent Preferences</h3><div class="accordion-text category-item ot-always-active-group" data-optanongroupid="C0001"><h4 class="category-header" id="ot-header-id-C0001">Strictly necessary cookies</h4><div class="ot-always-active" id="ot-status-id-C0001">Always Active</div><div class="ot-switch ot-toggle ot-hide-tgl"><input aria-checked="false" aria-controls="ot-desc-id-C0001" aria-hidden="true" aria-labelledby="ot-header-id-C0001" checked="" class="switch-checkbox category-switch-handler" data-optanongroupid="C0001" id="ot-group-id-C0001" name="ot-group-id-C0001" role="switch" type="checkbox"/> <label class="ot-switch-label" for="ot-group-id-C0001"><span class="ot-switch-inner"></span> <span class="ot-switch-nob"></span> <span class="label-text">Strictly necessary cookies</span></label></div><p class="ot-category-desc" id="ot-desc-id-C0001">These cookies are necessary to maintain our services and cannot be switched off. They are usually only set in response to actions made by you, such as creating an account or saving a wish list for later. You can set your browser to block or alert you about these cookies, but that can make some parts of the site not work. These cookies do not store any personally identifiable information.</p><!-- sub groups --></div><div class="accordion-text category-item" data-optanongroupid="C0002"><h4 class="category-header" id="ot-header-id-C0002">Performance cookies</h4><div class="ot-switch ot-toggle"><input aria-checked="false" aria-controls="ot-desc-id-C0002" aria-labelledby="ot-header-id-C0002" class="switch-checkbox category-switch-handler" data-optanongroupid="C0002" id="ot-group-id-C0002" name="ot-group-id-C0002" role="switch" type="checkbox"/> <label class="ot-switch-label" for="ot-group-id-C0002"><span class="ot-switch-inner"></span> <span class="ot-switch-nob"></span> <span class="label-text">Performance cookies</span></label></div><p class="ot-category-desc" id="ot-desc-id-C0002">These cookies allow us to count visits and traffic so we can collect insights like which pages are the most popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore, anonymous. If you do not allow these cookies, we will not be able to provide you with a tailored experience.</p><!-- sub groups --></div><div class="accordion-text category-item" data-optanongroupid="C0003"><h4 class="category-header" id="ot-header-id-C0003">Functional cookies</h4><div class="ot-switch ot-toggle"><input aria-checked="false" aria-controls="ot-desc-id-C0003" aria-labelledby="ot-header-id-C0003" class="switch-checkbox category-switch-handler" data-optanongroupid="C0003" id="ot-group-id-C0003" name="ot-group-id-C0003" role="switch" type="checkbox"/> <label class="ot-switch-label" for="ot-group-id-C0003"><span class="ot-switch-inner"></span> <span class="ot-switch-nob"></span> <span class="label-text">Functional cookies</span></label></div><p class="ot-category-desc" id="ot-desc-id-C0003">These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, some or all of these services may not function properly. </p><!-- sub groups --></div><div class="accordion-text category-item" data-optanongroupid="C0004"><h4 class="category-header" id="ot-header-id-C0004">Marketing cookies </h4><div class="ot-switch ot-toggle"><input aria-checked="false" aria-controls="ot-desc-id-C0004" aria-labelledby="ot-header-id-C0004" class="switch-checkbox category-switch-handler" data-optanongroupid="C0004" id="ot-group-id-C0004" name="ot-group-id-C0004" role="switch" type="checkbox"/> <label class="ot-switch-label" for="ot-group-id-C0004"><span class="ot-switch-inner"></span> <span class="ot-switch-nob"></span> <span class="label-text">Marketing cookies </span></label></div><p class="ot-category-desc" id="ot-desc-id-C0004"> When you accept marketing cookies, you give us your consent to place cookies on your device to provide you with relevant content that fits your interests. These cookies may be set through our site by our advertising partners or by us to build a profile of your interests and show you relevant content. To deliver content that fits your interests on our site, we will use your interactions together with the personal information you have provided to us. To present you with relevant content on third-party sites, we will share this information and a customer identifier such as an encrypted email address or device ID with third parties, such as advertising platforms and social networks. To make the content as interesting as possible, we may link this data across the different devices you use. If you choose not to accept marketing cookies, we will not place such cookies on your device and you may experience less relevant content from us.</p><!-- sub groups --></div><!-- Accordion Group section starts --><!-- Accordion Group section ends --><div class="save-preference-btn-container"><button class="ot-pc-refuse-all-handler"> Only required cookies</button> <button class="save-preference-btn-handler onetrust-close-btn-handler button-theme">Confirm my Choices</button><div class="ot-pc-footer-logo"><a aria-label="Powered by OneTrust Opens in a new Tab" class="powered-by-logo" href="https://www.onetrust.com/products/cookie-consent/" rel="noopener noreferrer" target="_blank"><img alt="Powered by Onetrust" src="https://cdn.cookielaw.org/logos/static/powered_by_logo.svg" title="Powered by OneTrust Opens in a new Tab"/></a></div></div></section></div><section class="ot-hide" id="vendors-list"><div id="vendors-list-header"><button class="ot-link-btn back-btn-handler"><svg height="12px" id="ot-back-arrow" viewbox="0 0 444.531 444.531" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Back Button</title><g><path d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
+          l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
+          c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
+          s18.795-3.521,25.834-10.564l21.409-21.412c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978
+          L213.13,222.409z" fill="#656565"></path></g></svg><p class="pc-back-button-text">Back</p></button><!-- Close Button --> <button aria-label="Close" class="vendors-list close-pc-btn-handler pc-close-button ot-close-icon" id="vendor-close-pc-btn-handler"></button><!-- Close Button --><h3 id="vendors-list-title">Performance Cookies</h3><div id="search-container"><p class="screen-reader-only" role="status"></p><label class="screen-reader-only" for="vendor-search-handler">Vendor Search</label> <input id="vendor-search-handler" name="vendor-search-handler" placeholder="Search..." type="text"/> <svg aria-hidden="true" height="30" viewbox="0 -30 110 110" width="30" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Search Icon</title><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23
+        s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+        c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+        s-17-7.626-17-17S14.61,6,23.984,6z" fill="#2e3644"></path></svg> <button aria-haspopup="true" aria-label="Filter" class="ot-link-btn" id="filter-btn-handler"><svg aria-hidden="true" height="15px" id="filter-icon" role="presentation" viewbox="0 0 402.577 402.577" width="15px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Filter Icon</title><g><path d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
+  c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
+  c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
+  C402.765,25.895,404.093,19.231,400.858,11.427z" fill="#fff" id="filter-icon-path"></path></g></svg></button><div id="ot-triangle"></div><section id="ot-filter-modal"><div id="ot-options"><div id="clear-filters-container"><button class="ot-link-btn" id="clear-filters-handler"><p>Clear Filters</p></button></div><div class="ot-group-options"><div class="ot-group-option"><div class="ot-checkbox"><input aria-expanded="false" class="ot-group-option-box category-filter-handler" id="storage-access-group" ot-accordion="true" role="button" type="checkbox"/> <label for="storage-access-group"><span>Information storage and access</span></label></div></div></div><button id="filter-apply-handler">Apply</button></div></section></div><div id="select-all-container"><div class="ot-checkbox"><div class="leg-int-sel-all-hdr"><span class="consent-hdr">Consent</span> <span class="leg-int-hdr">Leg.Interest</span></div><div id="select-all-text-container"><p>All Consent Allowed</p></div><!-- select all vendor leg.int toggle container --><div id="select-all-vendors-leg-input-container"><input class="ot-group-option-box" id="select-all-vendor-leg-handler" type="checkbox"/> <label for="select-all-vendor-leg-handler"><span class="label-text">Select All Vendors</span></label></div><!-- select all vendor consent toggle container --><div id="select-all-vendors-input-container"><input class="ot-group-option-box" id="select-all-vendor-groups-handler" type="checkbox"/> <label for="select-all-vendor-groups-handler"><span class="label-text">Select All Vendors</span></label></div><!-- Hosts select all input container --><div id="select-all-hosts-input-container"><input class="ot-group-option-box" id="select-all-hosts-groups-handler" type="checkbox"/> <label for="select-all-hosts-groups-handler"><span class="label-text">Select All Hosts</span></label></div></div></div></div><section id="vendor-list-content"><div class="ot-sdk-row" id="vendors-list-text"><div class="ot-sdk-column"></div></div></section><div class="save-preference-btn-container" id="vendor-list-save-btn"><button class="ot-pc-refuse-all-handler"> Only required cookies</button> <button class="save-preference-btn-handler onetrust-close-btn-handler button-theme">Confirm my Choices</button><div class="ot-pc-footer-logo"><a aria-label="Powered by OneTrust Opens in a new Tab" class="powered-by-logo" href="https://www.onetrust.com/products/cookie-consent/" rel="noopener noreferrer" target="_blank"><img alt="Powered by Onetrust" src="https://cdn.cookielaw.org/logos/static/powered_by_logo.svg" title="Powered by OneTrust Opens in a new Tab"/></a></div></div></section><iframe aria-hidden="true" class="ot-text-resize" data-gtm-yt-inspected-11845496_29="true" data-gtm-yt-inspected-26="true" sandbox="allow-same-origin" style="position: absolute; top: -50000px; width: 100em;" title="onetrust-text-resize"></iframe></div></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Does this page contains user specific information? Answer only with yes or no.

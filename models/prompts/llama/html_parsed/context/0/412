@@ -1,0 +1,2692 @@
+The following text is the html file of a webpage. <html class="no-app no-touch" id="html" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Order history | UNIQLO</title>
+<meta content="Order history | UNIQLO" name="title"/>
+<meta content="My UNIQLO order history. Select from a variety of LifeWear, clothing for women, men and kids for any occasion." name="description"/>
+<meta content="" name="keywords"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<link href="https://www.uniqlo.com/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/default/dwec191123/images/favicon.ico" rel="shortcut icon"/>
+<iframe role="presentation" src="javascript:void(0)" style="width: 0px; height: 0px; border: 0px; display: none;" title=""></iframe>
+
+
+
+<meta content="QAyIl_XdHRYdplSJaoZm2weg1AHXRw8gZFa9dh6wzCA" name="google-site-verification"/>
+<meta content="E565B8CBC2CAC10EFBC3F83C34B043E0" name="msvalidate.01"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+
+<link href="https://www.uniqlo.com/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/common.css" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/algolia.override.css" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/myAccount.css" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/myAccount-md.css" media="(min-width: 1024px)" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/footer.css" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/footer-s.css" media="(min-width: 768px)" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/footer-md.css" media="(min-width: 1024px)" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/header.css" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/header-xs.css" media="(min-width: 480px)" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/header-s.css" media="(min-width: 768px)" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/header-md.css" media="(min-width: 1024px)" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/splide.css" rel="stylesheet"/>
+<link href="/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/css/splide-lg.css" media="(min-width: 1440px)" rel="stylesheet"/>
+</head><iframe style="width: 0px; height: 0px; display: none;"></iframe>
+<body class="myAccount" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" data-pagetype="orderhistory" itemscope="" itemtype="">
+<header class="header header--spaceBottom@md header--noSpaceBottom js-header" data-countrycode="PT" data-pagetype="">
+<div class="header__row">
+<div class="header__item header__item--logo logo">
+<a class="logo__link" href="https://www.uniqlo.com/eu/en_PT/home" rel="index">
+<img alt="ユニクロ UNIQLO" class="logo__image" src="https://www.uniqlo.com/on/demandware.static/Sites-EU-Site/-/default/dw2212c65a/images/logo.svg"/>
+</a>
+</div>
+<nav class="navMenu header__item header__item--nav" id="navMenu">
+<div class="navMenu__backdrop js-navMenuBackdrop uqHide uqShow@md"></div>
+<ul class="navMenu__list navMenu__list--main">
+<!-- EUEN -->
+
+<!-- <li class="navMenu__listItem navMenu__listItem--main" id="navMenu__special">
+        <a
+            style="color: red"
+            href="https://www.uniqlo.com/eu/en_PT/women/featured/limited-offers"
+            class="navMenu__mainLink navMenu__mobileToggle"
+            data-category="hamburger"
+            data-action="promo menu"
+            data-label="Holiday Offers"
+            >Holiday Offers</a
+        >
+    </li> -->
+<li class="navMenu__listItem navMenu__listItem--main" id="navMenu__special">
+<a class="navMenu__mainLink navMenu__mobileToggle" data-action="promo menu" data-category="hamburger" data-label="Arigato Festival" href="https://www.uniqlo.com/eu/en_PT/women/featured/limited-offers">ARIGATO FESTIVAL OFFERS | LAST CHANCE
+        </a>
+</li>
+<!-- WOMEN -->
+<li class="navMenu__listItem navMenu__listItem--main">
+<a class="js_navMenuCategory navMenu__mainLink navMenu__mobileToggle" href="https://www.uniqlo.com/eu/en_PT/women">Women</a>
+<ul class="navMenu__list navMenu__list--collapseMobile navMenu__flyout@md">
+<!--Section 1 W Shop by collection-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col1">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="1">
+                    Shop by Collection
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="1">
+<li class="navMenu__listItem uqHide@md">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="All Womenswear" href="https://www.uniqlo.com/eu/en_PT/women">All Womenswear</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="New Arrivals" href="https://www.uniqlo.com/eu/en_PT/women/featured/new-arrivals">New Arrivals
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="Best Sellers" href="https://www.uniqlo.com/eu/en_PT/women/featured/best-sellers">Best Sellers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Summer 2024 Collection" href="https://www.uniqlo.com/eu/en_PT/women/featured/spring-resort-collection">Spring/Summer collection</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Sport Utility Wear" href="https://www.uniqlo.com/eu/en_PT/women/featured/activewear">Sport Utility Wear</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Bra Tops Featured" href="https://www.uniqlo.com/eu/en_PT/women/featured/bra-tops-bra-dresses">Bra Tops: Built-In Support
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="New" data-label="UT Graphic T-Shirts" href="https://www.uniqlo.com/eu/en_PT/content/ut-graphic-print-t-shirts.html">UT Graphic T-Shirts
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="AIRism Comfort Conditioning Technology" href="https://www.uniqlo.com/eu/en_PT/women/featured/airism">AIRism Comfort Conditioning Technology</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="AirSense Jackets &amp; Trousers" href="https://www.uniqlo.com/eu/en_PT/women/featured/comfort-smartwear/airsense">AirSense Jackets &amp; Trousers</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="The New Workplace Uniform" href="https://www.uniqlo.com/eu/en_PT/women/featured/comfort-smartwear">Spring Workwear</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="The Luxury of Linen" href="https://www.uniqlo.com/eu/en_PT/women/featured/linen">The Luxury of Linen
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="UV Protection Clothing" href="https://www.uniqlo.com/eu/en_PT/women/featured/uv-cut-collection">UV Protection Clothing</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Ultra Light Down Coats, Jackets &amp; Vests" href="https://www.uniqlo.com/eu/en_PT/women/outerwear/coats-jackets/ultra-light-down-coats-jackets-vests">Lightweight Down &amp; Padded Jackets</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="HEATTECH Collection" href="https://www.uniqlo.com/eu/en_PT/women/innerwear-and-loungewear/innerwear">HEATTECH Thermals</a>
+</li>
+<!-- 
+                    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/outerwear/down-coats-jackets-vests"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Down Outerwear"
+                            >Down Outerwear
+                        </a>
+                    </li>
+    
+                        
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/fleece-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Fleece Collection"
+                            >Fashion-Forward Fleece</a
+                        >
+                    </li>
+    
+                                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/cashmere"
+                            class="navMenu__link"
+                            data-flag="Select items on sale"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Cashmere Collection"
+                            >Cashmere: Day-to-Day Luxury
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/flannel-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Flannel Collection"
+                            >Soft & Cosy Flannel</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/turtleneck-mock-neck"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Turtleneck Collection"
+                            >Timeless Turtlenecks</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/corduroy-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Corduroy Collection"
+                            >Corduroy: Velvety & Vintage</a
+                        >
+                    </li>				
+                        
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/holiday-gifts-guide.html"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Holiday Gift Guide"
+                            >Holiday Gift Guide
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/gifts-for-her"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Gifts for Her"
+                            >Gifts for Her
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/autumn-winter-clothing"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Autumn 2023 Collection"
+                            >Winter Collection
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/back-to-school-women.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Student Wardrobe Essentials"
+                            >Student Wardrobe Essentials</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/summer-holiday-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Summer Holiday Collection"
+                            >Summer Holiday Collection
+                        </a>
+                    </li>
+    
+                    
+    
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/coordinates-matching-sets"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Mix & Match Sets & Co-Ords"
+                            >Mix & Match Sets & Co-Ords
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/innerwear.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Next Generation Underwear"
+                            >Next Generation Underwear</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/content/genderless.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Genderless Styling Inspiration"
+                            >Genderless Styling Inspiration</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/knitwear/jumpers-cardigans/3d-seamless-knit"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="3D Knit: A New Dimension In Knitwear"
+                            >3D Knit: A New Dimension In Knitwear</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/sustainable-wardrobe"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Your Sustainable Wardrobe"
+                            >Your Sustainable Wardrobe</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/cashmere"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Cashmere Collection"
+                            >Cashmere</a
+                        >
+                    </li> -->
+</ul>
+</li>
+<!--Section 2 W Shop by Category-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col2">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="2">
+                    Shop by Category
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="2">
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="T-Shirts &amp; Tops" href="https://www.uniqlo.com/eu/en_PT/women/tops/t-shirts-polo-shirts">T-Shirts &amp; Tops</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Bra Tops, Tank Tops &amp; Camisoles" href="https://www.uniqlo.com/eu/en_PT/women/tops/tank-tops-camisoles">Bra Tops, Tank Tops &amp; Camisoles</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Jeans" href="https://www.uniqlo.com/eu/en_PT/women/bottoms/jeans">Jeans</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-label="Trousers, Leggings &amp; Joggers" href="https://www.uniqlo.com/eu/en_PT/women/bottoms/trousers-leggings-sweatpants">Trousers, Leggings &amp; Joggers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Sweatshirts, Hoodies &amp; Joggers" href="https://www.uniqlo.com/eu/en_PT/women/tops/sweatshirts-hoodies">Sweatshirts, Hoodies &amp; Joggers</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-label="Shirts &amp; Blouses" href="https://www.uniqlo.com/eu/en_PT/women/tops/shirts-blouses">Shirts &amp; Blouses
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="Dresses, Jumpsuits &amp; Rompers" href="https://www.uniqlo.com/eu/en_PT/women/tops/dresses-jumpsuits">Dresses, Jumpsuits &amp; Rompers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Coats, Jackets, Parkas &amp; Vests" href="https://www.uniqlo.com/eu/en_PT/women/outerwear/coats-jackets">Coats, Jackets, Parkas &amp; Vests</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Accessories &amp; Shoes" href="https://www.uniqlo.com/eu/en_PT/women/accessories/accessories-shoes">Accessories &amp; Bags</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Shorts" href="https://www.uniqlo.com/eu/en_PT/women/bottoms/shorts">Shorts</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Skirts" href="https://www.uniqlo.com/eu/en_PT/women/bottoms/skirts">Skirts</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-flag="2 FOR 12.90 €" data-label="Bras &amp; Underwear" href="https://www.uniqlo.com/eu/en_PT/women/innerwear-and-loungewear/bras-and-underwear">
+<span>Bras &amp; Underwear</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Knitted Jumpers &amp; Cardigans" href="https://www.uniqlo.com/eu/en_PT/women/knitwear/jumpers-cardigans">Knitted Jumpers &amp; Cardigans</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Loungewear &amp; Pyjamas" href="https://www.uniqlo.com/eu/en_PT/women/innerwear-and-loungewear/loungewear-pyjamas">Loungewear &amp; Pyjamas</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Socks &amp; Tights" href="https://www.uniqlo.com/eu/en_PT/women/innerwear-and-loungewear/socks-tights-leggings">Socks &amp; Tights</a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/fleece-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Fleece"
+                            >Fleece</a
+                        >
+                    </li>
+    
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/bottoms/maternity"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Maternity"
+                            >Maternity
+                        </a>
+                    </li>
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/homeware"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Homeware"
+                            >Homeware</a
+                        >
+                    </li> -->
+</ul>
+</li>
+<!--Section 3 W Featured-->
+<li class="navMenu__listItem navMenu__listItem--col3">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="3">
+                    Featured
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="3">
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-flag="LAST CHANCE" data-label="Limited Offers + Sale" href="https://www.uniqlo.com/eu/en_PT/women/featured/limited-offers" style="color: red">Sale &amp; Limited Offers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="UNTIL 2ND JUNE" data-label="Arigato Festival" href="https://www.uniqlo.com/eu/en_PT/content/arigato.html">What is Arigato Festival?
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-flag="" data-label="Coming Soon" href="https://www.uniqlo.com/eu/en_PT/women/featured/coming-soon">Coming Soon
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="WHILE STOCKS LAST" data-label="Last Chance to Buy" href="https://www.uniqlo.com/eu/en_PT/women/featured/last-chance-to-buy">Last Chance to Buy
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-flag="From 12,90 €" data-label="Multibuy Offers" href="https://www.uniqlo.com/eu/en_PT/women/featured/multibuy-offers">Multibuy Offers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="Extended Sizes" href="https://www.uniqlo.com/eu/en_PT/content/extended-sizes.html">Extended Sizes (XXS - 3XL)
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="NEW LINES ADDED" data-label="Matching Family Outfits" href="https://www.uniqlo.com/eu/en_PT/collection/matching-family-outfits">Matching Family Sets
+                        </a>
+</li>
+<!-- < class="navMenu__listItem">
+                        <a
+                            style="color: red"
+                            href="https://www.uniqlo.com/eu/en_PT/women/featured/limited-offers"
+                            class="navMenu__link blueflag"
+                            data-flag="ending 25th December   "
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Limited Offers + Sale"
+                            >Holiday Offers
+                        </a>
+                    </li>
+    
+                     -->
+</ul>
+</li>
+<!--Section 4 W Collaborations-->
+<li class="navMenu__listItem navMenu__listItem--col3">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="4">
+                    Collaborations
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="4">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="View All Designers" href="https://www.uniqlo.com/eu/en_PT/collaborations"><span>View All Designers</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="NEW" data-label="Find Your TREASURE" href="https://www.uniqlo.com/eu/en_PT/women/featured/ut-graphic-print-collections/find-your-treasure">Find Your TREASURE</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="3rd June" data-label="SOC" href="https://www.uniqlo.com/eu/en_PT/collaborations/uniqlo-x-sweden-athlete-collection">UNIQLO × SWEDEN ATHLETE COLLECTION</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="NEW" data-label="UNIQLO x Marimekko" href="https://www.uniqlo.com/eu/en_PT/collaborations/women/marimekko">UNIQLO x Marimekko</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="UNIQLO and JW ANDERSON" href="https://www.uniqlo.com/eu/en_PT/collaborations/women/jw-anderson">UNIQLO and JW ANDERSON</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="NEW LINES ADDED" data-label="Comptoir des Cotonniers" href="https://www.uniqlo.com/eu/en_PT/collaborations/women/comptoir-des-cotonniers"><span>Comptoir des Cotonniers</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="NEW LINES ADDED" data-label="Princesse tam tam" href="https://www.uniqlo.com/eu/en_PT/collaborations/women/princesse-tam-tam"><span>Princesse tam tam</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-flag="SALE" data-label="Ines de la Fressange" href="https://www.uniqlo.com/eu/en_PT/collaborations/women/ines-de-la-fressange">Ines de la Fressange
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="Hello Kitty 50th Anniversary" href="https://www.uniqlo.com/eu/en_PT/women/featured/ut-graphic-print-collections/hello-kitty">Hello Kitty 50th Anniversary
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-flag="Select items on sale" data-label="Uniqlo U" href="https://www.uniqlo.com/eu/en_PT/collaborations/women/uniqlo-u"><span>Uniqlo U</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="24th June" data-label="UTGP 2024" href="https://www.uniqlo.com/eu/en/contents/feature/utgp/2024/">UTGP2024: The Louvre
+                        </a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/collaborations/white-mountaineering"
+                            class="navMenu__link blueflag"
+                            data-flag="New"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="White Mountaineering"
+                            ><span>White Mountaineering</span></a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/collaborations/women/uniqlo-x-anya-hindmarch"
+                            class="navMenu__link blueflag"
+                            data-flag="New"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="UNIQLO x ANYA HINDMARCH"
+                            ><span>UNIQLO x ANYA HINDMARCH</span></a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/ut-graphic-print-collections/hokusai"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Hokusai Remixed"
+                            ><span>Hokusai Remixed</span></a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/collaborations/women/mame-kurogouchi"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Mame Kurogouchi Fw23"
+                            ><span>Uniqlo and Mame Kurogouchi</span></a
+                        >
+                    </li>
+    
+    
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/collaborations/women/mame-kurogouchi"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Mame Kurogouchi"
+                            ><span>Mame Kurogouchi</span></a
+                        >
+                    </li>
+    
+                    -->
+</ul>
+</li>
+<!--Section 5 W Discover LifeWear-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col4">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="5">
+                    DISCOVER LIFEWEAR
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="5">
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="UNIQLO Today Blog" href="https://www.uniqlo.com/eu/en/news/">UNIQLO Today Blog</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="READ NOW" data-label="LifeWear Magazine" href="https://www.uniqlo.com/eu/en/contents/lifewear-magazine/">LifeWear Magazine
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="LifeWear Spring/Summer" href="https://www.uniqlo.com/eu/en/contents/feature/lifewear-collection/">LifeWear Spring/Summer
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="Masterpiece" href="https://www.uniqlo.com/masterpiece/eu/en/">Masterpiece
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="GET 10 € OFF*" data-label="Newsletter" href="https://www.uniqlo.com/eu/en/newsletter">Newsletter
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Store Locator" href="https://www.uniqlo.com/eu/en_PT/content/store-locator.html">Store Locator</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="Gift Cards" href="https://www.uniqlo.com/eu/en_PT/content/gift-card.html">Gift Cards
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Roger Federer" href="https://www.uniqlo.com/eu/en/contents/feature/RogerFederer/">What’s Next, Roger?</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Sustainability" href="https://www.uniqlo.com/eu/en_PT/content/sustainability-home.html">Sustainability</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="women" data-category="hamburger" data-label="Ambassadors" href="https://www.uniqlo.com/jp/en/contents/ambassador/">Ambassadors</a>
+</li>
+<!--
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/content/live-station.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Live Station"
+                            >Live Station</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.stylehint.com/se/en"
+                            target="_blank"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="StyleHint"
+                            >StyleHint</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/app.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="APP Benefits"
+                            >APP Members Benefits</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/content/product-review-description.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Product review"
+                            >Try Products For Free</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/pages/online-store-guide/"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Online Shopping Guide"
+                            >Online Shopping Guide</a
+                        >
+                    </li> -->
+</ul>
+</li>
+
+<!-- Section 6 - Mobile Only Additional Navigation -->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5" id="navMenu-new-arrivals">
+<h3 class="navMenu__headline navMenu__headline--caps">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="" data-label="New Arrivals tab" href="https://www.uniqlo.com/eu/en_PT/women/featured/new-arrivals">New Arrivals
+                    </a>
+</h3>
+</li>
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5" id="navMenu-sale">
+<h3 class="navMenu__headline navMenu__headline--caps">
+<a class="navMenu__link blueflag" data-action="women" data-category="hamburger" data-flag="LAST CHANCE" data-label="Sale tab" href="https://www.uniqlo.com/eu/en_PT/women/featured/limited-offers">Sale &amp; Limited Offers</a>
+</h3>
+</li>
+</ul>
+</li>
+<!-- MEN -->
+<li class="navMenu__listItem navMenu__listItem--main">
+<a class="js_navMenuCategory navMenu__mainLink navMenu__mobileToggle" href="https://www.uniqlo.com/eu/en_PT/men">Men</a>
+<ul class="navMenu__list navMenu__list--collapseMobile navMenu__flyout@md">
+<!--Section 1 M Shop by collection-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col1">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="6">
+                    Shop by Collection
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="6">
+<li class="navMenu__listItem uqHide@md">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="All Menswear" href="https://www.uniqlo.com/eu/en_PT/men">All Menswear</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="New Arrivals" href="https://www.uniqlo.com/eu/en_PT/men/featured/new-arrivals">New Arrivals
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="Best Sellers" href="https://www.uniqlo.com/eu/en_PT/men/featured/best-sellers">Best Sellers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Summer 2024 Collection" href="https://www.uniqlo.com/eu/en_PT/men/featured/spring-resort-collection">Spring/Summer collection</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Sport Utility Wear" href="https://www.uniqlo.com/eu/en_PT/men/featured/activewear">Sport Utility Wear</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="New" data-label="UT Graphic T-Shirts" href="https://www.uniqlo.com/eu/en_PT/content/ut-graphic-print-t-shirts.html">UT Graphic T-Shirts
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="AIRism Comfort Conditioning Technology" href="https://www.uniqlo.com/eu/en_PT/men/featured/airism">AIRism Comfort Conditioning Technology</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-flag="" data-label="AirSense Jackets &amp; Trousers" href="https://www.uniqlo.com/eu/en_PT/men/featured/comfort-smartwear-/airsense">AirSense Jackets &amp; Trousers</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="The New Workplace Uniform" href="https://www.uniqlo.com/eu/en_PT/men/featured/comfort-smartwear-">Spring Workwear</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="The Luxury of Linen" href="https://www.uniqlo.com/eu/en_PT/men/featured/linen">The Luxury of Linen
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="UV Protection Clothing" href="https://www.uniqlo.com/eu/en_PT/men/featured/uv-cut-collection">UV Protection Clothing</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Ultra Light Down Coats, Jackets &amp; Vests" href="https://www.uniqlo.com/eu/en_PT/men/outerwear/coats-jackets/ultra-light-down-coats-jackets-vests">Lightweight Down &amp; Padded Jackets</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="HEATTECH Collection" href="https://www.uniqlo.com/eu/en_PT/men/innerwear-loungewear/innerwear">HEATTECH Thermals</a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/outerwear/down-coats-jackets-vests"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Down Outerwear"
+                            >Down Outerwear
+                        </a>
+                    </li>
+    
+                    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/fleece-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Fleece Collection"
+                            >Fashion-Forward Fleece</a
+                        >
+                    </li>
+    
+                                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/cashmere"
+                            class="navMenu__link"
+                            data-flag="Select items on sale"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Cashmere Collection"
+                            >Cashmere: Day-to-Day Luxury
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/flannel-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Flannel Collection"
+                            >Soft & Cosy Flannel</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/turtleneck-mock-neck"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Turtleneck Collection"
+                            >Timeless Turtlenecks</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/corduroy-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Corduroy Collection"
+                            >Corduroy: Velvety & Vintage</a
+                        >
+                    </li>
+                        
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/holiday-gifts-guide.html"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Holiday Gift Guide"
+                            >Holiday Gift Guide
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/gifts-for-him"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Gifts for him"
+                            >Gifts for Him
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/autumn-winter-clothing"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Autumn 2023 Collection"
+                            >Winter Collection
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/back-to-school-men.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Student Wardrobe Essentials"
+                            >Student Wardrobe Essentials</a
+                        >
+                    </li>
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/summer-holiday-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Summer Holiday Collection"
+                            >Summer Holiday Collection
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/coordinates-matching-sets"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Mix & Match Sets & Co-Ords"
+                            >Mix & Match Sets & Co-Ords
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/knitwear/jumpers-cardigans/3d-seamless-knit"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="3D Knit: A New Dimension In Knitwear"
+                            >3D Knit: A New Dimension In Knitwear</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/sustainable-wardrobe"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Your Sustainable Wardrobe"
+                            >Your Sustainable Wardrobe</a
+                        >
+                    </li> -->
+</ul>
+</li>
+<!--Section 2-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col2">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="7">
+                    Shop by Category
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="7">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="T-Shirts &amp; Tops" href="https://www.uniqlo.com/eu/en_PT/men/tops/t-shirts-tops">T-Shirts &amp; Tops
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Polo Shirts" href="https://www.uniqlo.com/eu/en_PT/men/tops/polo-shirts">Polo Shirts</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Jeans" href="https://www.uniqlo.com/eu/en_PT/men/bottoms/jeans">Jeans</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Trousers, Chinos &amp; Joggers" href="https://www.uniqlo.com/eu/en_PT/men/bottoms/trousers-chinos-sweatpants">Trousers, Chinos &amp; Joggers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Sweatshirts, Hoodies &amp; Joggers" href="https://www.uniqlo.com/eu/en_PT/men/tops/sweatshirts-hoodies">Sweatshirts, Hoodies &amp; Joggers</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Shirts" href="https://www.uniqlo.com/eu/en_PT/men/tops/shirts">Shirts</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Shorts" href="https://www.uniqlo.com/eu/en_PT/men/bottoms/shorts">Shorts</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Accessories &amp; Shoes" href="https://www.uniqlo.com/eu/en_PT/men/accessories/accessories-shoes">Accessories &amp; Bags</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-flag="" data-label="Coats, Jackets, Parkas &amp; Vests" href="https://www.uniqlo.com/eu/en_PT/men/outerwear/coats-jackets">Coats, Jackets, Parkas &amp; Vests</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Overshirts" href="https://www.uniqlo.com/eu/en_PT/men/outerwear/coats-jackets/overshirts">Overshirts</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Knitted Jumpers &amp; Cardigans" href="https://www.uniqlo.com/eu/en_PT/men/knitwear/jumpers-cardigans">Knitted Jumpers &amp; Cardigans</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-flag="2 for 12.90 €" data-label="Underwear" href="https://www.uniqlo.com/eu/en_PT/men/innerwear-loungewear/underwear">
+<span>Underwear</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Loungewear &amp; Pyjamas" href="https://www.uniqlo.com/eu/en_PT/men/innerwear-loungewear/loungewear-pyjamas">Loungewear &amp; Pyjamas</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-flag="3 for 12.90 €" data-label="Socks" href="https://www.uniqlo.com/eu/en_PT/men/innerwear-loungewear/socks">
+<span>Socks</span></a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem ">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/fleece-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Fleece"
+                            >Fleece</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/coordinates-matching-sets/suits"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Suits"
+                            >Suits</a
+                        >
+                    </li>
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/tops/shirts/casual-shirts"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Casual Shirts"
+                            >Casual Shirts</a
+                        >
+                    </li>
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/tops/shirts/smart-shirts"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Smart Shirts"
+                            >Smart Shirts</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/homeware"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Homeware"
+                            >Homeware</a
+                        >
+                    </li> -->
+</ul>
+</li>
+<!--Section 3-->
+<li class="navMenu__listItem navMenu__listItem--col3">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="8">
+                    Featured
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="8">
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-flag="LAST CHANCE" data-label="Limited Offers + Sale" href="https://www.uniqlo.com/eu/en_PT/men/featured/limited-offers" style="color: red">Sale &amp; Limited Offers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="UNTIL 2ND JUNE" data-label="Arigato Festival" href="https://www.uniqlo.com/eu/en_PT/content/arigato.html">What is Arigato Festival?
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="Coming Soon" href="https://www.uniqlo.com/eu/en_PT/men/featured/coming-soon">Coming Soon
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="WHILE STOCKS LAST" data-label="Last Chance to Buy" href="https://www.uniqlo.com/eu/en_PT/men/featured/last-chance-to-buy">Last Chance to Buy
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-flag="From 12,90 €" data-label="Multibuy Offers" href="https://www.uniqlo.com/eu/en_PT/men/featured/multibuy-offers">Multibuy Offers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="Extended Sizes" href="https://www.uniqlo.com/eu/en_PT/content/extended-sizes.html">Extended Sizes (XXS - 3XL)
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW LINES ADDED" data-label="Matching Family Outfits" href="https://www.uniqlo.com/eu/en_PT/collection/matching-family-outfits">Matching Family Sets
+                        </a>
+</li>
+<!-- 
+    
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            style="color: red"
+                            href="https://www.uniqlo.com/eu/en_PT/men/featured/limited-offers"
+                            class="navMenu__link blueflag"
+                            data-flag="ending 25th December   "
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Limited Offers + Sale"
+                            >Holiday Offers
+                        </a>
+                    </li>
+    
+    -->
+</ul>
+</li>
+<!--Section 4-->
+<li class="navMenu__listItem navMenu__listItem--col3">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="9">
+                    Collaborations
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="9">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="View All Designers" href="https://www.uniqlo.com/eu/en_PT/collaborations"><span>View All Designers</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW" data-label="HAIKYU" href="https://www.uniqlo.com/eu/en_PT/men/featured/ut-graphic-print-collections/haikyu-movie">HAIKYU‼
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="3rd June" data-label="SOC" href="https://www.uniqlo.com/eu/en_PT/collaborations/uniqlo-x-sweden-athlete-collection">UNIQLO × SWEDEN ATHLETE COLLECTION</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW" data-label="Edo Era Animals" href="https://www.uniqlo.com/eu/en_PT/men/featured/ut-graphic-print-collections/edo-era-animals">Edo Era Animals</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW" data-label="Kaiju No. 8" href="https://www.uniqlo.com/eu/en_PT/men/featured/ut-graphic-print-collections/kaiju-no-8">Kaiju No. 8
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW" data-label="Roger Federer by JW ANDERSON" href="https://www.uniqlo.com/eu/en_PT/collaborations/roger-federer-by-jw-anderson">Roger Federer by JW ANDERSON</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="NEW" data-label="Adam Scott" href="https://www.uniqlo.com/eu/en_PT/men/featured/activewear/adam-scott">Adam Scott</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="The Legend of Zelda: Tears of the Kingdom" href="https://www.uniqlo.com/eu/en_PT/men/featured/ut-graphic-print-collections/the-legend-of-zelda">The Legend of Zelda: Tears of the Kingdom
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="PEACE FOR ALL" href="https://www.uniqlo.com/eu/en_PT/men/featured/peace-for-all"><span>PEACE FOR ALL</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="24th June" data-label="UTGP 2024" href="https://www.uniqlo.com/eu/en/contents/feature/utgp/2024/">UTGP2024: The Louvre
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="17th June" data-label="Final Fantasy" href="https://www.uniqlo.com/eu/en_PT/men/featured/ut-graphic-print-collections/final-fantasy">Final Fantasy
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-flag="Select items on sale" data-label="Uniqlo U" href="https://www.uniqlo.com/eu/en_PT/collaborations/men/uniqlo-u"><span>Uniqlo U</span></a>
+</li>
+</ul>
+</li>
+<!--Section 5-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col4">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="10">
+                    DISCOVER LIFEWEAR
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="10">
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="UNIQLO Today Blog" href="https://www.uniqlo.com/eu/en/news/">UNIQLO Today Blog</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="READ NOW" data-label="LifeWear Magazine" href="https://www.uniqlo.com/eu/en/contents/lifewear-magazine/">LifeWear Magazine
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="GET 10 € OFF*" data-label="Newsletter" href="https://www.uniqlo.com/eu/en/newsletter">Newsletter
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Store Locator" href="https://www.uniqlo.com/eu/en_PT/content/store-locator.html">Store Locator</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="Gift Cards" href="https://www.uniqlo.com/eu/en_PT/content/gift-card.html">Gift Cards
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Roger Federer" href="https://www.uniqlo.com/eu/en/contents/feature/RogerFederer/">What’s Next, Roger?</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="LifeWear Spring/Summer" href="https://www.uniqlo.com/eu/en/contents/feature/lifewear-collection/">LifeWear Spring/Summer
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="Masterpiece" href="https://www.uniqlo.com/masterpiece/eu/en/">Masterpiece
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Sustainability" href="https://www.uniqlo.com/eu/en_PT/content/sustainability-home.html">Sustainability</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="men" data-category="hamburger" data-label="Ambassadors" href="https://www.uniqlo.com/jp/en/contents/ambassador/">Ambassadors</a>
+</li>
+<!-- <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/content/live-station.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Live Station"
+                            >Live Station</a
+                        >
+                    </li>
+    
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/pages/online-store-guide/"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="women"
+                            data-label="Online Shopping Guide"
+                            >Online Shopping Guide</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/content/product-review-description.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="men"
+                            data-label="Product review"
+                            >Try Products For Free</a
+                        >
+                    </li> -->
+</ul>
+</li>
+
+<!-- Section 6 - Mobile Only Additional Navigation -->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5" id="navMenu-new-arrivals">
+<h3 class="navMenu__headline navMenu__headline--caps">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="" data-label="New Arrivals tab" href="https://www.uniqlo.com/eu/en_PT/men/featured/new-arrivals">New Arrivals
+                    </a>
+</h3>
+</li>
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5" id="navMenu-sale">
+<h3 class="navMenu__headline navMenu__headline--caps">
+<a class="navMenu__link blueflag" data-action="men" data-category="hamburger" data-flag="LAST CHANCE" data-label="Sale tab" href="https://www.uniqlo.com/eu/en_PT/men/featured/limited-offers">Sale &amp; Limited Offers</a>
+</h3>
+</li>
+</ul>
+</li>
+<!-- KIDS -->
+<li class="navMenu__listItem navMenu__listItem--main">
+<a class="js_navMenuCategory navMenu__mainLink navMenu__mobileToggle" href="https://www.uniqlo.com/eu/en_PT/kids">Kids</a>
+<ul class="navMenu__list navMenu__list--collapseMobile navMenu__flyout@md">
+<!--Section 1-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col1">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="11">
+                    Shop by Collection
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="11">
+<li class="navMenu__listItem uqHide@md">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="All Kids" href="https://www.uniqlo.com/eu/en_PT/kids">All Kids</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-label="Best Sellers" href="https://www.uniqlo.com/eu/en_PT/kids/featured/best-sellers">Best Sellers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="New Arrivals" href="https://www.uniqlo.com/eu/en_PT/kids/featured/new-arrivals">New Arrivals
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="Summer 2024 Collection" href="https://www.uniqlo.com/eu/en_PT/kids/featured/spring-resort-collection">Spring/Summer collection</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Wearable Sunscreen" href="https://www.uniqlo.com/eu/en_PT/kids/featured/uv-cut-collection">UV Protection Clothing</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="AIRism Comfort Conditioning Technology" href="https://www.uniqlo.com/eu/en_PT/kids/featured/airism">AIRism Comfort Conditioning Technology
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="Sport Utility Wear" href="https://www.uniqlo.com/eu/en_PT/kids/featured/activewear">Sport Utility Wear</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="The Luxury of Linen" href="https://www.uniqlo.com/eu/en_PT/kids/featured/linen">The Luxury of Linen
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="NEW" data-label="UT" href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections">UT Graphic T-Shirts
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Matching Family Outfits" href="https://www.uniqlo.com/eu/en_PT/collection/matching-family-outfits">Matching Family Sets
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="NEW LINES ADDED" data-label="Matching Sets &amp; Co-ords" href="https://www.uniqlo.com/eu/en_PT/kids/featured/coordinates-matching-sets">Mix &amp; Match Sets &amp; Co-Ords
+                        </a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/innerwear"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="HEATTECH Thermals"
+                            >HEATTECH Thermals</a
+                        >
+                    </li>
+    
+                    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/kids.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Designed with Kids in Mind"
+                            >Approved By Kids</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/corduroy-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Corduroy Collection"
+                            >Corduroy: Velvety & Vintage</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/autumn-winter-clothing"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Autumn 2023 Collection"
+                            >Winter Collection
+                        </a>
+                    </li>
+                    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/summer-holiday-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Summer Holiday Collection"
+                            >Summer Holiday Collection
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/collection/uniform-blue"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Uniform Blue"
+                            >Uniform Blue
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/content/back-to-school.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Back to School"
+                            >Back to School</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/sustainable-wardrobe"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Your Sustainable Wardrobe"
+                            >Your Sustainable Wardrobe</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/dry-ex"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="DRY-EX: Ultra-Quick Drying Activewear"
+                            >DRY-EX: Ultra-Quick Drying Activewear</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/search?cgid=IDkf-summer-holiday-collection%27"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Summer Holiday Collection	"
+                            >Summer Holiday Collection
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/gifts-for-kids"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Gifts for Kids"
+                            >Gifts for Kids</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/holiday-gifts-guide.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Holiday Gift Guide"
+                            >Holiday Gift Guide</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/gifts-for-kids"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Gifts for kids"
+                            >Gifts for Kids
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/flannel-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Soft & Cosy Flannel"
+                            >Soft & Cosy Flannel
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/back-to-school.html"
+                            class="navMenu__link blueflag"
+                            data-flag="NEW"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Back to School"
+                            >Back to School
+                        </a>
+                    </li> 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/coats-jackets-parkas-vests/down-outerwear"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Down Outerwear"
+                            >Down Outerwear
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/fleece-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Fashion-Forward Fleece"
+                            >Fashion-Forward Fleece
+                        </a>
+                    </li>
+                
+                
+                -->
+</ul>
+</li>
+<!--Section 2 K-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col2">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="12">
+                    Shop by Category (Age 3+)
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="12">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Dresses &amp; Jumpsuits" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/dresses">Dresses &amp; Jumpsuits</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="T-Shirts, Tops &amp; Shirts" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/t-shirts-tops-shirts">T-Shirts, Bra Tops &amp; Polo Shirts
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Skirts &amp; Shorts" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/skirts-shorts">Skirts &amp; Shorts
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Trousers" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/trousers-leggings-joggers">Trousers, Joggers &amp; Leggings
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="Jeans" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/trousers-leggings-joggers/jeans">Jeans</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="Sweatshirts" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/sweatshirts-hoodies-knitwear">Sweatshirts, Hoodies &amp; Joggers</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Coats" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/coats-jackets-parkas-vests">Coats, Jackets, Parkas &amp; Vests</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-flag="" data-label="Jumpers &amp; Cardigans" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/jumpers-cardigans">Knitted Jumpers &amp; Cardigans
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Loungewear" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/loungewear-pyjamas">Pyjamas
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-flag="3 for 9,90 €" data-label="Bras &amp; Underwear" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/bras-underwear">Bras &amp; Underwear</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-flag="3 for 7,90 €" data-label="Socks &amp; tights" href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/socks-tights">Socks &amp; Tights</a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/accessories"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Accessories"
+                            >Accessories</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/toys"
+                            data-flag="Sale"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Toys"
+                            >Toys</a
+                        >
+                    </li>
+                        
+                        <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/girls-and-boys/t-shirts-tops-shirts/shirts-blouses"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Shirts & Blouses"
+                            >Shirts</a
+                        >
+                    </li> 
+                -->
+</ul>
+</li>
+<!--Section 3-->
+<li class="navMenu__listItem navMenu__listItem--col3">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="13">
+                    Featured
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="13">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="LAST CHANCE" data-label="Limited Offers + Sale" href="https://www.uniqlo.com/eu/en_PT/kids/featured/limited-offers" style="color: red">Sale &amp; Limited Offers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="UNTIL 2ND JUNE" data-label="Arigato Festival" href="https://www.uniqlo.com/eu/en_PT/content/arigato.html">What is Arigato Festival?
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="BE THE FIRST TO SHOP" data-label="Coming Soon" href="https://www.uniqlo.com/eu/en_PT/kids/featured/coming-soon">Coming Soon
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-flag="From 7,90 €" data-label="Multibuy Offers" href="https://www.uniqlo.com/eu/en_PT/kids/featured/multibuy">Multipack Offers
+                        </a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/advent-calendar-description.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Advent Calendar"
+                            >The UNIQLO Advent Calendar</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            style="color: red"
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/limited-offers"
+                            class="navMenu__link blueflag"
+                            data-flag="ending 25th December"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Limited Offers + Sale"
+                            >Holiday Offers
+                        </a>
+                    </li> -->
+</ul>
+</li>
+<!--Section 4-->
+<li class="navMenu__listItem navMenu__listItem--col3">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="14">
+                    Collaborations
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="14">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Minecraft" href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections/minecraft">Minecraft
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="UNIQLO x Marimekko" href="https://www.uniqlo.com/eu/en_PT/collaborations/kids/marimekko">UNIQLO x Marimekko</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="10th June" data-label="mofusand" href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections/mofusand">mofusand
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Chiikawa x Sanrio" href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections/sanrio">Chiikawa x Sanrio
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Fujiko F. Fujio 90th Anniversary" href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections/fujiko-fujio">Fujiko F. Fujio 90th Anniversary
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="LEGO Classic" href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections/lego">LEGO® Collection
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="Back in stock" data-label="NYC Pop Icons" href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections/warhol-basquiat-keith"><span>UT Archive NY Pop Art</span></a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Mickey Stands" href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections/mickey-stands-"><span>Mickey Stands</span></a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/ut-graphic-print-collections/pokemon"
+                            class="navMenu__link blueflag"
+                            data-flag="NEW"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Pokémon: A New Adventure"
+                            >Pokémon: A New Adventure
+                        </a>
+                    </li>
+                        
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/collaborations"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Collaborations"
+                            ><span>View All Designers</span></a
+                        >
+                    </li> -->
+</ul>
+</li>
+<!--Section 5 K-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col4">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="15">
+                    DISCOVER LIFEWEAR
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="15">
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="UNIQLO Today Blog" href="https://www.uniqlo.com/eu/en/news/">UNIQLO Today Blog</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="READ NOW" data-label="LifeWear Magazine" href="https://www.uniqlo.com/eu/en/contents/lifewear-magazine/">LifeWear Magazine
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="GET 10 € OFF*" data-label="Newsletter" href="https://www.uniqlo.com/eu/en/newsletter">Newsletter
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="Store Locator" href="https://www.uniqlo.com/eu/en_PT/content/store-locator.html">Store Locator</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Gift Cards" href="https://www.uniqlo.com/eu/en_PT/content/gift-card.html">Gift Cards
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="LifeWear Spring/Summer" href="https://www.uniqlo.com/eu/en/contents/feature/lifewear-collection/">LifeWear Spring/Summer
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="Masterpiece" href="https://www.uniqlo.com/masterpiece/eu/en/">Masterpiece
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="Sustainability" href="https://www.uniqlo.com/eu/en_PT/content/sustainability-home.html">Sustainability</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="kids" data-category="hamburger" data-label="Ambassadors" href="https://www.uniqlo.com/jp/en/contents/ambassador/">Ambassadors</a>
+</li>
+<!-- <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/content/product-review-description.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Product review"
+                            >Try Products For Free</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/pages/online-store-guide/"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="kids"
+                            data-label="Online Shopping Guide"
+                            >Online Shopping Guide</a
+                        >
+                    </li> -->
+</ul>
+</li>
+
+<!-- Section 6 - Mobile Only Additional Navigation -->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5" id="navMenu-new-arrivals">
+<h3 class="navMenu__headline navMenu__headline--caps">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="" data-label="New Arrivals tab" href="https://www.uniqlo.com/eu/en_PT/kids/featured/new-arrivals">New Arrivals
+                    </a>
+</h3>
+</li>
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5" id="navMenu-sale">
+<h3 class="navMenu__headline navMenu__headline--caps">
+<a class="navMenu__link blueflag" data-action="kids" data-category="hamburger" data-flag="LAST CHANCE" data-label="Sale tab" href="https://www.uniqlo.com/eu/en_PT/kids/featured/limited-offers">Sale &amp; Limited Offers</a>
+</h3>
+</li>
+<!-- <li
+                class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5"
+                id="navMenu-spring">
+                <h3 class="navMenu__headline navMenu__headline--caps">
+                    <a
+                        href="https://www.uniqlo.com/eu/en_PT/kids/featured/spring-resort-collection"
+                        class="navMenu__link blueflag"
+                        data-flag=""
+                        data-category="hamburger"
+                        data-action="kids"
+                        data-label="Spring tab"
+                        >Spring 2023 Collection</a
+                    >
+                </h3>
+            </li> -->
+</ul>
+</li>
+<!-- BABY -->
+<li class="navMenu__listItem navMenu__listItem--main">
+<a class="js_navMenuCategory navMenu__mainLink navMenu__mobileToggle" href="https://www.uniqlo.com/eu/en_PT/baby">Baby</a>
+<ul class="navMenu__list navMenu__list--collapseMobile navMenu__flyout@md">
+<!--Section 1-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col1">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="11">
+                    Shop by Collection
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="11">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="New Arrivals" href="https://www.uniqlo.com/eu/en_PT/baby/featured/new-arrivals">New Arrivals
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="Best Sellers" href="https://www.uniqlo.com/eu/en_PT/baby/featured/best-sellers">Best Sellers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="Summer 2024 Collection" href="https://www.uniqlo.com/eu/en_PT/baby/featured/spring-resort-collection">Spring/Summer collection</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="Wearable Sunscreen" href="https://www.uniqlo.com/eu/en_PT/baby/featured/uv-cut-collection">UV Protection Clothing</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="NEW" data-label="UT" href="https://www.uniqlo.com/eu/en_PT/baby/featured/ut-graphic-print-collections">UT Graphic T-Shirts
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="Mix &amp; Match Sets &amp; Co-Ords" href="https://www.uniqlo.com/eu/en_PT/baby/featured/coordinates-matching-sets">Mix &amp; Match Sets &amp; Co-Ords
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="NEW LINES ADDED" data-label="Matching Family Outfits" href="https://www.uniqlo.com/eu/en_PT/collection/matching-family-outfits">Matching Family Sets
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="AIRism Collection" href="https://www.uniqlo.com/eu/en_PT/baby/featured/airism">AIRism Comfort Conditioning Technology</a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/heattech"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="HEATTECH Thermals"
+                            >HEATTECH Thermals</a
+                        >
+                    </li>
+                    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/fleece-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Fashion-Forward Fleece"
+                            >Fashion-Forward Fleece</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/autumn-winter-clothing"
+                            class="navMenu__link blueflag"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Autumn 2023 Collection"
+                            >Winter Collection
+                        </a>
+                    </li>
+                        
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/gifts-for-kids"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="Baby"
+                            data-label="Gifts for Babies"
+                            >Gifts for Babies</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/holiday-gifts-guide.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Holiday Gift Guide"
+                            >Holiday Gift Guide</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/spring-resort-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Spring 2023 Collection"
+                            >Spring 2023 Collection</a
+                        >
+                    </li> 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/back-to-school"
+                            class="navMenu__link blueflag"
+                            data-flag="New"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Back to School"
+                            >Back to School
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/summer-holiday-collection"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Summer Holiday Collection"
+                            class="navMenu__link"
+                            >Summer Holiday Collection
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/sustainable-wardrobe"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Your Sustainable Wardrobe"
+                            >Your Sustainable Wardrobe</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/corduroy-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Corduroy Collection"
+                            >Corduroy: Velvety & Vintage</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/holiday-gifts-guide.html"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Holiday Gift Guide"
+                            >Holiday Gift Guide
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/kids/featured/gifts-for-kids"
+                            class="navMenu__link"
+                            data-flag=""
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Gifts for Baby"
+                            >Gifts for Babies
+                        </a>
+                    </li> -->
+</ul>
+</li>
+<!--Section 2-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col2">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="12">
+                    Shop by Category (0 - 4 Years)
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="12">
+<li class="navMenu__listItem uqHide@md">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="All Baby" href="https://www.uniqlo.com/eu/en_PT/baby">All Baby</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="One-Pieces" href="https://www.uniqlo.com/eu/en_PT/baby/new-born-age-3-24-months/one-pieces-bodysuits">One-Pieces &amp; Bodysuits</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-flag="" data-label="Toddler Dresses" href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/dresses">Dresses
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Toddler Tops" href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/tops-t-shirts">Tops &amp; T-Shirts</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="Toddler Shorts" href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/trousers-leggings/shorts">
+                            Shorts
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="Toddler Trousers" href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/trousers-leggings">
+                            Leggings
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="Toddler Socks" href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/pyjamas-innerwear-socks/socks">
+                            Socks</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="Toddler Pyjamas" href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/pyjamas-innerwear-socks/pyjamas">Pyjamas</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="NEW SUMMER ITEMS" data-label="Toddler Outerwear" href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/outerwear-1">Coats, Jackets &amp; Parkas</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="UV Protection Hats" data-label="Toddler Accessories" href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/accessories">Accessories</a>
+</li>
+<!-- 
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/tops-t-shirts/sweatshirts"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Sweatshirts"
+                            >Sweatshirts & Joggers
+                        </a>
+                    </li>
+                        
+                
+                    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/toys"
+                            data-flag="Sale"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Toddler Toys"
+                            >Toys</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/women/bottoms/maternity"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Maternity"
+                            >Maternity
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/new-born-age-3-24-months/shorts"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Shorts"
+                            >Shorts</a
+                        >
+                    </li>
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/new-born-age-3-24-months/bibs"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Bibs"
+                            >Bibs &amp; Blankets</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/fleece-collection"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Fleece Collection"
+                            >Fleece</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/toddler-age-1-3/tops-t-shirts/cardigans"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Knitted Cardigans"
+                            >Knitted Cardigans</a
+                        >
+                    </li> -->
+</ul>
+</li>
+<!--Section 3-->
+<li class="navMenu__listItem navMenu__listItem--col3" style="grid-row: 1">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="18">
+                    Featured
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="18">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="Limited Offers + Sale" href="https://www.uniqlo.com/eu/en_PT/baby/featured/limited-offers" style="color: red">Sale &amp; Limited Offers
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-flag="From 7,90 €" data-label="Multibuy Offers" href="https://www.uniqlo.com/eu/en_PT/baby/featured/multibuy-offers">Multipack Offers
+                        </a>
+</li>
+<!-- 
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/coming-soon"
+                            class="navMenu__link blueflag"
+                            data-flag="BE THE FIRST TO SHOP"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Coming Soon"
+                            >Coming Soon
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            style="color: red"
+                            href="https://www.uniqlo.com/eu/en_PT/baby/featured/limited-offers"
+                            class="navMenu__link blueflag"
+                            data-flag="ending 25th December"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Limited Offers + Sale"
+                            >Holiday Offers
+                        </a>
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en_PT/content/advent-calendar-description.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Advent Calendar"
+                            >The UNIQLO Advent Calendar</a
+                        >
+                    </li> -->
+</ul>
+</li>
+<!--Section 4-->
+<li class="navMenu__listItem navMenu__listItem--col3" style="grid-row: 2">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="19">
+                    Collaborations
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="19">
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="NEW" data-label="UNIQLO x Marimekko" href="https://www.uniqlo.com/eu/en_PT/collaborations/baby/marimekko">UNIQLO x Marimekko</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="The Picture Book Collection" href="https://www.uniqlo.com/eu/en_PT/baby/featured/ut-graphic-print-collections/the-picture-book-collection">The Picture Book Collection
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="My Special Friends" href="https://www.uniqlo.com/eu/en_PT/baby/featured/ut-graphic-print-collections/my-special-friends">My Special Friends
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-flag="SALE" data-label="CoComelon" href="https://www.uniqlo.com/eu/en_PT/baby/featured/ut-graphic-print-collections/cocomelon">CoComelon
+                        </a>
+</li>
+</ul>
+</li>
+<!--Section 5-->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col4">
+<h3 class="navMenu__headline navMenu__headline--caps navMenu__mobileToggle js_navToggleCategoryMobile" data-section-parent="20">
+                    DISCOVER LIFEWEAR
+                </h3>
+<ul class="navMenu__list navMenu__list--lastLevel navMenu__list--collapseMobile" data-section-child="20">
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="UNIQLO Today Blog" href="https://www.uniqlo.com/eu/en/news/">UNIQLO Today Blog</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="READ NOW" data-label="LifeWear Magazine" href="https://www.uniqlo.com/eu/en/contents/lifewear-magazine/">LifeWear Magazine
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="GET 10 € OFF*" data-label="Newsletter" href="https://www.uniqlo.com/eu/en/newsletter">Newsletter
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="Store Locator" href="https://www.uniqlo.com/eu/en_PT/content/store-locator.html">Store Locator</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="Gift Cards" href="https://www.uniqlo.com/eu/en_PT/content/gift-card.html">Gift Cards
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="LifeWear Spring/Summer" href="https://www.uniqlo.com/eu/en/contents/feature/lifewear-collection/">LifeWear Spring/Summer
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="Masterpiece" href="https://www.uniqlo.com/masterpiece/eu/en/">Masterpiece
+                        </a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="Sustainability" href="https://www.uniqlo.com/eu/en_PT/content/sustainability-home.html">Sustainability</a>
+</li>
+<li class="navMenu__listItem">
+<a class="navMenu__link" data-action="baby" data-category="hamburger" data-label="Ambassadors" href="https://www.uniqlo.com/jp/en/contents/ambassador/">Ambassadors</a>
+</li>
+<!-- 
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/pages/online-store-guide/"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Online Shopping Guide"
+                            >Online Shopping Guide</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.stylehint.com/se/en"
+                            target="_blank"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="StyleHint"
+                            >StyleHint</a
+                        >
+                    </li>
+    
+                    <li class="navMenu__listItem">
+                        <a
+                            href="https://www.uniqlo.com/eu/en/content/product-review-description.html"
+                            class="navMenu__link"
+                            data-category="hamburger"
+                            data-action="baby"
+                            data-label="Product review"
+                            >Try Products For Free</a
+                        >
+                    </li> -->
+</ul>
+</li>
+
+<!-- <li
+                class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5"
+                id="navMenu-spring">
+                <h3 class="navMenu__headline navMenu__headline--caps">
+                    <a
+                        href="https://www.uniqlo.com/eu/en_PT/baby/featured/spring-resort-collection"
+                        class="navMenu__link blueflag"
+                        data-flag=""
+                        data-category="hamburger"
+                        data-action="baby"
+                        data-label="Spring tab"
+                        >Spring 2023 Collection</a
+                    >
+                </h3>
+            </li> -->
+<!-- Section 6 - Mobile Only Additional Navigation -->
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5" id="navMenu-new-arrivals">
+<h3 class="navMenu__headline navMenu__headline--caps">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="New Arrivals tab" href="https://www.uniqlo.com/eu/en_PT/baby/featured/new-arrivals">New Arrivals
+                    </a>
+</h3>
+</li>
+<li class="navMenu__listItem navMenu__listItem--rowAll navMenu__listItem--col5" id="navMenu-sale">
+<h3 class="navMenu__headline navMenu__headline--caps">
+<a class="navMenu__link blueflag" data-action="baby" data-category="hamburger" data-flag="" data-label="Sale tab" href="https://www.uniqlo.com/eu/en_PT/baby/featured/limited-offers">Sale &amp; Limited Offers</a>
+</h3>
+</li>
+</ul>
+</li>
+<!-- Mobile only  -->
+
+<!-- <script defer>
+      document.querySelectorAll('.navMenu__headline').forEach((title)=>{
+        title.addEventListener('click', (e)=>{
+          const id = e.target.dataset.sectionParent;
+          const child = document.querySelector(`[data-section-child="${id}"]`)
+          const parent = document.querySelector(`[data-section-parent="${id}"]`);
+          if(child.style.maxHeight ==="1000px"){
+            child.style.maxHeight ="0px";
+            child.style.overFlow ="hidden"
+            parent.classList.remove('open-arrow')
+          }else{
+            child.style.maxHeight ="1000px";
+            child.style.overFlow ="auto"
+            parent.classList.add('open-arrow')
+          }
+      
+      
+        })
+      
+      })
+      </script> -->
+</ul>
+<div class="navMenu__footer uqHide@md">
+<div class="content-asset" data-contentcustomattribute=""><!-- dwMarker="content" dwContentID="6ef521a0188026d9d6ae3b59a5" -->
+<a class="navMenu__link" href="/eu/en/newsletter">Subscribe to our Newsletter</a>
+<a class="navMenu__link" href="/eu/en/content/sustainability-home.html">Sustainability</a>
+<a class="navMenu__link" href="/eu/en/content/store-locator.html">Store Locator</a>
+<a class="navMenu__link" href="https://faq-eu.uniqlo.com/">FAQ</a>
+</div> <!-- End content-asset -->
+</div>
+</nav>
+<div class="header__item header__item--search uqHide uqShow@s">
+<div class="headerSearch js_header-search">
+<div class="algolia-search-container closed">
+<div class="algolia-ac-container">
+<div class="algolia-ac-results">
+<div class="algolia-ac-col popular">
+<p class="algolia-ac-title">Popular searches</p>
+<ul class="algolia-ac-popular">
+</ul>
+</div>
+<div class="algolia-ac-col results">
+<div class="algolia-ac-results-content">
+<div class="algolia-ac-results-col products">
+<p class="algolia-ac-title">Suggested products</p>
+<div id="algolia-ac-products">
+</div>
+</div>
+<div class="algolia-ac-results-col content">
+<p class="algolia-ac-title">Related content</p>
+<div id="algolia-ac-related">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<svg class="algolia-search-close" fill="#7f7f7f" height="24" stroke="#7f7f7f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24">
+<line x1="18" x2="6" y1="6" y2="18"></line>
+<line x1="6" x2="18" y1="6" y2="18"></line>
+</svg>
+<input class="algolia-search-input js-algolia-search-input headerSearch__input" data-hascontentassetplaceholder="true" placeholder="Search: T-Shirt, Shorts, Linen, Arigato Festival, Mofusand UT" type="text"/>
+<button class="algolia-search-button">
+<svg class="algolia-search-icon">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/Sites-EU-Site/-/default/dw6266bb58/images/icon-sprite.svg#icon_magnifyingglass"></use>
+</svg>
+</button>
+</div>
+</div>
+</div>
+<div class="header__item header__item--action actionMenu actionMenu--languageSelector js-languageSelector" data-initial="true">
+<button class="header__action header__action--button" type="button">
+<svg class="header__icon">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/Sites-EU-Site/-/en_PT/v1717304784288/images/icon-sprite.svg#icon_countryselector"></use>
+</svg>
+</button>
+<div class="actionMenu__box userMenu js-languageSelectorWrapper">
+<h4 class="userMenu__headline userMenu__headline--spaceBottom js-languageSelectorHeadline">Change country</h4>
+<form autocomplete="off" class="siteSelector">
+<select class="siteSelector__select js_siteSelector" data-action="footer" data-category="global" data-label="Country selector">
+<option data-countrycode="AT" label="🇦🇹 Austria: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=AT">
+    🇦🇹 Austria: €
+    </option>
+<option data-countrycode="BE" label="🇧🇪 Belgique: €" value="https://www.uniqlo.com/be/fr/home?customCountryFlag=BE">
+    🇧🇪 Belgique: €
+    </option>
+<option data-countrycode="BE" label="🇧🇪 Belgium: €" value="https://www.uniqlo.com/be/en/home?customCountryFlag=BE">
+    🇧🇪 Belgium: €
+    </option>
+<option data-countrycode="BE" label="🇧🇪 België: €" value="https://www.uniqlo.com/be/nl/home?customCountryFlag=BE">
+    🇧🇪 België: €
+    </option>
+<option data-countrycode="BG" label="🇧🇬 Bulgaria: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=BG">
+    🇧🇬 Bulgaria: €
+    </option>
+<option data-countrycode="HR" label="🇭🇷 Croatia: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=HR">
+    🇭🇷 Croatia: €
+    </option>
+<option data-countrycode="CZ" label="🇨🇿 Czechia: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=CZ">
+    🇨🇿 Czechia: €
+    </option>
+<option data-countrycode="DK" label="🇩🇰 Denmark: DKK" value="https://www.uniqlo.com/dk/en/home?customCountryFlag=DK">
+    🇩🇰 Denmark: DKK
+    </option>
+<option data-countrycode="DE" label="🇩🇪 Deutschland: €" value="https://www.uniqlo.com/de/de/home?customCountryFlag=DE">
+    🇩🇪 Deutschland: €
+    </option>
+<option data-countrycode="ES" label="🇪🇸 España: €" value="https://www.uniqlo.com/es/es/home?customCountryFlag=ES">
+    🇪🇸 España: €
+    </option>
+<option data-countrycode="EE" label="🇪🇪 Estonia: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=EE">
+    🇪🇪 Estonia: €
+    </option>
+<option data-countrycode="FI" label="🇫🇮 Finland: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=FI">
+    🇫🇮 Finland: €
+    </option>
+<option data-countrycode="FR" label="🇫🇷 France: €" value="https://www.uniqlo.com/fr/fr/home?customCountryFlag=FR">
+    🇫🇷 France: €
+    </option>
+<option data-countrycode="GR" label="🇬🇷 Greece: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=GR">
+    🇬🇷 Greece: €
+    </option>
+<option data-countrycode="HU" label="🇭🇺 Hungary: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=HU">
+    🇭🇺 Hungary: €
+    </option>
+<option data-countrycode="IE" label="🇮🇪 Ireland: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=IE">
+    🇮🇪 Ireland: €
+    </option>
+<option data-countrycode="IT" label="🇮🇹 Italia: €" value="https://www.uniqlo.com/it/it/home?customCountryFlag=IT">
+    🇮🇹 Italia: €
+    </option>
+<option data-countrycode="LV" label="🇱🇻 Latvia: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=LV">
+    🇱🇻 Latvia: €
+    </option>
+<option data-countrycode="LT" label="🇱🇹 Lithuania: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=LT">
+    🇱🇹 Lithuania: €
+    </option>
+<option data-countrycode="LU" label="🇱🇺 Luxembourg: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=LU">
+    🇱🇺 Luxembourg: €
+    </option>
+<option data-countrycode="NL" label="🇳🇱 Nederland: €" value="https://www.uniqlo.com/nl/nl/home?customCountryFlag=NL">
+    🇳🇱 Nederland: €
+    </option>
+<option data-countrycode="NL" label="🇳🇱 Netherlands: €" value="https://www.uniqlo.com/nl/en/home?customCountryFlag=NL">
+    🇳🇱 Netherlands: €
+    </option>
+<option data-countrycode="PL" label="🇵🇱 Poland: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=PL">
+    🇵🇱 Poland: €
+    </option>
+<option data-countrycode="PT" label="🇵🇹 Portugal: €" selected="selected" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=PT">
+    🇵🇹 Portugal: €
+    </option>
+<option data-countrycode="RO" label="🇷🇴 Romania: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=RO">
+    🇷🇴 Romania: €
+    </option>
+<option data-countrycode="SK" label="🇸🇰 Slovakia: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=SK">
+    🇸🇰 Slovakia: €
+    </option>
+<option data-countrycode="SI" label="🇸🇮 Slovenia: €" value="https://www.uniqlo.com/eu/en/home?customCountryFlag=SI">
+    🇸🇮 Slovenia: €
+    </option>
+<option data-countrycode="SE" label="🇸🇪 Sweden: kr" value="https://www.uniqlo.com/se/en/home?customCountryFlag=SE">
+    🇸🇪 Sweden: kr
+    </option>
+<option data-countrycode="GB" label="🇬🇧 United Kingdom: £" value="https://www.uniqlo.com/uk/en/home?customCountryFlag=GB">
+    🇬🇧 United Kingdom: £
+    </option>
+</select>
+</form>
+</div>
+</div>
+<button class="js_searchToggle header__item header__item--action header__action header__action--button uqHide@s" type="button">
+<svg class="header__icon">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/Sites-EU-Site/-/default/dw6266bb58/images/icon-sprite.svg#icon_magnifyingglass"></use>
+</svg>
+    Search
+    </button>
+<div class="isauthenticated js-userLogin userMenu actionMenu header__item header__item--action">
+<a class="header__action js_userAccountHeaderAction" data-action="click" data-category="header" data-label="login" href="https://www.uniqlo.com/eu/en_PT/account">
+<svg class="header__icon header__icon--myAccount">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/Sites-EU-Site/-/default/dw6266bb58/images/icon-sprite.svg#icon_myAccount"></use>
+</svg>
+    
+    My Account
+    
+    </a>
+<div class="userMenu__list actionMenu__box actionMenu__box--userMenu">
+<div class="userMenu__wrapper userMenu__wrapper--white">
+<div class="userMenu__slide">
+<ul class="userMenu__slideList">
+<li class="userMenu__slideListItem userMenu__headline">こんにちは</li>
+<li class="userMenu__slideListItem userMenu__headline">Hello,</li>
+</ul>
+</div>
+<span class="userMenu__headline userMenu__name">Jane Doe!</span>
+</div>
+<link href="/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/en_PT/v1717304784288/css/membershipMessage.css" rel="stylesheet" type="text/css"/>
+<div class="content-asset" data-contentcustomattribute=""><!-- dwMarker="content" dwContentID="4a2c532cb1f3d5379b506c7728" -->
+<div class="membershipMessage membershipMessage--spaceBottom">
+<h3 class="membershipMessage__title">YOUR UNIQLO ACCOUNT GIVES YOU...</h3>
+<ul class="membershipMessage__list">
+<li class="membershipMessage__listItem">Surprise member-exclusive <b>offers</b></li>
+<li class="membershipMessage__listItem"><b>Browse</b> your purchase history</li>
+<li class="membershipMessage__listItem"><b>Save</b> favourite items to your wishlist</li>
+</ul>
+</div>
+</div> <!-- End content-asset -->
+<li>
+<a class="userMenu__link" href="https://www.uniqlo.com/eu/en_PT/orders" title="Orders">
+    Orders</a>
+</li>
+<li>
+<a class="userMenu__link" href="https://returns.narvar.com/uniqloeu/returns?email=authorization.thesis@gmail.com&amp;locale=en_LU" target='"_blank"' title="Make a return">
+    Make a return</a>
+</li>
+<li>
+<a class="userMenu__link" href="https://www.uniqlo.com/eu/en_PT/wishlist" title="Wishlist">
+    Wishlist</a>
+</li>
+<li>
+<a class="userMenu__link" href="/eu/en_PT/details" title="Manage Account">
+    Manage Account</a>
+</li>
+<li>
+<a class="userMenu__link" href="https://faq-eu.uniqlo.com" target='"_blank"' title="FAQs">
+    FAQs</a>
+</li>
+<li>
+<a class="userMenu__link" href="https://www.uniqlo.com/on/demandware.store/Sites-EU-Site/en_PT/Login-Logout" title="Sign Out">
+    Sign Out</a>
+</li>
+</div>
+</div>
+<div class="header__item header__item--action header__miniCart miniCart actionMenu js_headerMiniCart">
+<!-- Report any requested source code -->
+<!-- Report the active source code -->
+<a class="header__action js_minicartHeaderAction" data-action="click" data-category="header" data-label="my bag" href="https://www.uniqlo.com/eu/en_PT/cart" title="View Bag">
+<svg class="header__icon header__icon--myBag">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/Sites-EU-Site/-/default/dw6266bb58/images/icon-sprite.svg#icon_myBag"></use>
+</svg>
+    My bag
+    </a>
+<div class="js-miniCart-content">
+<span class="miniCart__count js-minicartNumber"></span>
+</div>
+</div>
+<div class="header__item header__item--action uqHide@md">
+<input class="uqHide js_menuToggle" id="navToggle" type="checkbox"/>
+<label class="mobileMenu" for="navToggle">
+    Menu
+    </label>
+</div>
+</div>
+</header>
+<div class="myAccount__wrapper myAccount__wrapper--white myAccount__wrapper--bg@md">
+<h1 class="myAccount__headline">All orders</h1>
+</div>
+<div class="myAccount__wrapper myAccount__grid">
+<ul class="uqHide uqShow@md myAccount__nav myAccount__gridItem--noContainer myAccount__gridItem--container@md">
+<link href="/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/en_PT/v1717304784288/css/membershipMessage.css" rel="stylesheet" type="text/css"/>
+<div class="content-asset" data-contentcustomattribute=""><!-- dwMarker="content" dwContentID="4a2c532cb1f3d5379b506c7728" -->
+<div class="membershipMessage membershipMessage--spaceBottom">
+<h3 class="membershipMessage__title">YOUR UNIQLO ACCOUNT GIVES YOU...</h3>
+<ul class="membershipMessage__list">
+<li class="membershipMessage__listItem">Surprise member-exclusive <b>offers</b></li>
+<li class="membershipMessage__listItem"><b>Browse</b> your purchase history</li>
+<li class="membershipMessage__listItem"><b>Save</b> favourite items to your wishlist</li>
+</ul>
+</div>
+</div> <!-- End content-asset -->
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group0 myAccount__gridItem--lastOfGroup">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="My Account Home" href="/eu/en_PT/account">
+    
+    My Account
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group2">
+<span class="myAccount__link myAccount__link--inactive">
+    
+    All orders
+    
+    </span>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group2 myAccount__gridItem--lastOfGroup">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="Make a return" href="https://returns.narvar.com/uniqloeu/returns?email=authorization.thesis@gmail.com&amp;locale=en_LU" target='"_blank"'>
+    
+    Make a return
+    
+    </a>
+</li>
+<li class="uqHide uqShow@md myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group3 myAccount__gridItem--lastOfGroup">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="Wishlist" href="/eu/en_PT/wishlist">
+    
+    Wishlist
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group4">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="Edit addresses" href="/eu/en_PT/addresses">
+    
+    Edit addresses
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group4">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="Edit details" href="/eu/en_PT/details">
+    
+    Edit details
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group4 myAccount__gridItem--lastOfGroup">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="Edit newsletter subscription" href="/eu/en_PT/newslettersubscription">
+    
+    Edit newsletter subscription
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group5">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="FAQs" href="https://faq-eu.uniqlo.com" target='"_blank"'>
+    
+    FAQs
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group5 myAccount__gridItem--lastOfGroup">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="Contact us" href="/eu/en_PT/contactus">
+    
+    Contact us
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group7">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="Clothing care guide" href="https://www.uniqlo.com/eu/en/content/product-care.html" target='"_blank"'>
+    
+    Clothing care guides
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group7 myAccount__gridItem--lastOfGroup">
+<a class="myAccount__link" data-action="Menu" data-category="My Account" data-label="Download the app" href="https://www.uniqlo.com/eu/en/content/app.html" target='"_blank"'>
+    
+    Download the app
+    
+    </a>
+</li>
+<li class="myAccount__gridItem myAccount__gridItem--nav myAccount__gridItem--group8 myAccount__gridItem--lastOfGroup">
+<a class="myAccount__link myAccount__link--signout" data-action="Menu" data-category="My Account" data-label="Sign Out" href="/on/demandware.store/Sites-EU-Site/en_PT/Login-Logout">
+    
+    Sign out
+    
+    </a>
+</li>
+</ul>
+<div class="myAccount__gridItem myAccount__gridItem--group1 myAccount__gridItem--lastOfGroup myAccount__gridBox">
+    We have no order records for this account.
+    </div>
+</div>
+<footer class="footer">
+<div class="footer__wrapper">
+<div class="footer__row footer__row--borderDown">
+<div class="content-asset" data-contentcustomattribute=""><!-- dwMarker="content" dwContentID="21ce7374eb5512b550d40aa195" -->
+<h3 class="hideOnCart emerald__text emerald__text--grey emerald__text--spaceTop emerald__text--noSpaceBottom footer__title">We accept</h3>
+<div class="paymentIcons">
+<img alt="Visa" class="paymentIcons__icon" src="https://checkoutshopper-live.adyen.com/checkoutshopper/images/logos/visa.svg"/>
+<img alt="Mastercard" class="paymentIcons__icon" src="https://checkoutshopper-live.adyen.com/checkoutshopper/images/logos/mc.svg"/>
+<img alt="American Express" class="paymentIcons__icon" src="https://checkoutshopper-live.adyen.com/checkoutshopper/images/logos/amex.svg"/>
+<img alt="Paypal" class="paymentIcons__icon" src="https://checkoutshopper-live.adyen.com/checkoutshopper/images/logos/paypal.svg"/>
+<img alt="Google Pay" class="paymentIcons__icon" src="https://checkoutshopper-live.adyen.com/checkoutshopper/images/logos/googlepay.svg"/>
+<img alt="Apple Pay" class="paymentIcons__icon" src="https://checkoutshopper-live.adyen.com/checkoutshopper/images/logos/applepay.svg"/>
+</div>
+</div> <!-- End content-asset -->
+</div>
+<div class="content-asset" data-contentcustomattribute=""><!-- dwMarker="content" dwContentID="6301cd0052781c4df818b7c52e" -->
+<h3 class="footer__title">Need help?</h3>
+<div class="footer__row footer__row--borderDown">
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Contact Us &amp; FAQs" href="https://faq-eu.uniqlo.com/" target="_blank">Contact Us &amp; FAQs</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Delivery" href="https://faq-eu.uniqlo.com/pkb_Home_UQ_EU?l=en_US&amp;c=category_uq_eu_dk_se%3AUQEU_C1_3" target="_blank">Delivery</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Payment" href="https://faq-eu.uniqlo.com/pkb_Home_UQ_EU?l=en_US&amp;c=category_uq_eu_dk_se%3AUQEU_C1_1" target="_blank">Payment</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Returns" href="https://faq-eu.uniqlo.com/pkb_Home_UQ_EU?l=en_US&amp;c=category_uq_eu_dk_se%3AUQEU_C1_4" target="_blank">Returns</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Order Status" href="https://www.uniqlo.com/eu/en_PT/info/track-order.html" target="_blank">Order Status</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Stores" href="https://www.uniqlo.com/eu/en_PT/content/store-locator.html" target="_blank">Store Locator</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Make a Return" href="https://returns.narvar.com/uniqloeu/returns?locale=en_LU" target="_blank">Make a Return</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Newsletter" href="https://www.uniqlo.com/eu/en/newsletter " target="_blank">Newsletter</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Gift Cards" href="https://www.uniqlo.com/eu/en_PT/content/gift-card.html" target="_blank">Gift Cards</a>
+</div>
+<input class="footerToggle" id="footerToggle" type="checkbox"/>
+<h3 class="footer__title">
+<label class="footerToggle__label" for="footerToggle">About Uniqlo</label>
+</h3>
+<div class="footer__row footerToggle__collapse">
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Careers" href="https://www.fastretailing.com/employment/en/" target="_blank">Careers</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Our story" href="https://www.uniqlo.com/eu/en_PT/info/about-uniqlo.html" target="_blank">Our Story</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Sustainability" href="https://www.uniqlo.com/eu/en_PT/content/sustainability-home.html" target="_blank">Sustainability</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Uniqlo news" href="/eu/en/news/" target="_blank">Uniqlo Today</a>
+</div>
+<div class="footer__row footerToggle__collapse">
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Global Brand Ambassadors" href="/jp/en/contents/ambassador/" target="_blank">Uniqlo Global Brand Ambassadors</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Corporate information" href="https://www.uniqlo.com/eu/en_PT/info/about.html" target="_blank">Corporate information</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Group Companies " href="https://www.uniqlo.com/eu/en_PT/info/group.html" target="_blank">Group Companies</a>
+</div>
+<div class="footer__row footerToggle__collapse">
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Press" href="mailto:Presse.EU@uniqlo.eu">Press</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Privacy Policy" href="https://www.uniqlo.com/eu/en_PT/info/privacy-policy.html" target="_blank">Privacy Policy</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Terms &amp; Conditions" href="https://www.uniqlo.com/eu/en_PT/info/terms.html" target="_blank">Terms &amp; Conditions</a>
+<a class="footer__link" data-action="click" data-category="Footer" data-label="Returns Policy" href="https://www.uniqlo.com/eu/en_PT/info/returns-policy.html" target="_blank">Returns Policy</a>
+<a class="optanonCookieSettingsButton optanon-toggle-display footer__link" data-action="click" data-category="Footer" data-label="Cookie Settings">Cookie Settings</a>
+</div>
+<div class="footer__row">
+<span class="footer__text">©  UNIQLO CO. LTD. All rights reserved.</span>
+</div>
+<div class="footer__row footerToggle__collapse">
+<a class="footer__social" data-action="click" data-category="Footer" data-label="Instagram" href="https://www.instagram.com/uniqloeurope/" target="_blank" title="Instagram">
+<svg height="30px" width="30px">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/en_PT/v1717304784288/images/footer/sm-logo-sprite.svg#instagram"></use>
+</svg>
+</a>
+<a class="footer__social" data-action="click" data-category="Footer" data-label="TikTok" href="https://www.tiktok.com/@uniqloeurope" target="_blank" title="TikTok">
+<svg height="30px" width="30px">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/en_PT/v1717304784288/images/footer/sm-logo-sprite.svg#tiktok"></use>
+</svg>
+</a>
+<a class="footer__social" data-action="click" data-category="Footer" data-label="Facebook" href="https://www.facebook.com/uniqloeurope/" target="_blank" title="Facebook">
+<svg height="30px" width="30px">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/en_PT/v1717304784288/images/footer/sm-logo-sprite.svg#facebook"></use>
+</svg>
+</a>
+<a class="footer__social" data-action="click" data-category="Footer" data-label="Pinterest" href="https://www.pinterest.com/uniqlo/" target="_blank" title="Pinterest">
+<svg height="30px" width="30px">
+<use xlink:href="https://www.uniqlo.com/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/en_PT/v1717304784288/images/footer/sm-logo-sprite.svg#pinterest"></use>
+</svg>
+</a>
+</div>
+</div> <!-- End content-asset -->
+</div>
+</footer>
+
+
+<!-- Google Optimize tag -->
+
+
+<!-- Google Optimize tag -->
+<!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-NHKQHW4" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+
+<!-- End Google Tag Manager -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+
+
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+
+
+
+ <div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div><div aria-label="Privacy Preference Center" aria-modal="true" class="otPcCenter ot-hide ot-fade-in" id="onetrust-pc-sdk" lang="en" role="alertdialog"><!-- Close Button --><div class="ot-pc-header"><!-- Logo Tag --><div aria-label="Company Logo" class="ot-pc-logo" role="img" style='background-image: url("https://cdn.cookielaw.org/logos/afe7b485-d9fa-4b02-a2fe-714a693342f9/27ae7968-25e1-4204-a793-921a9f79440f/b1d2355e-061a-4201-aa1b-94a5d56b0261/logo_uniqlo.png");
+                        background-position: left;'></div><button aria-label="Close" class="ot-close-icon" id="close-pc-btn-handler"></button></div><!-- Close Button --><div class="ot-pc-scrollbar" id="ot-pc-content"><h2 id="ot-pc-title">Privacy Preference Center</h2><div id="ot-pc-desc">When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. If you selected ‘Ask App Not to Track’ upon your first use of the Uniqlo App, then ONLY strictly necessary cookies will be used.
+                    <br/><a aria-label="More information about your privacy, opens in a new tab" class="privacy-notice-link" href="https://cookiepedia.co.uk/giving-consent-to-cookies" rel="noopener" target="_blank">More information</a></div><button id="accept-recommended-btn-handler">Allow All</button><section class="ot-sdk-row ot-cat-grp"><h3 id="ot-category-title"> Manage Consent Preferences</h3><div class="ot-accordion-layout ot-cat-item" data-optanongroupid="C0001"><button aria-controls="ot-desc-id-C0001" aria-expanded="false" aria-labelledby="ot-header-id-C0001" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0001">Strictly Necessary Cookies</h4><div class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0001">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p><div class="ot-hlst-cntr"><button aria-label="Cookies Details Cookie Details button opens Cookie List menu" class="ot-link-btn category-host-list-handler" data-parent-id="C0001">Cookies Details‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item" data-optanongroupid="C0008"><button aria-controls="ot-desc-id-C0008" aria-expanded="false" aria-labelledby="ot-header-id-C0008" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0008">Aggregated Analytics</h4><div class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0008">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. None of this information can be used to identify you.</p><div class="ot-hlst-cntr"><button aria-label="Cookies Details Cookie Details button opens Cookie List menu" class="ot-link-btn category-host-list-handler" data-parent-id="C0008">Cookies Details‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item" data-optanongroupid="C0003"><button aria-controls="ot-desc-id-C0003" aria-expanded="false" aria-labelledby="ot-header-id-C0003" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0003">Functional Cookies</h4><div class="ot-tgl"><input aria-checked="false" aria-labelledby="ot-header-id-C0003" class="category-switch-handler" data-optanongroupid="C0003" id="ot-group-id-C0003" name="ot-group-id-C0003" role="switch" type="checkbox"/> <label class="ot-switch" for="ot-group-id-C0003"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Functional Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0003">These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.</p><div class="ot-hlst-cntr"><button aria-label="Cookies Details Cookie Details button opens Cookie List menu" class="ot-link-btn category-host-list-handler" data-parent-id="C0003">Cookies Details‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item" data-optanongroupid="C0002"><button aria-controls="ot-desc-id-C0002" aria-expanded="false" aria-labelledby="ot-header-id-C0002" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0002">Performance Cookies</h4><div class="ot-tgl"><input aria-checked="false" aria-labelledby="ot-header-id-C0002" class="category-switch-handler" data-optanongroupid="C0002" id="ot-group-id-C0002" name="ot-group-id-C0002" role="switch" type="checkbox"/> <label class="ot-switch" for="ot-group-id-C0002"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Performance Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0002">These cookies allow us to collect information about the traffic on our website and the technical performance of the website. They help us to get detailed and advanced analytics. In some cases these cookies improve the speed with which we can process your request, allow us to remember site preferences you've selected. This includes cookies from third-party analytics services.</p><div class="ot-hlst-cntr"><button aria-label="Cookies Details Cookie Details button opens Cookie List menu" class="ot-link-btn category-host-list-handler" data-parent-id="C0002">Cookies Details‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item" data-optanongroupid="C0004"><button aria-controls="ot-desc-id-C0004" aria-expanded="false" aria-labelledby="ot-header-id-C0004" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0004">Targeting Cookies</h4><div class="ot-tgl"><input aria-checked="false" aria-labelledby="ot-header-id-C0004" class="category-switch-handler" data-optanongroupid="C0004" id="ot-group-id-C0004" name="ot-group-id-C0004" role="switch" type="checkbox"/> <label class="ot-switch" for="ot-group-id-C0004"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Targeting Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0004">These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p><div class="ot-hlst-cntr"><button aria-label="Cookies Details Cookie Details button opens Cookie List menu" class="ot-link-btn category-host-list-handler" data-parent-id="C0004">Cookies Details‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item" data-optanongroupid="C0007"><button aria-controls="ot-desc-id-C0007" aria-expanded="false" aria-labelledby="ot-header-id-C0007" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0007">Never Active</h4><div class="ot-tgl"><input aria-checked="false" aria-labelledby="ot-header-id-C0007" class="category-switch-handler" data-optanongroupid="C0007" id="ot-group-id-C0007" name="ot-group-id-C0007" role="switch" type="checkbox"/> <label class="ot-switch" for="ot-group-id-C0007"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Never Active</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0007">These cookies are not present on this UNIQLO website. They are only present on UNIQLO websites outside of EUROPE. This means that any cookies within this list will never be activated.</p><div class="ot-hlst-cntr"><button aria-label="Cookies Details Cookie Details button opens Cookie List menu" class="ot-link-btn category-host-list-handler" data-parent-id="C0007">Cookies Details‎</button></div></div></div><!-- Groups sections starts --><!-- Group section ends --><!-- Accordion Group section starts --><!-- Accordion Group section ends --></section></div><section class="ot-hide ot-hosts-ui ot-pc-scrollbar" id="ot-pc-lst"><div id="ot-pc-hdr"><div id="ot-lst-title"><button aria-label="Back" class="ot-link-btn back-btn-handler"><svg id="ot-back-arw" viewbox="0 0 444.531 444.531" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Back Button</title><g><path d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
+                        l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
+                        c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
+                        s18.795-3.521,25.834-10.564l21.409-21.412c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978
+                        L213.13,222.409z" fill="#656565"></path></g></svg></button><h3>Performance Cookies</h3></div><div class="ot-lst-subhdr"><div class="ot-search-cntr"><p class="ot-scrn-rdr" role="status"></p><label class="ot-scrn-rdr" for="vendor-search-handler">Vendor Search</label> <input id="vendor-search-handler" name="vendor-search-handler" placeholder="Search..." type="text"/> <svg aria-hidden="true" viewbox="0 -30 110 110" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Search Icon</title><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23
+                s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+                c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+                s-17-7.626-17-17S14.61,6,23.984,6z" fill="#2e3644"></path></svg></div><div class="ot-fltr-cntr"><button aria-haspopup="true" aria-label="Filter" id="filter-btn-handler"><svg aria-hidden="true" role="presentation" viewbox="0 0 402.577 402.577" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Filter Icon</title><g><path d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
+          c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
+          c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
+          C402.765,25.895,404.093,19.231,400.858,11.427z" fill="#fff"></path></g></svg></button></div><div id="ot-anchor"></div><section id="ot-fltr-modal"><div id="ot-fltr-cnt"><button id="clear-filters-handler">Clear</button><div class="ot-fltr-scrlcnt ot-pc-scrollbar"><div class="ot-fltr-opts"><div class="ot-fltr-opt"><div class="ot-chkbox"><input aria-checked="false" class="category-filter-handler" id="chkbox-id" type="checkbox"/> <label for="chkbox-id"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div><div class="ot-fltr-btns"><button id="filter-apply-handler">Apply</button> <button id="filter-cancel-handler">Cancel</button></div></div></div></section></div></div><section class="ot-host-cnt ot-pc-scrollbar" id="ot-lst-cnt"><div id="ot-sel-blk"><div class="ot-sel-all"><div class="ot-sel-all-hdr"><span class="ot-consent-hdr">Consent</span> <span class="ot-li-hdr">Leg.Interest</span></div><div class="ot-sel-all-chkbox"><div class="ot-chkbox" id="ot-selall-hostcntr"><input aria-checked="false" id="select-all-hosts-groups-handler" type="checkbox"/> <label for="select-all-hosts-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-vencntr"><input aria-checked="false" id="select-all-vendor-groups-handler" type="checkbox"/> <label for="select-all-vendor-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-licntr"><input aria-checked="false" id="select-all-vendor-leg-handler" type="checkbox"/> <label for="select-all-vendor-leg-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div></div><div class="ot-sdk-row"><div class="ot-sdk-column"><ul id="ot-host-lst"><li class="ot-host-item"><button aria-expanded="false" class="ot-host-box"></button><section class="ot-acc-hdr"><div class="ot-host-hdr"><h3 class="ot-host-name"></h3><h4 class="ot-host-desc"></h4><span class="ot-host-expand">View Cookies</span></div><!-- toggles and arrow --><div class="ot-tgl-cntr"></div></section><div class="ot-acc-txt"><div class="ot-host-opts"><!-- HOST LIST VIEW UPDATE *** --><ul class="ot-host-opt"><li class="ot-host-info"><div><div>Name</div><div>cookie name</div></div></li></ul><!-- HOST LIST VIEW UPDATE END *** --></div></div></li></ul></div></div></section></section><div class="ot-pc-footer"><div class="ot-btn-container"> <button class="save-preference-btn-handler onetrust-close-btn-handler">Confirm My Choices</button></div><!-- Footer logo --><div class="ot-pc-footer-logo"><a aria-label="Powered by OneTrust Opens in a new Tab" href="https://www.onetrust.com/products/cookie-consent/" rel="noopener noreferrer" style='background-image: url("https://cdn.cookielaw.org/logos/static/powered_by_logo.svg");' target="_blank"></a></div></div><!-- Cookie subgroup container --><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element --><!-- Checkbox HTML --><!-- plus minus--><!-- Arrow SVG element --><!-- Accordion basic element --><span aria-atomic="true" aria-live="polite" class="ot-scrn-rdr"></span><iframe aria-hidden="true" class="ot-text-resize" style="position: absolute; top: -50000px; width: 100em;" title="onetrust-text-resize"></iframe></div></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><iframe id="kfVTlHt3UiOCC0zl" style="display: none;"></iframe><div style="display: none;"></div><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website uniqlo.com . It is in the url https://www.uniqlo.com/eu/en_PT/orders and when registering the user gave the following information {"name": "Jane Doe", "email": "authorization.thesis@gmail.com", "password": "***"} Should this page be private to a certain user? Answer only with yes or no.

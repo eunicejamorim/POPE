@@ -1,0 +1,1 @@
+{'model': 'codellama', 'created_at': '2024-06-08T02:57:47.902703415Z', 'message': {'role': 'assistant', 'content': 'No'}, 'done_reason': 'stop', 'done': True, 'total_duration': 4422327536, 'load_duration': 4489654, 'prompt_eval_count': 1102, 'prompt_eval_duration': 4052546000, 'eval_count': 2, 'eval_duration': 126729000}

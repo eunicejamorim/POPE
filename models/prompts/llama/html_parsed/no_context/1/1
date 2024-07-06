@@ -1,0 +1,177 @@
+The following text is the html file of a webpage. <html class="a-ws a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition a-ember no-touch" data-19ax5a9jf="dingo" data-aui-build-date="3.23.1-2024-02-27"><head>
+
+
+<!-- psjvn5tvlr4oftyfndftip7cgmxj759 -->
+<meta charset="utf-8"/>
+<title dir="ltr">Amazon Sign-In</title>
+
+<link href="https://images-na.ssl-images-amazon.com/images/I/61A6IErPNXL._RC|11Fd9tJOdtL.css,11tfezETfFL.css,31Q3id-QR0L.css,31U9HrBLKmL.css_.css?AUIClients/AmazonUI#us.not-trident" rel="stylesheet"/>
+<link href="https://images-na.ssl-images-amazon.com/images/I/01SdjaY0ZsL._RC|31jdWD+JB+L.css,513wQu4ouSL.css_.css?AUIClients/AuthenticationPortalAssets" rel="stylesheet"/>
+<link href="https://images-na.ssl-images-amazon.com/images/I/21EtarfodyL.css?AUIClients/CVFAssets" rel="stylesheet"/>
+
+</head><body class="auth-no-skin ap-locale-en_US a-m-us a-aui_72554-c a-aui_accordion_a11y_role_354025-c a-aui_killswitch_csa_logger_372963-c a-aui_pci_risk_banner_210084-c a-aui_preload_261698-c a-aui_rel_noreferrer_noopener_309527-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c a-meter-animate" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1174.0"><div id="siege-weblab-t1"></div>
+
+
+
+
+
+
+<div id="a-page">
+<div class="a-section a-padding-medium auth-workflow">
+<div class="a-section a-spacing-none auth-navbar">
+<div class="a-section a-spacing-medium a-text-center">
+<a class="a-link-nav-icon" href="/ref=ap_frn_logo">
+<i aria-label="Amazon" class="a-icon a-icon-logo" role="img"></i>
+</a>
+</div>
+</div>
+<div class="a-section" id="authportal-center-section">
+<div class="a-section" id="authportal-main-section">
+<div class="a-section a-spacing-base auth-pagelet-container">
+<div aria-atomic="true" aria-live="polite" class="a-box a-alert a-alert-warning" id="auth-cookie-warning-message"><div class="a-box-inner a-alert-container"><h4 class="a-alert-heading">Please Enable Cookies to Continue</h4><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+<p>
+<a class="a-link-normal" href="/gp/help/customer/display.html/ref=ap_cookie_error_help?">
+</a>
+</p>
+</div></div></div>
+</div>
+<div class="a-section auth-pagelet-container">
+<!-- Set cross domain sso variables to be used for making Ajax calls to central Identity domain -->
+<!-- Set cross domain sso variables to be used for making Ajax calls to central Identity domain -->
+<!-- show a warning modal dialog when the third party account is connected with Amazon -->
+<div class="a-box a-alert a-alert-error aok-hidden" id="passkey-error-alert" role="alert"><div class="a-box-inner a-alert-container"><h4 class="a-alert-heading">Passkey error</h4><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+<p id="passkey-client-error-message">
+    Something went wrong, please sign-in another way or follow any instructions provided by your device.
+  </p>
+<p class="aok-hidden" id="passkey-generic-server-error-message">
+    Sorry, your passkey isn't working. There might be a problem with the server. Sign in with your password or try your passkey again later.
+  </p>
+<p class="aok-hidden" id="passkey-server-error-message"></p>
+</div></div></div>
+<div class="a-section a-spacing-base">
+<div class="a-section">
+<form action="https://www.amazon.com/ap/signin" class="auth-validate-form auth-real-time-validation a-spacing-none" data-fwcim-id="vzBw4eM1" method="post" name="signIn" novalidate="">
+<input name="appActionToken" type="hidden" value="uCG4mq6hrVOfaNWj2BroZtGDAlD5Aj3D"/><input name="appAction" type="hidden" value="SIGNIN_PWD_COLLECT"/>
+<input name="subPageType" type="hidden" value="SignInClaimCollect"/>
+<input name="openid.return_to" type="hidden" value="ape:aHR0cHM6Ly93d3cuYW1hem9uLmNvbS8/cmVmXz1uYXZfc2lnbmlu"/>
+<input name="prevRID" type="hidden" value="ape:SEowWjc2VkpXOVFSRDJOR1BDOTA="/>
+<input name="workflowState" type="hidden" value="eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.-BdsUhpNAWqTe9vaS_O0mW1kPGvxftsivlVtxBJ3CNVPl5h4HipEKQ.ZbuFMceL7_roJCkX.jDVfQt2DOvaXs4ePnSfgezssoXGcNAYPc-ExhYTThtxgM-KekSMBaA-XvkJGoPnVUlAEDkV0goUy_4TivgZZCnW_asKYT2h_-1yCZTTn3YbgjB6kk2O6sAVCsbHdXLzNPI_04oJr7Kmf8M4S98fxBOXdmhBe7cCnBTTdgwlVRRkpnIUP-8wn6bhUGrep9WZkWvRbQcy0GPXs0cXTvfBlX-q4xqC3e2YmUgdjYs0YK9FFdkr5H6CRVWygAwIp3dRIol0cra4jf88ZSCkXj5kzLo3bogYu23rpiEGAO7PkqEOQeuJDElNWBAYDgKvXBjk76w43.VWiYc6Asw4iz5S4Jux_QHg"/>
+<div class="a-section">
+<div class="a-box"><div class="a-box-inner a-padding-extra-large">
+<h1 class="a-spacing-small">
+            Sign in
+          </h1>
+<!-- optional subheading element -->
+<div class="a-row a-spacing-base">
+<label class="a-form-label" for="ap_email">
+              Email or mobile phone number
+            </label>
+<input aria-describedby="Enter your email or mobile phone number" aria-required="true" class="a-input-text a-span12 auth-autofocus auth-required-field" id="ap_email" maxlength="128" name="email" tabindex="1" type="email"/>
+<input aria-required="true" class="a-input-text hide" id="ap-credential-autofill-hint" maxlength="1024" name="password" type="password"/>
+<div class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message a-spacing-top-mini" id="auth-email-missing-alert" role="alert"><div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+  Enter your email or mobile phone number
+</div></div></div>
+<div class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message a-spacing-top-mini" id="auth-email-invalid-claim-alert" role="alert"><div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+  Enter a valid email address or phone number
+</div></div></div>
+</div>
+<input name="create" type="hidden" value="0"/>
+<div class="a-section">
+<span class="a-button a-button-span12 a-button-primary" id="continue"><span class="a-button-inner"><input aria-labelledby="continue-announce" class="a-button-input" id="continue" tabindex="5" type="submit"/><span aria-hidden="true" class="a-button-text" id="continue-announce">
+              Continue
+            </span></span></span>
+<div class="a-row a-spacing-top-medium a-size-small" id="legalTextRow">
+  By continuing, you agree to Amazon's <a href="/gp/help/customer/display.html/ref=ap_signin_notification_condition_of_use?ie=UTF8&amp;nodeId=508088">Conditions of Use</a> and <a href="/gp/help/customer/display.html/ref=ap_signin_notification_privacy_notice?ie=UTF8&amp;nodeId=468496">Privacy Notice</a>.
+</div>
+
+
+</div>
+<div class="a-section">
+<div class="a-row a-expander-container a-expander-inline-container">
+<a aria-expanded="false" class="a-expander-header a-declarative a-expander-inline-header a-link-expander" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"", "collapse_prompt":""}' data-action="a-expander-toggle" data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-id="ed8b01-kxe93-377n92-hxvbte" data-csa-c-type="widget" data-csa-interaction-events="click" href="javascript:void(0)" role="button"><i class="a-icon a-icon-expand"></i><span class="a-expander-prompt">
+      Need help?
+    </span></a>
+<ul class="a-unordered-list a-nostyle a-vertical">
+<li><span class="a-list-item">
+<div aria-expanded="false" class="a-expander-content a-expander-inline-content a-expander-inner" style="display:none">
+<a class="a-link-normal" href="https://www.amazon.com/ap/forgotpassword?showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;pageId=usflex&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&amp;prevRID=HJ0Z76VJW9QRD2NGPC90&amp;openid.assoc_handle=usflex&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=&amp;failedSignInCount=0&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0" id="auth-fpp-link-bottom">
+  Forgot your password?
+</a>
+</div>
+</span></li>
+<li><span class="a-list-item">
+<div aria-expanded="false" class="a-expander-content a-expander-inline-content a-expander-inner" style="display:none">
+<a class="a-link-normal" href="/gp/help/customer/account-issues/ref=ap_login_with_otp_claim_collection?ie=UTF8" id="ap-other-signin-issues-link">
+            Other issues with Sign-In
+          </a>
+</div>
+</span></li>
+</ul>
+</div>
+</div>
+<div class="a-section" id="ab-signin-link-section">
+<hr aria-hidden="true" class="a-divider-normal"/>
+<div class="a-section a-spacing-micro">
+<span class="a-text-bold">
+            Buying for work?
+        </span>
+</div>
+<a class="a-link-normal" href="https://www.amazon.com/business/register/welcome?ref_=ab_reg_signin" id="ab-sign-in-ingress-link">
+<span>
+            Shop on Amazon Business
+        </span>
+</a>
+</div>
+</div></div>
+</div>
+<input name="metadata1" type="hidden" value="ECdITeCs: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"/><input name="aaToken" type="hidden" value='{"uniqueValidationId":"1aa0b720-4a31-42f5-98bd-b2789e2278ac"}'/></form>
+</div>
+<div class="a-divider a-divider-break"><h5 aria-level="5">New to Amazon?</h5></div>
+<span class="a-button a-button-span12 a-button-base" id="auth-create-account-link"><span class="a-button-inner"><a class="a-button-text" href="https://www.amazon.com/ap/register?showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&amp;prevRID=HJ0Z76VJW9QRD2NGPC90&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=usflex&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=&amp;failedSignInCount=0&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;pageId=usflex&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0" id="createAccountSubmit">
+          Create your Amazon account
+        </a></span></span>
+</div>
+</div>
+</div>
+</div>
+<div id="right-2">
+</div>
+<div class="a-section a-spacing-top-extra-large auth-footer">
+<div class="a-divider a-divider-section"><div class="a-divider-inner"></div></div>
+<div class="a-section a-spacing-small a-text-center a-size-mini">
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/gp/help/customer/display.html/ref=ap_desktop_footer_cou?ie=UTF8&amp;nodeId=508088" rel="noopener" target="_blank">
+      Conditions of Use
+    </a>
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&amp;nodeId=468496" rel="noopener" target="_blank">
+      Privacy Notice
+    </a>
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/help" rel="noopener" target="_blank">
+      Help
+    </a>
+<span class="auth-footer-seperator"></span>
+</div>
+<div class="a-section a-spacing-none a-text-center">
+<span class="a-size-mini a-color-secondary">
+  © 1996-2024, Amazon.com, Inc. or its affiliates
+</span>
+</div>
+</div>
+</div>
+<div class="auth-external-javascript" data-external-javascripts="" id="auth-external-javascript">
+</div>
+
+
+<!--ACICSetup-->
+
+<!-- cache slot rendered -->
+</div><div id="be" style="display:none;visibility:hidden;"><form action="get" name="ue_backdetect"><input name="ue_back" type="hidden" value="2"/></form>
+
+</div>
+<noscript>
+<img alt="" height="1" src="//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:142-8296383-2037200:HJ0Z76VJW9QRD2NGPC90$uedata=s:%2Fap%2Fuedata%3Fnoscript%26id%3DHJ0Z76VJW9QRD2NGPC90:0" style="display:none;visibility:hidden;" width="1"/>
+</noscript>
+
+<div id="a-popover-root" style="z-index:-1;position:absolute;"></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be public to all users? Answer only with yes or no.

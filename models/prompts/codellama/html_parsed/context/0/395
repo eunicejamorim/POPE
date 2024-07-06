@@ -1,0 +1,485 @@
+The following text is the html file of a webpage. <html class="no-touch" dir="ltr" lang="en-us"><head><meta charset="utf-8"/><meta content="IE=Edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><title>
+	About | Gap Inc.
+</title><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet"/>
+<link href="/_assets/styles/gap-corporate-site.css?v=c6AZUnpBXLqsoLNu1NqlAw2" media="all" rel="stylesheet" type="text/css"/>
+
+
+<link href="/_assets/styles/theme-gapinc.css?v=DoStorHDuSOIs-wJF_b3rw2" media="all" rel="stylesheet" type="text/css"/>
+<meta content="Founded in 1969 with a simple idea — make it easier to find a pair of jeans that fit with a commitment to do more. In the 50+ years since, the company has grown into seven brands, and our initial commitment to do more." name="description"/>
+<meta charset="utf-8"/>
+<link href="/_assets/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/_assets/images/favicon.ico" rel="icon" type="image/x-icon"/>
+<meta content="Gap Inc." property="og:site_name"/><meta content="article" property="og:type"/><meta content="About | Gap Inc." id="ctl00_ogtitle" property="og:title"/><meta content="https://gapinc.com/en-us/about" id="ctl00_ogurl" property="og:url"/><meta content="https://www.gapinc.com/CMSPages/GetAzureFile.aspx?path=~\gapcorporatesite\media\images\brand\gapinc_1-1.jpg&amp;hash=5811df92289ee4c4067afa1017e4c9b20b09f353fa5e79f6e5bfc86b6bdaa668&amp;ext=.jpg" id="ctl00_ogimage" property="og:image"/><meta content="Founded in 1969 with a simple idea — make it easier to find a pair of jeans that fit with a commitment to do more. In the 50+ years since, the company has grown into seven brands, and our initial commitment to do more." id="ctl00_ogdescription" property="og:description"/><meta content="en-us" id="ctl00_oglocale" property="og:locale"/><meta content="summary" name="twitter:card"/><meta content="@GapInc" name="twitter:creator"/><meta content="@GapInc" name="twitter:site"/><meta content="Founded in 1969 with a simple idea — make it easier to find a pair of jeans that fit with a commitment to do more. In the 50+ years since, the company has grown into seven brands, and our initial commitment to do more." id="ctl00_twitterDescription" name="twitter:description"/><meta content="About | Gap Inc." id="ctl00_twitterTitle" name="twitter:title"/><meta content="https://www.gapinc.com/CMSPages/GetAzureFile.aspx?path=~\gapcorporatesite\media\images\brand\gapinc_1-1.jpg&amp;hash=5811df92289ee4c4067afa1017e4c9b20b09f353fa5e79f6e5bfc86b6bdaa668&amp;ext=.jpg" id="ctl00_twitterImage" name="twitter:image"/><meta content="aO6bysM3A2e2r4liz_B4Kx4oVZ2kPARxavUSFQIqTiE" name="google-site-verification"/>
+
+
+
+<!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+</head>
+<body class="gapinc enable-back-to-top" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" id="">
+<div id="page-top"></div>
+<div id="cookie-consent"></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KFCML5N" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<form action="/en-us/about" id="aspnetForm" method="post" onsubmit="javascript:return WebForm_OnSubmit();">
+<div class="aspNetHidden">
+<input id="__CMSCsrfToken" name="__CMSCsrfToken" type="hidden" value="qvxTf2jfCsuVV+A62O13MbkIrbuNt60piZC2tN4CZJrdgOvUAXzX3s92PYeuVEgSIUyJ+0st0+5rnDRisFmJ9PlYPSKq6eJF9SzpuS8a960="/>
+<input id="__EVENTTARGET" name="__EVENTTARGET" type="hidden" value=""/>
+<input id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden" value=""/>
+</div>
+
+
+<input id="lng" name="lng" type="hidden" value="en-US"/>
+
+
+
+
+
+
+
+
+
+
+<div class="aspNetHidden">
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="F568A28B"/>
+<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="jCj1UDbc9WDrdVR5tmRYiCg11rXxGlSCTENG0J9Pwyvc7vHXijJ3dI+bMBjP7YEOfiPnpPKEVs4sn5NSr0r2GuStPWYf7JNrJYYe1ERAOlxLHYoJSFmTpjPzTppscqrCV46nDl9oJ3eNo1z7Mm86ANY75d6DozqT/E+FpP8yzVQ="/>
+</div>
+
+<div id="ctl00_ctxM">
+</div>
+<nav aria-label="jump links" class="jump-links" role="navigation">
+<ul>
+<li><a class="jump-link jump-link-offscreen jump-link-fixed" href="#site-nav">Skip to main navigation</a></li>
+<li><a class="jump-link jump-link-offscreen jump-link-fixed" href="#main">Skip to main content</a></li>
+<li><a class="jump-link jump-link-offscreen jump-link-fixed" href="#footer">Skip to main footer</a></li>
+</ul>
+</nav>
+<header class="site-header">
+<div class="site-header--container">
+<div id="site-header--nav-focus-boundary-start"></div>
+<a class="site-header--logo site-header--nav-focus-reset-start" href="/en-us" id="site-nav"><span class="offscreen">Gap Inc.</span></a>
+<div class="site-header--nav-mobile">
+<a class="site-header--lang-trigger" href="#language-selector">
+<svg aria-hidden="true" class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-globe"></use></svg>USA
+                        <span class="offscreen">opens modal window to select language</span>
+</a>
+<button class="site-header--nav-toggle site-header--nav-focus-reset-end">
+<span class="site-header--nav-toggle-open">
+<svg aria-hidden="true" class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-menu"></use></svg>
+<span class="offscreen">open menu</span>
+</span>
+<span class="site-header--nav-toggle-close">
+<svg aria-hidden="true" class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-close"></use></svg>
+<span class="offscreen">close menu</span>
+</span>
+</button>
+</div>
+<div class="site-header--nav-mobile-flyout">
+<nav aria-label="primary navigation" class="site-header--nav" role="navigation">
+<ul class="primary-CMSListMenuUL" id="uxNavTranslatedOnly">
+<li class="primary-CMSListMenuHighlightedLI has-children">
+<a class="primary-CMSListMenuLinkHighlighted" href="/en-us/about">About</a>
+<ul class="secondary-CMSListMenuUL">
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/about">Overview</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/about/history">History</a>
+</li>
+<li class="secondary-CMSListMenuLI has-children">
+<a class="secondary-CMSListMenuLink" href="/en-us/about/leadership/executive-leadership-team">Leadership</a><button class="site-header--nav-btn-flyout">
+<span class="offscreen">View child links</span>
+</button>
+<ul class="tertiary-CMSListMenuUL">
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/about/leadership/executive-leadership-team">Executive Leadership Team</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/about/leadership/board-of-directors">Board of Directors</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/about/leadership/board-committee-composition">Board Committee Composition</a>
+</li>
+</ul>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/about/old-navy">Old Navy</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/about/gap">Gap</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/about/banana-republic">Banana Republic</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/about/athleta">Athleta</a>
+</li>
+</ul>
+</li>
+<li class="primary-CMSListMenuLI has-children">
+<a class="primary-CMSListMenuLink" href="/en-us/values">Values</a>
+<ul class="secondary-CMSListMenuUL">
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/values">Overview</a>
+</li>
+<li class="secondary-CMSListMenuLI has-children">
+<a class="secondary-CMSListMenuLink" href="/en-us/values/sustainability">Sustainability</a><button class="site-header--nav-btn-flyout">
+<span class="offscreen">View child links</span>
+</button>
+<ul class="tertiary-CMSListMenuUL">
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/sustainability/esg-resources">Environmental, Social and Governance Resources</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/sustainability/empowering-women">Empowering Women</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/sustainability/enabling-opportunity">Enabling Opportunity</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/sustainability/enriching-communities">Enriching Communities</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/sustainability/esg-report">ESG Report</a>
+</li>
+</ul>
+</li>
+<li class="secondary-CMSListMenuLI has-children">
+<a class="secondary-CMSListMenuLink" href="/en-us/values/equality-belonging">Equality &amp; Belonging</a><button class="site-header--nav-btn-flyout">
+<span class="offscreen">View child links</span>
+</button>
+<ul class="tertiary-CMSListMenuUL">
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/commitments">Our Commitments</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/equality-belonging/people-data">People Data</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/equality-belonging/equality-and-belonging-groups">Equality and Belonging Groups</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/equality-belonging/equality-belonging-annual-report">Equality &amp; Belonging Annual Report</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/equality-belonging/color-proud-council">Color Proud Council</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/equality-belonging/equal-pay">Equal Pay</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/values/equality-belonging/supplier-inclusion-program">Supplier Inclusion Program</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="primary-CMSListMenuLI has-children">
+<a class="primary-CMSListMenuLink" href="/en-us/careers">Careers</a>
+<ul class="secondary-CMSListMenuUL">
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/careers">Overview</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/old-navy-careers">Old Navy</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/gap-careers">Gap</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/banana-republic-careers">Banana Republic</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/athleta-careers">Athleta</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/gap-inc-careers">Gap Inc.</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/gap-inc-benefits">Benefits</a>
+</li>
+<li class="secondary-CMSListMenuLI has-children">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/gap-inc-talent-areas">Talent Areas</a><button class="site-header--nav-btn-flyout">
+<span class="offscreen">View child links</span>
+</button>
+<ul class="tertiary-CMSListMenuUL">
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/careers/gap-inc-talent-areas/technology-and-digital">Technology</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/careers/gap-inc-talent-areas/global-supply-chain">Global Supply Chain</a>
+</li>
+</ul>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/culture-blog">Culture Blog</a>
+</li>
+<li class="secondary-CMSListMenuLI has-children">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/job-search">Job Search</a><button class="site-header--nav-btn-flyout">
+<span class="offscreen">View child links</span>
+</button>
+<ul class="tertiary-CMSListMenuUL">
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="/en-us/careers/job-search/my-saved-jobs">My Saved Jobs</a>
+</li>
+</ul>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/careers/seasonal-jobs">Seasonal Hiring</a>
+</li>
+</ul>
+</li>
+<li class="primary-CMSListMenuLI has-children">
+<a class="primary-CMSListMenuLink" href="/en-us/investors">Investors</a>
+<ul class="secondary-CMSListMenuUL">
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/investors">Overview</a>
+</li>
+<li class="secondary-CMSListMenuLI has-children">
+<a class="secondary-CMSListMenuLink" href="https://investors.gapinc.com/financial-information/default.aspx">Financial Information</a><button class="site-header--nav-btn-flyout">
+<span class="offscreen">View child links</span>
+</button>
+<ul class="tertiary-CMSListMenuUL">
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="https://investors.gapinc.com/financial-information/default.aspx">Quarterly Results</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="https://investors.gapinc.com/financial-information/annual-reports/default.aspx">Annual Reports</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="https://investors.gapinc.com/financial-information/sec-filings/default.aspx">SEC Filings</a>
+</li>
+</ul>
+</li>
+<li class="secondary-CMSListMenuLI has-children">
+<a class="secondary-CMSListMenuLink" href="https://investors.gapinc.com/events-and-presentations/default.aspx">News and Events</a><button class="site-header--nav-btn-flyout">
+<span class="offscreen">View child links</span>
+</button>
+<ul class="tertiary-CMSListMenuUL">
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="https://investors.gapinc.com/press-releases/default.aspx">Press Releases</a>
+</li>
+<li class="tertiary-CMSListMenuLI">
+<a class="tertiary-CMSListMenuLink" href="https://investors.gapinc.com/press-releases/events-and-presentations/default.aspx">Events</a>
+</li>
+</ul>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="https://investors.gapinc.com/stock-information/default.aspx">Stock Information</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/investors/real-estate">Real Estate</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="https://investors.gapinc.com/analyst-coverage/default.aspx">Analyst Coverage</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="https://investors.gapinc.com/shareholder-services/default.aspx">Shareholder Services</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/investors/governance">Governance</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/investors/corporate-compliance">Corporate Compliance</a>
+</li>
+</ul>
+</li>
+<li class="primary-CMSListMenuLI has-children">
+<a class="primary-CMSListMenuLink" href="/en-us/news">News</a>
+<ul class="secondary-CMSListMenuUL">
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/news">All News</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/news/company">Company</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/news/design">Design</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/news/people">People</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/news/technology">Technology</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/news/values">Values</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/news/press-releases">Press Releases</a>
+</li>
+<li class="secondary-CMSListMenuLI">
+<a class="secondary-CMSListMenuLink" href="/en-us/news/media-center">Media Center</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="site-header--utility">
+<li class="site-header--utility-li site-header--utility-li-lang">
+<a class="site-header--lang-trigger site-header--utility-link" href="#language-selector">
+<svg aria-hidden="true" class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-globe"></use></svg>USA
+                                    <span class="offscreen">opens modal window to select language</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="site-header--search">
+<button class="site-header--search-toggle">
+<span class="site-header--search-toggle-open">
+<svg aria-hidden="true" class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-search"></use></svg>
+<span class="offscreen">open search</span>
+</span>
+<span class="site-header--search-toggle-close">
+<svg aria-hidden="true" class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-close"></use></svg>
+<span class="offscreen">close search</span>
+</span>
+</button>
+<div class="site-header--search-form">
+<div class="searchbox" id="ctl00_uxNavSearch_pnlSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_uxNavSearch_btnSearch')">
+<label class="offscreen" for="ctl00_uxNavSearch_txtWord" id="ctl00_uxNavSearch_lblSearch">Search Site:</label>
+<input id="ctl00_uxNavSearch_txtWord_exWatermark_ClientState" name="ctl00$uxNavSearch$txtWord_exWatermark_ClientState" type="hidden"/><input class="form-control WatermarkText" id="ctl00_uxNavSearch_txtWord" maxlength="1000" name="ctl00$uxNavSearch$txtWord" placeholder="" type="text"/>
+<div class="searchbox--submit">
+<input class="btn btn-default" id="ctl00_uxNavSearch_btnSearch" name="ctl00$uxNavSearch$btnSearch" type="submit" value="Go"/>
+<span class="searchbox--submit-icon">
+<svg class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-search"></use></svg>
+</span>
+</div>
+<div class="predictiveSearchHolder" id="ctl00_uxNavSearch_pnlPredictiveResultsHolder">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="site-header--nav-focus-boundary-end"></div>
+</div>
+
+</header>
+<div class="page-container" id="page-container">
+<main class="site-main" id="main" role="main">
+<div class="container-fluid">
+<div class="hero-2 widget-margin-bottom anim-into-view">
+<div class="container-fluid hero-2--container">
+<div class="hero-2--content anim-into-view--item" data-anim="slide-right" style="">
+<h1 class="hero-2--title h2">Creating products and experiences that shape culture since 1969.</h1>
+</div>
+<div class="hero-2--media anim-into-view--item" data-anim="slide-left" style="">
+<div class="hero-2--media-content">
+<div class="hero-2--media-holder anim-into-view--preload-bg-img" style="background-image:url('https://gapinc-prod.azureedge.net/gapmedia/gapcorporatesite/media/images/about/gap-inc/corp-about-gapinc-sum24.png')">
+<span class="offscreen"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="promo-card widget-margin-bottom layout-option-1 no-bg">
+<div class="promo-card--inner widget-options-content">
+<div class="promo-card--image" data-anim="slide-left" style="background-image:url('https://gapinc-prod.azureedge.net/gapmedia/gapcorporatesite/media/images/about/oceanave.jpg')">
+<span class="offscreen">three women lying in the grass</span>
+</div>
+<div class="promo-card--content cms-content" data-anim="slide-right">
+<div class="promo-card--content-inner">
+<div class="promo-card--content-subtitle h4"></div>
+<h2 class="h3">Our history</h2>
+<p>In 1969, inclusivity meant not just finding a pair of jeans that fit founder Don Fisher's 6'4 frame, but creating a retail experience that fit for all. It meant Doris Fisher having the same equity stake in the company as her husband, back when most women weren’t expected in the building, let alone in the board room. </p>
+<p>Explore our history of championing inclusion in the over 50 years since. </p>
+<p><a class="button" href="/en-us/about/history">see how it all started</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="image-video-content widget-margin-bottom layout-option-2 align-content-center">
+<div class="image-video-content--inner widget-options-content">
+<div class="image-video-content--media">
+<img alt="pride flag" class="image-video-content--image" src="https://gapinc-prod.azureedge.net/gapmedia/gapcorporatesite/media/images/values/values-diversity.jpg"/>
+</div>
+<div class="image-video-content--content">
+<h3>Do More Than Sell Clothes</h3>
+<p>We believe that when you decide that inclusion isn’t optional, not only do the gaps between us close, but a whole new world of possibilities opens. Discover how we’re weaving inclusion into everything we do for our customers, our communities, and the planet.</p>
+<p><a class="button" href="/en-us/values">Learn More</a></p>
+</div>
+</div>
+</div>
+<div class="promo-card widget-margin-bottom anim-into-view layout-option-1 no-bg">
+<div class="promo-card--inner widget-options-content">
+<div class="promo-card--image anim-into-view--item anim-into-view--start-pos" data-anim="slide-left" style='background-image: url("https://gapinc-prod.azureedge.net/gapmedia/gapcorporatesite/media/images/about/about-leadership.jpg"); opacity: 0; transform: matrix(1, 0, 0, 1, 75, 0);'>
+<span class="offscreen">Gap Jeans label</span>
+</div>
+<div class="promo-card--content cms-content anim-into-view--item anim-into-view--start-pos" data-anim="slide-right" style="opacity: 0; transform: matrix(1, 0, 0, 1, -75, 0);">
+<div class="promo-card--content-inner">
+<div class="promo-card--content-subtitle h4"></div>
+<h2 class="h3">Our leadership</h2>
+<p>We have a talented executive management team focused on taking smart risks that keep us ahead of the industry to drive our people, purpose, and profits forward.</p>
+<p>Meet the leaders of Gap Inc. who are focused on driving the company forward.</p>
+<p><a class="button" href="/en-us/about/leadership">MEET OUR LEADERSHIP TEAM</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="site-footer" id="footer">
+<div class="container-fluid">
+<section class="footer-content footer-nav" id="footer-nav">
+<div class="footer-nav--list"><a class="footer-nav--link" href="/en-us/about">About</a> <a class="footer-nav--link" href="/en-us/careers">Careers</a> <a class="footer-nav--link" href="/en-us/investors">Investors</a> <a class="footer-nav--link" href="/en-us/values">Values</a> <a class="footer-nav--link" href="/en-us/news">News</a> <a class="footer-nav--link" href="/en-us/contact-us">Contact Us</a> <a class="footer-nav--link" href="/en-us/faq">FAQ</a> <a class="footer-nav--link" href="/en-us/careers/careers-login">Careers Login</a></div>
+</section>
+<section class="footer-content footer-social" id="footer-social">
+<div class="footer-social--logos">
+<p class="footer-social--title">Follow Gap Inc.</p>
+<a class="footer-social--logo" href="https://www.facebook.com/GapInc/" target="_blank"><svg class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-facebook"></use></svg> <span class="sr-only">Facebook: link opens in a new window</span> </a> <a class="footer-social--logo" href="https://twitter.com/GapInc" target="_blank"> <svg class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-twitter"></use></svg> <span class="sr-only">Twitter: link opens in a new window</span> </a> <a class="footer-social--logo" href="https://www.instagram.com/gapinc/" target="_blank"> <svg class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-instagram"></use></svg> <span class="sr-only">Instagram: link opens in a new window</span> </a> <a class="footer-social--logo" href="https://www.youtube.com/user/GapInc" target="_blank"> <svg class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-youtube"></use></svg> <span class="sr-only">YouTube: link opens in a new window</span> </a> <a class="footer-social--logo" href="https://www.linkedin.com/company/gap-inc-" target="_blank"> <svg class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-linkedin"></use></svg> <span class="sr-only">LinkedIn: link opens in a new window</span> </a></div>
+</section>
+<section class="footer-content footer-brands" id="footer-brands">
+<div class="footer-brands--logos">
+<div class="footer-brands--logo-container"><a class="footer-brands--logo footer-brands--logo-oldnavy" href="http://www.oldnavy.com" target="_blank"><span class="sr-only">Old Navy: link opens in a new window</span> </a></div>
+<div class="footer-brands--logo-container"><a class="footer-brands--logo footer-brands--logo-gap" href="http://www.gap.com" target="_blank"><span class="sr-only">GAP: link opens in a new window</span> </a></div>
+<div class="footer-brands--logo-container"><a class="footer-brands--logo footer-brands--logo-bananarepublic" href="http://www.bananarepublic.com" target="_blank"><span class="sr-only">Banana Republic: link opens in a new window</span> </a></div>
+<div class="footer-brands--logo-container"><a class="footer-brands--logo footer-brands--logo-athleta" href="http://www.athleta.com" target="_blank"><span class="sr-only">Athleta: link opens in a new window</span> </a></div>
+</div>
+</section>
+<section class="footer-content footer-terms" id="footer-terms">
+<p class="footer-terms--description">Gap Inc. is an equal-opportunity employer and is committed to providing a workplace free from harassment and discrimination. We are committed to recruiting, hiring, training and promoting qualified people of all backgrounds, and make all employment decisions without regard to any protected status.</p>
+<ul class="inline-link-list bordered">
+<li><a href="/en-us/policy/terms-of-use">Terms of Use</a></li>
+<li><a href="/en-us/careers/privacy-policy#terms">Terms of Use Careers</a></li>
+<li><a href="/en-us/consumer-privacy-policy">Privacy Policy</a></li>
+<li><!-- OneTrust Cookies Settings button start --><button class="ot-sdk-show-settings" id="ot-sdk-btn">Your Privacy Choices</button><!-- OneTrust Cookies Settings button end --></li>
+<li><a href="/en-us/consumer-privacy-policy?#california">Your California Privacy Rights</a></li>
+<li><a href="/en-us/careers/privacy-policy">Privacy Policy Careers</a></li>
+<li><a href="/en-us/policy/uk-modern-slavery-act">UK Modern Slavery Act</a></li>
+<li><a href="https://www.gap.com/customerService/info.do?cid=1005563">Americans with Disabilities Act</a> </li>
+<li><a href="/en-us/policy/endorsement-policy">Endorsement Policy</a></li>
+</ul>
+<p>2023 © Gap Inc. All rights reserved</p>
+</section>
+</div>
+</footer>
+</div>
+<div class="back-to-top">
+<a class="button" href="#page-top">
+<svg aria-hidden="true" class="svg-icon" focusable="false"><use xlink:href="/_assets/images/svg/svg-icon-sprite.svg#icon-arrow-up"></use></svg>
+<span class="offscreen">Back to top</span>
+</a>
+</div>
+
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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"/>
+
+</form>
+<div id="breakpoint-indicator"></div><div style="display: none; visibility: hidden;">
+
+
+</div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div>
+<div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div><div aria-label="Cookie banner" class="otFloatingRoundedCorner otRelFont ot-bottom-left ot-wo-title ot-bnr-w-logo vertical-align-content ot-buttons-fw" id="onetrust-banner-sdk" role="region" style="bottom: 1rem;" tabindex="0"><div aria-describedby="onetrust-policy-text" aria-label="Privacy" class="ot-sdk-container" role="alertdialog"><div class="ot-sdk-row"><div class="ot-sdk-twelve ot-sdk-columns" id="onetrust-group-container"><div id="onetrust-policy"><div class="banner-header"><div class="banner_logo"></div><img alt="Company Logo" class="ot-bnr-logo" src="https://cdn.cookielaw.org/logos/e1cf9ab6-fc39-4557-b4ef-4393861dad52/367b1947-251d-4947-be9f-4e669192a225/7dc30214-ea6e-41dc-9f09-6aa1ddb6a82d/GapInc_Logo_Primary.png" title="Company Logo"/></div><div id="onetrust-policy-text">We’d like to use information collected through cookies and similar technologies linked to your browser or device to personalize online content, serve ads targeted to your interests and based on your online activities, and analyze our performance. We may share this information with other parties to provide these services and they may use the information for their own marketing and other purposes. Learn more in our <a href="https://www.gapinc.com/en-us/consumer-privacy-policy" rel="nofollow">Privacy Policy</a>.
+<br/><br/>
+You can withdraw your consent to our use of this information at any time by clicking the “Your Privacy Choices” link located at the bottom of our sites and within our mobile apps under Customer Service.
+<br/><br/></div></div></div><div class="ot-sdk-twelve ot-sdk-columns has-reject-all-button" id="onetrust-button-group-parent"><div id="onetrust-button-group"><div class="banner-actions-container"><button id="onetrust-accept-btn-handler">Accept additional cookies</button> <button id="onetrust-reject-all-handler">Reject additional cookies</button></div></div></div><!-- Close Button --><div id="onetrust-close-btn-container"><button aria-label="Close" class="onetrust-close-btn-handler banner-close-button ot-close-icon" style='background-image: url("https://cdn.cookielaw.org/logos/static/ot_close.svg");'></button></div><!-- Close Button END--></div></div></div><div aria-label="Preference center" class="otPcCenter ot-hide ot-fade-in otRelFont" id="onetrust-pc-sdk" lang="en" role="region"><div aria-describedby="ot-pc-desc" aria-modal="true" role="alertdialog" style="height: 100%;"><!-- Close Button --><div class="ot-pc-header"><!-- Logo Tag --><div aria-label="Company Logo" class="ot-pc-logo" role="img"><img alt="Company Logo" src="https://cdn.cookielaw.org/logos/e1cf9ab6-fc39-4557-b4ef-4393861dad52/367b1947-251d-4947-be9f-4e669192a225/cfa85bd2-39eb-49c4-97fb-b6bf9914de32/GapInc_Logo_Primary1.png"/></div><button aria-label="Close" class="ot-close-icon" id="close-pc-btn-handler" style='background-image: url("https://cdn.cookielaw.org/logos/static/ot_close.svg");'></button></div><!-- Close Button --><div class="ot-pc-scrollbar" id="ot-pc-content"><div class="ot-optout-signal ot-hide"><div class="ot-optout-icon"><svg xmlns="http://www.w3.org/2000/svg"><path class="ot-floating-button__svg-fill" d="M14.588 0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" fill-rule="evenodd"></path></svg></div><span>Your Browser Opt-Out Preference Is Honored</span></div><h2 id="ot-pc-title"></h2><div id="ot-pc-desc"><br/></div><section class="ot-sdk-row ot-cat-grp"><h3 aria-hidden="true" id="ot-category-title"></h3><div class="ot-cat-item ot-vs-config" data-optanongroupid="BG157"><!-- Group name --><h4 class="ot-cat-header" id="ot-header-id-BG157">Privacy Preference Page</h4><div class="ot-tgl"><input aria-checked="false" aria-labelledby="ot-header-id-BG157" class="category-switch-handler" data-optanongroupid="BG157" id="ot-group-id-BG157" name="ot-group-id-BG157" role="switch" type="checkbox"/> <label class="ot-switch" for="ot-group-id-BG157"><span aria-checked="false" aria-label="Privacy Preference Page" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Privacy Preference Page</span></label> </div><!-- Group description --><p class="ot-category-desc" id="ot-desc-id-BG157">Gap Inc. and its family of brands (Gap, Old Navy, Banana Republic, and Athleta) may share personal information with other parties to provide analytics services and serve ads on our behalf targeted to your interests and based on your online activities. Information may be linked to your browser or device (like cookies and similar tracking technologies) and related to you if you have a customer account or interact with us in other ways. These parties may use the information for their own marketing and to offer products and services on our sites and apps. <br/> <br/> Information is not shared for money, but certain uses may be deemed the “sale” or “sharing” of personal information under applicable privacy laws. <br/> <br/> You can opt-out of these uses, by taking the steps below. <span style="color:black"><strong> Please note that this Gapinc.com site (www.gapinc.com) runs independently from our other sites. The steps below will only apply to information related to your access and use of this site and Gapinc.com interactions.</strong></span> <br/> <br/> <span style="color:black"><strong>1. Slide the toggle above to the left and click "Submit"</strong></span> to stop the sharing of information linked to your browser or device. Please keep in mind that these tools are limited to the browser or device you’re using because they work off your browser ID and device ID. If you’re not signed-in or don’t have a customer account, you will need to take this step on each browser and device you use. <br/> <br/> You can also stop this sharing by visiting our sites with an opt-out preference enabled in your browser (like the Global Privacy Control). If enabled, we’ll display a banner that says “Your Browser Opt-Out Preference Is Honored.” <br/> <br/> <span style="color:black"><strong> 2. Please then come back to this page</strong></span> and use <a href="https://privacyportal.onetrust.com/webform/e1cf9ab6-fc39-4557-b4ef-4393861dad52/5069878c-b35b-463f-a1ee-b8d846c30070" rel="nofollow noopener noreferrer" target="_blank">this webform</a> to provide information necessary to stop the sharing of other information that may be related to you.  <br/> <br/> Please visit our <a href="https://www.gapinc.com/en-us/consumer-privacy-policy" rel="nofollow noopener noreferrer" target="_blank">Privacy Policy</a> for more on our information practices.</p></div><div class="ot-cat-item ot-vs-config" data-optanongroupid="BG158"><!-- Group name --><h4 class="ot-cat-header" id="ot-header-id-BG158"><br/></h4><!-- Group description --><p class="ot-category-desc" id="ot-desc-id-BG158"></p></div><!-- Groups sections starts --><!-- Group section ends --><!-- Accordion Group section starts --><!-- Accordion Group section ends --></section></div><section class="ot-hide ot-hosts-ui ot-pc-scrollbar" id="ot-pc-lst"><div id="ot-pc-hdr"><div id="ot-lst-title"><button aria-label="Back" class="ot-link-btn back-btn-handler"><svg id="ot-back-arw" viewbox="0 0 444.531 444.531" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Back Button</title><g><path d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
+                    l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
+                    c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
+                    s18.795-3.521,25.834-10.564l21.409-21.412c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978
+                    L213.13,222.409z" fill="#656565"></path></g></svg></button><h3>Cookie List</h3></div><div class="ot-lst-subhdr"><div class="ot-search-cntr"><p class="ot-scrn-rdr" role="status"></p><input aria-label="Cookie list search" id="vendor-search-handler" name="vendor-search-handler" placeholder="Search…" type="text"/> <svg aria-hidden="true" viewbox="0 -30 110 110" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Search Icon</title><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23
+            s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+            c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+            s-17-7.626-17-17S14.61,6,23.984,6z" fill="#2e3644"></path></svg></div><div class="ot-fltr-cntr"><button aria-haspopup="true" aria-label="Filter" id="filter-btn-handler"><svg aria-hidden="true" role="presentation" viewbox="0 0 402.577 402.577" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Filter Icon</title><g><path d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
+      c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
+      c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
+      C402.765,25.895,404.093,19.231,400.858,11.427z" fill="#fff"></path></g></svg></button></div><div id="ot-anchor"></div><section id="ot-fltr-modal"><div id="ot-fltr-cnt"><button id="clear-filters-handler">Clear</button><div class="ot-fltr-scrlcnt ot-pc-scrollbar"><div class="ot-fltr-opts"><div class="ot-fltr-opt"><div class="ot-chkbox"><input aria-checked="false" class="category-filter-handler" id="chkbox-id" type="checkbox"/> <label for="chkbox-id"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div><div class="ot-fltr-btns"><button id="filter-apply-handler">Apply</button> <button id="filter-cancel-handler">Cancel</button></div></div></div></section></div></div><section class="ot-host-cnt ot-pc-scrollbar" id="ot-lst-cnt"><div id="ot-sel-blk"><div class="ot-sel-all"><div class="ot-sel-all-hdr"><span class="ot-consent-hdr">Consent</span> <span class="ot-li-hdr">Leg.Interest</span></div><div class="ot-sel-all-chkbox"><div class="ot-chkbox" id="ot-selall-hostcntr"><input aria-checked="false" id="select-all-hosts-groups-handler" type="checkbox"/> <label for="select-all-hosts-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-vencntr"><input aria-checked="false" id="select-all-vendor-groups-handler" type="checkbox"/> <label for="select-all-vendor-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-licntr"><input aria-checked="false" id="select-all-vendor-leg-handler" type="checkbox"/> <label for="select-all-vendor-leg-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div></div><div class="ot-sdk-row"><div class="ot-sdk-column"></div></div></section></section><div class="ot-pc-footer"><div class="ot-btn-container"> <button class="save-preference-btn-handler onetrust-close-btn-handler">Submit</button></div><!-- Footer logo --><div class="ot-pc-footer-logo"><a aria-label="Powered by OneTrust Opens in a new Tab" href="https://www.onetrust.com/products/cookie-consent/" rel="noopener noreferrer" target="_blank"><img alt="Powered by Onetrust" src="https://cdn.cookielaw.org/logos/static/powered_by_logo.svg" title="Powered by OneTrust Opens in a new Tab"/></a></div></div><!-- Cookie subgroup container --><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element --><!-- Checkbox HTML --><!-- plus minus--><!-- Arrow SVG element --><!-- Accordion basic element --><span aria-atomic="true" aria-live="polite" class="ot-scrn-rdr"></span><!-- Vendor Service container and item template --></div><iframe aria-hidden="true" class="ot-text-resize" sandbox="allow-same-origin" style="position: absolute; top: -50000px; width: 100em;" title="onetrust-text-resize"></iframe></div></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website gap.com . It is in the url https://www.gapinc.com/en-us/about and when registering the user gave the following information {"name": "Jane Doe", "email": "authorization.thesis@gmail.com", "password": "***!"} Should this page be private to a certain user? Answer only with yes or no.

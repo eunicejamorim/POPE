@@ -1,0 +1,1267 @@
+The following text is the html file of a webpage. <html class="no-js no-touch"><head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="lfN21cwSj9vf6iAQ3Eo1y7ExRPiX3WJ6s581uQcoJGQ" name="google-site-verification"/>
+<title>
+		
+			The New York Times Licensing Group | Content Licensing Company
+		
+	</title>
+<meta content="The New York Times Licensing Group empowers companies to connect with their audiences, harnessing The Times’s world-class journalism and content curation t" name="description"/>
+<link href="https://cdn-nyt-prd.nytlicensing.com/static/img/favicon-nytsyn.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://cdn-nyt-prd.nytlicensing.com/static/css/libraries-6b40c0214abc84122184.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdn-nyt-prd.nytlicensing.com/static/css/app-55a627930e6601dd8b10.css" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" name="viewport"/>
+<link href="https://nytlicensing.com/" rel="canonical"/>
+
+
+
+
+
+
+
+</head>
+<body class="body-container" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0">
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PXZ49X4" style="display:none;visibility:hidden" title="title" width="0"></iframe></noscript>
+<div class="sec__main--login">
+<!-- Modal -->
+<div class="modal fade" id="id_modal_login" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<!-- Modal content-->
+<div class="modal-content">
+<div class="modal-header">
+<div class="modal-title">Sign In</div>
+<a class="modal-close" data-bs-dismiss="modal">Close</a>
+</div>
+<div class="modal-body sec__main--login-form">
+<div class="sec__main--login-form-content">
+<form class="login-form">
+<input name="csrfmiddlewaretoken" type="hidden" value="sKTuLfeXzTsy297fvU7FkWZIAy8pzEPBeP49dIxRPrLTYr4mbMuRlITyIjStDVLE"/>
+<div class="form-group">
+<label for="id_username">Email address</label>
+<input class="form-control" id="id_username" name="username" type="text"/>
+<span class="error username"></span>
+</div>
+<div class="form-group">
+<label for="id_password">Password</label>
+<input class="form-control" id="id_password" name="password" type="password"/>
+<span class="error password"></span>
+</div>
+<div class="checkbox marg-bot-24">
+<label>
+<input class="no-validate" id="id-remember-me-checkbox" type="checkbox"/>Remember me
+								<span class="check-container"><span class="check-icon"></span></span>
+</label>
+</div>
+<input class="js-verify-session" name="verify_session" type="hidden" value="1"/>
+<input class="js-redirect no-validate" name="next" type="hidden" value=""/>
+<button class="btn btn-primary marg-bot-40" type="submit">Sign In</button>
+<div class="sec__main--login-form--forgot-password"><a href="/forgot-password/">Forgot password?</a></div>
+<div class="sec__main--login-form--register"><a href="/register/">Don't have an account? Register</a></div>
+</form>
+<div class="sec__main--login-footer">
+<a href="https://nytlicensing.com/terms-of-service/" rel="noreferrer noopener external" target="_blank">Terms of Service</a>
+<a href="https://help.nytimes.com/hc/en-us/articles/10940941449492/" rel="noreferrer noopener external" target="_blank">Privacy Policy</a>
+<a class="js-california-notices d-none" href="https://help.nytimes.com/hc/en-us/articles/10940941449492#california-notice/" rel="noreferrer noopener external" target="_blank">California Notices</a>
+<a href="/cookie-policy/">Cookie Policy</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sec__main--multiple-login">
+<div class="modal fade" id="id_modal_multiple_login" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title">Multiple Logins Detected</h4>
+<a class="modal-close" data-bs-dismiss="modal">Close</a>
+</div>
+<div class="modal-body">
+				This account is currently logged to NYTLicensing.com using the same credentials. You have an option to cancel your login or disconnect from other systems.
+				<div class="modal-buttons">
+<button class="js-multiple-login btn btn-primary" type="submit">Sign In here</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<header>
+<div class="sec__main--navbar desktop-navbar">
+<div class="page-standard-width full-width">
+<div class="sec__main--navbar-container">
+<div class="navbar-item">
+<a class="navbar-link" href="/register/">Register</a>
+</div>
+<div class="navbar-item">
+<a class="navbar-link js-login-modal-trigger" data-bs-target="#id_modal_login" data-bs-toggle="modal" href="#">
+					Sign In
+				</a>
+</div>
+<div class="navbar-item">|</div>
+<div class="navbar-item">
+<a class="navbar-link" href="/contact/">Contact</a>
+</div>
+<div class="navbar-item">
+<a class="navbar-link" href="/help/">Help</a>
+</div>
+</div>
+</div>
+</div>
+<div class="page-standard-width print-visible print-header">
+	FROM THE NEW YORK TIMES LICENSING GROUP
+</div>
+</header>
+<div class="sec__main--navigation">
+<nav class="navbar navbar-expand-xl navbar-default">
+<div class="container desktop-navigation page-standard-width">
+<a class="navbar-brand" href="/">
+<img alt="NYTLicensing Logo" class="sec__main--navigation-logo" height="37" src="https://cdn-nyt-prd.nytlicensing.com/static/img/logo.svg" width="166"/>
+</a>
+<div class="navbar-collapse collapse">
+<ul class="navbar-nav ms-auto me-auto">
+<li class="nav-item">
+<a class="nav-link" href="/search/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Search Content', 'destination': '/search/'})">Search Content</a>
+</li>
+<li class="nav-item has-children">
+<a class="nav-link" href="javascript:;" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Products &amp; Services', 'destination': 'no link'})">Products &amp; Services</a>
+<div class="submenu">
+<ul class="submenu-col">
+<li class="submenu-item level-1">
+<a href="/content/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Explore Our Catalog', 'destination': '/content/'})">Explore Our Catalog &gt;</a>
+<ul>
+<li class="submenu-item level-2">
+<a href="/content/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Content Feeds', 'destination': '/content/'})">Content Feeds</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/magazines/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Magazines', 'destination': '/magazines/'})">Magazines</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/special-packages/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Special Packages', 'destination': '/special-packages/'})">Special Packages</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/outsourcing-industry-experts/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Thought Leadership', 'destination': '/outsourcing-industry-experts/'})">Thought Leadership</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/timesdigest/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'TimesDigest', 'destination': '/timesdigest/'})">TimesDigest</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="submenu-col">
+<li class="submenu-item level-1">
+<a href="/content/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Publications', 'destination': '/content/'})">Publications &gt;</a>
+<ul>
+<li class="submenu-item level-2">
+<a href="/nytimes/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'The New York Times', 'destination': '/nytimes/'})">The New York Times</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/content/business/fortune/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Fortune', 'destination': '/content/business/fortune/'})">Fortune</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/content/business/harvard-business-review/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Harvard Business Review', 'destination': '/content/business/harvard-business-review/'})">Harvard Business Review</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/content/new-york-times-cooking/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'NYT Cooking', 'destination': '/content/new-york-times-cooking/'})">NYT Cooking</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/content/scientific-american/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Scientific American', 'destination': '/content/scientific-american/'})">Scientific American</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="submenu-col">
+<li class="submenu-item level-1">
+<a href="/type/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Media Types', 'destination': '/type/'})">Media Types &gt;</a>
+<ul>
+<li class="submenu-item level-2">
+<a href="/content/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Articles', 'destination': '/content/'})">Articles</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/type/#graphics" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Graphics', 'destination': '/type/#graphics'})">Graphics</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/type/#photos" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Photos', 'destination': '/type/#photos'})">Photos</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/type/#videos" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Videos', 'destination': '/type/#videos'})">Videos</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/current-events/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Current Events', 'destination': '/current-events/'})">Current Events</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="submenu-col">
+<li class="submenu-item level-1">
+<a href="/language/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Languages', 'destination': '/language/'})">Languages &gt;</a>
+<ul>
+<li class="submenu-item level-2">
+<a href="/language/#chinese" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Chinese', 'destination': '/language/#chinese'})">Chinese</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/language/#german" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'German', 'destination': '/language/#german'})">German</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/language/#portuguese" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Portuguese', 'destination': '/language/#portuguese'})">Portuguese</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/language/#spanish" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Spanish', 'destination': '/language/#spanish'})">Spanish</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/latest/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Latest', 'destination': '/latest/'})">Latest</a>
+</li>
+<li class="nav-item has-children">
+<a class="nav-link" href="https://nytlicensing.com/resources/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Resources', 'destination': 'https://nytlicensing.com/resources/'})">Resources</a>
+<div class="submenu">
+<ul class="submenu-col">
+<li class="submenu-item level-1">
+<a href="/resources/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Learning Tools', 'destination': '/resources/'})">Learning Tools &gt;</a>
+<ul>
+<li class="submenu-item level-2">
+<a href="/resources/#whitepapers" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Whitepapers', 'destination': '/resources/#whitepapers'})">Whitepapers</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/resources/#casestudies" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Case Studies', 'destination': '/resources/#casestudies'})">Case Studies</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/resources/#webinars" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Webinars', 'destination': '/resources/#webinars'})">Webinars</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/resources/#infographics" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Infographics', 'destination': '/resources/#infographics'})">Infographics</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/resources/#usecase" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Use Case Guides', 'destination': '/resources/#usecase'})">Use Case Guides</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/latest/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Blog Posts', 'destination': '/latest/'})">Blog Posts</a>
+</li>
+</ul></li></ul><ul class="submenu-col"><li><ul>
+<li class="submenu-item level-2 new-column">
+<a href="/resources/#faqs" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'FAQs', 'destination': '/resources/#faqs'})">FAQs</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li class="nav-item has-children">
+<a class="nav-link" href="javascript:;" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'About Us', 'destination': 'no link'})">About Us</a>
+<div class="submenu">
+<ul class="submenu-col">
+<li class="submenu-item level-1">
+<a href="/what-we-do/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'What We Do', 'destination': '/what-we-do/'})">What We Do &gt;</a>
+<ul>
+<li class="submenu-item level-2">
+<a href="/content-brands/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Content for Brands', 'destination': '/content-brands/'})">Content for Brands</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/content-media-organizations/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Content for Media Organizations', 'destination': '/content-media-organizations/'})">Content for Media Organizations</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/education/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Content for Education', 'destination': '/education/'})">Content for Education</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="submenu-col">
+<li class="submenu-item level-1">
+								Work With Us
+								
+								<ul>
+<li class="submenu-item level-2">
+<a href="/license-our-content/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'License Our Content', 'destination': '/license-our-content/'})">License Our Content</a>
+</li>
+<li class="submenu-item level-2">
+<a href="/join-our-portfolio/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Join Our Portfolio', 'destination': '/join-our-portfolio/'})">Join Our Portfolio</a>
+</li>
+<li class="submenu-item level-2">
+<a href="http://nytimesgroupsubscriptions.com/?Pardot_Campaign_Code_Form_Input=74L6R" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Navigation', 'click_text': 'Group Subscriptions', 'destination': 'http://nytimesgroupsubscriptions.com/?Pardot_Campaign_Code_Form_Input=74L6R'})">Group Subscriptions</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="navigation-button">
+<a class="btn btn-border" href="/contact/?utm_campaign=navigation-button-cta&amp;utm_source=header/" onclick="syn4('cta_click', {'page_url': 'https://nytlicensing.com/', 'name': 'Nav CTA', 'click_text': 'Book a Demo', 'destination': '/contact/?utm_campaign=navigation-button-cta&amp;utm_source=header/'})">Book a Demo</a>
+</div>
+</div>
+<div class="container mobile-navigation page-standard-width">
+<div class="navbar-header">
+<button aria-controls="navbar" aria-expanded="false" class="navbar-hamburger navbar-toggler shadow-none collapsed" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand no-margin no-padding" href="/">
+<img alt="NYTLicensing Logo" height="32" src="https://cdn-nyt-prd.nytlicensing.com/static/img/logo.svg" width="144"/>
+</a>
+<a class="search-icon" href="/search/">
+<svg class="navbar-search" viewbox="0 0 25.71 25.71" xmlns="http://www.w3.org/2000/svg"><path d="M10.6,21.2A10.6,10.6,0,1,1,21.2,10.6,10.61,10.61,0,0,1,10.6,21.2ZM10.6,2a8.6,8.6,0,1,0,8.6,8.6A8.61,8.61,0,0,0,10.6,2Z"></path><rect height="10.86" transform="translate(-8.76 21.16) rotate(-45)" width="2" x="20.16" y="15.73"></rect></svg>
+</a>
+</div>
+<div class="navbar-collapse collapse" id="navbar">
+<div class="navbar-collapse-wrapper">
+<div class="navbar-collapse-header page-standard-width">
+<a class="sec__main--navbar-item-register-cta" href="/register/">
+						Register
+					</a>
+<a class="sec__main--navbar-item-login-cta js-login-modal-trigger" data-bs-target="#id_modal_login" data-bs-toggle="modal" href="#">
+						Sign In
+					</a>
+</div>
+<div class="mob-links page-standard-width" id="accordionMobileNav">
+<div class="mob-item">
+<a class="mob-item-link collapsed" href="/search/">Search Content</a>
+</div>
+<div class="mob-item">
+<a aria-controls="nav-2" aria-expanded="false" class="mob-item-link has-children collapsed" data-bs-target="#nav-2" data-bs-toggle="collapse" href="#">
+							Products &amp; Services
+						</a>
+<div class="mob-subitem collapse" data-bs-parent="#accordionMobileNav" id="nav-2">
+<div class="dropdown">
+<a aria-expanded="false" class="level-1 has-children" data-bs-toggle="dropdown" href="#" id="nav-76" role="button">
+									Explore Our Catalog
+								</a>
+<ul aria-labelledby="nav-76" class="dropdown-menu">
+<li>
+<a class="dropdown-item" href=" /content/ ">Content Feeds</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /magazines/ ">Magazines</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /special-packages/ ">Special Packages</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /outsourcing-industry-experts/ ">Thought Leadership</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /timesdigest/ ">TimesDigest</a>
+</li>
+</ul>
+</div>
+<div class="dropdown">
+<a aria-expanded="false" class="level-1 has-children" data-bs-toggle="dropdown" href="#" id="nav-59" role="button">
+									Publications
+								</a>
+<ul aria-labelledby="nav-59" class="dropdown-menu">
+<li>
+<a class="dropdown-item" href=" /nytimes/ ">The New York Times</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /content/business/fortune/ ">Fortune</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /content/business/harvard-business-review/ ">Harvard Business Review</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /content/new-york-times-cooking/ ">NYT Cooking</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /content/scientific-american/ ">Scientific American</a>
+</li>
+</ul>
+</div>
+<div class="dropdown">
+<a aria-expanded="false" class="level-1 has-children" data-bs-toggle="dropdown" href="#" id="nav-38" role="button">
+									Media Types
+								</a>
+<ul aria-labelledby="nav-38" class="dropdown-menu">
+<li>
+<a class="dropdown-item" href=" /content/ ">Articles</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /type/#graphics ">Graphics</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /type/#photos ">Photos</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /type/#videos ">Videos</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /current-events/ ">Current Events</a>
+</li>
+</ul>
+</div>
+<div class="dropdown">
+<a aria-expanded="false" class="level-1 has-children" data-bs-toggle="dropdown" href="#" id="nav-37" role="button">
+									Languages
+								</a>
+<ul aria-labelledby="nav-37" class="dropdown-menu">
+<li>
+<a class="dropdown-item" href=" /language/#chinese ">Chinese</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /language/#german ">German</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /language/#portuguese ">Portuguese</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /language/#spanish ">Spanish</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="mob-item">
+<a class="mob-item-link collapsed" href="/latest/">Latest</a>
+</div>
+<div class="mob-item">
+<a aria-controls="nav-223" aria-expanded="false" class="mob-item-link has-children collapsed" data-bs-target="#nav-223" data-bs-toggle="collapse" href="#">
+							Resources
+						</a>
+<div class="mob-subitem collapse" data-bs-parent="#accordionMobileNav" id="nav-223">
+<div class="dropdown">
+<a aria-expanded="false" class="level-1 has-children" data-bs-toggle="dropdown" href="#" id="nav-224" role="button">
+									Learning Tools
+								</a>
+<ul aria-labelledby="nav-224" class="dropdown-menu">
+<li>
+<a class="dropdown-item" href=" /resources/#whitepapers ">Whitepapers</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /resources/#casestudies ">Case Studies</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /resources/#webinars ">Webinars</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /resources/#infographics ">Infographics</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /resources/#usecase ">Use Case Guides</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /latest/ ">Blog Posts</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /resources/#faqs ">FAQs</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="mob-item">
+<a aria-controls="nav-144" aria-expanded="false" class="mob-item-link has-children collapsed" data-bs-target="#nav-144" data-bs-toggle="collapse" href="#">
+							About Us
+						</a>
+<div class="mob-subitem collapse" data-bs-parent="#accordionMobileNav" id="nav-144">
+<div class="dropdown">
+<a aria-expanded="false" class="level-1 has-children" data-bs-toggle="dropdown" href="#" id="nav-215" role="button">
+									What We Do
+								</a>
+<ul aria-labelledby="nav-215" class="dropdown-menu">
+<li>
+<a class="dropdown-item" href=" /content-brands/ ">Content for Brands</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /content-media-organizations/ ">Content for Media Organizations</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /education/ ">Content for Education</a>
+</li>
+</ul>
+</div>
+<div class="dropdown">
+<a aria-expanded="false" class="level-1 has-children" data-bs-toggle="dropdown" href="#" id="nav-219" role="button">
+									Work With Us
+								</a>
+<ul aria-labelledby="nav-219" class="dropdown-menu">
+<li>
+<a class="dropdown-item" href=" /license-our-content/ ">License Our Content</a>
+</li>
+<li>
+<a class="dropdown-item" href=" /join-our-portfolio/ ">Join Our Portfolio</a>
+</li>
+<li>
+<a class="dropdown-item" href=" http://nytimesgroupsubscriptions.com/?Pardot_Campaign_Code_Form_Input=74L6R ">Group Subscriptions</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="mob-btn">
+<a class="btn btn-border" href="/contact/?utm_campaign=navigation-button-cta&amp;utm_source=header/">Book a Demo</a>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="sec__main--homepage sec__main--page-builder container-page">
+<div class="page-standard-width">
+<div class="widget two-columns hero">
+<div class="row d-flex align-items-center">
+<div class="col-lg-9 widget-image hero">
+<img alt="Help your audiences stay informed and connected to the world." class="img-fluid" src="/asset/photo/sxIDtEaHtyXNmaxgZ9f57yp4Qzqg4UcG5S6JL-c011nKJtf9a_pGSZfvukV2N3mMkgsaUgNAgp9hy8JjUWiN_P-4kH-y7brmvFSxUxwIldk=/"/>
+<div class="widget-image-caption">Counter-protesters, right, confront a pro-Palestinian protest encampment on the UCLA campus in Los Angeles early Wednesday morning, May 1, 2024. (Mark Abramson/The New York Times)</div>
+</div>
+<div class="col-lg-3 order-lg-first">
+<h1 class="widget-title">Help your audiences stay informed and connected to the world.</h1>
+<div class="widget-description">Incorporate world-class journalism from The New York Times and other renowned publishers into your content strategy to diversify your editorial output, connect with new audiences and drive brand loyalty.</div>
+<a class="btn btn-black widget-cta" href="https://nytlicensing.com/what-we-do/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Featured Photo CTA', 'click_text': 'Learn More', 'destination': 'https://nytlicensing.com/what-we-do/'})" target="_self">Learn More</a>
+</div>
+</div>
+</div>
+<div class="widget">
+<div class="row">
+<div class="col-lg-5">
+<h2 class="widget-title">Work with us to create unique and influential user experiences. </h2>
+</div>
+<div class="col-lg-6 offset-lg-1 two-col-grid">
+<div class="widget-child">
+<h3 class="title">
+				
+				Expert Journalism
+				
+			</h3>
+<div class="widget-description">Harness world-class journalism, from The New York Times and other leading publishers, to attract and engage customers. We license articles, photos, videos, graphics and more. </div>
+</div>
+<div class="widget-child">
+<h3 class="title">
+				
+				Global Context
+				
+			</h3>
+<div class="widget-description">Offer new perspectives and global context on engaging topics such as world news, health, climate and beyond. Publish in English or translate content into any local language. </div>
+</div>
+<div class="widget-child">
+<h3 class="title">
+				
+				Trust and Credibility
+				
+			</h3>
+<div class="widget-description">Leverage the trustworthy content of The New York Times and our media partners to bolster your brand reputation. Our licensed content is held to the highest of editorial standards.</div>
+</div>
+<div class="widget-child">
+<h3 class="title">
+				
+				Editorial Support
+				
+			</h3>
+<div class="widget-description">Tap into our dedicated team of editors and strategists who are committed to producing and curating premium content, across a range of formats, to help you reach your goals. </div>
+</div>
+</div>
+</div>
+</div>
+<div class="widget">
+<div class="row d-flex align-items-center">
+<div class="col-lg-8 widget-image">
+<img alt="The Paris Summer Olympics 2024" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/olympics-homepage.jpg"/>
+</div>
+<div class="col-lg-4 order-lg-first half-col-pad">
+<h2 class="widget-title">The Paris Summer Olympics 2024</h2>
+<div class="widget-description">Access two dynamic feeds of best-in-class journalism that will engage audiences with compelling stories and unique perspectives surrounding the Games.</div>
+<a class="btn btn-black widget-cta" href="https://nytlicensing.com/special-packages/paris-summer-olympics-2024/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Photo CTA Blocks', 'click_text': 'Learn more', 'destination': 'https://nytlicensing.com/special-packages/paris-summer-olympics-2024/'})" target="_blank">Learn more</a>
+</div>
+</div>
+</div>
+<div class="widget">
+<div class="row d-flex align-items-center">
+<div class="col-lg-8 widget-image">
+<img alt="Why Use a Content Licensing Company?" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/1-why-licensing.jpg"/>
+</div>
+<div class="col-lg-4 half-col-pad">
+<h2 class="widget-title">Why Use a Content Licensing Company?</h2>
+<div class="widget-description">NYTLicensing provides access to quality journalism and storytelling at an exceptional value. Dive deep with focused content across a range of subjects and themes to enhance your content strategy. All of our packages are curated, rights-cleared and easy to implement. </div>
+<a class="btn btn-black widget-cta" href="https://nytlicensing.com/license-our-content/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Photo CTA Blocks', 'click_text': 'Explore Licensing', 'destination': 'https://nytlicensing.com/license-our-content/'})" target="_blank">Explore Licensing</a>
+</div>
+</div>
+</div>
+<div class="widget">
+<div class="row d-flex align-items-center">
+<div class="col-lg-8 widget-image">
+<img alt="Fortune: Give Your Audience The Tools to Make Business Better" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/2-forbes.jpg"/>
+</div>
+<div class="col-lg-4 order-lg-first half-col-pad">
+<h2 class="widget-title">Fortune: Give Your Audience The Tools to Make Business Better</h2>
+<div class="widget-description">Engage audiences with compelling business storytelling on a range of topics, from A.I. to education, told by world business leaders. Fortune drives the daily conversation about business, reporting and revealing the stories that matter today — and that will matter even more tomorrow.</div>
+<a class="btn btn-black widget-cta" href="https://nytlicensing.com/content/business/fortune/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Photo CTA Blocks', 'click_text': 'Learn More', 'destination': 'https://nytlicensing.com/content/business/fortune/'})" target="_blank">Learn More</a>
+</div>
+</div>
+</div>
+<div class="widget four-col-grid">
+<h2 class="widget-title">License expertly-curated content solutions on topics that matter to your audience.</h2>
+<div class="three-col">
+<div class="widget-child">
+<h3 class="title">
+			
+			Business and Finance
+			
+		</h3>
+<div class="widget-description">Access valuable insights into global markets and trends through business news from world renowned publications.</div>
+</div>
+<div class="widget-child">
+<h3 class="title">
+			
+			Education
+			
+		</h3>
+<div class="widget-description">Connect with younger generations through magazines, articles and other features crafted specifically for them.</div>
+</div>
+<div class="widget-child">
+<h3 class="title">
+			
+			Healthcare
+			
+		</h3>
+<div class="widget-description">Provide audiences with healthy lifestyle tips, the latest news in medicine, nutritious recipes and more.</div>
+</div>
+<div class="widget-child">
+<h3 class="title">
+			
+			Lifestyle
+			
+		</h3>
+<div class="widget-description">Help audiences live heathier and more fulfilling lives with recommendations and purpose-driven writing.</div>
+</div>
+<div class="widget-child">
+<h3 class="title">
+			
+			Arts and Entertainment
+			
+		</h3>
+<div class="widget-description">Enrich audiences with in-depth cultural commentary and critical reviews of books, television, movies and music.</div>
+</div>
+<div class="widget-child">
+<h3 class="title">
+			
+			Science and Technology
+			
+		</h3>
+<div class="widget-description">Help audiences explore the world with thought-provoking insights into nature, space, medicine, innovation and beyond.</div>
+</div>
+</div>
+</div>
+<div class="widget full-cta">
+<h2 class="widget-title">Are You Ready to Elevate Your Platforms and Engage Curious Audiences?</h2>
+<div class="widget-subtitle">Register for an account to access NYTLicensing's world-class journalism and content curation today. </div>
+<a class="btn btn-black widget-cta" href="https://nytlicensing.com/register/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Text CTA', 'click_text': 'Register', 'destination': 'https://nytlicensing.com/register/'})" target="_self">
+		Register
+</a>
+</div>
+<div class="widget">
+<h2 class="widget-block-title">Our Reach</h2>
+<div class="row">
+<div class="col-md-6 col-lg-3 centred-item">
+<h3 class="widget-title marg-bot-8">
+			
+			1000+
+			
+			</h3>
+<div class="widget-description">We license the world's best journalism from more than 25 providers to 1000+ clients.</div>
+</div>
+<div class="col-md-6 col-lg-3 centred-item">
+<h3 class="widget-title marg-bot-8">
+			
+			60+
+			
+			</h3>
+<div class="widget-description">Our audiences are global and diverse with clients in 60+ countries across more than 14 industries.</div>
+</div>
+<div class="col-md-6 col-lg-3 centred-item">
+<h3 class="widget-title marg-bot-8">
+			
+			4
+			
+			</h3>
+<div class="widget-description">A vast selection of in-depth reporting, news analysis and commentary pieces is available in four languages.</div>
+</div>
+<div class="col-md-6 col-lg-3 centred-item">
+<h3 class="widget-title marg-bot-8">
+			
+			2.1B
+			
+			</h3>
+<div class="widget-description">Our clients have a combined 2.1 billion web visitors and 126 million combined print circulation.</div>
+</div>
+</div>
+</div>
+<div class="widget">
+<h2 class="widget-block-title">What We Do</h2>
+<div class="three-col-grid">
+<div class="widget-child w-thumbnail">
+<div class="image">
+<a href="https://nytlicensing.com/content-brands/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'What We Do Block', 'click_text': 'Strategic Content Marketing Solutions', 'destination': 'https://nytlicensing.com/content-brands/'})" target="_blank">
+<img alt="Strategic Content Marketing Solutions" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/content-strategy-services_zvvmm7L.jpg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">Brands</div>
+<h3 class="title">
+<a href="https://nytlicensing.com/content-brands/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'What We Do Block', 'click_text': 'Strategic Content Marketing Solutions', 'destination': 'https://nytlicensing.com/content-brands/'})" target="_blank">
+			Strategic Content Marketing Solutions
+			</a>
+</h3>
+<div class="widget-description">Our distinctive journalism and storytelling packages, tailored to meet the demands of your content marketing plan, can help your team achieve success – whether that be lead generation or establishing your brand as a thought leader.</div>
+</div>
+<div class="widget-child w-thumbnail">
+<div class="image">
+<a href="https://nytlicensing.com/content-media-organizations/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'What We Do Block', 'click_text': 'Media and News Licensing Services', 'destination': 'https://nytlicensing.com/content-media-organizations/'})" target="_blank">
+<img alt="Media and News Licensing Services" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/news-solutions.jpg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">Media</div>
+<h3 class="title">
+<a href="https://nytlicensing.com/content-media-organizations/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'What We Do Block', 'click_text': 'Media and News Licensing Services', 'destination': 'https://nytlicensing.com/content-media-organizations/'})" target="_blank">
+			Media and News Licensing Services
+			</a>
+</h3>
+<div class="widget-description">Expand your organization’s editorial scope with the global breadth and depth of The New York Times and our media partner feeds. Integrate international coverage and rigorous independent reporting across a range of innovative formats.</div>
+</div>
+<div class="widget-child w-thumbnail">
+<div class="image">
+<a href="https://nytlicensing.com/latest/education/english-language-teaching-resources/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'What We Do Block', 'click_text': 'English Language-Learning Content', 'destination': 'https://nytlicensing.com/latest/education/english-language-teaching-resources/'})" target="_blank">
+<img alt="English Language-Learning Content" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/esl-content-2.jpg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">Education</div>
+<h3 class="title">
+<a href="https://nytlicensing.com/latest/education/english-language-teaching-resources/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'What We Do Block', 'click_text': 'English Language-Learning Content', 'destination': 'https://nytlicensing.com/latest/education/english-language-teaching-resources/'})" target="_blank">
+			English Language-Learning Content
+			</a>
+</h3>
+<div class="widget-description">From ready-to-use solutions to individual articles and multimedia, NYTLicensing offers a wide range of educational content packages to help learners of all ages develop important English language-learning skills. </div>
+</div>
+</div>
+</div>
+<div class="widget">
+<h2 class="widget-block-title">Learn More</h2>
+<div class="three-col-grid">
+<div class="widget-child w-small-thumbnail">
+<div class="image">
+<a href="https://nytlicensing.com/case-studies/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'Discover How Licensed Content Delivers Value', 'destination': 'https://nytlicensing.com/case-studies/'})" target="_self">
+<img alt="Discover How Licensed Content Delivers Value" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/case-studies_iTAhgWl.jpg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">Case Studies</div>
+<h3 class="title">
+<a href="https://nytlicensing.com/case-studies/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'Discover How Licensed Content Delivers Value', 'destination': 'https://nytlicensing.com/case-studies/'})" target="_self">
+				Discover How Licensed Content Delivers Value
+			</a>
+</h3>
+<div class="widget-description">Learn how real clients have used licensed content to engage propsects and retain customers in our featured case studies.</div>
+</div>
+<div class="widget-child w-small-thumbnail">
+<div class="image">
+<a href="https://nytlicensing.com/latest/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'The Latest Insights on Marketing and Content Strategy', 'destination': 'https://nytlicensing.com/latest/'})" target="_self">
+<img alt="The Latest Insights on Marketing and Content Strategy" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/latest.jpg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">Latest</div>
+<h3 class="title">
+<a href="https://nytlicensing.com/latest/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'The Latest Insights on Marketing and Content Strategy', 'destination': 'https://nytlicensing.com/latest/'})" target="_self">
+				The Latest Insights on Marketing and Content Strategy
+			</a>
+</h3>
+<div class="widget-description">Vist our blog to find articles, guides and case studies about content marketing, news curation and content licensing. </div>
+</div>
+<div class="widget-child w-small-thumbnail">
+<div class="image">
+<a href="https://marketing.nytlicensing.com/ai-webinar-on-demand" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'Brand Credibility in the Age of AI', 'destination': 'https://marketing.nytlicensing.com/ai-webinar-on-demand'})" target="_self">
+<img alt="Brand Credibility in the Age of AI" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/ai-web-andy.jpg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">On-Demand Webinar</div>
+<h3 class="title">
+<a href="https://marketing.nytlicensing.com/ai-webinar-on-demand" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'Brand Credibility in the Age of AI', 'destination': 'https://marketing.nytlicensing.com/ai-webinar-on-demand'})" target="_self">
+				Brand Credibility in the Age of AI
+			</a>
+</h3>
+<div class="widget-description">Andy Meyers, CEO of HealthDay, explores the benefits and challenges of using artificial intelligence for content creation.</div>
+</div>
+<div class="widget-child w-small-thumbnail">
+<div class="image">
+<a href="https://nytlicensing.com/content/harvard-health-publishing/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'Trustworthy and Actionable Health Information', 'destination': 'https://nytlicensing.com/content/harvard-health-publishing/'})" target="_self">
+<img alt="Trustworthy and Actionable Health Information" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/harvard-health-publishing.jpg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">Harvard Health Publishing</div>
+<h3 class="title">
+<a href="https://nytlicensing.com/content/harvard-health-publishing/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'Trustworthy and Actionable Health Information', 'destination': 'https://nytlicensing.com/content/harvard-health-publishing/'})" target="_self">
+				Trustworthy and Actionable Health Information
+			</a>
+</h3>
+<div class="widget-description">Physicians at Harvard Medical School and its affiliated hospitals provide authoritative health news and advice for your audience.</div>
+</div>
+<div class="widget-child w-small-thumbnail">
+<div class="image">
+<a href="https://nytlicensing.com/special-packages/election-2024-new-york-times/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'In-depth Views of the U.S. Presidential Election', 'destination': 'https://nytlicensing.com/special-packages/election-2024-new-york-times/'})" target="_self">
+<img alt="In-depth Views of the U.S. Presidential Election" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/eln-2024-cube.jpg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">Election 2024</div>
+<h3 class="title">
+<a href="https://nytlicensing.com/special-packages/election-2024-new-york-times/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'In-depth Views of the U.S. Presidential Election', 'destination': 'https://nytlicensing.com/special-packages/election-2024-new-york-times/'})" target="_self">
+				In-depth Views of the U.S. Presidential Election
+			</a>
+</h3>
+<div class="widget-description">Unpack the issues and impacts of the 2024 U.S. presidential election with expert journalism from The New York Times.</div>
+</div>
+<div class="widget-child w-small-thumbnail">
+<div class="image">
+<a href="https://nytlicensing.com/language/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'Multilingual Content Curated for Global Audiences', 'destination': 'https://nytlicensing.com/language/'})" target="_self">
+<img alt="Multilingual Content Curated for Global Audiences" class="img-fluid" src="https://cdn-nyt-prd.nytlicensing.com/media/images/multilingual.jpeg"/>
+</a>
+</div>
+<div class="widget-tag text-uppercase">Translated Content</div>
+<h3 class="title">
+<a href="https://nytlicensing.com/language/" onclick="syn4('cta_click', {'page_url': 'Home Page', 'name': 'Learn More Block', 'click_text': 'Multilingual Content Curated for Global Audiences', 'destination': 'https://nytlicensing.com/language/'})" target="_self">
+				Multilingual Content Curated for Global Audiences
+			</a>
+</h3>
+<div class="widget-description">Translated articles, with multimedia, for use across platforms. Languages include Spanish, Portuguese and more.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sec__main--contact-form">
+<div class="page-standard-width">
+<div class="sec__main--contact-form-container">
+<div class="sec__main--contact-form-title">Contact Us</div>
+<div class="sec__main--contact-form-note">* are required fields</div>
+<form class="form form--contact" id="contactForm" name="contactForm" novalidate="">
+<input name="csrfmiddlewaretoken" type="hidden" value="sKTuLfeXzTsy297fvU7FkWZIAy8pzEPBeP49dIxRPrLTYr4mbMuRlITyIjStDVLE"/>
+<div class="row">
+<div class="form-group col-sm-6">
+<input class="form-control" name="first_name" placeholder="First Name*" type="text"/>
+<span class="error first_name"></span>
+</div>
+<div class="form-group col-sm-6">
+<input class="form-control" name="last_name" placeholder="Last Name*" type="text"/>
+<span class="error last_name"></span>
+</div>
+</div>
+<div class="row">
+<div class="form-group col-sm-6">
+<input class="form-control" name="email" placeholder="Email Address*" type="email"/>
+<span class="error email"></span>
+</div>
+<div class="form-group col-sm-6">
+<input class="form-control" name="organization" placeholder="Organization*" type="text"/>
+<span class="error organization"></span>
+</div>
+</div>
+<div class="row">
+<div class="form-group col-sm-6 js-select js-country js-contact full-width dark-tom">
+<select autocomplete="off" class="form-control tomselected ts-hidden-accessible" id="contact--country" name="country" tabindex="-1">
+<option disabled="" selected="" value="">Country*</option>
+<option value="United States of America">United States of America</option>
+<option value="Afghanistan">Afghanistan</option>
+<option value="Åland Islands">Åland Islands</option>
+<option value="Albania">Albania</option>
+<option value="Algeria">Algeria</option>
+<option value="American Samoa">American Samoa</option>
+<option value="Andorra">Andorra</option>
+<option value="Angola">Angola</option>
+<option value="Anguilla">Anguilla</option>
+<option value="Antarctica">Antarctica</option>
+<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+<option value="Argentina">Argentina</option>
+<option value="Armenia">Armenia</option>
+<option value="Aruba">Aruba</option>
+<option value="Australia">Australia</option>
+<option value="Austria">Austria</option>
+<option value="Azerbaijan">Azerbaijan</option>
+<option value="Bahamas">Bahamas</option>
+<option value="Bahrain">Bahrain</option>
+<option value="Bangladesh">Bangladesh</option>
+<option value="Barbados">Barbados</option>
+<option value="Belarus">Belarus</option>
+<option value="Belgium">Belgium</option>
+<option value="Belize">Belize</option>
+<option value="Benin">Benin</option>
+<option value="Bermuda">Bermuda</option>
+<option value="Bhutan">Bhutan</option>
+<option value="Bolivia">Bolivia</option>
+<option value="Bonaire, Sint Eustatius and Saba">Bonaire, Sint Eustatius and Saba</option>
+<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+<option value="Botswana">Botswana</option>
+<option value="Bouvet Island">Bouvet Island</option>
+<option value="Brazil">Brazil</option>
+<option value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+<option value="Brunei">Brunei</option>
+<option value="Bulgaria">Bulgaria</option>
+<option value="Burkina Faso">Burkina Faso</option>
+<option value="Burundi">Burundi</option>
+<option value="Cabo Verde">Cabo Verde</option>
+<option value="Cambodia">Cambodia</option>
+<option value="Cameroon">Cameroon</option>
+<option value="Canada">Canada</option>
+<option value="Cayman Islands">Cayman Islands</option>
+<option value="Central African Republic">Central African Republic</option>
+<option value="Chad">Chad</option>
+<option value="Chile">Chile</option>
+<option value="China">China</option>
+<option value="Christmas Island">Christmas Island</option>
+<option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+<option value="Colombia">Colombia</option>
+<option value="Comoros">Comoros</option>
+<option value="Congo">Congo</option>
+<option value="Congo (the Democratic Republic of the)">Congo (the Democratic Republic of the)</option>
+<option value="Cook Islands">Cook Islands</option>
+<option value="Costa Rica">Costa Rica</option>
+<option value="Côte d'Ivoire">Côte d'Ivoire</option>
+<option value="Croatia">Croatia</option>
+<option value="Cuba">Cuba</option>
+<option value="Curaçao">Curaçao</option>
+<option value="Cyprus">Cyprus</option>
+<option value="Czechia">Czechia</option>
+<option value="Denmark">Denmark</option>
+<option value="Djibouti">Djibouti</option>
+<option value="Dominica">Dominica</option>
+<option value="Dominican Republic">Dominican Republic</option>
+<option value="Ecuador">Ecuador</option>
+<option value="Egypt">Egypt</option>
+<option value="El Salvador">El Salvador</option>
+<option value="Equatorial Guinea">Equatorial Guinea</option>
+<option value="Eritrea">Eritrea</option>
+<option value="Estonia">Estonia</option>
+<option value="Eswatini">Eswatini</option>
+<option value="Ethiopia">Ethiopia</option>
+<option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option>
+<option value="Faroe Islands">Faroe Islands</option>
+<option value="Fiji">Fiji</option>
+<option value="Finland">Finland</option>
+<option value="France">France</option>
+<option value="French Guiana">French Guiana</option>
+<option value="French Polynesia">French Polynesia</option>
+<option value="French Southern Territories">French Southern Territories</option>
+<option value="Gabon">Gabon</option>
+<option value="Gambia">Gambia</option>
+<option value="Georgia">Georgia</option>
+<option value="Germany">Germany</option>
+<option value="Ghana">Ghana</option>
+<option value="Gibraltar">Gibraltar</option>
+<option value="Greece">Greece</option>
+<option value="Greenland">Greenland</option>
+<option value="Grenada">Grenada</option>
+<option value="Guadeloupe">Guadeloupe</option>
+<option value="Guam">Guam</option>
+<option value="Guatemala">Guatemala</option>
+<option value="Guernsey">Guernsey</option>
+<option value="Guinea">Guinea</option>
+<option value="Guinea-Bissau">Guinea-Bissau</option>
+<option value="Guyana">Guyana</option>
+<option value="Haiti">Haiti</option>
+<option value="Heard Island and McDonald Islands">Heard Island and McDonald Islands</option>
+<option value="Holy See">Holy See</option>
+<option value="Honduras">Honduras</option>
+<option value="Hong Kong">Hong Kong</option>
+<option value="Hungary">Hungary</option>
+<option value="Iceland">Iceland</option>
+<option value="India">India</option>
+<option value="Indonesia">Indonesia</option>
+<option value="Iran">Iran</option>
+<option value="Iraq">Iraq</option>
+<option value="Ireland">Ireland</option>
+<option value="Isle of Man">Isle of Man</option>
+<option value="Israel">Israel</option>
+<option value="Italy">Italy</option>
+<option value="Jamaica">Jamaica</option>
+<option value="Japan">Japan</option>
+<option value="Jersey">Jersey</option>
+<option value="Jordan">Jordan</option>
+<option value="Kazakhstan">Kazakhstan</option>
+<option value="Kenya">Kenya</option>
+<option value="Kiribati">Kiribati</option>
+<option value="Kuwait">Kuwait</option>
+<option value="Kyrgyzstan">Kyrgyzstan</option>
+<option value="Laos">Laos</option>
+<option value="Latvia">Latvia</option>
+<option value="Lebanon">Lebanon</option>
+<option value="Lesotho">Lesotho</option>
+<option value="Liberia">Liberia</option>
+<option value="Libya">Libya</option>
+<option value="Liechtenstein">Liechtenstein</option>
+<option value="Lithuania">Lithuania</option>
+<option value="Luxembourg">Luxembourg</option>
+<option value="Macao">Macao</option>
+<option value="Madagascar">Madagascar</option>
+<option value="Malawi">Malawi</option>
+<option value="Malaysia">Malaysia</option>
+<option value="Maldives">Maldives</option>
+<option value="Mali">Mali</option>
+<option value="Malta">Malta</option>
+<option value="Marshall Islands">Marshall Islands</option>
+<option value="Martinique">Martinique</option>
+<option value="Mauritania">Mauritania</option>
+<option value="Mauritius">Mauritius</option>
+<option value="Mayotte">Mayotte</option>
+<option value="Mexico">Mexico</option>
+<option value="Micronesia (Federated States of)">Micronesia (Federated States of)</option>
+<option value="Moldova">Moldova</option>
+<option value="Monaco">Monaco</option>
+<option value="Mongolia">Mongolia</option>
+<option value="Montenegro">Montenegro</option>
+<option value="Montserrat">Montserrat</option>
+<option value="Morocco">Morocco</option>
+<option value="Mozambique">Mozambique</option>
+<option value="Myanmar">Myanmar</option>
+<option value="Namibia">Namibia</option>
+<option value="Nauru">Nauru</option>
+<option value="Nepal">Nepal</option>
+<option value="Netherlands">Netherlands</option>
+<option value="New Caledonia">New Caledonia</option>
+<option value="New Zealand">New Zealand</option>
+<option value="Nicaragua">Nicaragua</option>
+<option value="Niger">Niger</option>
+<option value="Nigeria">Nigeria</option>
+<option value="Niue">Niue</option>
+<option value="Norfolk Island">Norfolk Island</option>
+<option value="North Korea">North Korea</option>
+<option value="North Macedonia">North Macedonia</option>
+<option value="Northern Mariana Islands">Northern Mariana Islands</option>
+<option value="Norway">Norway</option>
+<option value="Oman">Oman</option>
+<option value="Pakistan">Pakistan</option>
+<option value="Palau">Palau</option>
+<option value="Palestine, State of">Palestine, State of</option>
+<option value="Panama">Panama</option>
+<option value="Papua New Guinea">Papua New Guinea</option>
+<option value="Paraguay">Paraguay</option>
+<option value="Peru">Peru</option>
+<option value="Philippines">Philippines</option>
+<option value="Pitcairn">Pitcairn</option>
+<option value="Poland">Poland</option>
+<option value="Puerto Rico">Puerto Rico</option>
+<option value="Qatar">Qatar</option>
+<option value="Réunion">Réunion</option>
+<option value="Romania">Romania</option>
+<option value="Russia">Russia</option>
+<option value="Rwanda">Rwanda</option>
+<option value="Saint Barthélemy">Saint Barthélemy</option>
+<option value="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</option>
+<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+<option value="Saint Lucia">Saint Lucia</option>
+<option value="Saint Martin (French part)">Saint Martin (French part)</option>
+<option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option>
+<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+<option value="Samoa">Samoa</option>
+<option value="San Marino">San Marino</option>
+<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+<option value="Saudi Arabia">Saudi Arabia</option>
+<option value="Senegal">Senegal</option>
+<option value="Serbia">Serbia</option>
+<option value="Seychelles">Seychelles</option>
+<option value="Sierra Leone">Sierra Leone</option>
+<option value="Singapore">Singapore</option>
+<option value="Sint Maarten (Dutch part)">Sint Maarten (Dutch part)</option>
+<option value="Slovakia">Slovakia</option>
+<option value="Slovenia">Slovenia</option>
+<option value="Solomon Islands">Solomon Islands</option>
+<option value="Somalia">Somalia</option>
+<option value="South Africa">South Africa</option>
+<option value="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</option>
+<option value="South Korea">South Korea</option>
+<option value="South Sudan">South Sudan</option>
+<option value="Spain">Spain</option>
+<option value="Sri Lanka">Sri Lanka</option>
+<option value="Sudan">Sudan</option>
+<option value="Suriname">Suriname</option>
+<option value="Svalbard and Jan Mayen">Svalbard and Jan Mayen</option>
+<option value="Sweden">Sweden</option>
+<option value="Switzerland">Switzerland</option>
+<option value="Syria">Syria</option>
+<option value="Taiwan">Taiwan</option>
+<option value="Tajikistan">Tajikistan</option>
+<option value="Tanzania">Tanzania</option>
+<option value="Thailand">Thailand</option>
+<option value="Timor-Leste">Timor-Leste</option>
+<option value="Togo">Togo</option>
+<option value="Tokelau">Tokelau</option>
+<option value="Tonga">Tonga</option>
+<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+<option value="Tunisia">Tunisia</option>
+<option value="Turkey">Turkey</option>
+<option value="Turkmenistan">Turkmenistan</option>
+<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+<option value="Tuvalu">Tuvalu</option>
+<option value="Uganda">Uganda</option>
+<option value="Ukraine">Ukraine</option>
+<option value="United Arab Emirates">United Arab Emirates</option>
+<option value="United Kingdom">United Kingdom</option>
+<option value="United States Minor Outlying Islands">United States Minor Outlying Islands</option>
+<option value="Uruguay">Uruguay</option>
+<option value="Uzbekistan">Uzbekistan</option>
+<option value="Vanuatu">Vanuatu</option>
+<option value="Venezuela">Venezuela</option>
+<option value="Vietnam">Vietnam</option>
+<option value="Virgin Islands (British)">Virgin Islands (British)</option>
+<option value="Virgin Islands (U.S.)">Virgin Islands (U.S.)</option>
+<option value="Wallis and Futuna">Wallis and Futuna</option>
+<option value="Western Sahara">Western Sahara</option>
+<option value="Yemen">Yemen</option>
+<option value="Zambia">Zambia</option>
+<option value="Zimbabwe">Zimbabwe</option>
+<option selected="" value="Portugal">Portugal</option></select><div class="ts-wrapper form-control single plugin-dropdown_input full has-items"><div aria-controls="contact--country-ts-dropdown" aria-expanded="false" aria-haspopup="listbox" class="ts-control" id="contact--country-ts-control" role="combobox" tabindex="0"><div class="item" data-ts-item="" data-value="Portugal">Portugal</div><input class="items-placeholder" placeholder="Country*" tabindex="-1"/></div><div class="ts-dropdown single plugin-dropdown_input" style="display: none;"><div class="dropdown-input-wrap"><input autocomplete="off" class="dropdown-input" placeholder="Country*" size="1" tabindex="-1" type="select-one"/></div><div class="ts-dropdown-content" id="contact--country-ts-dropdown" role="listbox" tabindex="-1"></div></div></div>
+<span class="error country"></span>
+</div>
+<div class="form-group col-sm-6 js-select js-state-zip d-none">
+<select class="form-control no-validate tomselected ts-hidden-accessible" id="tomselect-2" name="state" tabindex="-1">
+<option disabled="" selected="" value="">State*</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+</select><div class="ts-wrapper form-control no-validate single plugin-dropdown_input"><div aria-controls="tomselect-2-ts-dropdown" aria-expanded="false" aria-haspopup="listbox" class="ts-control" id="tomselect-2-ts-control" role="combobox" tabindex="0"><input class="items-placeholder" placeholder="State*" tabindex="-1"/></div><div class="ts-dropdown single plugin-dropdown_input" style="display: none;"><div class="dropdown-input-wrap"><input autocomplete="off" class="dropdown-input" placeholder="State*" size="1" tabindex="-1" type="select-one"/></div><div class="ts-dropdown-content" id="tomselect-2-ts-dropdown" role="listbox" tabindex="-1"></div></div></div>
+<span class="error state"></span>
+</div>
+</div>
+<div class="form-group textarea">
+<textarea class="form-control" name="message" placeholder="Message*"></textarea>
+<span class="error message"></span>
+</div>
+<div class="checkbox">
+<label for="contact--marketing_signup">
+<input class="no-validate" id="contact--marketing_signup" name="subscribe" type="checkbox" value="true"/>
+<span class="check-container"><span class="check-icon"></span></span>
+<span class="text-container">
+						
+						I would like to receive emails containing news content, updates and special offers from The New York Times Licensing Group. I may opt out at anytime.
+						
+					</span>
+</label>
+</div>
+<input class="django-recaptcha-hidden-field" name="g-recaptcha-response" type="hidden" value="03AFcWeA6S-pYDw04VLEA4j8jsUx-ao2LVo9hP8osaDK42lCjb1D1mDv91P_WsljN_QmVbgQqbe92pmryOV_88tIZQCUeMf7GuZntc0wm1325icKQckQmsRgCr5nKptAJgMjfeC73cFikzW6JwRPC0WTlSqVNeli_IE6IWd7j0UvTl3ntF0nBOh6e6XdnogSKU1Wbn8qGb9oXvO_WKEMq0C6shY46abehu5vLo42Su_J2MX0dzJhzmnf3tu8ofLG6j3MvFyR78RafUNfN5GyJtvkO2Xk0Paf9nP2tetEpDZfnNF79C4OUdjsYMdXYVyZTQ9tCjZruZu7jtecEdesz4xKBbWpKvoZtr5VNIxzn1n98hqW3pcvIN_VI5Ugy6rvU_ZEgt6b86Se_nnGvqA6lSy3RX4P35ZI-86t7P1_cjqdIIil8n_KoT8wG7wA3kszPJd6BVAOdACsS2FYAaTpmXd2CnnTWAtbnTcs4NalI7UTna4RFLDnIrP3VA77j0fzoaorHjZLEAnC_6wS4kgLRnRushnFUvTSYDQLkjwZy_sX1coMiUgeFCrIGbIOyGt8ViKU8fImp62yNVZIyRENl3vvCzFCMmwQFFvsdFIMo76uvcTSqe7nLATJD9POUs1v3Yu5wWm1ZpiQz7TnIG9dIXJfLK1SxPBckq-k2WKmjD16TXASbD--oIbZPKfdmeLYoM_d0-RRT2IaBD"/>
+<button class="btn btn-border sec__main--contact-form-submit-cta">SEND</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="sec-main--cookie-banner">
+<div class="page-standard-width">
+<div class="sec-main--cookie-banner-close js-banner-close" onclick="syn4('gdpr', {'page_url': 'https://nytlicensing.com/', 'action': 'gdpr close'})">
+<svg viewbox="0 0 25.41 25.41" xmlns="http://www.w3.org/2000/svg">
+<rect height="2" transform="translate(-5.26 12.71) rotate(-45)" width="33.94" x="-4.26" y="11.71"></rect>
+<rect height="33.94" transform="translate(-5.26 12.71) rotate(-45)" width="2" x="11.71" y="-4.26"></rect>
+</svg>
+</div>
+<div class="sec-main--cookie-banner-title">Your Tracker Settings</div>
+<div class="sec-main--cookie-banner-container row">
+<div class="sec-main--cookie-banner-content col-xs-12 col-md-8">
+<p>We use cookies and similar methods to recognize visitors and remember their preferences. We also use them to measure ad campaign effectiveness, target ads and analyze site traffic. To learn more about these methods, including how to disable them, <a href="/cookie-policy/" onclick="syn4('gdpr', {'page_url': 'https://nytlicensing.com/', 'action': 'gdpr undefined'})" rel="license" target="_blank">view our Cookie Policy</a>.</p>
+<p>By tapping "accept," you consent to the processing of your data by us and third parties using the above methods. You can always change your tracker preferences by visiting our Cookie Policy.</p>
+</div>
+<div class="sec-main--cookie-banner-btn col-xs-12 col-md-4">
+<button class="btn btn-primary gdpr-opt-in" type="button">Accept</button>
+<button class="btn btn-primary gdpr-opt-out" type="button">Reject</button>
+</div>
+</div>
+</div>
+</div>
+<footer class="sec__main-footer" id="footer">
+<div class="page-standard-width sec__main-footer-grid">
+<div class="sec__main-footer-logo">
+<svg viewbox="0 0 139.1 18.3" xmlns="http://www.w3.org/2000/svg"><switch><path d="M10.4 1.9c0-1.5-1.4-1.9-2.6-1.9v0.2c0.7 0 1.2 0.3 1.2 0.7 0 0.3-0.2 0.7-0.9 0.7 -0.6 0-1.6-0.3-2.5-0.6 -1-0.3-1.9-0.6-2.6-0.6 -1.5 0-2.6 1.1-2.6 2.4 0 1.1 0.8 1.5 1.2 1.6l0.1-0.2c-0.2-0.1-0.4-0.3-0.4-0.7 0-0.3 0.3-0.8 1-0.8 0.7 0 1.6 0.3 2.8 0.6 1 0.3 2.2 0.6 2.8 0.6v2.3l-1.2 1v0.1l1.2 1v3.2c-0.6 0.3-1.3 0.4-1.9 0.4 -1.1 0-2.1-0.3-3-1.2l3.1-1.5v-5.2l-3.8 1.7c0.4-1 1.2-1.7 2-2.2l-0.1-0.2c-2.2 0.6-4.3 2.7-4.3 5.2 0 3.1 2.5 5.3 5.3 5.3 3.1 0 5-2.4 5-4.9l-0.2 0c-0.5 1-1.1 1.9-1.9 2.4v-3.1l1.2-1 0-0.1 -1.2-1v-2.3C9.3 4.1 10.4 3.3 10.4 1.9L10.4 1.9zM3.9 10.3l-0.9 0.5c-0.5-0.7-0.9-1.6-0.9-2.9 0-0.5 0.1-1.2 0.2-1.6l1.6-0.7L3.9 10.3zM11.9 11.9l-1 0.8 0.1 0.1 0.5-0.3 1.7 1.5 2.3-1.5 -0.1-0.2 -0.6 0.4 -0.7-0.7v-5.2l0.6-0.5 1.3 1v4.6c0 2.9-0.6 3.3-1.9 3.8v0.2c2.1 0.1 4.1-0.6 4.1-4.3v-4.9l0.7-0.5 -0.1-0.2 -0.6 0.5 -1.9-1.6 -2.2 1.6v-6.2h-0.2l-2.7 1.8v0.2c0.3 0.2 0.7 0.3 0.7 1.2L11.9 11.9zM25.7 11.1l-1.9 1.4 -1.9-1.5v-0.9l3.6-2.4v-0.1l-1.8-2.7 -3.9 2.1v5l-0.8 0.6 0.1 0.2 0.7-0.6 2.6 1.9 3.4-2.7L25.7 11.1zM21.9 9.9v-3.7l0.1-0.1 1.7 2.6L21.9 9.9zM40.2 1.2c0-0.2-0.1-0.4-0.1-0.7h-0.2c-0.2 0.6-0.5 1-1.3 1 -0.6 0-1.2-0.4-1.4-0.7 0 0-2.2 2.5-2.2 2.5l0.2 0.2 0.6-0.7c0.5 0.4 0.8 0.7 1.9 0.7v6.3l-4.4-7.7c-0.3-0.6-0.9-1.4-2-1.4 -1.2 0-2.3 1-2.1 2.8h0.2c0.1-0.5 0.3-1 0.8-1 0.4 0 0.8 0.4 1 0.8v2.5c-1.4 0-2.3 0.6-2.3 1.7 0 0.6 0.3 1.5 1.2 1.7l0-0.2c-0.1-0.1-0.3-0.3-0.3-0.5 0-0.4 0.3-0.7 0.9-0.7 0.1 0 0.3 0 0.4 0v3.2c-1.6 0-2.8 0.9-2.8 2.4 0 1.4 1.2 2.1 2.5 2.1l0-0.2c-0.8-0.1-1.2-0.5-1.2-1 0-0.6 0.5-1 1.1-1 0.6 0 1.2 0.4 1.5 0.8l2.2-2.4 -0.2-0.2 -0.6 0.6c-0.8-0.7-1.3-1-2.2-1.2V3.4l6.1 10.6h0.4v-10.6C39.1 3.4 40.2 2.5 40.2 1.2L40.2 1.2zM45.6 11.1l-1.9 1.4 -1.9-1.5v-0.9l3.6-2.4v-0.1l-1.8-2.7 -3.9 2.1v5l-0.8 0.6 0.1 0.2 0.7-0.6 2.6 1.9 3.4-2.7L45.6 11.1 45.6 11.1zM41.8 9.9v-3.7l0.1-0.1 1.7 2.6L41.8 9.9zM58 5.7l-0.6 0.4 -1.4-1.2 -1.7 1.5 0.7 0.6v5.7l-1.8-1.2v-4.6l0.6-0.4 -1.8-1.6 -1.6 1.5 0.7 0.6v5.4l-0.2 0.1 -1.6-1.1v-4.6c0-1-0.5-1.3-1.2-1.8 -0.6-0.3-0.8-0.6-0.8-1.2 0-0.4 0.4-0.7 0.6-0.8 0 0 0-0.2 0-0.2 -0.6 0-2.2 0.6-2.2 2.1 0 0.8 0.3 1.1 0.7 1.4 0.4 0.4 0.7 0.7 0.7 1.3v4.4l-0.8 0.6 0.1 0.2 0.7-0.6 2 1.6 1.9-1.3 2.1 1.3 4-2.3v-5.1l1-0.7L58 5.7 58 5.7zM72 1.6l-0.8 0.7 -1.7-1.5 -2.5 1.8v-1.7h-0.3l0.1 12.3c-0.3 0-0.9-0.2-1.5-0.3l-0.1-10.2c0-0.8-0.5-1.8-1.9-1.8 -1.4 0-2.3 1.1-2.3 2.1h0.2c0.1-0.5 0.3-0.8 0.8-0.8 0.5 0 0.9 0.3 0.9 1.3v3c-1.4 0.1-2.2 0.8-2.2 1.8 0 0.6 0.3 1.5 1.2 1.5l0-0.2c-0.3-0.1-0.4-0.3-0.4-0.5 0-0.4 0.4-0.6 1-0.6h0.3v4.7c-1.1 0.4-1.6 1.2-1.6 2.1 0 1.3 1 2.2 2.5 2.2 1 0 1.9-0.2 2.9-0.4 0.8-0.2 1.7-0.3 2.2-0.3 0.6 0 0.8 0.3 0.8 0.7 0 0.5-0.2 0.7-0.5 0.8l0 0.2c1.2-0.2 2-1 2-2.1 0-1.2-1.1-1.8-2.3-1.8 -0.6 0-1.9 0.2-2.8 0.4 -1 0.2-2.1 0.3-2.4 0.3 -0.5 0-1.2-0.3-1.2-1 0-0.6 0.5-1.1 1.8-1.1 0.7 0 1.5 0.1 2.4 0.3 0.9 0.2 1.7 0.5 2.5 0.5 1.1 0 2.1-0.4 2.1-2v-9.3l0.9-0.8L72 1.6zM68.9 6.2c-0.2 0.2-0.5 0.4-0.9 0.4 -0.4 0-0.7-0.3-0.9-0.4v-3.4l0.8-0.5 1 1V6.2zM68.9 8.5c-0.2-0.2-0.5-0.4-0.9-0.4 -0.4 0-0.8 0.2-0.9 0.4v-2c0.2 0.1 0.5 0.4 0.9 0.4 0.4 0 0.7-0.2 0.9-0.4V8.5zM68.9 12c0 0.6-0.4 1.2-1.2 1.2 -0.1 0-0.5 0-0.6 0v-4.4c0.2-0.2 0.5-0.4 0.9-0.4 0.4 0 0.7 0.2 0.9 0.4V12zM79.3 6.7l-2.4-1.7 -3.7 2.1v4.9l-0.8 0.6 0.1 0.2 0.6-0.5 2.4 1.8 3.7-2.3L79.3 6.7zM75.2 11.4v-5.4l1.9 1.4v5.4L75.2 11.4zM86.5 5.1c0 0-0.1 0-0.1 0 -0.2 0.2-0.5 0.3-0.7 0.3 -0.3 0-0.7-0.2-0.8-0.4h-0.1l-1.3 1.4 -1.3-1.4 -2.2 1.5 0.1 0.2 0.6-0.4 0.8 0.8v4.8l-1 0.8 0.1 0.1 0.5-0.3 1.8 1.5 2.4-1.6 -0.1-0.2 -0.7 0.4 -0.9-0.8v-5.3c0.4 0.4 0.8 0.8 1.4 0.8C85.8 7.4 86.4 6.3 86.5 5.1L86.5 5.1zM95.6 12.4l-2.6 1.7 -3.5-5.3 2.5-3.8 0.2 0c0.3 0.3 0.8 0.6 1.3 0.6 0.5 0 0.9-0.3 1.1-0.6 0 0 0.1 0 0.1 0 -0.1 1.5-1.1 2.4-1.9 2.4 -0.8 0-1.2-0.4-1.6-0.6l-0.2 0.3 3.8 5.6 0.8-0.5L95.6 12.4zM87.2 11.9l-1 0.8 0.1 0.1 0.5-0.3 1.7 1.5 2.3-1.5 -0.1-0.2 -0.6 0.4 -0.7-0.7v-11.7H89.2l-2.7 1.8v0.2c0.3 0.2 0.8 0.2 0.8 1.2L87.2 11.9zM108.1 1.9c0-1.5-1.4-1.9-2.6-1.9v0.2c0.7 0 1.2 0.3 1.2 0.7 0 0.3-0.2 0.7-0.9 0.7 -0.6 0-1.6-0.3-2.5-0.6 -1-0.3-1.9-0.6-2.6-0.6 -1.5 0-2.6 1.1-2.6 2.4 0 1.1 0.8 1.5 1.2 1.6l0.1-0.2c-0.2-0.1-0.4-0.3-0.4-0.7 0-0.3 0.3-0.8 1-0.8 0.7 0 1.6 0.3 2.8 0.6 1 0.3 2.2 0.6 2.8 0.6v2.3l-1.2 1v0.1l1.2 1v3.2c-0.6 0.3-1.3 0.4-1.9 0.4 -1.1 0-2.1-0.3-3-1.2l3.1-1.5v-5.2l-3.8 1.7c0.4-1 1.2-1.7 2-2.2l-0.1-0.2c-2.3 0.6-4.3 2.7-4.3 5.2 0 3.1 2.5 5.3 5.3 5.3 3.1 0 5-2.4 5-4.9l-0.2 0c-0.5 1-1.1 1.9-1.9 2.4v-3.1l1.2-1 0-0.1 -1.2-1v-2.3C106.9 4.1 108.1 3.3 108.1 1.9L108.1 1.9zM101.5 10.3l-0.9 0.5c-0.5-0.7-0.9-1.6-0.9-2.9 0-0.5 0.1-1.2 0.2-1.6l1.6-0.7L101.5 10.3 101.5 10.3zM110.7 1.2l-0.1 0 -1.5 1.3v0.1l1.3 1.4h0.1l1.5-1.3 0-0.1L110.7 1.2 110.7 1.2zM113 12.4l-0.6 0.4 -0.7-0.7v-5.2l0.7-0.5 -0.1-0.2 -0.6 0.4 -1.3-1.6L108.2 6.4l0.1 0.2 0.5-0.4 0.7 0.8v4.9l-1 0.7 0.1 0.1 0.5-0.4 1.7 1.5 2.3-1.5L113 12.4zM125.6 12.3l-0.5 0.4 -0.8-0.7v-5.1l0.8-0.6 -0.1-0.2 -0.7 0.5 -1.7-1.6 -2.2 1.6 -1.7-1.6 -2.2 1.6 -1.3-1.6 -2.2 1.5 0.1 0.2 0.5-0.4 0.7 0.8v4.9l-0.6 0.6 1.7 1.5 1.7-1.5 -0.7-0.6v-5.1l0.6-0.4 1.2 1.1v4.6l-0.6 0.6 1.7 1.5 1.6-1.5 -0.7-0.6v-5.1l0.6-0.4 1.2 1.1v4.5l-0.5 0.5 1.8 1.6 2.3-1.6L125.6 12.3zM132.2 11.1l-1.9 1.4 -1.9-1.5v-0.9l3.6-2.4v-0.1l-1.8-2.7 -3.9 2.1v5.1l2.6 1.9 3.4-2.7L132.2 11.1zM128.4 9.9v-3.7l0.1-0.1 1.7 2.6L128.4 9.9zM139.1 9.2l-1.5-1.1c1-0.8 1.4-2 1.4-2.8 0-0.1 0-0.3 0-0.5h-0.2c-0.1 0.4-0.4 0.7-1 0.7 -0.6 0-1-0.3-1.3-0.7l-3.4 1.9v2.8l1.3 1c-1.3 1.1-1.5 1.9-1.5 2.5 0 0.8 0.3 1.3 1 1.5l0.1-0.2c-0.2-0.1-0.3-0.2-0.3-0.6 0-0.3 0.3-0.6 0.9-0.6 0.7 0 1.2 0.5 1.4 0.8 0 0 3.3-2 3.3-2L139.1 9.2zM138.3 6.9c-0.5 0.9-1.7 1.8-2.3 2.3l-0.8-0.6v-2.7c0.3 0.7 1.1 1.3 2 1.3C137.6 7.2 137.9 7.1 138.3 6.9zM136.9 12.9c-0.4-0.8-1.3-1.5-2.2-1.5 -0.2 0-0.8 0-1.4 0.4 0.3-0.6 1.4-1.7 2.6-2.4l0.9 0.7V12.9z"></path></switch></svg>
+</div>
+<ul class="sec__main-footer-links">
+<li><a class="sec__main-footer-links-item" href="/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Home', 'destination': '/'})">Home</a></li>
+<li><a class="sec__main-footer-links-item" href="/what-we-do/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'About Us', 'destination': '/what-we-do/'})">About Us</a></li>
+<li><a class="sec__main-footer-links-item" href="/contact/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Contact', 'destination': '/contact/'})">Contact</a></li>
+<li><a class="sec__main-footer-links-item" href="/register/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Register', 'destination': '/register/'})">Register</a></li>
+<li><a class="sec__main-footer-links-item" href="/nytl-toc/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Terms &amp; Conditions', 'destination': '/nytl-toc/'})">Terms &amp; Conditions</a></li>
+<li><a class="sec__main-footer-links-item" href="https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Terms of Service', 'destination': 'https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service/'})">Terms of Service</a></li>
+<li><a class="sec__main-footer-links-item" href="https://www.nytimes.com/privacy/privacy-policy" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Privacy Policy', 'destination': 'https://www.nytimes.com/privacy/privacy-policy'})">Privacy Policy</a></li>
+<li><a class="sec__main-footer-links-item" href="/cookie-policy/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Cookie Policy', 'destination': '/cookie-policy/'})">Cookie Policy</a></li>
+<li><a class="sec__main-footer-links-item" href="/legal-disclaimer/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Legal Disclaimer', 'destination': '/legal-disclaimer/'})">Legal Disclaimer</a></li>
+<li><a class="sec__main-footer-links-item" href="https://www.nytimes.com/subscription/groups/" onclick="syn4('navigation', {'page_url': 'https://nytlicensing.com/', 'name': 'Footer', 'click_text': 'Group Subscriptions', 'destination': 'https://www.nytimes.com/subscription/groups/'})">Group Subscriptions</a></li>
+<li class="js-california-notices d-none">
+<a class="sec__main-footer-links-item" href="https://help.nytimes.com/hc/en-us/articles/10940941449492#california-notice/" onclick="syn4('gdpr', {'page_url': window.location, 'action': 'California Notices Link'})" rel="noreferrer noopener" target="_blank">California Notices</a>
+</li>
+<li class="purr-link d-none">
+<a class="sec__main-footer-links-item" href="#" onclick="syn4('gdpr', {'page_url': window.location, 'action': 'CCPA Notice Opt Out Element'})">Do Not Sell/Share My Information</a>
+</li>
+<li class="js-dsr d-none">
+<a class="sec__main-footer-links-item" href="https://www.nytimes.com/data-subject-request/" onclick="syn4('gdpr', {'page_url': window.location, 'action': 'Limit the use of My Sensitive Information Link'})" rel="noreferrer noopener" target="_blank">Limit the Use of My Sensitive Information</a>
+</li>
+</ul>
+</div>
+<div class="page-standard-width">
+<div class="sec__main-footer-separator"></div>
+<p class="sec__main-footer-trade-mark">© The New York Times Company</p>
+</div>
+</footer>
+<div class="print-footer print-visible">
+<div class="page-standard-width">
+<div class="print-footer-content">
+<div class="left-side">
+<div class="print-footer-title">Contact us to subscribe or learn more</div>
+			Asia Paciﬁc | nytlg-apac@nytimes.com <br/>
+			Europe, Middle East &amp; Africa | nytlg-emea@nytimes.com<br/>
+			Latin America | nytlg-latam@nytimes.com<br/>
+			U.S. &amp; Canada | nytlg-uscanada@nytimes.com
+		</div>
+<div class="right-side">
+<img alt="NYT Licensing Group Logo" src="https://cdn-nyt-prd.nytlicensing.com/static/img/nytlicensing-group-logo.png"/>
+</div>
+</div>
+</div>
+</div>
+<div class="alerts col-sm-7 col-md-5"></div>
+
+
+<div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe frameborder="0" height="60" name="a-5jziy9xyflrz" role="presentation" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" scrolling="no" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfHutweAAAAAEwuy4_rX7Y4Zmxm1h0VCOvAz0eV&amp;co=aHR0cHM6Ly9ueXRsaWNlbnNpbmcuY29tOjQ0Mw..&amp;hl=en&amp;v=joHA60MeME-PNviL59xVH9zs&amp;size=invisible&amp;cb=hi89v1ghr2dx" title="reCAPTCHA" width="256"></iframe></div><div class="grecaptcha-error"></div><textarea class="g-recaptcha-response" id="g-recaptcha-response-100000" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be public to all users? Answer only with yes or no.

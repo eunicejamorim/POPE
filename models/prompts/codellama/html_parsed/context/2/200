@@ -1,0 +1,356 @@
+The following text is the html file of a webpage. <html class="no-touch" dir="ltr" lang="en-US"><head>
+<meta charset="utf-8"/>
+<!-- v24596 -->
+<title>Discord</title>
+<link href="https://support.discord.com/hc/en-us" rel="canonical"/>
+<link href="https://support.discord.com/hc/da" hreflang="da" rel="alternate"/>
+<link href="https://support.discord.com/hc/de" hreflang="de" rel="alternate"/>
+<link href="https://support.discord.com/hc/en-us" hreflang="en-us" rel="alternate"/>
+<link href="https://support.discord.com/hc/es" hreflang="es" rel="alternate"/>
+<link href="https://support.discord.com/hc/es-419" hreflang="es-419" rel="alternate"/>
+<link href="https://support.discord.com/hc/fr" hreflang="fr" rel="alternate"/>
+<link href="https://support.discord.com/hc/hi-in" hreflang="hi-in" rel="alternate"/>
+<link href="https://support.discord.com/hc/it" hreflang="it" rel="alternate"/>
+<link href="https://support.discord.com/hc/ja" hreflang="ja" rel="alternate"/>
+<link href="https://support.discord.com/hc/ko" hreflang="ko" rel="alternate"/>
+<link href="https://support.discord.com/hc/nl" hreflang="nl" rel="alternate"/>
+<link href="https://support.discord.com/hc/pl" hreflang="pl" rel="alternate"/>
+<link href="https://support.discord.com/hc/pt-br" hreflang="pt-br" rel="alternate"/>
+<link href="https://support.discord.com/hc/ru" hreflang="ru" rel="alternate"/>
+<link href="https://support.discord.com/hc/sv" hreflang="sv" rel="alternate"/>
+<link href="https://support.discord.com/hc/th" hreflang="th" rel="alternate"/>
+<link href="https://support.discord.com/hc/tr" hreflang="tr" rel="alternate"/>
+<link href="https://support.discord.com/hc/vi" hreflang="vi" rel="alternate"/>
+<link href="https://support.discord.com/hc/en-us" hreflang="x-default" rel="alternate"/>
+<link href="https://support.discord.com/hc/zh-tw" hreflang="zh-tw" rel="alternate"/>
+<link href="//static.zdassets.com/hc/assets/application-a42a464885a505c24ac3b0ab35047489.css" id="stylesheet" media="all" rel="stylesheet"/>
+<link href="/hc/theming_assets/678183/96508/style.css?digest=22606204186647" rel="stylesheet" type="text/css"/>
+<link href="//theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" rel="icon" type="image/x-icon"/>
+
+
+
+
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+</head>
+<body class="community-enabled" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><div></div>
+<!-- OneTrust Cookies Consent Notice start for discord.com -->
+
+
+
+<!-- OneTrust Cookies Consent Notice end for discord.com -->
+<!--This should be added at the very top -->
+<!--Comment out <div class="alertbox"></div>-->
+<header class="header">
+<div class="logo">
+<a href="/hc/en-us" title="Home">
+<img alt="Discord Help Center home page" src="//theme.zdassets.com/theme_assets/678183/cc59daa07820943e943c2fc283b9079d7003ff76.svg"/>
+</a>
+</div>
+<div class="nav-wrapper">
+<button aria-controls="user-nav" aria-expanded="false" aria-label="Toggle navigation menu" class="menu-button">
+<svg class="icon-menu" focusable="false" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.5 3.5h13m-13 4h13m-13 4h13" fill="none" stroke="currentColor" stroke-linecap="round"></path>
+</svg>
+</button>
+<nav class="user-nav" id="user-nav">
+<a href="//feedback.discord.com/">Feedback</a>
+<div class="dropdown language-selector">
+<button aria-haspopup="true" class="dropdown-toggle">
+            English (US)
+            <svg class="dropdown-chevron-icon" focusable="false" height="12" viewbox="0 0 12 12" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5" fill="none" stroke="currentColor" stroke-linecap="round"></path>
+</svg>
+</button>
+<span class="dropdown-menu dropdown-menu-end" role="menu">
+<a dir="ltr" href="/hc/change_language/da?return_to=%2Fhc%2Fda" rel="nofollow" role="menuitem">
+                Dansk
+              </a>
+<a dir="ltr" href="/hc/change_language/de?return_to=%2Fhc%2Fde" rel="nofollow" role="menuitem">
+                Deutsch
+              </a>
+<a dir="ltr" href="/hc/change_language/es?return_to=%2Fhc%2Fes" rel="nofollow" role="menuitem">
+                Español
+              </a>
+<a dir="ltr" href="/hc/change_language/es-419?return_to=%2Fhc%2Fes-419" rel="nofollow" role="menuitem">
+                Español (Latinoamérica)
+              </a>
+<a dir="ltr" href="/hc/change_language/fr?return_to=%2Fhc%2Ffr" rel="nofollow" role="menuitem">
+                Français
+              </a>
+<a dir="ltr" href="/hc/change_language/hi-in?return_to=%2Fhc%2Fhi-in" rel="nofollow" role="menuitem">
+                हिन्दी (भारत)
+              </a>
+<a dir="ltr" href="/hc/change_language/it?return_to=%2Fhc%2Fit" rel="nofollow" role="menuitem">
+                Italiano
+              </a>
+<a dir="ltr" href="/hc/change_language/ja?return_to=%2Fhc%2Fja" rel="nofollow" role="menuitem">
+                日本語
+              </a>
+<a dir="ltr" href="/hc/change_language/ko?return_to=%2Fhc%2Fko" rel="nofollow" role="menuitem">
+                한국어
+              </a>
+<a dir="ltr" href="/hc/change_language/nl?return_to=%2Fhc%2Fnl" rel="nofollow" role="menuitem">
+                Nederlands
+              </a>
+<a dir="ltr" href="/hc/change_language/pl?return_to=%2Fhc%2Fpl" rel="nofollow" role="menuitem">
+                Polski
+              </a>
+<a dir="ltr" href="/hc/change_language/pt-br?return_to=%2Fhc%2Fpt-br" rel="nofollow" role="menuitem">
+                Português do Brasil
+              </a>
+<a dir="ltr" href="/hc/change_language/ru?return_to=%2Fhc%2Fru" rel="nofollow" role="menuitem">
+                Русский
+              </a>
+<a dir="ltr" href="/hc/change_language/sv?return_to=%2Fhc%2Fsv" rel="nofollow" role="menuitem">
+                svenska
+              </a>
+<a dir="ltr" href="/hc/change_language/th?return_to=%2Fhc%2Fth" rel="nofollow" role="menuitem">
+                ไทย
+              </a>
+<a dir="ltr" href="/hc/change_language/tr?return_to=%2Fhc%2Ftr" rel="nofollow" role="menuitem">
+                Türkçe
+              </a>
+<a dir="ltr" href="/hc/change_language/vi?return_to=%2Fhc%2Fvi" rel="nofollow" role="menuitem">
+                Tiếng Việt
+              </a>
+<a dir="ltr" href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw" rel="nofollow" role="menuitem">
+                繁體中文
+              </a>
+</span>
+</div>
+<a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a>
+</nav>
+<a class="sign-in" data-auth-action="signin" href="/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.discord.com%2Fhc%2Fen-us" rel="nofollow" role="button" title="Opens a dialog">
+        Sign in
+      </a>
+</div>
+</header>
+
+<main role="main">
+<section class="section hero" id="main-content">
+<div class="hero-inner">
+<h1>Help Center</h1>
+<svg aria-hidden="true" class="search-iconb" focusable="false" height="12" viewbox="0 0 12 12" width="12" xmlns="http://www.w3.org/2000/svg">
+<circle cx="4.5" cy="4.5" fill="none" r="4" stroke="currentColor"></circle>
+<path d="M11 11L7.5 7.5" stroke="currentColor" stroke-linecap="round"></path>
+</svg>
+<form accept-charset="UTF-8" action="/hc/en-us/search" autocomplete="off" class="search search-full search-kb-fix" data-instant="true" data-search="" method="get" role="search"><input autocomplete="off" name="utf8" type="hidden" value="✓"/><input aria-label="Search" autocomplete="off" id="query" name="query" placeholder="Search" type="search"/><input name="filter_by" type="hidden" value="knowledge_base"/></form>
+
+</div>
+</section>
+<section class="intro">
+<h1>Need help? We've got your back.</h1>
+<p>From account settings to permissions, find help for everything Discord
+  <br/>If you're new to Discord and looking for tips, check out our <a href="//support.discord.com/hc/articles/360045138571">Beginner's Guide</a></p>
+</section>
+<section class="category-grid">
+<ul class="flex-container">
+<!-- Announcements -->
+<a href="//support.discord.com/hc/en-us/categories/115000193752">
+<li class="flex-item known-issues">
+<h2>Announcements</h2>
+<hr/>
+<h3>We've got our ear to the ground. Here's what you need to know.</h3>
+</li>
+</a>
+<!-- Discord UI -->
+<a href="//support.discord.com/hc/en-us/categories/200404398">
+<li class="flex-item discord-interface">
+<h2>Discord's Interface</h2>
+<hr/>
+<h3>WHAT DOES THIS BUTTON DO!?!11</h3>
+</li>
+</a>
+<!-- Account Settings -->
+<a href="//support.discord.com/hc/en-us/categories/200404358">
+<li class="flex-item account-settings">
+<h2>Account Settings</h2>
+<hr/>
+<h3>You're a special snowflake and so is your account.</h3>
+</li>
+</a>
+<!-- Discord Basics -->
+<a href="//support.discord.com/hc/en-us/categories/115000217151">
+<li class="flex-item text-chat">
+<h2>Getting Started</h2>
+<hr/>
+<h3>Start off on the right foot! Not the left one!</h3>
+</li>
+</a>
+<!-- Server Setup -->
+<a href="//support.discord.com/hc/en-us/categories/200404378">
+<li class="flex-item server-setup">
+<h2>Server Setup</h2>
+<hr/>
+<h3>Almost as exciting as interior decorating.</h3>
+</li>
+</a>
+<!-- Community Programs -->
+<a href="//support.discord.com/hc/en-us/categories/115000167372">
+<li class="flex-item community-programs">
+<h2>Community Programs</h2>
+<hr/>
+<h3>Bringing people together from all around the globe (and occasionally Mars)</h3>
+</li>
+</a>
+<!-- Store -->
+<a href="//support.discord.com/hc/en-us/categories/360001025912">
+<li class="flex-item store">
+<h2>Perks and Subscriptions</h2>
+<hr/>
+<h3>Please don't shop until you drop. Let us help.</h3>
+</li>
+</a>
+<!-- Billing -->
+<a href="//support.discord.com/hc/en-us/categories/360001029051">
+<li class="flex-item billing">
+<h2>Billing</h2>
+<hr/>
+<h3>That feel when you look at your bank account.</h3>
+</li>
+</a>
+<!-- Trust & Safety -->
+<a href="//support.discord.com/hc/en-us/categories/115000168351">
+<li class="flex-item trust-safety">
+<h2>Trust &amp; Safety</h2>
+<hr/>
+<h3>Keep things safe &amp; sound for you and your buddies.</h3>
+</li>
+</a>
+<!-- FAQs -->
+<a href="//support.discord.com/hc/en-us/categories/115000168371">
+<li class="flex-item faq">
+<h2>F.A.Q.s</h2>
+<hr/>
+<h3>All you can eat self-serve problem solving.</h3>
+</li>
+</a>
+</ul>
+</section>
+<section class="intro">
+<pre>     </pre>
+<h2>Other ways to find help.</h2>
+</section>
+<section class="category-grid">
+<ul class="flex-container">
+<!-- Support HC -->
+<a href="//support-dev.discord.com/hc/en-us">
+<li class="flex-item hclogo">
+<h2>Developer Support</h2>
+<hr/>
+<h3>Your home for support with developing bots, apps, &amp; games using our API and SDK! </h3>
+</li>
+</a>
+<!-- Twitter -->
+<a href="//twitter.com/discord_support">
+<li class="flex-item twitter">
+<h2>Twitter</h2>
+<hr/>
+<h3>Have a quick question? Hit us up on Twitter!</h3>
+</li>
+</a>
+</ul>
+</section>
+</main>
+<footer class="section" id="end">
+<div class="content">
+<div class="hook">
+<a href="https://discord.com/">
+<button class="button">
+          Learn More
+        </button>
+</a>
+<div class="apps">
+<a class="apps-icon apps-browsers" href="//discord.com/login">
+<img src="//theme.zdassets.com/theme_assets/678183/faa4afbc252ccaa8d959cedf65f6e59b4d75b167.svg"/>
+</a>
+<a class="apps-icon apps-android" href="https://play.google.com/store/apps/details?id=com.discord">
+<img src="//theme.zdassets.com/theme_assets/678183/fc0920a1ef72122cbcd69849ff4431fc8095a11b.svg"/>
+</a>
+<a class="apps-icon apps-ios" href="https://itunes.apple.com/us/app/discord-chat-for-games/id985746746">
+<img src="//theme.zdassets.com/theme_assets/678183/e2b9fb24a30f282977edd9c280820029e767b160.svg"/>
+</a>
+<a class="apps-icon apps-windows" href="https://discord.com/api/download?platform=win">
+<img src="//theme.zdassets.com/theme_assets/678183/47100981c9f8e640b597c228528f303b5b5ae4ac.svg"/>
+</a>
+<a class="apps-icon apps-osx" href="https://discord.com/api/download?platform=osx">
+<img src="//theme.zdassets.com/theme_assets/678183/22df88a591db1baf678cb7435a7ec52317daba6f.svg"/>
+</a>
+</div>
+</div>
+<nav class="nav">
+<div class="branding">
+<a href="//discord.com" itemprop="url">
+<img alt="Discord" height="36" itemprop="logo" src="//theme.zdassets.com/theme_assets/678183/2a944f43170f2222e136854fe9c9e2c9ea6a1971.svg" width="130"/>
+</a>
+</div>
+<div class="spacer"></div>
+<div class="links">
+<div class="links-col">
+<div class="links-item">
+<a class="link-a" href="//discord.com/download">
+              Download
+            </a>
+</div>
+<div class="links-item">
+<a class="link-a" href="//support.discord.com">
+              Help &amp; Support
+            </a>
+</div>
+<div class="links-item">
+<a class="link-a" href="//feedback.discord.com">
+              Feedback
+            </a>
+</div>
+<div class="links-item">
+<a class="link-a" href="//status.discord.com">
+              Status
+            </a>
+</div>
+</div>
+<div class="links-col">
+<div class="links-item">
+<a class="link-a" href="//discord.com/company">
+              Company
+            </a>
+</div>
+<div class="links-item">
+<a class="link-a" href="//discord.com/company#join">
+              Jobs
+            </a>
+<span class="link-sep">
+              —
+            </span>
+<span class="link-hiring">
+              We're hiring
+            </span>
+</div>
+<div class="links-item">
+<a class="link-a" href="//discord.com/blog">
+              Blog
+            </a>
+</div>
+<div class="links-item">
+<a class="link-a" href="//discord.com/tos">
+              Terms
+            </a>
+<span class="link-sep">
+              &amp;
+            </span>
+<a class="link-a" href="//discord.com/privacy">
+              Privacy
+            </a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</footer>
+<!-- / -->
+
+
+
+
+
+<iframe height="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;" width="1"></iframe>
+<iframe allow="microphone *" aria-hidden="true" data-product="web_widget" role="presentation" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;" tabindex="-1" title="No content"></iframe><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div><div><iframe id="launcher" style="color-scheme: light; width: 108px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 0px; overflow: visible; opacity: 1; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; right: 0px;" tabindex="0" title="Opens a widget where you can find more information"></iframe></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website discord.com . It is in the url https://support.discord.com/hc/en-us and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "username": "jane_._doe_.__63404", "password": "***", "birthday": "01-01-1970"} Does this page contains user specific information? Answer only with yes or no.

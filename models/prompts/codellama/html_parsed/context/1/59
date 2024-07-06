@@ -1,0 +1,1244 @@
+The following text is the html file of a webpage. <html class="no-touch" lang="en-US"><head>
+<meta content="N12ObxyZPHqX4_5PYw3OiJfIASWzOoZJoRp2ivF5o8g" name="google-site-verification"/>
+<title>Home</title>
+
+<link href="/assets/stimulus.min-4b1e420e.js" nonce="xpF4mFh6cHThCKOkatAv3Q==" rel="modulepreload"/>
+<link href="/assets/stimulus-loading-1fc53fe7.js" nonce="xpF4mFh6cHThCKOkatAv3Q==" rel="modulepreload"/>
+
+
+
+<meta content="no-cache" name="turbo-cache-control"/>
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="vHMjlKKEB-FrPhPez-FtQoIVytZvBSqrL-wR3tn7K4BLbRkt6GgbdKy1FdBJFzMoJQKtgVbk-egX5_CLyZXwqw" name="csrf-token"/>
+<link href="https://careers.etsy.com/blogs/lauren-rowe-test-blog" rel="alternate" title="lauren rowe test blog" type="application/rss+xml"/>
+<link href="https://careers.etsy.com/home" hreflang="en-us" rel="alternate"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Three little words sum up one big mission: Keep Commerce Human.
+Etsy is the global marketplace for unique and creative goods.  We connect creative entrepreneurs from nearly every country around the world with buyers shopping for something special." id="meta_tag_description" name="description"/>
+<meta content="" id="meta_tag_twitter_creator" name="twitter:creator" property="twitter:creator"/>
+<meta content="" id="meta_tag_twitter_site" name="twitter:site" property="twitter:site"/>
+<meta content="gallery" id="meta_tag_twitter_card" name="twitter:card" property="twitter:card"/>
+<meta content="Home" id="meta_tag_og_title" name="og:title" property="og:title"/>
+<meta content="Three little words sum up one big mission: Keep Commerce Human.
+Etsy is the global marketplace for unique and creative goods.  We connect creative entrepreneurs from nearly every country around the world with buyers shopping for something special." id="meta_tag_og_description" name="og:description" property="og:description"/>
+<meta content="https://careers.etsy.com/home" id="meta_tag_og_url" name="og:url" property="og:url"/>
+<meta content="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/e8a23ed446d63d8168692dcc4e9775d3/original/Etsy_share_image.jpg?1680622956" id="meta_tag_twitter_image0_src" name="twitter:image0:src" property="twitter:image0:src"/>
+<meta content="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/e8a23ed446d63d8168692dcc4e9775d3/original/Etsy_share_image.jpg?1680622956" name="og:image" property="og:image"/>
+<link href="https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/fontawesome.css" rel="stylesheet"/>
+<link href="https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/solid.css" rel="stylesheet"/>
+<link href="https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/brands.css" rel="stylesheet"/>
+<link href="https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/regular.css" rel="stylesheet"/>
+<link href="https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/v4-shims.css" rel="stylesheet"/>
+<link href="/assets/public/pages_bs5-c9f01dec.css" media="all" rel="stylesheet"/>
+<link href="/assets/public/themes/modern_bs5-8a131ed4.css" media="all" rel="stylesheet"/>
+<link href="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/companies/favicons/387d7403377e6d4fe610e5a968cf8691/basic/favicon.png?1679449976" rel="icon" type="image/x-icon"/>
+<link href="/themes/09c90d36fef59a95818f0fb467b5775b/branded_stylesheet/branded_stylesheet-1716220176.css" id="branded_style" rel="stylesheet"/>
+<link href="/themes/09c90d36fef59a95818f0fb467b5775b/custom_stylesheet/custom_stylesheet-1716220176.css" id="custom_css" rel="stylesheet"/>
+
+
+</head>
+<!--   clinch body begin -->
+<body class="tracking-active" data-controller="tracking kiosk candidate--populator manage-cookies-link-reloader" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1174.0" style="">
+<!-- custom headers and menus -->
+<nav class="navbar navbar-expand-md navbar-light bg-white etsy-nav">
+<div class="container">
+<button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarNav" data-bs-toggle="collapse" type="button">
+<span class="etsy-toggler-icon text-black">
+<i class="etsy-hamburger-icon"></i>
+</span>
+<!-- <span class="text-black">
+                <i class="fas fa-bars fa-1x"></i>
+            </span> -->
+</button>
+<a class="navbar-brand" href="https://www.etsy.com/about"><img class="logo" src="https://s3.us-east-1.amazonaws.com/rec-marketing-usea1-uploads/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/b52115d6696a321279f529cec14247a3/medium/etsy-header-logo.png?1672180455"/></a>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav ms-auto">
+<li class="nav-item">
+<a class="nav-link" href="/home" target="_blank">Home</a>
+</li>
+<li class="nav-item dropdown">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="navbarDropdown" role="button">Departments</a>
+<ul aria-labelledby="navbarDropdown" class="dropdown-menu">
+<li><a class="dropdown-item" href="/engineering">Engineering</a></li>
+<li><a class="dropdown-item" href="/finance">Finance</a></li>
+<li><a class="dropdown-item" href="/legal">Legal</a></li>
+<li><a class="dropdown-item" href="/marketing-communications">Marketing &amp; Communications</a></li>
+<li><a class="dropdown-item" href="/people-workplace">People &amp; Workplace</a></li>
+<li><a class="dropdown-item" href="/product-design-research">Product, Design &amp; Research</a></li>
+<li><a class="dropdown-item" href="/strategy-operations">Strategy &amp; Operations</a></li>
+<li><a class="dropdown-item" href="/sustainability-impact">Sustainability &amp; Impact</a></li>
+<li><a class="dropdown-item" href="/support-managed-services"> Support &amp; Managed Services</a></li>
+<li><a class="dropdown-item" href="/trust-safety">Trust &amp; Safety</a></li>
+</ul>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/dei">DEI</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/jobs/search">Careers</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/talent-community" target="_blank">Talent Community</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.etsy.com/impact" target="_blank">Impact</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://investors.etsy.com/home/default.aspx" target="_blank">Investors</a>
+</li>
+</ul>
+<ul class="navbar-nav candidate-settings">
+<li class="nav-item candidate-settings-link">
+<a class="nav-link" href="/me/settings">Candidate Settings</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="alert alert-success visible-in-kiosk-mode" id="kiosk_mode_active" role="alert">Kiosk mode</div>
+<div class="page-body page not-editing">
+
+<div class="page-rows">
+<div class="page-row p-t-0 p-b-0 career-home-hero" id="page_row_0">
+<div class="page-row-inner">
+<div class="container-fluid page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper" data-uid="466811dfa29818aa247f641eb3bf2c0e">
+<div class="block-image">
+<div class="block-image-uncropped-full-width" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="" data-open-newtab="false" id="image_wrapper_0_0" tabindex="0">
+<img alt="Tarmac, Road, Street, City, Urban, Path, Intersection, Sidewalk, Building, Neighborhood" class="image-uncropped-full-width" id="image_0_0" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/1d3253652ee24308f48ca95ed11d9e26/large/career-home-hero.jpg?1672184181"/>
+<span class="block-image-text" id="block_image_text_0_0" role="presentation">
+<h1 style="text-align:left;">Learn, share, create. <br/>Build something that matters.</h1>
+</span>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-0 p-b-10 homepage-searchbar-container" id="page_row_1">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper" data-uid="58a88c6a31e04144fe67e9d99c5bd4b5">
+<div class="block-job-search-form" data-blocks--job-search-form-autocomplete-categories-value='[{"listLocation":"jobs","header":"Jobs"},{"listLocation":"categories","header":"Categories"},{"listLocation":"departments","header":"Departments"},{"listLocation":"cities","header":"Cities"}]' data-controller="blocks--job-search-form">
+<div class="page-block" id="page_block_1_0">
+<div class="row">
+<div class="col-md-12 block-content">
+</div>
+</div>
+<form accept-charset="UTF-8" action="https://careers.etsy.com/jobs/search" data-action="blocks--job-search-form#submit" method="get">
+<div class="job-search-control">
+<div class="row">
+<div class="col">
+<label class="ada-label" for="search_control_query_1_0">Search by job title, location, department, category, etc.</label>
+<div class="input-group">
+<div class="easy-autocomplete form-control form-control-sm fix-autocomplete" style="width: 895.888px;"><input autocomplete="off" class="form-control historical" data-autocomplete-enabled="true" data-autocomplete-url="/jobs/search_preview?block_id=58a88c6a31e04144fe67e9d99c5bd4b5&amp;page_id=58572f83e60ec16d49e9d1b59662398c" id="search_control_query_1_0" maxlength="100" name="query" placeholder="Search by job title, location, department, category, etc." type="text"/><div class="easy-autocomplete-container" id="eac-container-search_control_query_1_0"><ul></ul></div></div>
+<span class="input-group-btn">
+<button class="btn btn-primary" id="search_control_button_1_0" name="button" type="submit">Search</button>
+</span>
+<span class="input-group-btn">
+<span class="near-me-control">
+<button class="btn btn-success near-me-btn" data-action="blocks--near-me#trackLocation" data-blocks--near-me-trackable-value="false" data-controller="blocks--near-me" id="near_me_button_1_0" name="button" type="button">Jobs Near Me</button>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</form> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-10 p-b-30 homepage-keep-commerce-human-container center-text" id="page_row_2">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-6">
+<div class="block-wrapper homepage-keep-commerce-human-text text-dark homepage-text-block-custom order-2" data-uid="6df6c5282c9235e492131d721710b755">
+<div class="">
+<div class="page-block" id="page_block_2_0">
+<h1>Three little words sum up one big mission: Keep Commerce Human.</h1>
+<p>Etsy is the global marketplace for unique and creative goods.  We connect creative entrepreneurs from nearly every country around the world with buyers shopping for something special.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="block-wrapper homepage-keep-commerce-human-img order-1" data-uid="5e2aa5f000b0cceb088d15dc1a3bb419">
+<div class="block-image">
+<div class="block-image-uncropped-full-width" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="" data-open-newtab="false" id="image_wrapper_2_1" tabindex="0">
+<img alt="Person, Outdoors, Shark, Sea Life, Fish, Animal, Head" class="image-uncropped-full-width" id="image_2_1" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/d21936c8bc8cff84b3df3c0179fe20b6/large/homepage-three-little-words.png?1672329038"/>
+<span class="block-image-text" id="block_image_text_2_1" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row m-t-0 p-t-50 p-b-50 how-and-where-work-modes-cards-container" id="page_row_3">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-4">
+<div class="block-wrapper how-and-where-work-modes-card" data-uid="46060455082eb9d443301dec15a1bbbe">
+<div class="">
+<div class="page-block" id="page_block_3_0">
+<h2 style="text-align:center;"><a href="https://careers.etsy.com/how-and-where-we-work" target="_blank"><img alt="how-and-where-flex-mode.png" height="400" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/a4e0ffe1dd8b543f7c660adfee4df16c/medium/How_and_Where_Module.jpg?1691097868" width="400"/></a></h2>
+<h2 style="text-align:center;">How and Where <br/>We Work</h2>
+<p style="text-align:left;">Our enhanced hybrid work model encourages flexibility, autonomy, and impact. Learn about <a href="https://careers.etsy.com/how-and-where-we-work" target="_blank">our flexible work modes</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper how-and-where-work-modes-card" data-uid="a974b652615b3a6482e3a11bfd14c635">
+<div class="">
+<div class="page-block" id="page_block_3_1">
+<h2 style="text-align:center;"><a href="https://careers.etsy.com/dei" target="_blank"><img alt="how-and-where-remote-mode.png" height="400" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/59c863beff35b50434b21201bc6e0cab/medium/DEI_Module.png?1691097870" width="400"/></a></h2>
+<h2 style="text-align:center;">Diversity, Equity, and Inclusion</h2>
+<p style="text-align:left;">Learn how we encourage an environment in which employees feel empowered to <a href="https://careers.etsy.com/dei" target="_blank">come, stay, and thrive</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper how-and-where-work-modes-card" data-uid="74f37c2aace951dba7aaeaca7e9697f5">
+<div class="">
+<div class="page-block" id="page_block_3_2">
+<h2 style="text-align:center;"><a href="https://www.etsy.com/impact" target="_blank"><img alt="how-and-where-office-based-mode.png" height="400" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/114674b79781309dc69b46ac9b98bb81/medium/Impact_Module.png?1691097869" width="400"/></a></h2>
+<h2 style="text-align:center;">Economic, Social, and  <br/>Environmental Impact</h2>
+<p>From advocating for public policy to being carbon neutral, you can read about all of <a href="https://www.etsy.com/impact" target="_blank">our initiatives</a>. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-30 p-b-30 homepage-lasting-impact-container center-text" id="page_row_4">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-6">
+<div class="block-wrapper homepage-lasting-impact-img order-1" data-uid="1fec56ce211517f1887428fc74a09c24">
+<div class="block-image">
+<div class="block-image-uncropped-full-width" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="" data-open-newtab="false" id="image_wrapper_4_0" tabindex="0">
+<img alt="Person, Man, Adult, Male, People, Graphics, Art, Head, Bulldozer, Book" class="image-uncropped-full-width" id="image_4_0" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/37168527ddb44aed57740975b1db84cc/large/homepage-lasting-impact.png?1672329047"/>
+<span class="block-image-text" id="block_image_text_4_0" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="block-wrapper homepage-lasting-impact-text text-dark homepage-text-block-custom order-2" data-uid="4c9ca5f8d69a3179b3269f9d6ded2b2c">
+<div class="">
+<div class="page-block" id="page_block_4_1">
+<h1>Make a lasting impact.</h1>
+<p>Tackle unique problems alongside talented coworkers and teams. We're large enough that you'll focus on meaningful, complex challenges, but small enough that you can make a rewarding impact. See your work make a true difference in people's lives. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-60 p-b-60 homepage-guiding-principles-container center-text" id="page_row_5">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-4">
+<div class="block-wrapper homepage-guiding-principles-img" data-uid="dca43356a86532fc4abdd0ae50ef0720">
+<div class="block-image">
+<div class="block-image-uncropped-full-width" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="" data-open-newtab="false" id="image_wrapper_5_0" tabindex="0">
+<img alt="Jar, Pottery, Vase, Urn, Person, Baby, Face, Head" class="image-uncropped-full-width" id="image_5_0" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/3ba2778672b7f39a2301a4957732148b/large/homepage-guiding-principles.png?1672329047"/>
+<span class="block-image-text" id="block_image_text_5_0" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-8">
+<div class="block-wrapper homepage-guiding-principles-text text-dark" data-uid="75564c9341404e0464ab56170b86a3c2">
+<div class="">
+<div class="page-block" id="page_block_5_1">
+<h1>Our Guiding Principles</h1>
+<p>These guiding principles inspire every Etsy employee. They're how we show up every day to make the best work possible.</p>
+<p><a href="/guiding-principles">Learn more</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-40 p-b-25" id="page_row_6">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper homepage-explore-offices-text text-dark" data-uid="e820c3d818fe826134e30349ab18e288">
+<div class="">
+<div class="page-block" id="page_block_6_0">
+<h1 style="text-align:center;">Explore our offices around the world.</h1>
+<p style="text-align:center;">All of our locations are environmentally friendly, exceptionally cozy, and showcase items made by Etsy sellers. We've continued to invest in our physical spaces, to optimize for collaboration and connection in a hybrid model.</p>
+<p style="text-align:center;">We’re also focused on inclusive, flexible practices adapted to meet the needs of our growing workforce. Etsy is taking a hybrid approach to the future of work, and global employees have the option of a “flex” schedule (at least 4-6 days per month in office), being fully remote, or office-based (4-5 days per week in office). Learn more about our flexible work modes <a href="https://careers.etsy.com/global/en/how-and-where-we-work" target="_blank">here</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-25 p-b-60" id="page_row_7">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper homepage-explore-offices-img" data-uid="72751a5962972631294693d9cefd3614">
+<div class="block-image">
+<div class="block-image-uncropped-full-width" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="" data-open-newtab="false" id="image_wrapper_7_0" tabindex="0">
+<img alt="Indoors, Restaurant, Art, Collage, Interior Design, Dining Room, Dining Table, Table, Person, Cafeteria" class="image-uncropped-full-width" id="image_7_0" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/2d713c9d56a0fab4c2b5e1d72353dea8/large/OfficesImage2023.png?1680807108"/>
+<span class="block-image-text" id="block_image_text_7_0" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-60 p-b-0 row-background-brand_color_4" id="page_row_8">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper homepage-talk-benefits-text homepage-text-block-custom text-dark" data-uid="74f1f11259649049970b2ee97c7ac629">
+<div class="">
+<div class="page-block" id="page_block_8_0">
+<h1 style="text-align:center;">Time to talk benefits.</h1>
+<p style="text-align:center;">We believe the best work comes from happy employees. <br/>Here are just a few of the professional and personal perks you'll experience at Etsy.<br/>Interested to learn more? Explore our <a href="https://bit.ly/3mwBfj2" target="_blank">comprehensive global benefits</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-35 p-b-60 homepage-benefits-icons-container row-background-brand_color_4" id="page_row_9">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-3">
+<div class="block-wrapper homepage-benefits-icon-text" data-uid="8b9b6c99e828c5633892383a468f9ab0">
+<div class="">
+<div class="page-block" id="page_block_9_0">
+<p style="text-align:left;"><img alt="homepage-benefits-wealth.png" height="150" src="https://s3.us-east-1.amazonaws.com/rec-marketing-usea1-uploads/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/5163249a710bd776a9b15d875c0dea6b/medium/homepage-benefits-wealth.png?1672329047" width="150"/></p>
+<h1 style="text-align:left;">Wealth</h1>
+<p style="text-align:left;">Equity (offers vary by country)<br/>401K matching/Pension contributions<br/>Competitive salary<br/>Performance bonuses</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="block-wrapper homepage-benefits-icon-text" data-uid="28b9dcdc81b94124e14ed8c357e96485">
+<div class="">
+<div class="page-block" id="page_block_9_1">
+<p style="text-align:left;"><img alt="homepage-benefits-family.png" height="150" src="https://s3.us-east-1.amazonaws.com/rec-marketing-usea1-uploads/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/86d401d6ddc4b769f014e7352d8bc0f3/medium/homepage-benefits-family.png?1672329037" width="150"/></p>
+<h1 style="text-align:left;">Family</h1>
+<p style="text-align:left;">Paid parental leave for all genders<br/>Adoption and family planning<br/>Back-up care</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="block-wrapper homepage-benefits-icon-text" data-uid="4104c7bf264917955da4e4d4b0b696fe">
+<div class="">
+<div class="page-block" id="page_block_9_2">
+<p style="text-align:left;"><img alt="homepage-benefits-community.png" height="150" src="https://s3.us-east-1.amazonaws.com/rec-marketing-usea1-uploads/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/d1745c13ef2950cb315f43ac7bef3bdb/medium/homepage-benefits-community.png?1672329047" width="150"/></p>
+<h1 style="text-align:left;">Community</h1>
+<p style="text-align:left;">Volunteer time off<br/>Donation matching<br/>Employee resource groups<br/>Global virtual events</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="block-wrapper homepage-benefits-icon-text" data-uid="ca725167c744e7df2706a4b4ba943575">
+<div class="">
+<div class="page-block" id="page_block_9_3">
+<p style="text-align:left;"><img alt="homepage-benefits-wellness.png" height="150" src="https://s3.us-east-1.amazonaws.com/rec-marketing-usea1-uploads/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/1849fb9d382fbb4695e84e1cb9c174b8/medium/homepage-benefits-wellness.png?1672329047" width="150"/></p>
+<h1 style="text-align:left;">Wellness</h1>
+<p style="text-align:left;">Fitness benefits<br/>Wellness programming<br/>Mental health benefits</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-60 p-b-0" id="page_row_10">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper homepage-awards-text homepage-text-block-custom text-dark" data-uid="f0c24fd582dcd3f930f1f44a27e8ee03">
+<div class="">
+<div class="page-block" id="page_block_10_0">
+<h1 style="text-align:center;">Call it a winning streak.</h1>
+<p style="text-align:center;">We don't like to brag, so we'll let these awards speak for themselves.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-20 p-b-15 homepage-awards-img-container" id="page_row_11">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-4">
+<div class="block-wrapper homepage-awards-img" data-uid="b3709e58a61e5d127e6962b04f8ce669">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://www.forbes.com/just-companies/#b3f64262bf01" id="image_wrapper_11_0" role="button" tabindex="0">
+<img alt="Logo, Text" class="image-uncropped-full-width" id="image_11_0" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/99bd01b4a47d5444b8f710980bd4933a/large/homepage-awards-just.jpg?1672329049"/>
+<span class="block-image-text" id="block_image_text_11_0" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-awards-img" data-uid="683a5b033168ab7bb3f265dd6b109653">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://www.hrc.org/resources/best-places-to-work-for-lgbtq-equality-2022" id="image_wrapper_11_1" role="button" tabindex="0">
+<img alt="Advertisement, Poster, Text, First Aid" class="image-uncropped-full-width" id="image_11_1" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/08477377e8c64c6acaa376557d481a2c/large/homepage-awards-equality.png?1672329038"/>
+<span class="block-image-text" id="block_image_text_11_1" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-awards-img" data-uid="aba48358d0b9615f0a050939e08a9c9c">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://builtin.com/awards/us/2023/best-large-places-to-work" id="image_wrapper_11_2" role="button" tabindex="0">
+<img alt="Advertisement, Person, Woman, Adult, Female, Man, Male, Poster, Face, Glasses" class="image-uncropped-full-width" id="image_11_2" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/3895f0a83dc13ea9d9f9c23ea11b78e2/large/homepage-awards-builtin.jpg?1672329038"/>
+<span class="block-image-text" id="block_image_text_11_2" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-15 p-b-80 homepage-awards-img-container second" id="page_row_12">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-4">
+<div class="block-wrapper homepage-awards-img" data-uid="1c3188300777839322da7986f11a0ae1">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://www.fastcompany.com/90496358/see-the-26-world-changing-ideas-awards-winners-that-are-building-a-better-world" id="image_wrapper_12_0" role="button" tabindex="0">
+<img alt="Sphere, Logo, Symbol" class="image-uncropped-full-width" id="image_12_0" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/e7d556e426bbce4b7b0348a81c380259/large/homepage-awards-fastcompany.png?1672329047"/>
+<span class="block-image-text" id="block_image_text_12_0" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-awards-img" data-uid="8c59c4e68c87a44b4eee64226547d359">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://justcapital.com/news/top-100-u-s-companies-supporting-healthy-families-communities/" id="image_wrapper_12_1" role="button" tabindex="0">
+<img alt="Text, Green, Advertisement" class="image-uncropped-full-width" id="image_12_1" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/7c28a42698c18390b0be254a49a28594/large/homepage-awards-healthyfamilies.jpg?1672329038"/>
+<span class="block-image-text" id="block_image_text_12_1" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-awards-img" data-uid="7af33f1a56a44b9b417a9a56eb05250f">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://etsy.me/3rlutyM" id="image_wrapper_12_2" role="button" tabindex="0">
+<img alt="A square graphic featuring a royal blue border with light blue waves at the bottom surrounding a square white box. At the top of the white box is Etsy's logo in the color orange. Below that, dark blue copy reads &quot;named 2023 Best Place To Work for Disability Inclusion.&quot; At the bottom of the white box, it clarifies who the award is by with the Disability Equality Index logo in green and blue." class="image-uncropped-full-width" id="image_12_2" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/c79149d2d556b4de1c2458d81b5deef7/large/100_LI.png?1689615010"/>
+<span class="block-image-text" id="block_image_text_12_2" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row m-t-30 p-t-60 p-b-30 row-background-brand_color_5" id="page_row_13">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper make-impact-space-between homepage-open-roles-text homepage-text-block-custom text-dark" data-uid="59ee3b188c27e380b6ff338b91bddfe6">
+<div class="">
+<div class="page-block" id="page_block_13_0">
+<h1 style="text-align:center;">Ready To Make An Impact?</h1>
+<h1 style="text-align:center;">​​​​​​​Explore These Open Roles.</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-0 p-b-15 homepage-open-roles-container row-background-brand_color_5" id="page_row_14">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="5a8020f8b957eca84d4353578185202f">
+<div class="">
+<div class="page-block" id="page_block_14_0">
+<p style="text-align:center;"><a href="/finance">Finance</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="6c98ac967467ecbc19c16d1ebceddf12">
+<div class="">
+<div class="page-block" id="page_block_14_1">
+<p style="text-align:center;"><a href="/legal">Legal</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="21c4ff4a27c6de98e08c3fe50de2b45e">
+<div class="">
+<div class="page-block" id="page_block_14_2">
+<p style="text-align:center;"><a href="/marketing-communications">Marketing &amp; Comms</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-0 p-b-15 homepage-open-roles-container row-background-brand_color_5" id="page_row_15">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="11448cf1308722bbeeefe1413149b608">
+<div class="">
+<div class="page-block" id="page_block_15_0">
+<p style="text-align:center;"><a href="/engineering">Engineering</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="bfb315a3aeb5d3b870d3676d7c1db054">
+<div class="">
+<div class="page-block" id="page_block_15_1">
+<p style="text-align:center;"><a href="/product-design-research">Product, Design, &amp; Research</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="14d447d95c3b19d7d1c4d362831acd26">
+<div class="">
+<div class="page-block" id="page_block_15_2">
+<p style="text-align:center;"><a href="/trust-safety">Trust &amp; Safety</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-0 p-b-15 homepage-open-roles-container row-background-brand_color_5" id="page_row_16">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="7a74144f72ff8e94f003b87615047378">
+<div class="">
+<div class="page-block" id="page_block_16_0">
+<p style="text-align:center;"><a href="/support-managed-services">Support &amp; Managed Services</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="46814c81c38dc482e88bdfdc65ad021f">
+<div class="">
+<div class="page-block" id="page_block_16_1">
+<p style="text-align:center;"><a href="/people-workplace">People &amp; Workplace</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="97c2fde0b9bec3312a5c38223d8ca000">
+<div class="">
+<div class="page-block" id="page_block_16_2">
+<p style="text-align:center;"><a href="/sustainability-impact">Sustainability &amp; Impact</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-0 p-b-85 homepage-open-roles-container row-background-brand_color_5" id="page_row_17">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-4">
+</div>
+<div class="col-md-4">
+<div class="block-wrapper homepage-open-roles-button" data-uid="8f3ddf1c97a2df81db7198ecf4264bb9">
+<div class="">
+<div class="page-block" id="page_block_17_1">
+<p style="text-align:center;"><a href="/strategy-operations">Strategy &amp; Operations</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-60 p-b-30 homepage-interview-accommodations-container row-background-brand_color_3" id="page_row_18">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper homepage-interview-accommodations-text text-white" data-uid="745b37a6c644154e511b0f3f6907c59d">
+<div class="">
+<div class="page-block" id="page_block_18_0">
+<h2 style="text-align:center;">Interview Accommodations</h2>
+<p style="text-align:center;">If, due to a disability, you need an accommodation to complete the application, please let us know by sending an email with your name, the role to which you would like to apply and the type of support you will need to complete the application. You can reach us at <a href="mailto:accommodations@etsy.com">accommodations@etsy.com</a> and should expect to hear back from us within 2 business days. However, non-disability related requests, such as following up on an application, will not receive a response.</p>
+<hr/>
+<h1 style="text-align:center;">Keep in touch!</h1>
+<p style="text-align:center;">Follow, like, and all that other good stuff.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-30 p-b-60 homepage-social-media-container row-background-brand_color_3" id="page_row_19">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-3">
+<div class="block-wrapper homepage-social-media-logo" data-uid="db04149fd739d0f0ae659294fc69ecb1">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://www.instagram.com/lifeatetsy/?hl=en" id="image_wrapper_19_0" role="button" tabindex="0">
+<img alt="Grenade, Weapon, Ammunition, Electronics, Text" class="image-uncropped-full-width" id="image_19_0" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/bc81cd639b95e25d38c1ad287e126eaa/large/insta-logo.png?1672350073"/>
+<span class="block-image-text" id="block_image_text_19_0" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="block-wrapper homepage-social-media-logo" data-uid="d9a47d888edf3476eb0c344f1b1c473f">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://twitter.com/etsy" id="image_wrapper_19_1" role="button" tabindex="0">
+<img alt="Cutlery, Fork, Symbol, Smoke Pipe, Outdoors, Nature, Text, Snow" class="image-uncropped-full-width" id="image_19_1" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/c1b31adac5102dce7e19319d5d5cfec9/large/X-logo.png?1694697971"/>
+<span class="block-image-text" id="block_image_text_19_1" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="block-wrapper homepage-social-media-logo last" data-uid="945a93c1be2fac821acb655236dbe48b">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://www.facebook.com/Etsy/" id="image_wrapper_19_2" role="button" tabindex="0">
+<img alt="Cross, Symbol, Hardware, Electronics" class="image-uncropped-full-width" id="image_19_2" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/c70bb1544d4c629ab58e51c7f41a658f/large/facebook-logo.png?1672350073"/>
+<span class="block-image-text" id="block_image_text_19_2" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="block-wrapper homepage-social-media-logo last" data-uid="2037839b0c4ec40aa613850bfbf38ac6">
+<div class="block-image">
+<div class="block-image-uncropped-full-width linked-block-image" data-action="click-&gt;blocks--linked-image#click keydown.enter-&gt;blocks--linked-image#click" data-controller="blocks--linked-image" data-open-newtab="true" data-url="https://www.linkedin.com/company/etsy/mycompany/?viewAsMember=true" id="image_wrapper_19_3" role="button" tabindex="0">
+<img alt="Symbol, Sign, Stencil, Text, Logo, Number" class="image-uncropped-full-width" id="image_19_3" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/ad7674e206b5d08606181c632f82df6f/large/linkedin-logo.png?1672350073"/>
+<span class="block-image-text" id="block_image_text_19_3" role="presentation">
+</span>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-60 p-b-0" id="page_row_20">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper" data-uid="83f4f5de5291f062cf9f8d56a3e21b65">
+<div class="">
+<div class="page-block" id="page_block_20_0">
+<h2 style="text-align:center;">Jobs Recommended For You</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-row p-t-20 p-b-20" id="page_row_21">
+<div class="page-row-inner">
+<div class="container page-row-container">
+<div class="page-row-and-new-button">
+<div class="row page-row-border">
+<div class="col-md-12">
+<div class="block-wrapper" data-uid="3dc77af269d0c93f877bb466e85493f9">
+<div class="block-jobs" data-controller="stream-invoker blocks--jobs" data-stream-invoker-url-value="https://careers.etsy.com/blocks/favourite_jobs">
+<div class="row">
+<div class="col-md-12 block-content">
+</div>
+</div>
+<div class="row">
+</div>
+<div class="page-block" id="page_block_21_0">
+<div class="jobs-list">
+<div class="job" data-category="[]" data-city='["New York"]' data-country-code='["US"]' data-country-text='["United States"]' data-department='["Legal Counsel"]' data-level="IC4">
+<a href="https://careers.etsy.com/jobs/senior-counsel-payments-new-york-united-states" id="link_page_title_21_0_0">
+<h3 class="job-field job-title" id="job_title_21_0_0">Senior Counsel, Payments</h3>
+<span class="job-field job-job-family-group job-hidden-field" id="job_job_family_group_21_0_0">
+</span>
+<span class="job-field job-company-assignment-id job-hidden-field" id="job_company_assignment_id_21_0_0">
+            Etsy, Inc.
+          </span>
+<span class="job-field job-Job-Family-Data-Name job-hidden-field" id="job_Job_Family_Data_Name_21_0_0">
+</span>
+<span class="job-field job-custom-organization-assignment-reference job-hidden-field" id="job_custom_organization_assignment_reference_21_0_0">
+</span>
+<span class="job-field job-requisition-identifier job-hidden-field" id="job_requisition_identifier_21_0_0">JR3524</span>
+<span class="job-field job-city job-hidden-field" id="job_cities_21_0_0">New York</span>
+<span class="job-field job-state job-hidden-field" id="job_states_21_0_0">New York</span>
+<span class="job-field job-country job-hidden-field" id="job_country_codes_21_0_0">United States</span>
+<span class="job-field job-location" id="job_locations_21_0_0">Brooklyn, Brooklyn Heights, New York, United States, 11201</span>
+<span class="job-field job-department" id="job_departments_21_0_0">Legal Counsel</span>
+<span class="job-field job-category job-hidden-field" id="job_categories_21_0_0"></span>
+<span class="job-field job-employment-type job-hidden-field" id="job_employment_types_21_0_0">Full-time</span>
+<span class="job-field job-level job-hidden-field" id="job_levels_21_0_0">IC4</span>
+<div class="job_spacer"></div>
+</a> <div class="job-summary" id="page_summary_21_0_0">Company Description
+Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect millions of entrepreneurs with millions of buyers around the world. As an Etsy Inc. employee, whe...</div>
+<span class="job-favourited job-favourited-61baaebb1cc08a0148c934b3d423d999">
+</span>
+</div> <div class="job" data-category="[]" data-city='["CDMX","Mexico City"]' data-country-code='["MX"]' data-country-text='["Mexico"]' data-department='["Software Engineer"]' data-level="M3">
+<a href="https://careers.etsy.com/jobs/engineering-manager-content-moderation-integrations-cdmx-mexico-mexico-city" id="link_page_title_21_0_1">
+<h3 class="job-field job-title" id="job_title_21_0_1">Engineering Manager, Content Moderation Integrations</h3>
+<span class="job-field job-job-family-group job-hidden-field" id="job_job_family_group_21_0_1">
+</span>
+<span class="job-field job-company-assignment-id job-hidden-field" id="job_company_assignment_id_21_0_1">
+            Etsy, Inc.
+          </span>
+<span class="job-field job-Job-Family-Data-Name job-hidden-field" id="job_Job_Family_Data_Name_21_0_1">
+</span>
+<span class="job-field job-custom-organization-assignment-reference job-hidden-field" id="job_custom_organization_assignment_reference_21_0_1">
+</span>
+<span class="job-field job-requisition-identifier job-hidden-field" id="job_requisition_identifier_21_0_1">JR3479</span>
+<span class="job-field job-city job-hidden-field" id="job_cities_21_0_1">CDMX. Mexico City</span>
+<span class="job-field job-state job-hidden-field" id="job_states_21_0_1"></span>
+<span class="job-field job-country job-hidden-field" id="job_country_codes_21_0_1">Mexico</span>
+<span class="job-field job-location" id="job_locations_21_0_1">Ciudad de México, CDMX, Mexico, 06500. Remote, Mexico City, Mexico, 99999</span>
+<span class="job-field job-department" id="job_departments_21_0_1">Software Engineer</span>
+<span class="job-field job-category job-hidden-field" id="job_categories_21_0_1"></span>
+<span class="job-field job-employment-type job-hidden-field" id="job_employment_types_21_0_1">Full-time</span>
+<span class="job-field job-level job-hidden-field" id="job_levels_21_0_1">M3</span>
+<div class="job_spacer"></div>
+</a> <div class="job-summary" id="page_summary_21_0_1">Company Description
+Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect millions of entrepreneurs with millions of buyers around the world. As an Etsy Inc. employee, whe...</div>
+<span class="job-favourited job-favourited-8065ad1475c75e26760a21cad5796bd1">
+</span>
+</div> <div class="job" data-category="[]" data-city='["CDMX","Mexico City"]' data-country-code='["MX"]' data-country-text='["Mexico"]' data-department='["Software Engineer"]' data-level="IC2">
+<a href="https://careers.etsy.com/jobs/software-engineer-ii-search-experience-narrowing-full-stack-cdmx-mexico-mexico-city" id="link_page_title_21_0_2">
+<h3 class="job-field job-title" id="job_title_21_0_2">Software Engineer II, Search Experience Narrowing (Full Stack)</h3>
+<span class="job-field job-job-family-group job-hidden-field" id="job_job_family_group_21_0_2">
+</span>
+<span class="job-field job-company-assignment-id job-hidden-field" id="job_company_assignment_id_21_0_2">
+            Etsy, Inc.
+          </span>
+<span class="job-field job-Job-Family-Data-Name job-hidden-field" id="job_Job_Family_Data_Name_21_0_2">
+</span>
+<span class="job-field job-custom-organization-assignment-reference job-hidden-field" id="job_custom_organization_assignment_reference_21_0_2">
+</span>
+<span class="job-field job-requisition-identifier job-hidden-field" id="job_requisition_identifier_21_0_2">JR3448</span>
+<span class="job-field job-city job-hidden-field" id="job_cities_21_0_2">CDMX. Mexico City</span>
+<span class="job-field job-state job-hidden-field" id="job_states_21_0_2"></span>
+<span class="job-field job-country job-hidden-field" id="job_country_codes_21_0_2">Mexico</span>
+<span class="job-field job-location" id="job_locations_21_0_2">Ciudad de México, CDMX, Mexico, 06500. Remote, Mexico City, Mexico, 99999</span>
+<span class="job-field job-department" id="job_departments_21_0_2">Software Engineer</span>
+<span class="job-field job-category job-hidden-field" id="job_categories_21_0_2"></span>
+<span class="job-field job-employment-type job-hidden-field" id="job_employment_types_21_0_2">Full-time</span>
+<span class="job-field job-level job-hidden-field" id="job_levels_21_0_2">IC2</span>
+<div class="job_spacer"></div>
+</a> <div class="job-summary" id="page_summary_21_0_2">Company Description
+Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect millions of entrepreneurs with millions of buyers around the world. As an Etsy Inc. employee, whe...</div>
+<span class="job-favourited job-favourited-741240439462a62031e5d718477f069b">
+</span>
+</div> <div class="job" data-category="[]" data-city='["CDMX"]' data-country-code='["MX"]' data-country-text='["Mexico"]' data-department='["Product Mgmt"]' data-level="IC3">
+<a href="https://careers.etsy.com/jobs/senior-product-manager-trust-and-safety-cdmx-mexico" id="link_page_title_21_0_3">
+<h3 class="job-field job-title" id="job_title_21_0_3">Senior Product Manager, Trust and Safety</h3>
+<span class="job-field job-job-family-group job-hidden-field" id="job_job_family_group_21_0_3">
+</span>
+<span class="job-field job-company-assignment-id job-hidden-field" id="job_company_assignment_id_21_0_3">
+            Etsy, Inc.
+          </span>
+<span class="job-field job-Job-Family-Data-Name job-hidden-field" id="job_Job_Family_Data_Name_21_0_3">
+</span>
+<span class="job-field job-custom-organization-assignment-reference job-hidden-field" id="job_custom_organization_assignment_reference_21_0_3">
+</span>
+<span class="job-field job-requisition-identifier job-hidden-field" id="job_requisition_identifier_21_0_3">JR3473</span>
+<span class="job-field job-city job-hidden-field" id="job_cities_21_0_3">CDMX</span>
+<span class="job-field job-state job-hidden-field" id="job_states_21_0_3"></span>
+<span class="job-field job-country job-hidden-field" id="job_country_codes_21_0_3">Mexico</span>
+<span class="job-field job-location" id="job_locations_21_0_3">Ciudad de México, CDMX, Mexico, 06500</span>
+<span class="job-field job-department" id="job_departments_21_0_3">Product Mgmt</span>
+<span class="job-field job-category job-hidden-field" id="job_categories_21_0_3"></span>
+<span class="job-field job-employment-type job-hidden-field" id="job_employment_types_21_0_3">Full-time</span>
+<span class="job-field job-level job-hidden-field" id="job_levels_21_0_3">IC3</span>
+<div class="job_spacer"></div>
+</a> <div class="job-summary" id="page_summary_21_0_3">Company Description
+Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect millions of entrepreneurs with millions of buyers around the world. As an Etsy Inc. employee, whe...</div>
+<span class="job-favourited job-favourited-e040bd749b696e983accfaa723159ed9">
+</span>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- custom footer -->
+<a class="float-button button button2" href="/talent-community">Join Our Talent Community</a>
+<footer class="etsy-footer" id="footer">
+<!-- TOP ROW BUTTONS -->
+<div class="container-fluid footer-top-section-container d-none">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-6 footer-top-link-col-1">
+<a class="footer-top-link text-center" href="#">
+                                Button (Cookie Settings?)
+                            </a>
+</div>
+<div class="col-md-6 footer-top-link-col-2">
+<a class="footer-top-link text-center" href="#">
+                                Button (Personal Information?)
+                            </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- LINKS COLUMNS -->
+<div class="container-fluid footer-link-cols-container">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3 col-xs-6 footer-col-1">
+<ul class="footer-links-col">
+<li class="footer-links-title heading">
+<p>Shop</p>
+</li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/giftcards?ref=ftr" target="_blank">Gift Cards</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/blog/en/?ref=ftr" target="_blank">Etsy Blog</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-6 footer-col-2">
+<ul class="footer-links-col">
+<li class="footer-links-title heading">
+<p>Sell</p>
+</li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/sell?ref=ftr" target="_blank">Sell on Etsy</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/sso-community?return_to=https%3A%2F%2Fcommunity.etsy.com%2Ft5%2FEtsy-Teams%2Fct-p%2Fteams" target="_blank">Teams</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/sso-community?return_to=https%3A%2F%2Fcommunity.etsy.com%2Ft5%2FEtsy-Forums%2Fct-p%2Fforums" target="_blank">Forums</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/affiliates?ref=ftr" target="_blank">Affiliates</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-6 footer-col-3">
+<ul class="footer-links-col">
+<li class="footer-links-title heading">
+<p>About</p>
+</li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/about?ref=ftr" target="_blank">Etsy, Inc.</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/legal?ref=ftr" target="_blank">Policies</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://investors.etsy.com/" target="_blank">Investors</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://careers.etsy.com/" target="_blank">Careers</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/press?ref=ftr" target="_blank">Press</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/impact?ref=ftr" target="_blank">Impact</a></li>
+<li class="footer-link-list-item"><a class="footer-link-each" href="https://www.etsy.com/in-en/help/article/25840304230?ref=ftr" target="_blank">Legal imprint</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-6 footer-col-4">
+<ul class="footer-links-col">
+<li class="footer-links-title heading">
+<p>Help</p>
+</li>
+<li><a class="footer-link-each" href="https://help.etsy.com/hc/en-us?segment=shopping" target="_blank">Help Center</a></li>
+<li><a class="footer-link-each" href="https://www.etsy.com/legal/privacy/?ref=ftr" target="_blank">Privacy Settings</a></li>
+</ul>
+<div class="social-inner-container">
+<a class="etsy-app-link-container" href="https://etsy.app.link/d7nDUdp49V" target="_blank">
+<span class="etsy-icon" data-etsy-id="etsy-page-element-footer-4s73uu-oZEQla">
+<img alt="Etsy Icon" src="https://s3.us-east-1.amazonaws.com/rec-marketing-usea1-uploads/public/uploads/387d7403377e6d4fe610e5a968cf8691/images/files/8a703a9e1ff559fd1aebd36abcd4c550/medium/etsy-footer-icon.png?1672242235"/>
+</span>
+<span>
+                                Download the Etsy App
+                            </span>
+</a>
+<ul class="social-links-container">
+<li>
+<a class="instagram footer-link-social" href="https://www.etsy.com/social-tracking?network=instagram" target="_blank">
+<i class="fa-brands fa-instagram"></i>
+</a>
+</li>
+<li>
+<a class="facebook footer-link-social" href="https://www.etsy.com/social-tracking?network=facebook" target="_blank">
+<i class="fa-brands fa-facebook-f"></i>
+</a>
+</li>
+<li>
+<a class="pinterest footer-link-social" href="https://www.etsy.com/social-tracking?network=pinterest" target="_blank">
+<i class="fa-brands fa-pinterest-p"></i>
+</a>
+</li>
+<li>
+<a class="twitter footer-link-social" href="https://www.etsy.com/social-tracking?network=twitter" target="_blank">
+<i class="fa-brands fa-twitter"></i>
+</a>
+</li>
+<li>
+<a class="youtube footer-link-social" href="https://www.etsy.com/social-tracking?network=youtube" target="_blank">
+<i class="fa-brands fa-youtube"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- COPYRIGHT ROW  -->
+<div class="container-fluid footer-copyright-container">
+<div class="container">
+<div class="row footer-copyright-row">
+<div class="col-md-12">
+<p class="text-right">
+</p><ul class="footer-copyright-text">
+<li>
+<p>
+                                © 2024 Etsy, Inc.
+                            </p>
+</li>
+<li>
+<a href="https://www.etsy.com/legal/terms-of-use?ref=ftr" target="_blank">
+                                Terms of use
+                            </a>
+</li>
+<li class="spacer">
+<a href="https://www.etsy.com/legal/privacy/?ref=ftr" target="_blank">
+                                Privacy
+                            </a>
+</li>
+<li class="spacer">
+<a href="https://www.etsy.com/legal/policy/cookies-tracking-technologies/44797645975?ref=ftr" target="_blank">
+                                Interest-based ads
+                            </a>
+</li>
+</ul>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="modal exit-call-to-action-modal animate__animated animate__bounceIn" data-controller="exit-call-to-action-modal" data-exit-call-to-action-modal-delay-in-seconds-value="120" data-exit-call-to-action-modal-display-strategy-value="unknown_candidates" data-exit-call-to-action-modal-uid-value="98319b71181977f07ed9e3b09a3821fd" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-md" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" class="btn-close" data-bs-dismiss="modal" data-dismiss="modal" type="button"></button>
+</div>
+<div class="modal-body" data-controller="blocks--call-to-action" data-stimulus="connected">
+<div class="call-to-action form-call-to-action" data-blocks--call-to-action-target="callToActionContainer">
+<div class="html-content">
+<p style="text-align:center;">Didn’t find the perfect role?</p>
+<p style="text-align:center;">Let’s keep in touch! We’ll share relevant roles as they open up, and provide you a peek into what it’s like to be a member of our team.</p>
+</div>
+<div class="call-to-action-create call-to-action-form candidate-form candidate-unknown show-call-to-action" data-blocks--call-to-action-target="createSection">
+<div class="errors"></div>
+<form accept-charset="UTF-8" action="https://careers.etsy.com/call_to_actions/3f744eb5e05d58262d53a20fd36faad1/form_submissions?page_id=58572f83e60ec16d49e9d1b59662398c" class="form-template" data-blocks--call-to-action-target="form" id="new_form_submission_exit_call_to_action" method="post"><input autocomplete="off" name="authenticity_token" type="hidden" value="vHMjlKKEB-FrPhPez-FtQoIVytZvBSqrL-wR3tn7K4BLbRkt6GgbdKy1FdBJFzMoJQKtgVbk-egX5_CLyZXwqw"/>
+<input autocomplete="off" id="exit_call_to_action_configuration_id_exit_call_to_action" name="exit_call_to_action_configuration_id" type="hidden" value="98319b71181977f07ed9e3b09a3821fd"/>
+<input autocomplete="off" id="pass_through_exit_call_to_action" name="pass_through" type="hidden"/>
+<div class="linkedin-buttons hide-when-candidate-known hide-in-kiosk-mode">
+<button class="btn-linkedin btn-linkedin-connect" data-action="signin-linkedin#openWindow" data-controller="signin-linkedin" name="button" role="button" type="button">
+<img alt="Sign in with LinkedIn" height="27" src="/assets/third_party/linkedin/signin-e49eee88.png" width="194"/>
+</button>
+<div>
+<span class="linkedin_autofill_explanation">Autofill my information with LinkedIn</span>
+</div>
+</div>
+<div class="form-group form-template-field-string first-name" data-form-template-field-binding="first_name_binding">
+<label class="form-template-field-label ada-label first-name" for="form_first_name_exit_call_to_action_0">
+<span class="ada-label-text">
+    First Name
+    <small class="question-label-required">(required)</small>
+</span>
+<span class="ada-unique-content">83c71e0c</span>
+</label>
+<input aria-required="true" autocomplete="given-name" class="form-control" data-bind="attr: {disabled: true}" data-candidate-field="candidate_first_name" data-uid="b8db5d031a827778154a49491aff98b4" id="form_first_name_exit_call_to_action_0" maxlength="150" name="form_submission[fields_attributes][0][string_value]" placeholder="First Name" required="required" size="150" type="text"/>
+<input autocomplete="off" id="form_field_kind_exit_call_to_action_0" name="form_submission[fields_attributes][0][kind]" type="hidden" value="string"/>
+<input autocomplete="off" id="form_form_template_field_id_exit_call_to_action_0" name="form_submission[fields_attributes][0][form_template_field_uid]" type="hidden" value="b8db5d031a827778154a49491aff98b4"/>
+</div>
+<div class="form-group form-template-field-string last-name" data-form-template-field-binding="last_name_binding">
+<label class="form-template-field-label ada-label last-name" for="form_last_name_exit_call_to_action_1">
+<span class="ada-label-text">
+    Last Name
+    <small class="question-label-required">(required)</small>
+</span>
+<span class="ada-unique-content">46d8dc10</span>
+</label>
+<input aria-required="true" autocomplete="family-name" class="form-control" data-bind="attr: {disabled: true}" data-candidate-field="candidate_last_name" data-uid="2083b13cc30f85032b80a9e0e9ee9dc1" id="form_last_name_exit_call_to_action_1" maxlength="150" name="form_submission[fields_attributes][1][string_value]" placeholder="Last Name" required="required" size="150" type="text"/>
+<input autocomplete="off" id="form_field_kind_exit_call_to_action_1" name="form_submission[fields_attributes][1][kind]" type="hidden" value="string"/>
+<input autocomplete="off" id="form_form_template_field_id_exit_call_to_action_1" name="form_submission[fields_attributes][1][form_template_field_uid]" type="hidden" value="2083b13cc30f85032b80a9e0e9ee9dc1"/>
+</div>
+<div class="form-group form-template-field-email email" data-form-template-field-binding="email_binding">
+<label class="form-template-field-label ada-label email" for="form_email_exit_call_to_action_2">
+<span class="ada-label-text">
+    Email
+    <small class="question-label-required">(required)</small>
+</span>
+<span class="ada-unique-content">433a38b5</span>
+</label>
+<input aria-required="true" autocomplete="email" class="form-control" data-bind="attr: {disabled: true}" data-candidate-field="candidate_email" data-uid="2ade4d9305e9e80cd927e9a97a28a96a" id="form_email_exit_call_to_action_2" maxlength="150" name="form_submission[fields_attributes][2][email_value]" placeholder="Email" required="required" size="150" type="email"/>
+<input autocomplete="off" id="form_field_kind_exit_call_to_action_2" name="form_submission[fields_attributes][2][kind]" type="hidden" value="email"/>
+<input autocomplete="off" id="form_form_template_field_id_exit_call_to_action_2" name="form_submission[fields_attributes][2][form_template_field_uid]" type="hidden" value="2ade4d9305e9e80cd927e9a97a28a96a"/>
+</div>
+<div class="form-group form-template-field-job-alert job-alert" data-form-template-field-binding="form_binding">
+<fieldset>
+<legend hidden=""> </legend>
+<label class="form-template-field-label job-alert" for="form_job_alert_exit_call_to_action_3">
+<span class="ada-label-text">
+    Job Alert
+    
+  </span>
+<span class="ada-unique-content">d2d73cc3</span>
+</label>
+<input autocomplete="off" id="form_job_alert_exit_call_to_action_3" name="form_submission[fields_attributes][3][kind]" type="hidden" value="job_alert"/>
+<input autocomplete="off" id="form_field_kind_exit_call_to_action_3" name="form_submission[fields_attributes][3][kind]" type="hidden" value="job_alert"/>
+<input autocomplete="off" id="form_form_template_field_id_exit_call_to_action_3" name="form_submission[fields_attributes][3][form_template_field_uid]" type="hidden" value="70e4cecd04a433066b00dfe36d8c71f5"/>
+<div class="form-group locations-form-group">
+<label class="ada-remove-selectize ada-label" for="form_locations_exit_call_to_action">
+<span class="ada-label-text">Locations</span>
+<span class="ada-unique-content">ea4467a8</span>
+</label>
+<label class="ada-label ada-keep-selectize" for="form_locations_exit_call_to_action-selectized">
+<span class="ada-label-text">Locations</span>
+<span class="ada-unique-content">4df8fe6b</span>
+</label>
+<select class="selectized" data-bind="attr: {disabled: true}" data-job-alert-field="locations" id="form_locations_exit_call_to_action" multiple="multiple" name="form_submission[fields_attributes][3][locations_json][]" placeholder="Please choose the location(s)" style="display: none;" tabindex="-1"></select><div class="selectize-control multi"><div class="selectize-input items not-full has-options"><input autocomplete="off" id="form_locations_exit_call_to_action-selectized" placeholder="Please choose the location(s)" style="width: 194.887px;" tabindex="" type="select-multiple"/></div><div class="selectize-dropdown multi" style="display: none; width: 0px; top: 0px; left: 0px;"><div class="selectize-dropdown-content"></div></div></div>
+</div>
+<div class="form-group">
+<label class="ada-remove-selectize ada-label" for="form_dropdown_field_1_exit_call_to_action">
+<span class="ada-label-text">Department</span>
+<span class="ada-unique-content">f03c1bf5</span>
+</label>
+<label class="ada-label ada-keep-selectize" for="form_dropdown_field_1_exit_call_to_action-selectized">
+<span class="ada-label-text">Department</span>
+<span class="ada-unique-content">1b477a5e</span>
+</label>
+<select class="selectized" data-bind="attr: {disabled: true}" data-job-alert-field="dropdown_field_1" id="form_dropdown_field_1_exit_call_to_action" multiple="multiple" name="form_submission[fields_attributes][3][dropdown_field_1_uids][]" placeholder="Please choose a department" style="display: none;" tabindex="-1"></select><div class="selectize-control multi"><div class="selectize-input items not-full has-options"><input autocomplete="off" id="form_dropdown_field_1_exit_call_to_action-selectized" placeholder="Please choose a department" style="width: 190.012px;" tabindex="" type="select-multiple"/></div><div class="selectize-dropdown multi" style="display: none; width: 0px; top: 0px; left: 0px;"><div class="selectize-dropdown-content"></div></div></div>
+</div>
+</fieldset>
+</div>
+<input autocomplete="off" id="empty_field_exit_call_to_action" name="_empty" type="hidden" value=""/>
+<div class="form-group form-group-submit">
+<button class="btn btn-primary" data-action="blocks--call-to-action#sendFormSubmission" data-bind="attr: {disabled: true}" data-blocks--call-to-action-target="submitButton" id="form_submit_exit_call_to_action" name="button" type="submit">
+<span class="submit-state submit-start">Send</span>
+<span class="submit-state submit-in-progress"><i class="fa fa-spinner fa-spin fa-fw"></i> Please wait...</span>
+<span class="submit-state submit-finished"><i class="fa fa-check"></i> Done</span>
+</button><a class="btn btn-primary exit-cta-close-button" data-bs-dismiss="modal" data-dismiss="modal" id="close_exit_call_to_action" type="button">Close</a></div>
+<p class="show-when-candidate-known">
+<a class="not-candidate" href="/me/settings" id="link_not_candidate_exit_call_to_action">
+<span data-candidate-field="candidate_first_name" data-fallback="Not You?" data-format="Not %{candidate_first_name}?">
+      Not You?
+</span></a></p>
+</form> </div>
+<div class="call-to-action-get" data-blocks--call-to-action-target="getSection" id="call_to_action_response_exit_call_to_action">
+<p>Thank you</p>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button class="btn btn-primary" data-bs-dismiss="modal" data-dismiss="modal" id="close_exit_call_to_action" type="button">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<a aria-hidden="true" href="/v1/candidate_details" id="link_candidate_details" style="display: none">Candidate Details</a>
+<div aria-describedby="cookie_consent_description" aria-hidden="true" aria-label="Cookie consent" class="consent-modal modal" data-controller="init--explicit-consent-modal" data-init--explicit-consent-modal-consent-strategy-value="explicit_consent" data-init--explicit-consent-modal-expires-value="120" data-modal-static-backdrop="false" style="display: none;" tabindex="-1">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<div aria-label="Etsy logo" class="image-wrapper" role="img"><img alt="Etsy logo" src="https://d25wby5c7p9100.cloudfront.net/public/uploads/387d7403377e6d4fe610e5a968cf8691/companies/logos/387d7403377e6d4fe610e5a968cf8691/thumb/etsy-header-logo.png?1679450071"/></div>
+<button aria-label="Close" class="btn-close" data-bs-dismiss="modal" data-dismiss="modal" type="button"></button>
+</div>
+<div class="modal-body">
+<div id="cookie_consent_description">
+<p>This Career Site may request cookies to be set on your device. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not link the information we store in cookies to Personally Identifiable Information you submit while on this career site.<br/>We use cookies to let us know when you visit this career site and how you interact with us, to enrich your user experience, and to personalize your experience with this Career Site. You can change your cookie preferences by selecting to turn certain cookies off. Please note that blocking some types of cookies may impact your experience on this career site and the services we are able to offer.</p>
+<p> </p>
+</div>
+<div data-init--explicit-consent-modal-target="cookieConsentPreferences" id="cookie_consent_preferences" style="display: none">
+<div class="card cookie-consent-preferences">
+<div class="card-header" id="cookie_consent_preferences_header">
+      Manage Consent Preferences
+    </div>
+<div aria-labelledby="cookie_consent_preferences_header" class="list-group list-group-flush">
+<div class="list-group-item">
+<label for="allow_strictly_necessary_cookies">
+<input checked="checked" disabled="disabled" id="allow_strictly_necessary_cookies" name="allow_strictly_necessary_cookies" type="checkbox" value="true"/>
+          Strictly Necessary Cookies
+</label> <p>These cookies are strictly necessary for proper functioning of this career site and to provide necessary services available through this career site. To ensure accurate session management, the Internet Protocol (IP) address of your machine will be recorded for the period of time that you visit this career site</p>
+</div>
+<div class="list-group-item">
+<label for="allow_performance_cookies">
+<input checked="checked" class="checkbox-md checkbox-circle" data-init--explicit-consent-modal-target="allowPerformanceCookies" id="allow_performance_cookies" name="allow_performance_cookies" type="checkbox" value="true"/>
+          Performance Cookies
+</label> <p>These cookies are used to enhance the performance and functionality of this career site and provides a personalized experience to users. These cookies are non-essential to their use. However, without these cookies, certain functionality may become unavailable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer v2-modals">
+<div class="start-cookie-actions">
+<button class="btn btn-light" data-action="init--explicit-consent-modal#showCookiePreferences" data-init--explicit-consent-modal-target="manageConsentButton" id="manage_cookie_preferences" name="button" type="submit">
+        Manage Cookies
+</button> </div>
+<div class="end-cookie-actions">
+<button class="btn btn-info consent-reject" data-action="init--explicit-consent-modal#rejectCookies" data-bs-dismiss="modal" data-dismiss="modal" data-init--explicit-consent-modal-target="consentRejectButton" id="consent_reject" name="button" type="button">
+<span>I do not accept</span>
+</button>
+<button class="btn btn-success consent-agree" data-action="init--explicit-consent-modal#acceptCookies" data-bs-dismiss="modal" data-dismiss="modal" data-init--explicit-consent-modal-target="consentAgreeButton" id="consent_agree" name="button" type="button">
+<span>I accept</span>
+</button>
+<button class="btn btn-success consent-agree" data-action="init--explicit-consent-modal#saveCookiePreferences" data-bs-dismiss="modal" data-dismiss="modal" data-init--explicit-consent-modal-target="consentSaveButton" id="consent_save" name="button" style="display: none" type="button">
+<span>Save</span>
+</button> </div>
+</div>
+</div>
+</div>
+</div>
+<span style="position: absolute; top: -99999px; left: -99999px; width: auto; padding: 0px; white-space: pre; letter-spacing: 0px; font-size: 14px; font-family: Graphik-Regular; font-weight: 400; text-transform: none;">Please choose a department</span><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><!--   clinch body end --><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website etsy.com . It is in the url https://careers.etsy.com/?ref=ftr and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female"} Should this page be public to all users? Answer only with yes or no.

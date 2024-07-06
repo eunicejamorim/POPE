@@ -1,0 +1,668 @@
+The following text is the html file of a webpage. <html class="no-touch"><head>
+<meta content="NO-CACHE" http-equiv="PRAGMA"/>
+<meta content="Mon, 01 Jan 1990 12:00:00 GMT" http-equiv="Expires"/>
+
+
+
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Support Center | Yelp</title>
+<meta content="Yelp Support Center" name="description"/>
+<link href="https://s3-media0.fl.yelpcdn.com/assets/2/www/css/ffe3cb4d46bc/support-pkg.css" media="all" rel="stylesheet" type="text/css"/>
+
+<link href="https://s3-media2.ak.yelpcdn.com/assets/2/www/img/118ff475a341/ico/favicon.ico" rel="shortcut icon"/>
+<meta content="app-id=284910350" name="apple-itunes-app"/>
+<link href="/?l=bg" hreflang="bg" rel="alternate"/>
+<link href="/?l=cs" hreflang="cs" rel="alternate"/>
+<link href="/?l=da" hreflang="da" rel="alternate"/>
+<link href="/?l=de" hreflang="de" rel="alternate"/>
+<link href="/?l=el" hreflang="el" rel="alternate"/>
+<link href="/?l=en_GB" hreflang="en-GB" rel="alternate"/>
+<link href="/?l=en_US" hreflang="en-US" rel="alternate"/>
+<link href="/?l=en_US" rel="canonical"/>
+<link href="/?l=es" hreflang="es" rel="alternate"/>
+<link href="/?l=et" hreflang="et" rel="alternate"/>
+<link href="/?l=fi" hreflang="fi" rel="alternate"/>
+<link href="/?l=fr" hreflang="fr" rel="alternate"/>
+<link href="/?l=hr" hreflang="hr" rel="alternate"/>
+<link href="/?l=hu" hreflang="hu" rel="alternate"/>
+<link href="/?l=it" hreflang="it" rel="alternate"/>
+<link href="/?l=lb" hreflang="lb" rel="alternate"/>
+<link href="/?l=lt" hreflang="lt" rel="alternate"/>
+<link href="/?l=lv" hreflang="lv" rel="alternate"/>
+<link href="/?l=mt" hreflang="mt" rel="alternate"/>
+<link href="/?l=nl_NL" hreflang="nl-NL" rel="alternate"/>
+<link href="/?l=no" hreflang="no" rel="alternate"/>
+<link href="/?l=pl" hreflang="pl" rel="alternate"/>
+<link href="/?l=pt_PT" hreflang="pt-PT" rel="alternate"/>
+<link href="/?l=ro" hreflang="ro" rel="alternate"/>
+<link href="/?l=sk" hreflang="sk" rel="alternate"/>
+<link href="/?l=sl" hreflang="sl" rel="alternate"/>
+<link href="/?l=sv" hreflang="sv" rel="alternate"/>
+<link href="/?l=tr" hreflang="tr" rel="alternate"/>
+</head>
+<body class="ytype borderless satellite jquery responsive" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" id="yelp_main_body">
+<div id="fb-root"></div>
+<div class="main-content-wrap header-top-addons clearfix webview-hidden removable-tag" style="display: ;">
+<div class="content-container">
+<a class="i-wrap ig-wrap-common_sprite i-18x18_review_fff-common_sprite-wrap ig-wrap-common_sprite-r header-link import-image-url review-icon" href="http://www.yelp.com"><i class="i ig-common_sprite i-18x18_review_fff-common_sprite review-icon"></i>Looking for a business? Search Yelp.com</a>
+<a class="i-wrap ig-wrap-common_sprite i-18x18_suitcase_fff-common_sprite-wrap ig-wrap-common_sprite-r header-link import-image-url suitcase-icon" href="https://business.yelp.com" style="padding-right: 22px;"><i class="i ig-common_sprite i-18x18_suitcase_fff-common_sprite suitcase-icon"></i>or go to Yelp for Business Owners</a>
+</div>
+</div>
+<div class="promo-banner-container" id="promo_banner_container" style="display: none;">
+<div class="promo-banner">
+<div class="promo-banner-contents" style="align-items:center;">
+<div style="display: flex; align-items:center;">
+<div style="margin-right: 19px"><svg height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.37999998,23.2100171 C8.22345773,23.2090615 8.06932228,23.1713839 7.92999998,23.1 C7.5405324,22.9049579 7.3221128,22.4802532 7.38999998,22.05 L8.53999999,15.05 L4.61999997,15.05 C4.2229606,15.0487266 3.864282,14.8126809 3.70605048,14.4485316 C3.54781896,14.0843824 3.62000976,13.6611137 3.88999997,13.37 L15,1.31999996 C15.3006934,0.992507159 15.7814949,0.90286621 16.18,1.09999995 C16.5773419,1.293062 16.8009257,1.72396888 16.73,2.15999996 L15.46,9.99999999 L19.38,9.99999999 C19.7837088,9.99762854 20.1492453,10.2382408 20.3066918,10.6099894 C20.4641382,10.9817379 20.382608,11.4116961 20.1,11.7 L9.09999999,22.91 C8.9105017,23.1033362 8.65071381,23.2115812 8.37999998,23.2100171 Z M6.90999998,13 L9.71999999,13 C10.0123118,12.9999808 10.2899973,13.1278623 10.48,13.35 C10.6685797,13.5746676 10.7490112,13.8708016 10.7,14.16 L9.86999999,19.26 L17,12 L14.28,12 C13.9876882,12.0000192 13.7100027,11.8721378 13.52,11.65 C13.3314203,11.4253324 13.2509888,11.1291984 13.3,10.84 L14.23,5.10999997 L6.90999998,13 Z" fill="#44A022"></path>
+</svg></div>
+<div class="promo-banner-text" id="promo_banner_redeem_text">
+                            Extend your Yelp Ads campaign with $300 in bonus ads budget. Additional terms apply. 
+    <form action="/" enctype="application/x-www-form-urlencoded" id="j_id0:j_id15" method="post" name="j_id0:j_id15" onclick="A4J.AJAX.Submit('j_id0:j_id15',event,{'similarityGroupingId':'j_id0:j_id15:j_id16','actionUrl':'/','parameters':{'j_id0:j_id15:j_id16':'j_id0:j_id15:j_id16'} } )">
+<input name="j_id0:j_id15" type="hidden" value="j_id0:j_id15"/>
+<a href="https://biz.yelp.com/billing/?offer_support_center_promo=true" style="color:#027A97; text-decoration: none;" target="#">
+<strong>Redeem</strong>
+</a><div id="j_id0:j_id15:j_id219"></div>
+</form><span id="ajax-view-state-page-container" style="display: none"><span id="ajax-view-state" style="display: none"><input id="com.salesforce.visualforce.ViewState" name="com.salesforce.visualforce.ViewState" type="hidden" value="i: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"/><input id="com.salesforce.visualforce.ViewStateVersion" name="com.salesforce.visualforce.ViewStateVersion" type="hidden" value="202405291929260678"/><input id="com.salesforce.visualforce.ViewStateMAC" name="com.salesforce.visualforce.ViewStateMAC" type="hidden" value="AGV5SnViMjVqWlNJNkluSXdOVnB5UzJ0QlVWSmFhazFmUkU1bmNIbzNNVEUxT0dGSlJrcFpMWGRJVEZSbmQxZ3lhRGRCV0ZsY2RUQXdNMlFpTENKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbnRjSW5SY0lqcGNJakF3UkRNd01EQXdNREF3TUhaRFRsd2lMRndpZGx3aU9sd2lNREpIWmpNd01EQXdNREJRVXpkeFhDSXNYQ0poWENJNlhDSjJabk5wWjI1cGJtZHJaWGxjSWl4Y0luVmNJanBjSWpBd05UUXdNREF3TURBeVZIQkZUVndpZlNJc0ltTnlhWFFpT2xzaWFXRjBJbDBzSW1saGRDSTZNVGN4TnpNMU16QTBNelUzTWl3aVpYaHdJam93ZlE9PS4uNGt6SEpudWVaWGRfZDFJVTB3a3Rud09kcHYydVVFV1htNnhWaW95ZG5hZz0="/></span></span>
+</div>
+</div>
+<div id="promo_dismiss_button" style="cursor: pointer;">
+<form action="/" enctype="application/x-www-form-urlencoded" id="j_id0:j_id19" method="post" name="j_id0:j_id19" onclick="A4J.AJAX.Submit('j_id0:j_id19',event,{'similarityGroupingId':'j_id0:j_id19:j_id20','actionUrl':'/','parameters':{'j_id0:j_id19:j_id20':'j_id0:j_id19:j_id20'} } )">
+<input name="j_id0:j_id19" type="hidden" value="j_id0:j_id19"/>
+<svg height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M13.41,12 L18.71,6.70999998 C19.1021222,6.3178778 19.1021222,5.68212215 18.71,5.28999997 C18.3178779,4.8978778 17.6821222,4.8978778 17.29,5.28999997 L12,10.59 L6.70999998,5.28999997 C6.3178778,4.89787781 5.68212215,4.89787781 5.28999998,5.28999998 C4.89787781,5.68212215 4.89787781,6.3178778 5.28999997,6.70999998 L10.59,12 L5.28999997,17.29 C5.10068732,17.4777666 4.99420165,17.7333625 4.99420165,18 C4.99420165,18.2666376 5.10068732,18.5222334 5.28999997,18.71 C5.47776657,18.8993127 5.73336244,19.0057984 5.99999997,19.0057984 C6.26663751,19.0057984 6.52223338,18.8993127 6.70999998,18.71 L12,13.41 L17.29,18.71 C17.4777666,18.8993127 17.7333625,19.0057984 18,19.0057984 C18.2666376,19.0057984 18.5222334,18.8993127 18.71,18.71 C18.8993127,18.5222334 19.0057984,18.2666376 19.0057984,18 C19.0057984,17.7333625 18.8993127,17.4777666 18.71,17.29 L13.41,12 Z" fill="#2D2E2F"></path>
+</svg><div id="j_id0:j_id19:j_id220"></div>
+</form></div>
+</div>
+</div>
+</div>
+<div class="main-header main-content-wrap js-main-header main-header--slim webview-hidden" style="background:#fff;padding:26px;width:99%;">
+<div class="clearfix">
+<div class="arrange main-header_arrange arrange--middle">
+<div class="arrange_unit main-header--full_arrange_unit">
+<div class="main-header_logo" id="logo">
+<a class="header-a" href="/?l=en_US" id="logo-header-anchor"><img src="/resource/1631070005000/logoDesktopMedium"/>
+</a>
+</div>
+</div>
+<div class="arrange_unit nowrap arrange_unit--fill removable-tag" style="padding-left: 18px;">
+<h2 class="main-header_title"><span class="support-center-text" style="line-height: inherit; color: black;">Support Center</span></h2>
+</div>
+</div>
+</div>
+</div>
+<span class="offscreen" id="page-content"> </span>
+<div id="print-masthead">
+<img alt="Yelp" class="print-bkg-img" src="https://s3-media2.fl.yelpcdn.com/assets/2/www/img/b7e9d647188d/gfx/header_print.gif"/>
+</div>
+<div class="main-content-wrap--full lang-en" id="wrap">
+<div class="content-container" id="super-container">
+<div id="alert-container"></div>
+<div class="container">
+<div class="clearfix layout-block layout-n column--responsive">
+<div class="column column-alpha column--responsive removable-tag" style="width:20%">
+<div class="titled-nav js-titled-nav">
+<input class="titled-nav-dropdown_handler" id="titled-nav-aea849eb-e635-459e-8595-36b9e3314f07" role="presentation" type="checkbox"/>
+<div class="titled-nav-dropdown hidden-non-responsive-block responsive-hidden-large">
+<label class="titled-nav-dropdown_trigger" for="titled-nav-aea849eb-e635-459e-8595-36b9e3314f07">
+<span class="arrange arrange--middle titled-nav-dropdown_content" id="menu">
+<span class="arrange_unit arrange_unit--fill titled-nav-dropdown_shadow">
+<span class="titled-nav-dropdown_faded-title">
+<strong>Menu</strong>
+</span>
+</span>
+<span class="arrange_unit titled-nav-dropdown_icon import-image-url expand-dropdown-icon" id="icon">
+<i class="i ig-common_sprite i-24x24_ios_chevron_down-common_sprite titled-nav-dropdown_expand import-image-url expand-dropdown-icon"></i>
+<i class="i ig-common_sprite i-24x24_ios_chevron_up-common_sprite titled-nav-dropdown_collapse import-image-url collapse-dropdown-icon"></i>
+</span>
+</span>
+</label>
+</div>
+<div class="titled-nav_menus">
+<div class="titled-nav_menu titled-nav-list--responsive">
+<div class="titled-nav-header arrange arrange--top">
+<h3>
+<a href="/?l=en_US">Support Center</a>
+</h3>
+</div>
+<ul class="titled-nav_items" style="font-weight: bold;">
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Consumers?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Yelp For Consumers</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Reviews_Photos?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Reviews &amp; Photos</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Updating_Business_Information?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Updating Business Information</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Yelp_for_Business?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Yelp for Business</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Advertising_on_Yelp?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Advertising on Yelp</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Claiming_your_Business_Page?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Claiming your Business Page</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Yelp_Reservations?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Yelp Reservations</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Yelp_Guest_Manager?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Yelp Guest Manager</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Recommended_Reviews?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Recommended Reviews</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Yelp_Elite_Squad?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Yelp Elite Squad</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Legal_Questions?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Legal Questions</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="/Searching_Yelp?l=en_US" target="">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Searching Yelp</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="http://www.yelp.com/developers" target="_blank">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Yelp for Developers</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="http://www.yelp.com/static?p=tos" target="_blank">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Terms of Service</span>
+</div>
+</div>
+</a>
+</li>
+<li class="titled-nav_item">
+<a class="titled-nav_link" href="http://www.yelp.com/guidelines" target="_blank">
+<div class="titled-nav_link-content arrange arrange--middle">
+<div class="arrange_unit arrange_unit--fill">
+<span class="titled-nav_link-label menu-text">Content Guidelines</span>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="column column-alpha column--responsive removable-tag" style="width:75%">
+<div class="search-help-text">
+                                How can we help?
+                            </div>
+<div class="sc-search-form-container" style="padding: 18px 0px 0;">
+<form action="/" class="yform arrange arrange--6 arrange--stack-small sc-search-form" method="get">
+<input name="l" type="hidden" value="en_US"/>
+<input name="biz" type="hidden" value=""/>
+<input name="bui" type="hidden" value=""/>
+<input name="bi" type="hidden" value=""/>
+<input name="ss" type="hidden" value="1"/>
+<div class="arrange_unit arrange_unit--fill sc-search-field" style="width:60%">
+<input name="q" placeholder="Ask a question..." type="text" value=""/>
+</div>
+<div class="arrange_unit nowrap">
+<button class="ybtn ybtn-primary ybtn-full-responsive-small" style="padding: 8px 9px 9px;" type="submit" value="submit"><span><span class="i-wrap ig-wrap-common_sprite i-search-common_sprite-wrap import-image-url search-icon"><i class="i ig-common_sprite i-search-common_sprite search-icon"></i> Search</span></span></button>
+</div>
+</form>
+</div>
+</div>
+<div class="column column-beta column--responsive">
+<div class="sat-content clearfix">
+<div class="sat-home faq">
+<div class="arrange arrange--wrap arrange--3-units">
+<div class="arrange_unit">
+<a href="/article/How-does-billing-work?l=en_US">
+<div class="faq-block">
+<span class="faq-text">How does billing work?</span>
+</div>
+</a>
+</div>
+<div class="arrange_unit">
+<a href="/article/How-do-I-measure-the-success-of-my-Yelp-advertising?l=en_US">
+<div class="faq-block">
+<span class="faq-text">How do I measure success of my Yelp advertising?</span>
+</div>
+</a>
+</div>
+<div class="arrange_unit">
+<a href="/article/How-do-I-update-my-business-page-to-grow-my-business-and-connect-with-customers-on-Yelp?l=en_US">
+<div class="faq-block">
+<span class="faq-text">How do I update my business page to grow my business and connect with customers on Yelp?</span>
+</div>
+</a>
+</div>
+<div class="arrange_unit">
+<a href="/article/Why-aren-t-all-of-my-reviews-being-recommended?l=en_US">
+<div class="faq-block">
+<span class="faq-text">Why aren't all reviews recommended?</span>
+</div>
+</a>
+</div>
+<div class="arrange_unit">
+<a href="/article/How-do-I-reply-to-a-review?l=en_US">
+<div class="faq-block">
+<span class="faq-text">How do I reply to a review?</span>
+</div>
+</a>
+</div>
+<div class="arrange_unit">
+<a href="/article/How-do-I-log-in-to-my-Yelp-Business-Account?l=en_US">
+<div class="faq-block">
+<span class="faq-text">How do I login?</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<br class="removable-tag"/><br class="removable-tag"/><br class="removable-tag"/><br class="removable-tag"/>
+<div class="sat-content clearfix">
+<div class="sat-home">
+<div class="arrange arrange--wrap arrange--2-units arrange--12">
+<div class="arrange_unit">
+<a class="sat-home-block" href="/Consumers?l=en_US"><img id="j_id0:businessOwnerImg" src="/resource/1604345490000/SC_Consumers"/>
+<div class="sat-home-block-desc">
+<h3>Yelp For Consumers</h3>
+<p>New to Yelp? Get started by discovering great local businesses and sharing your experiences with the Yelp community.
+                                                        </p>
+</div>
+</a>
+</div>
+<div class="arrange_unit">
+<a class="sat-home-block" href="/Yelp_for_Business?l=en_US"><img id="j_id0:consumerImg" src="/resource/1604345490000/SC_BusinessOwners"/>
+<div class="sat-home-block-desc">
+<h3>Yelp for Business</h3>
+<p>Learn how to claim your business page and connect with your customers on Yelp.
+                                                        </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="call-us-button-container" id="call_us_button" style="display: none;">
+<form action="/" enctype="application/x-www-form-urlencoded" id="j_id0:j_id191" method="post" name="j_id0:j_id191" onclick="A4J.AJAX.Submit('j_id0:j_id191',event,{'similarityGroupingId':'j_id0:j_id191:j_id192','actionUrl':'/','parameters':{'j_id0:j_id191:j_id192':'j_id0:j_id191:j_id192'} } )">
+<input name="j_id0:j_id191" type="hidden" value="j_id0:j_id191"/>
+<a href="tel:8777679357" style="text-decoration: none;">
+<div class="call-us-button-contents"><svg height="40px" version="1.1" viewbox="0 0 40 40" width="40px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill="none" fill-rule="evenodd" id="40x40_get_help_v2" stroke="none" stroke-width="1">
+<g id="Group" transform="translate(-0.000000, -0.000000)">
+<path d="M17,4.00000001 L11,4.00000001 C6.02943727,4.00000001 2.00000001,8.02943727 2.00000001,13 L2.00000001,14 C2.00000001,18.9705628 6.02943727,23 11,23 L14.65,23 L19.38,26.7800001 C19.5559393,26.9211607 19.7744358,26.9986917 20,27.0001242 C20.1493688,27.0024673 20.2970477,26.9681233 20.4300001,26.9000001 C20.7772838,26.7345974 20.9989112,26.3846595 21,26 L21,22.0600001 C24.062016,20.5408148 25.9991425,17.4181669 26,14 L26,13 C26,8.02943727 21.9705628,4.00000001 17,4.00000001 Z" fill="#E9E9E9" fill-rule="nonzero" id="Path"></path>
+<path d="M10.21,10 C12.0920557,6.32637163 15.8723277,4.01556578 20,4.01556578 C24.1276724,4.01556578 27.9079444,6.32637163 29.7900001,10 L32,10 C29.9814958,5.15558981 25.2481111,2 20,2 C14.751889,2 10.0185043,5.15558981 8.00000002,10 L10.21,10 Z" fill="#2B273D" fill-rule="nonzero" id="Path"></path>
+<path d="M31.0000001,21.0000001 L31.0000001,27.0000001 C31.0000001,29.7614238 28.7614238,32.0000001 26.0000001,32.0000001 L24.9000001,32.0000001 C24.3866353,29.4850369 22.0523013,27.7673305 19.4984758,28.0253193 C16.9446502,28.2833081 15.0010206,30.4331765 15.0010206,33.0000001 C15.0010206,35.5668237 16.9446502,37.7166921 19.4984758,37.9746809 C22.0523013,38.2326696 24.3866353,36.5149633 24.9000001,34.0000001 L26.0000001,34.0000001 C27.8565155,34.0000001 29.6369929,33.2625022 30.9497475,31.9497475 C32.2625022,30.6369929 33.0000001,28.8565155 33.0000001,27.0000001 L33.0000001,21.0000001 L31.0000001,21.0000001 Z M20,36.0000001 C18.3431458,36.0000001 17,34.6568543 17,33.0000001 C17,31.3431458 18.3431458,30.0000001 20,30.0000001 C21.6568543,30.0000001 23,31.3431458 23,33.0000001 C23,34.6568543 21.6568543,36.0000001 20,36.0000001 Z" fill="#2B273D" fill-rule="nonzero" id="Shape"></path>
+<rect height="40.0000001" id="Rectangle" width="40.0000001" x="0" y="0"></rect>
+<path d="M34.0000001,12 L30.0000001,12 C29.4477153,12 29.0000001,12.4477153 29.0000001,13 L29.0000001,27 C29.0000001,27.5522848 29.4477153,28 30.0000001,28 L34.0000001,28 C36.2091391,28 38.0000001,26.2091391 38.0000001,24 L38.0000001,16 C38.0000001,13.790861 36.2091391,12 34.0000001,12 Z" fill="#EF3B3A" fill-rule="nonzero" id="Path"></path>
+<path d="M10,12 L6.00000001,12 C3.79086101,12 2,13.790861 2,16 L2,24 C2,26.2091391 3.79086101,28 6.00000001,28 L10,28 C10.5522848,28 11,27.5522848 11,27 L11,13 C11,12.4477153 10.5522848,12 10,12 Z" fill="#EF3B3A" fill-rule="nonzero" id="Path"></path>
+</g>
+</g>
+</svg>
+<div>
+<div style="margin-left: 26px">
+<div style="">
+<p class="call-us-need-help-text">Need Help? Call us. </p>
+<p class="call-us-phone-number">(877) 767-9357</p>
+</div>
+<p class="call-us-wait-times">Mon-Fri, 5am-6pm PT | Average wait 1-3 mins</p>
+</div>
+</div></div>
+</a><div id="j_id0:j_id191:j_id221"></div>
+</form>
+</div>
+<div class="nonadvertiser-call-us-button-container" id="call_us_button_non_advertisers" style="display: none;">
+<form action="/" enctype="application/x-www-form-urlencoded" id="j_id0:j_id197" method="post" name="j_id0:j_id197" onclick="A4J.AJAX.Submit('j_id0:j_id197',event,{'similarityGroupingId':'j_id0:j_id197:j_id198','actionUrl':'/','parameters':{'j_id0:j_id197:j_id198':'j_id0:j_id197:j_id198'} } )">
+<input name="j_id0:j_id197" type="hidden" value="j_id0:j_id197"/>
+<a href="tel:8777679357" style="text-decoration: none;">
+<div class="call-us-button-contents"><svg height="40px" version="1.1" viewbox="0 0 40 40" width="40px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill="none" fill-rule="evenodd" id="40x40_get_help_v2" stroke="none" stroke-width="1">
+<g id="Group" transform="translate(-0.000000, -0.000000)">
+<path d="M17,4.00000001 L11,4.00000001 C6.02943727,4.00000001 2.00000001,8.02943727 2.00000001,13 L2.00000001,14 C2.00000001,18.9705628 6.02943727,23 11,23 L14.65,23 L19.38,26.7800001 C19.5559393,26.9211607 19.7744358,26.9986917 20,27.0001242 C20.1493688,27.0024673 20.2970477,26.9681233 20.4300001,26.9000001 C20.7772838,26.7345974 20.9989112,26.3846595 21,26 L21,22.0600001 C24.062016,20.5408148 25.9991425,17.4181669 26,14 L26,13 C26,8.02943727 21.9705628,4.00000001 17,4.00000001 Z" fill="#E9E9E9" fill-rule="nonzero" id="Path"></path>
+<path d="M10.21,10 C12.0920557,6.32637163 15.8723277,4.01556578 20,4.01556578 C24.1276724,4.01556578 27.9079444,6.32637163 29.7900001,10 L32,10 C29.9814958,5.15558981 25.2481111,2 20,2 C14.751889,2 10.0185043,5.15558981 8.00000002,10 L10.21,10 Z" fill="#2B273D" fill-rule="nonzero" id="Path"></path>
+<path d="M31.0000001,21.0000001 L31.0000001,27.0000001 C31.0000001,29.7614238 28.7614238,32.0000001 26.0000001,32.0000001 L24.9000001,32.0000001 C24.3866353,29.4850369 22.0523013,27.7673305 19.4984758,28.0253193 C16.9446502,28.2833081 15.0010206,30.4331765 15.0010206,33.0000001 C15.0010206,35.5668237 16.9446502,37.7166921 19.4984758,37.9746809 C22.0523013,38.2326696 24.3866353,36.5149633 24.9000001,34.0000001 L26.0000001,34.0000001 C27.8565155,34.0000001 29.6369929,33.2625022 30.9497475,31.9497475 C32.2625022,30.6369929 33.0000001,28.8565155 33.0000001,27.0000001 L33.0000001,21.0000001 L31.0000001,21.0000001 Z M20,36.0000001 C18.3431458,36.0000001 17,34.6568543 17,33.0000001 C17,31.3431458 18.3431458,30.0000001 20,30.0000001 C21.6568543,30.0000001 23,31.3431458 23,33.0000001 C23,34.6568543 21.6568543,36.0000001 20,36.0000001 Z" fill="#2B273D" fill-rule="nonzero" id="Shape"></path>
+<rect height="40.0000001" id="Rectangle" width="40.0000001" x="0" y="0"></rect>
+<path d="M34.0000001,12 L30.0000001,12 C29.4477153,12 29.0000001,12.4477153 29.0000001,13 L29.0000001,27 C29.0000001,27.5522848 29.4477153,28 30.0000001,28 L34.0000001,28 C36.2091391,28 38.0000001,26.2091391 38.0000001,24 L38.0000001,16 C38.0000001,13.790861 36.2091391,12 34.0000001,12 Z" fill="#EF3B3A" fill-rule="nonzero" id="Path"></path>
+<path d="M10,12 L6.00000001,12 C3.79086101,12 2,13.790861 2,16 L2,24 C2,26.2091391 3.79086101,28 6.00000001,28 L10,28 C10.5522848,28 11,27.5522848 11,27 L11,13 C11,12.4477153 10.5522848,12 10,12 Z" fill="#EF3B3A" fill-rule="nonzero" id="Path"></path>
+</g>
+</g>
+</svg>
+<div>
+<div style="margin-left: 26px">
+<div style="">
+<p class="call-us-need-help-text">Need Help? Call us. </p>
+<p class="call-us-phone-number">(877) 767-9357</p>
+</div>
+<p class="call-us-wait-times">Available Mon-Thurs, 5am - 7pm PST; Fri, 5am - 6pm PST; Sat-Sun, 8am - 4pm PST.</p>
+<p class="call-us-wait-times">Average wait time: less than 30 secs.</p>
+</div>
+</div></div>
+</a><div id="j_id0:j_id197:j_id222"></div>
+</form>
+</div>
+<div class="nonadvertiser-call-us-button-container" id="call_us_button_non_advertisers" style="display: none;">
+<form action="/" enctype="application/x-www-form-urlencoded" id="j_id0:j_id203" method="post" name="j_id0:j_id203" onclick="A4J.AJAX.Submit('j_id0:j_id203',event,{'similarityGroupingId':'j_id0:j_id203:j_id204','actionUrl':'/','parameters':{'j_id0:j_id203:j_id204':'j_id0:j_id203:j_id204'} } )">
+<input name="j_id0:j_id203" type="hidden" value="j_id0:j_id203"/>
+<a href="tel:8887170532" style="text-decoration: none;">
+<div class="call-us-button-contents"><svg height="40px" version="1.1" viewbox="0 0 40 40" width="40px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill="none" fill-rule="evenodd" id="40x40_get_help_v2" stroke="none" stroke-width="1">
+<g id="Group" transform="translate(-0.000000, -0.000000)">
+<path d="M17,4.00000001 L11,4.00000001 C6.02943727,4.00000001 2.00000001,8.02943727 2.00000001,13 L2.00000001,14 C2.00000001,18.9705628 6.02943727,23 11,23 L14.65,23 L19.38,26.7800001 C19.5559393,26.9211607 19.7744358,26.9986917 20,27.0001242 C20.1493688,27.0024673 20.2970477,26.9681233 20.4300001,26.9000001 C20.7772838,26.7345974 20.9989112,26.3846595 21,26 L21,22.0600001 C24.062016,20.5408148 25.9991425,17.4181669 26,14 L26,13 C26,8.02943727 21.9705628,4.00000001 17,4.00000001 Z" fill="#E9E9E9" fill-rule="nonzero" id="Path"></path>
+<path d="M10.21,10 C12.0920557,6.32637163 15.8723277,4.01556578 20,4.01556578 C24.1276724,4.01556578 27.9079444,6.32637163 29.7900001,10 L32,10 C29.9814958,5.15558981 25.2481111,2 20,2 C14.751889,2 10.0185043,5.15558981 8.00000002,10 L10.21,10 Z" fill="#2B273D" fill-rule="nonzero" id="Path"></path>
+<path d="M31.0000001,21.0000001 L31.0000001,27.0000001 C31.0000001,29.7614238 28.7614238,32.0000001 26.0000001,32.0000001 L24.9000001,32.0000001 C24.3866353,29.4850369 22.0523013,27.7673305 19.4984758,28.0253193 C16.9446502,28.2833081 15.0010206,30.4331765 15.0010206,33.0000001 C15.0010206,35.5668237 16.9446502,37.7166921 19.4984758,37.9746809 C22.0523013,38.2326696 24.3866353,36.5149633 24.9000001,34.0000001 L26.0000001,34.0000001 C27.8565155,34.0000001 29.6369929,33.2625022 30.9497475,31.9497475 C32.2625022,30.6369929 33.0000001,28.8565155 33.0000001,27.0000001 L33.0000001,21.0000001 L31.0000001,21.0000001 Z M20,36.0000001 C18.3431458,36.0000001 17,34.6568543 17,33.0000001 C17,31.3431458 18.3431458,30.0000001 20,30.0000001 C21.6568543,30.0000001 23,31.3431458 23,33.0000001 C23,34.6568543 21.6568543,36.0000001 20,36.0000001 Z" fill="#2B273D" fill-rule="nonzero" id="Shape"></path>
+<rect height="40.0000001" id="Rectangle" width="40.0000001" x="0" y="0"></rect>
+<path d="M34.0000001,12 L30.0000001,12 C29.4477153,12 29.0000001,12.4477153 29.0000001,13 L29.0000001,27 C29.0000001,27.5522848 29.4477153,28 30.0000001,28 L34.0000001,28 C36.2091391,28 38.0000001,26.2091391 38.0000001,24 L38.0000001,16 C38.0000001,13.790861 36.2091391,12 34.0000001,12 Z" fill="#EF3B3A" fill-rule="nonzero" id="Path"></path>
+<path d="M10,12 L6.00000001,12 C3.79086101,12 2,13.790861 2,16 L2,24 C2,26.2091391 3.79086101,28 6.00000001,28 L10,28 C10.5522848,28 11,27.5522848 11,27 L11,13 C11,12.4477153 10.5522848,12 10,12 Z" fill="#EF3B3A" fill-rule="nonzero" id="Path"></path>
+</g>
+</g>
+</svg>
+<div>
+<div style="margin-left: 26px">
+<div style="">
+<p class="call-us-need-help-text">Need Help? Call us. </p>
+<p class="call-us-phone-number">(888) 717-0532</p>
+</div>
+<p class="call-us-wait-times">Available Mon-Thurs, 5am - 7pm PST; Fri, 5am - 6pm PST; Sat-Sun, 8am - 4pm PST.</p>
+<p class="call-us-wait-times">Average wait time: less than 30 secs.</p>
+</div>
+</div></div>
+</a><div id="j_id0:j_id203:j_id223"></div>
+</form>
+</div>
+<div class="main-content-wrap main-content-wrap--separated webview-hidden">
+<div class="content-container" style="width: 70%">
+<div class="main-footer">
+<div class="sc-footer">
+<div class="main-footer_section main-footer_menu clearfix">
+<div class="main-footer_item responsive-hidden-small responsive-hidden-medium">
+<div class="footer-menu"></div>
+</div>
+<div class="main-footer_item">
+<div class="footer-menu">
+<h3 class="footer-menu-header">About</h3>
+<ul class="footer-menu-list">
+<li class="footer-menu_item"><a href="http://www.yelp.com/about">About Yelp</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp.com/careers?country=US">Careers</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp-press.com/news">Press</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp-ir.com/">Investor Relations</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp.com/guidelines">Content Guidelines</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp.com/static?p=tos">Terms of Service</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp.com/static?p=privacy">Privacy Policy</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp.com/static?p=privacy">Ad Choices</a></li>
+</ul>
+</div>
+</div>
+<div class="main-footer_item">
+<div class="footer-menu">
+<h3 class="footer-menu-header">Discover</h3>
+<ul class="footer-menu-list">
+<li class="footer-menu_item"><a href="http://www.yelp.com/local_yelp">The Weekly Yelp</a></li>
+<li class="footer-menu_item"><a href="http://officialblog.yelp.com">Yelp Blog</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp-support.com/">Support</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp.com/mobile">Yelp Mobile</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp.com/developers">Developers</a></li>
+<li class="footer-menu_item"><a href="http://www.yelp.com/rss">RSS</a></li>
+</ul>
+</div>
+</div>
+<div class="main-footer_item" style="clear: none">
+<div class="footer-menu">
+<h3 class="footer-menu-header">Yelp for Business</h3>
+<ul class="footer-menu-list">
+<li class="footer-menu_item"><a href="https://business.yelp.com">Claim your Business Page</a></li>
+<li class="footer-menu_item"><a href="https://business.yelp.com/products/yelp-ads">Advertise on Yelp</a></li>
+<li class="footer-menu_item"><a href="http://restaurants.yelp.com">Yelp Reservations</a></li>
+<li class="footer-menu_item"><a href="https://business.yelp.com/resources/case-studies">Business Success Stories</a></li>
+<li class="footer-menu_item"><a href="https://biz.yelp.com/support-center">Business Support</a></li>
+<li class="footer-menu_item"><a href="http://blog.yelp.com/section/business">Yelp Business Blog</a></li>
+</ul>
+</div>
+</div>
+<div class="main-footer_item" style="clear: none">
+<div class="languages-menu footer-menu">
+<div class="footer-menu_section footer-language">
+<h3 class="footer-menu_header">Language</h3>
+<div class="footer-subsection">
+<div class="drop-menu-origin" id="language-selector-wrap">
+<a class="drop-menu-link embossed-text-white" href="/language" id="language-selector-anchor" style="font-size: 14px;">
+<span class="i-wrap ig-wrap-common i-dropdown-arrow-common-wrap ig-wrap-common-r dropdown-arrow"><i class="i ig-common i-dropdown-arrow-common langaunge-dropdown-icon"></i>English</span>
+</a>
+<div class="drop-menu drop-menu-left drop-menu-restricted" id="language-selector-menu">
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=bg">български</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=cs">čeština</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=da">Dansk</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=de">Deutsch</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=el">Ελληνικά</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=en_GB">English (UK)</a>
+</li>
+<li class="drop-down-menu-link">
+<a href="/?l=en_US">English</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=es">Español</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=et">Eesti Keel</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=fi">Suomalainen</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=fr">Francais</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=hr">Hrvatski</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=hu">Magyar</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=it">Italiano</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=lb">Lëtzebuergesch</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=lt">Lietuvių Kalba</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=lv">Latviešu Valoda</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=mt">Malti</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=nl_NL">Nederlands</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=no">norsk</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=pl">Polski</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=pt_PT">Português</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=ro">Romanian</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=sk">Slovenčina</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=sl">Slovenščina</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=sv">Svenska</a>
+</li>
+</ul>
+<ul class="drop-menu-group">
+<li class="drop-down-menu-link">
+<a href="/?l=tr">Türkçe</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-footer_city-landscape-img responsive-hidden-small" role="presentation"></div>
+<div class="main-footer_copyright">
+<small>
+                                Copyright © 2004–2024 Yelp Inc. Yelp, <img alt="Yelp logo" class="footer-copyright-logo footer-image-logo" src="/resource/1631070005000/logoTiny"/>, <img alt="Yelp burst" class="footer-burst-logo footer-image-burst" src="/resource/1631070005000/burstTiny"/> and related marks are registered trademarks of Yelp.
+                            </small>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website yelp.com . It is in the url https://www.yelp-support.com and when registering the user gave the following information {"name": "Jane Doe", "email": "authorization.thesis@gmail.com", "password": "***", "zipcode": "4200-465", "country": "Portugal", "city": "Porto", "gender": "female"} Does this page contains user specific information? Answer only with yes or no.

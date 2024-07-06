@@ -1,0 +1,1 @@
+{'model': 'codellama', 'created_at': '2024-06-08T18:09:57.694820455Z', 'message': {'role': 'assistant', 'content': 'No, the page does not contain any user-specific information.'}, 'done_reason': 'stop', 'done': True, 'total_duration': 6743386685, 'load_duration': 1335796, 'prompt_eval_count': 1351, 'prompt_eval_duration': 4819460000, 'eval_count': 14, 'eval_duration': 1780879000}

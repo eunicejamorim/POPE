@@ -1,0 +1,383 @@
+The following text is the html file of a webpage. <html class="js grid light-theme no-touch" id="Stencil" lang="en-US"><head>
+<meta charset="utf-8"/>
+<meta content="initial-scale=1, maximum-scale=1, user-scalable=0, shrink-to-fit=no" name="viewport"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="strict-origin-when-cross-origin" name="referrer"/>
+<meta content="guce.yahoo.com" name="oath:guce:consent-host"/>
+<title>Yahoo</title>
+<meta content="Best in class Yahoo Mail, breaking local, national and global news, finance, sports, music, movies... You get more out of the web, you get more out of life." name="description"/>
+<link href="//gstatic.com" rel="dns-prefetch"/>
+<link href="//google.com" rel="dns-prefetch"/>
+<link href="//s.yimg.com" rel="dns-prefetch"/>
+<link href="//y.analytics.yahoo.com" rel="dns-prefetch"/>
+<link href="//ucs.query.yahoo.com" rel="dns-prefetch"/>
+<link href="//geo.query.yahoo.com" rel="dns-prefetch"/>
+<link href="//geo.yahoo.com" rel="dns-prefetch"/>
+<link href="https://s.yimg.com/wm/mbr/images/yahoo-favicon-img-v0.0.2.ico" rel="icon" type="image/x-icon"/>
+<link href="https://s.yimg.com/wm/mbr/images/yahoo-favicon-img-v0.0.2.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="yOTFyUBPTnXtuk2cPpqfv7ZvZ960JgqsV8FomN3n7Y0" name="google-site-verification"/>
+<link href="https://s.yimg.com/wm/mbr/images/yahoo-apple-touch-v0.0.2.png" rel="apple-touch-icon"/>
+<link href="https://s.yimg.com/wm/mbr/images/yahoo-apple-touch-v0.0.2.png" rel="apple-touch-icon-precomposed"/>
+
+<link href="https://s.yimg.com/wm/mbr/ea6adcb0719a766c905e68c0134c8f4a7d941939/yahoo-main.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body class="bucket-mbr-whatsapp-hc" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0">
+
+<div class="loginish puree-v2 grid" id="login-body">
+<div class="mbr-desktop-hd">
+<span class="column">
+<a href="https://www.yahoo.com/">
+<img alt="Yahoo" class="logo" height="36" src="https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage_2x.png" width=""/>
+<img alt="Yahoo" class="dark-mode-logo logo" height="36" src="https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage_2x.png" width=""/>
+</a>
+</span>
+<div class="desktop-universal-header">
+<a data-rapid-tracking="true" data-ylk="elm:link;elmt:link;slk:headerHelp" href="https://help.yahoo.com/kb/index?locale=en_US&amp;page=product&amp;y=PROD_ACCT">Help</a>
+<a class="universal-header-links" data-rapid-tracking="true" data-ylk="elm:link;elmt:link;slk:headerTerms" href="https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html">Terms</a>
+<a class="universal-header-links privacy-link" data-rapid-tracking="true" data-ylk="elm:link;elmt:link;slk:headerPrivacy" href="https://legal.yahoo.com/us/en/yahoo/privacy/index.html">Privacy</a>
+</div>
+</div>
+<div class="login-box-container">
+<div class="login-box right">
+<div class="mbr-login-hd txt-align-center">
+<img alt="Yahoo" class="logo yahoo-en-US" height="27" src="https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage_2x.png" width=""/>
+<img alt="Yahoo" class="dark-mode-logo logo yahoo-en-US" height="27" src="https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage_2x.png" width=""/>
+</div>
+<div class="challenge yid-challenge">
+<div class="challenge-header">
+</div><div class="username-challenge" id="login-landing">
+<strong class="challenge-heading">Sign in</strong>
+<span class="challenge-desc signin-sub-title">using your Yahoo account</span>
+<form class="pure-form" id="login-username-form" method="post">
+<input id="browser-fp-data" name="browser-fp-data" type="hidden" value='{"language":"en-US","colorDepth":24,"deviceMemory":8,"pixelRatio":1,"hardwareConcurrency":12,"timezoneOffset":-60,"timezone":"Europe/Lisbon","sessionStorage":1,"localStorage":1,"indexedDb":1,"cpuClass":"unknown","platform":"Win32","doNotTrack":"unknown","plugins":{"count":5,"hash":"2c14024bf8584c3f7f63f24ea490e812"},"canvas":"canvas winding:yes~canvas","webgl":1,"webglVendorAndRenderer":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 (0x00001F11) Direct3D11 vs_5_0 ps_5_0, D3D11)","adBlock":0,"hasLiedLanguages":0,"hasLiedResolution":0,"hasLiedOs":0,"hasLiedBrowser":0,"touchSupport":{"points":0,"event":0,"start":0},"fonts":{"count":48,"hash":"62d5bbf307ed9e959ad3d5ad6ccd3951"},"audio":"124.04347527516074","resolution":{"w":"1920","h":"1080"},"availableResolution":{"w":"1032","h":"1920"},"ts":{"serve":1717350367495,"render":1717350368093}}'/>
+<input name="crumb" type="hidden" value="F4CbvgfxG7/sA0bOLD4qg"/>
+<input name="acrumb" type="hidden" value="ZvglqzZ5"/>
+<input name="sessionIndex" type="hidden" value="QQ--"/>
+<input name="displayName" type="hidden" value=""/>
+<input id="deviceCapability" name="deviceCapability" type="hidden" value='{"pa":{"status":true},"isWebAuthnSupported":true}'/>
+<div class="username-country-code puree-country-inline-dropdown-disabled code-of-length-3" id="username-country-code-field">
+<div class="puree-dropdown selected-country-code-cont ltr hide" id="selected-country-code-cont">
+<div class="selected-country-code" id="selected-country-code">+351</div>
+<span class="arrow"></span>
+</div>
+<div class="country-code-dropdown country-dropdown-container hide" id="country-dropdown-container">
+<div class="puree-dropdown">
+<label class="offscreen" id="country-code-lbl-aria">Enter Country Code</label>
+<select aria-labelledby="country-code-lbl-aria" aria-required="true" disabled="" name="countryCodeIntl" role="combobox" type="select">
+<option data-code="+93" role="option" value="AF">Afghanistan ‪(+93)‬</option>
+<option data-code="+355" role="option" value="AL">Albania ‪(+355)‬</option>
+<option data-code="+213" role="option" value="DZ">Algeria ‪(+213)‬</option>
+<option data-code="+1" role="option" value="AS">American Samoa ‪(+1)‬</option>
+<option data-code="+376" role="option" value="AD">Andorra ‪(+376)‬</option>
+<option data-code="+244" role="option" value="AO">Angola ‪(+244)‬</option>
+<option data-code="+1" role="option" value="AI">Anguilla ‪(+1)‬</option>
+<option data-code="+1" role="option" value="AG">Antigua and Barbuda ‪(+1)‬</option>
+<option data-code="+54" role="option" value="AR">Argentina ‪(+54)‬</option>
+<option data-code="+374" role="option" value="AM">Armenia ‪(+374)‬</option>
+<option data-code="+297" role="option" value="AW">Aruba ‪(+297)‬</option>
+<option data-code="+247" role="option" value="AC">Ascension ‪(+247)‬</option>
+<option data-code="+61" role="option" value="AU">Australia ‪(+61)‬</option>
+<option data-code="+672" role="option" value="AX">Australian External Territories ‪(+672)‬</option>
+<option data-code="+43" role="option" value="AT">Austria ‪(+43)‬</option>
+<option data-code="+994" role="option" value="AZ">Azerbaijan ‪(+994)‬</option>
+<option data-code="+1" role="option" value="BS">Bahamas ‪(+1)‬</option>
+<option data-code="+973" role="option" value="BH">Bahrain ‪(+973)‬</option>
+<option data-code="+880" role="option" value="BD">Bangladesh ‪(+880)‬</option>
+<option data-code="+1" role="option" value="BB">Barbados ‪(+1)‬</option>
+<option data-code="+375" role="option" value="BY">Belarus ‪(+375)‬</option>
+<option data-code="+32" role="option" value="BE">Belgium ‪(+32)‬</option>
+<option data-code="+501" role="option" value="BZ">Belize ‪(+501)‬</option>
+<option data-code="+229" role="option" value="BJ">Benin ‪(+229)‬</option>
+<option data-code="+1" role="option" value="BM">Bermuda ‪(+1)‬</option>
+<option data-code="+975" role="option" value="BT">Bhutan ‪(+975)‬</option>
+<option data-code="+591" role="option" value="BO">Bolivia ‪(+591)‬</option>
+<option data-code="+387" role="option" value="BA">Bosnia and Herzegovina ‪(+387)‬</option>
+<option data-code="+267" role="option" value="BW">Botswana ‪(+267)‬</option>
+<option data-code="+55" role="option" value="BR">Brazil ‪(+55)‬</option>
+<option data-code="+1" role="option" value="VG">British Virgin Islands ‪(+1)‬</option>
+<option data-code="+673" role="option" value="BN">Brunei Darussalam ‪(+673)‬</option>
+<option data-code="+359" role="option" value="BG">Bulgaria ‪(+359)‬</option>
+<option data-code="+226" role="option" value="BF">Burkina Faso ‪(+226)‬</option>
+<option data-code="+257" role="option" value="BI">Burundi ‪(+257)‬</option>
+<option data-code="+855" role="option" value="KH">Cambodia ‪(+855)‬</option>
+<option data-code="+237" role="option" value="CM">Cameroon ‪(+237)‬</option>
+<option data-code="+1" role="option" value="CA">Canada ‪(+1)‬</option>
+<option data-code="+238" role="option" value="CV">Cape Verde ‪(+238)‬</option>
+<option data-code="+1" role="option" value="KY">Cayman Islands ‪(+1)‬</option>
+<option data-code="+236" role="option" value="CF">Central African Republic ‪(+236)‬</option>
+<option data-code="+235" role="option" value="TD">Chad ‪(+235)‬</option>
+<option data-code="+56" role="option" value="CL">Chile ‪(+56)‬</option>
+<option data-code="+86" role="option" value="CN">China ‪(+86)‬</option>
+<option data-code="+57" role="option" value="CO">Colombia ‪(+57)‬</option>
+<option data-code="+269" role="option" value="KM">Comoros ‪(+269)‬</option>
+<option data-code="+242" role="option" value="CG">Congo ‪(+242)‬</option>
+<option data-code="+682" role="option" value="CK">Cook Islands ‪(+682)‬</option>
+<option data-code="+506" role="option" value="CR">Costa Rica ‪(+506)‬</option>
+<option data-code="+225" role="option" value="CI">Cote dÕIvoire ‪(+225)‬</option>
+<option data-code="+385" role="option" value="HR">Croatia ‪(+385)‬</option>
+<option data-code="+53" role="option" value="CU">Cuba ‪(+53)‬</option>
+<option data-code="+357" role="option" value="CY">Cyprus ‪(+357)‬</option>
+<option data-code="+420" role="option" value="CZ">Czech Republic ‪(+420)‬</option>
+<option data-code="+243" role="option" value="CD">Democratic Republic of the Congo ‪(+243)‬</option>
+<option data-code="+45" role="option" value="DK">Denmark ‪(+45)‬</option>
+<option data-code="+246" role="option" value="DG">Diego Garcia ‪(+246)‬</option>
+<option data-code="+253" role="option" value="DJ">Djibouti ‪(+253)‬</option>
+<option data-code="+1" role="option" value="DM">Dominica ‪(+1)‬</option>
+<option data-code="+1" role="option" value="DO">Dominican Republic ‪(+1)‬</option>
+<option data-code="+670" role="option" value="TL">East Timor ‪(+670)‬</option>
+<option data-code="+593" role="option" value="EC">Ecuador ‪(+593)‬</option>
+<option data-code="+20" role="option" value="EG">Egypt ‪(+20)‬</option>
+<option data-code="+503" role="option" value="SV">El Salvador ‪(+503)‬</option>
+<option data-code="+240" role="option" value="GQ">Equatorial Guinea ‪(+240)‬</option>
+<option data-code="+291" role="option" value="ER">Eritrea ‪(+291)‬</option>
+<option data-code="+372" role="option" value="EE">Estonia ‪(+372)‬</option>
+<option data-code="+251" role="option" value="ET">Ethiopia ‪(+251)‬</option>
+<option data-code="+500" role="option" value="FK">Falkland Islands ‪(+500)‬</option>
+<option data-code="+298" role="option" value="FO">Faroe Islands ‪(+298)‬</option>
+<option data-code="+679" role="option" value="FJ">Fiji ‪(+679)‬</option>
+<option data-code="+358" role="option" value="FI">Finland ‪(+358)‬</option>
+<option data-code="+33" role="option" value="FR">France ‪(+33)‬</option>
+<option data-code="+594" role="option" value="GF">French Guiana ‪(+594)‬</option>
+<option data-code="+689" role="option" value="PF">French Polynesia ‪(+689)‬</option>
+<option data-code="+241" role="option" value="GA">Gabon ‪(+241)‬</option>
+<option data-code="+220" role="option" value="GM">Gambia ‪(+220)‬</option>
+<option data-code="+995" role="option" value="GE">Georgia ‪(+995)‬</option>
+<option data-code="+49" role="option" value="DE">Germany ‪(+49)‬</option>
+<option data-code="+233" role="option" value="GH">Ghana ‪(+233)‬</option>
+<option data-code="+350" role="option" value="GI">Gibraltar ‪(+350)‬</option>
+<option data-code="+30" role="option" value="GR">Greece ‪(+30)‬</option>
+<option data-code="+299" role="option" value="GL">Greenland ‪(+299)‬</option>
+<option data-code="+1" role="option" value="GD">Grenada ‪(+1)‬</option>
+<option data-code="+590" role="option" value="GP">Guadeloupe ‪(+590)‬</option>
+<option data-code="+1" role="option" value="GU">Guam ‪(+1)‬</option>
+<option data-code="+502" role="option" value="GT">Guatemala ‪(+502)‬</option>
+<option data-code="+224" role="option" value="GN">Guinea ‪(+224)‬</option>
+<option data-code="+245" role="option" value="GW"> ‪(+245)‬</option>
+<option data-code="+592" role="option" value="GY">Guyana ‪(+592)‬</option>
+<option data-code="+509" role="option" value="HT">Haiti ‪(+509)‬</option>
+<option data-code="+504" role="option" value="HN">Honduras ‪(+504)‬</option>
+<option data-code="+852" role="option" value="HK">Hong Kong ‪(+852)‬</option>
+<option data-code="+36" role="option" value="HU">Hungary ‪(+36)‬</option>
+<option data-code="+354" role="option" value="IS">Iceland ‪(+354)‬</option>
+<option data-code="+91" role="option" value="IN">India ‪(+91)‬</option>
+<option data-code="+62" role="option" value="ID">Indonesia ‪(+62)‬</option>
+<option data-code="+98" role="option" value="IR">Iran ‪(+98)‬</option>
+<option data-code="+964" role="option" value="IQ">Iraq ‪(+964)‬</option>
+<option data-code="+353" role="option" value="IE">Ireland ‪(+353)‬</option>
+<option data-code="+972" role="option" value="IL">Israel ‪(+972)‬</option>
+<option data-code="+39" role="option" value="IT">Italy ‪(+39)‬</option>
+<option data-code="+1" role="option" value="JM">Jamaica ‪(+1)‬</option>
+<option data-code="+81" role="option" value="JP">Japan ‪(+81)‬</option>
+<option data-code="+962" role="option" value="JO">Jordan ‪(+962)‬</option>
+<option data-code="+7" role="option" value="KZ">Kazakhstan ‪(+7)‬</option>
+<option data-code="+254" role="option" value="KE">Kenya ‪(+254)‬</option>
+<option data-code="+686" role="option" value="KI">Kiribati ‪(+686)‬</option>
+<option data-code="+383" role="option" value="XK"> ‪(+383)‬</option>
+<option data-code="+965" role="option" value="KW">Kuwait ‪(+965)‬</option>
+<option data-code="+996" role="option" value="KG">Kyrgyzstan ‪(+996)‬</option>
+<option data-code="+856" role="option" value="LA">Laos ‪(+856)‬</option>
+<option data-code="+371" role="option" value="LV">Latvia ‪(+371)‬</option>
+<option data-code="+961" role="option" value="LB">Lebanon ‪(+961)‬</option>
+<option data-code="+266" role="option" value="LS">Lesotho ‪(+266)‬</option>
+<option data-code="+231" role="option" value="LR">Liberia ‪(+231)‬</option>
+<option data-code="+218" role="option" value="LY">Libya ‪(+218)‬</option>
+<option data-code="+423" role="option" value="LI">Liechtenstein ‪(+423)‬</option>
+<option data-code="+370" role="option" value="LT">Lithuania ‪(+370)‬</option>
+<option data-code="+352" role="option" value="LU">Luxembourg ‪(+352)‬</option>
+<option data-code="+853" role="option" value="MO">Macao ‪(+853)‬</option>
+<option data-code="+389" role="option" value="MK">Macedonia ‪(+389)‬</option>
+<option data-code="+261" role="option" value="MG">Madagascar ‪(+261)‬</option>
+<option data-code="+265" role="option" value="MW">Malawi ‪(+265)‬</option>
+<option data-code="+60" role="option" value="MY">Malaysia ‪(+60)‬</option>
+<option data-code="+960" role="option" value="MV">Maldives ‪(+960)‬</option>
+<option data-code="+223" role="option" value="ML">Mali ‪(+223)‬</option>
+<option data-code="+356" role="option" value="MT">Malta ‪(+356)‬</option>
+<option data-code="+692" role="option" value="MH">Marshall Islands ‪(+692)‬</option>
+<option data-code="+596" role="option" value="MQ">Martinique ‪(+596)‬</option>
+<option data-code="+222" role="option" value="MR">Mauritania ‪(+222)‬</option>
+<option data-code="+230" role="option" value="MU">Mauritius ‪(+230)‬</option>
+<option data-code="+52" role="option" value="MX">Mexico ‪(+52)‬</option>
+<option data-code="+691" role="option" value="FM">Micronesia ‪(+691)‬</option>
+<option data-code="+373" role="option" value="MD">Moldova ‪(+373)‬</option>
+<option data-code="+377" role="option" value="MC">Monaco ‪(+377)‬</option>
+<option data-code="+976" role="option" value="MN">Mongolia ‪(+976)‬</option>
+<option data-code="+382" role="option" value="ME">Montenegro ‪(+382)‬</option>
+<option data-code="+1" role="option" value="MS">Montserrat ‪(+1)‬</option>
+<option data-code="+212" role="option" value="MA">Morocco ‪(+212)‬</option>
+<option data-code="+258" role="option" value="MZ">Mozambique ‪(+258)‬</option>
+<option data-code="+95" role="option" value="MM">Myanmar ‪(+95)‬</option>
+<option data-code="+264" role="option" value="NA">Namibia ‪(+264)‬</option>
+<option data-code="+674" role="option" value="NR">Nauru ‪(+674)‬</option>
+<option data-code="+977" role="option" value="NP">Nepal ‪(+977)‬</option>
+<option data-code="+31" role="option" value="NL">Netherlands ‪(+31)‬</option>
+<option data-code="+599" role="option" value="AN"> ‪(+599)‬</option>
+<option data-code="+687" role="option" value="NC">New Caledonia ‪(+687)‬</option>
+<option data-code="+64" role="option" value="NZ">New Zealand ‪(+64)‬</option>
+<option data-code="+505" role="option" value="NI">Nicaragua ‪(+505)‬</option>
+<option data-code="+227" role="option" value="NE">Niger ‪(+227)‬</option>
+<option data-code="+234" role="option" value="NG">Nigeria ‪(+234)‬</option>
+<option data-code="+683" role="option" value="NU">Niue ‪(+683)‬</option>
+<option data-code="+850" role="option" value="KP">North Korea ‪(+850)‬</option>
+<option data-code="+1" role="option" value="MP">Northern Mariana Islands ‪(+1)‬</option>
+<option data-code="+47" role="option" value="NO">Norway ‪(+47)‬</option>
+<option data-code="+968" role="option" value="OM">Oman ‪(+968)‬</option>
+<option data-code="+92" role="option" value="PK">Pakistan ‪(+92)‬</option>
+<option data-code="+680" role="option" value="PW">Palau ‪(+680)‬</option>
+<option data-code="+970" role="option" value="PS">Palestine ‪(+970)‬</option>
+<option data-code="+507" role="option" value="PA">Panama ‪(+507)‬</option>
+<option data-code="+675" role="option" value="PG">Papua New Guinea ‪(+675)‬</option>
+<option data-code="+595" role="option" value="PY">Paraguay ‪(+595)‬</option>
+<option data-code="+51" role="option" value="PE">Peru ‪(+51)‬</option>
+<option data-code="+63" role="option" value="PH">Philippines ‪(+63)‬</option>
+<option data-code="+48" role="option" value="PL">Poland ‪(+48)‬</option>
+<option data-code="+351" role="option" selected="selected" value="PT">Portugal ‪(+351)‬</option>
+<option data-code="+1" role="option" value="PR">Puerto Rico ‪(+1)‬</option>
+<option data-code="+974" role="option" value="QA">Qatar ‪(+974)‬</option>
+<option data-code="+262" role="option" value="RE">Reunion ‪(+262)‬</option>
+<option data-code="+40" role="option" value="RO">Romania ‪(+40)‬</option>
+<option data-code="+7" role="option" value="RU">Russia ‪(+7)‬</option>
+<option data-code="+250" role="option" value="RW">Rwanda ‪(+250)‬</option>
+<option data-code="+290" role="option" value="SH">Saint Helena ‪(+290)‬</option>
+<option data-code="+1" role="option" value="KN">Saint Kitts and Nevis ‪(+1)‬</option>
+<option data-code="+1" role="option" value="LC">Saint Lucia ‪(+1)‬</option>
+<option data-code="+508" role="option" value="PM">Saint Pierre and Miquelon ‪(+508)‬</option>
+<option data-code="+1" role="option" value="VC">Saint Vincent and Grenadines ‪(+1)‬</option>
+<option data-code="+685" role="option" value="WS">Samoa ‪(+685)‬</option>
+<option data-code="+378" role="option" value="SM">San Marino ‪(+378)‬</option>
+<option data-code="+239" role="option" value="ST">Sao Tome and Principe ‪(+239)‬</option>
+<option data-code="+966" role="option" value="SA">Saudi Arabia ‪(+966)‬</option>
+<option data-code="+221" role="option" value="SN">Senegal ‪(+221)‬</option>
+<option data-code="+381" role="option" value="RS">Serbia ‪(+381)‬</option>
+<option data-code="+248" role="option" value="SC">Seychelles ‪(+248)‬</option>
+<option data-code="+232" role="option" value="SL">Sierra Leone ‪(+232)‬</option>
+<option data-code="+65" role="option" value="SG">Singapore ‪(+65)‬</option>
+<option data-code="+421" role="option" value="SK">Slovakia ‪(+421)‬</option>
+<option data-code="+386" role="option" value="SI">Slovenia ‪(+386)‬</option>
+<option data-code="+677" role="option" value="SB">Solomon Islands ‪(+677)‬</option>
+<option data-code="+252" role="option" value="SO">Somalia ‪(+252)‬</option>
+<option data-code="+27" role="option" value="ZA">South Africa ‪(+27)‬</option>
+<option data-code="+82" role="option" value="KR">South Korea ‪(+82)‬</option>
+<option data-code="+34" role="option" value="ES">Spain ‪(+34)‬</option>
+<option data-code="+94" role="option" value="LK">Sri Lanka ‪(+94)‬</option>
+<option data-code="+249" role="option" value="SD">Sudan ‪(+249)‬</option>
+<option data-code="+597" role="option" value="SR">Suriname ‪(+597)‬</option>
+<option data-code="+268" role="option" value="SZ">Swaziland ‪(+268)‬</option>
+<option data-code="+46" role="option" value="SE">Sweden ‪(+46)‬</option>
+<option data-code="+41" role="option" value="CH">Switzerland ‪(+41)‬</option>
+<option data-code="+963" role="option" value="SY">Syria ‪(+963)‬</option>
+<option data-code="+886" role="option" value="TW">Taiwan ‪(+886)‬</option>
+<option data-code="+992" role="option" value="TJ">Tajikistan ‪(+992)‬</option>
+<option data-code="+255" role="option" value="TZ">Tanzania ‪(+255)‬</option>
+<option data-code="+66" role="option" value="TH">Thailand ‪(+66)‬</option>
+<option data-code="+228" role="option" value="TG">Togo ‪(+228)‬</option>
+<option data-code="+690" role="option" value="TK">Tokelau ‪(+690)‬</option>
+<option data-code="+676" role="option" value="TO">Tonga ‪(+676)‬</option>
+<option data-code="+1" role="option" value="TT">Trinidad and Tobago ‪(+1)‬</option>
+<option data-code="+216" role="option" value="TN">Tunisia ‪(+216)‬</option>
+<option data-code="+90" role="option" value="TR">Turkey ‪(+90)‬</option>
+<option data-code="+993" role="option" value="TM">Turkmenistan ‪(+993)‬</option>
+<option data-code="+1" role="option" value="TC">Turks and Caicos Islands ‪(+1)‬</option>
+<option data-code="+688" role="option" value="TV">Tuvalu ‪(+688)‬</option>
+<option data-code="+1" role="option" value="VI">US Virgin Islands ‪(+1)‬</option>
+<option data-code="+256" role="option" value="UG">Uganda ‪(+256)‬</option>
+<option data-code="+380" role="option" value="UA">Ukraine ‪(+380)‬</option>
+<option data-code="+971" role="option" value="AE">United Arab Emirates ‪(+971)‬</option>
+<option data-code="+44" role="option" value="GB">United Kingdom ‪(+44)‬</option>
+<option data-code="+1" data-format="(XXX) XXX-XXXX" role="option" value="US">United States ‪(+1)‬</option>
+<option data-code="+598" role="option" value="UY">Uruguay ‪(+598)‬</option>
+<option data-code="+998" role="option" value="UZ">Uzbekistan ‪(+998)‬</option>
+<option data-code="+678" role="option" value="VU">Vanuatu ‪(+678)‬</option>
+<option data-code="+379" role="option" value="VA">Vatican City ‪(+379)‬</option>
+<option data-code="+58" role="option" value="VE">Venezuela ‪(+58)‬</option>
+<option data-code="+84" role="option" value="VN">Vietnam ‪(+84)‬</option>
+<option data-code="+681" role="option" value="WF">Wallis and Futuna ‪(+681)‬</option>
+<option data-code="+967" role="option" value="YE">Yemen ‪(+967)‬</option>
+<option data-code="+260" role="option" value="ZM">Zambia ‪(+260)‬</option>
+<option data-code="+263" role="option" value="ZW">Zimbabwe ‪(+263)‬</option>
+</select>
+<div class="arrow"></div>
+</div>
+</div>
+<div class="input-group">
+<input autocapitalize="none" autocomplete="username" autocorrect="off" autofocus="true" class="phone-no" id="login-username" name="username" placeholder=" " type="text" value=""/>
+<div class="input-field-icon hide" id="username-field-icon"></div>
+<label class="login-label" for="login-username" id="login-label">Username, email, or mobile</label>
+<ul aria-live="polite" class="auto-fill-overlay hide" id="domain-auto-fill">
+<li data-fill="yahoo.com" tabindex="2">yahoo.com</li><li data-fill="gmail.com" tabindex="3">gmail.com</li><li data-fill="outlook.com" tabindex="4">outlook.com</li><li data-fill="aol.com" tabindex="5">aol.com</li>
+</ul> </div>
+<div class="hidden-input-container">
+<input aria-hidden="true" autocorrect="off" class="pwd-field" name="passwd" placeholder="Password" role="presentation" tabindex="-1" type="password"/>
+</div>
+</div>
+<p class="error-msg hide" id="username-error" role="alert"></p>
+<div class="button-container">
+<input aria-hidden="false" class="pure-button puree-button-primary challenge-button" data-rapid-tracking="true" data-ylk="elm:btn;elmt:primary;slk:next;mKey:next" id="login-signin" name="signin" type="submit" value="Next"/>
+</div>
+<div class="helper-links-container">
+<div class="helper-item">
+<span class="stay-signed-in checkbox-container">
+<input checked="" id="persistent" name="persistent" type="checkbox" value="y"/>
+<label for="persistent">Stay signed in</label>
+</span>
+</div>
+<div class="helper-item arlink">
+<span class="help">
+<a data-rapid-tracking="true" data-ylk="elm:btn;elmt:forgot;slk:forgot;mkey:forgot" href="/forgot?.lang=en-US&amp;src=homepage&amp;activity=ybar-signin&amp;pspid=2023538075&amp;.done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D1&amp;done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D1" id="mbr-forgot-link">Forgot username?</a>
+</span>
+</div>
+</div>
+<div class="bottom-links-container has-social-buttons">
+<p class="sign-up-link">
+<a class="pure-button puree-button-secondary challenge-button" data-rapid-tracking="true" data-ylk="elm:link;elmt:secondary;slk:signup;mKey:signup" href="/account/create?.lang=en-US&amp;src=homepage&amp;activity=ybar-signin&amp;pspid=2023538075&amp;.done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D1&amp;specId=yidregsimplified&amp;done=https%3A%2F%2Fwww.yahoo.com%2F%3Fguccounter%3D1" id="createacc" role="button">Create an account</a>
+</p>
+<div class="social-login-container" id="social-login-container">
+<div class="or-cont-with-desc challenge-feedback-text">
+                    Or, continue with
+                </div>
+<ul class="social-login">
+<li class="items-cont-1">
+<button class="pure-button sc-button items-1 sc-google sc-google-button" data-rapid-tracking="true" data-ylk="elm:btn;slk:google-btn;mKey:google-social-btn" id="tpa-google-button" name="tpaProvider" type="submit" value="google">
+<label class="offscreen">google</label>
+</button>
+</li>
+</ul>
+</div> </div>
+</form>
+</div>
+</div>
+</div>
+<div class="login-box-ad-fallback" id="login-box-ad-fallback">
+<h1>Yahoo makes it easy to enjoy what matters most in your world.</h1>
+<p>Best in class Yahoo Mail, breaking local, national and global news, finance, sports, music, movies and more. You get more out of the web, you get more out of life.</p>
+</div>
+</div>
+<div class="login-bg-outer">
+<div class="login-bg-inner">
+<div aria-hidden="true" id="login-ad-rich">
+<iframe allow="geolocation 'none'; fullscreen 'none'; autoplay 'none'; camera 'none'; display-capture 'none'; document-domain 'none'; microphone 'none'; gyroscope 'none'; magnetometer 'none'; midi 'none'; payment 'none'; serial 'none'; speaker-selection 'none'" frameborder="no" height="1024" id="login-ads-gpt-iframe" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" scrolling="no" src="https://gpt.mail.yahoo.net/sandbox?client=login&amp;version=0.1&amp;limited=1&amp;headerBidder=1&amp;haq=1&amp;benji=1#config=%7B%22positions%22%3A%5B%7B%22adUnitPath%22%3A%22%2F22888152279%2Fus%2Fylogin%2Fmain%2Fdt%2Fus_ylogin_main_dt_full_screen%22%2C%22adLocation%22%3A%22full_screen%22%2C%22size%22%3A%5B%5B1440%2C1024%5D%2C%5B%22fluid%22%5D%5D%2C%22div%22%3A%22gpt-passback%22%7D%5D%2C%22pageUrl%22%3A%22https%3A%2F%2Flogin.yahoo.com%22%2C%22headerBidder%22%3Atrue%2C%22yahooPrebid%22%3Atrue%2C%22geoCountryCode%22%3A%22PT%22%2C%22npa%22%3Afalse%2C%22limited%22%3Atrue%2C%22PPId%22%3A%22%22%2C%22targetingConfig%22%3A%7B%22lang%22%3A%22en-US%22%2C%22bucket%22%3A%22mbr-whatsapp-hc%22%2C%22spaceId%22%3A%22794200018%22%2C%22adLocation%22%3A%22full_screen%22%2C%22age%22%3A%220%22%2C%22gender%22%3A%220%22%2C%22colo%22%3A%22ir2%22%2C%22lu%22%3A%220%22%2C%22site%22%3A%22login%22%2C%22device%22%3A%22desktop%22%2C%22region%22%3A%22us%22%2C%22pageOrigin%22%3A%22https%3A%2F%2Flogin.yahoo.com%22%2C%22AXId%22%3A%22%22%7D%2C%22headerBidderConfig%22%3A%7B%22host%22%3A%22login.yahoo.com%22%2C%22pblob%22%3A%22lu%3A0%7C%7C794200018%7C%7C%22%2C%22buckets%22%3A%5B%22mbr-whatsapp-hc%22%5D%2C%22limited%22%3Atrue%2C%22cobrand%22%3A%22%22%2C%22lang%22%3A%22en-US%22%2C%22site%22%3A%22yahoo_login%22%2C%22region%22%3A%22us%22%2C%22adLocation%22%3A%22full_screen%22%2C%22dv360%22%3A%22%22%2C%22AXId%22%3A%22%22%7D%7D" width="1440"></iframe>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<noscript>
+<img height="0" src="/account/js-reporting/?crumb=F4CbvgfxG7%2FsA0bOLD4qg&amp;message=javascript_not_enabled&amp;ref=%2F" style="visibility: hidden;" width="0"/>
+</noscript>
+
+<iframe name="__uspapiLocator" style="display: none;"></iframe><iframe name="__tcfapiLocator" style="display: none;"></iframe><iframe name="__gppLocator" style="display: none;"></iframe>
+
+<div id="mbr-css-check"></div>
+<div class="page-mask hide" id="page-mask"></div>
+<div id="ad"></div>
+<div class="mbr-legacy-device-bar" id="mbr-legacy-device-bar">
+<label aria-label="Close this warning" class="cross" for="mbr-legacy-device-bar-cross">x</label>
+<input id="mbr-legacy-device-bar-cross" type="checkbox"/>
+<p class="mbr-legacy-device">
+            Yahoo works best with the latest versions of the browsers. You're using an outdated or unsupported browser and some Yahoo features may not work properly. Please update your browser version now. <a href="">More Info</a>
+</p>
+</div>
+
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be private to a certain user? Answer only with yes or no.

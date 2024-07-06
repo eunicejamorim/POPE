@@ -1,0 +1,663 @@
+The following text is the html file of a webpage. <html class="no-touch" dir="ltr" lang="en"><head><title>
+	English verb conjugation: past tense, participle, present perfect, past perfect | Reverso Conjugator
+</title><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta charset="utf-8"/><meta content="Conjugate an English verb with Reverso Conjugator at all tenses: indicative, past tense, participle, present perfect, gerund. See list of irregular verbs in English and  conjugation models. " id="metaDescription" name="description"/><meta name="google" value="notranslate"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link crossorigin="" href="https://sdk.privacy-center.org" rel="preconnect"/><link crossorigin="" href="https://www.googletagmanager.com" rel="preconnect"/><link crossorigin="" href="https://www.google-analytics.com" rel="preconnect"/><meta content="#0970ac" name="theme-color"/><meta content="NOARCHIVE" name="GOOGLEBOT"/><base href="https://conjugator.reverso.net/" id="baseHref"/><link href="https://conjugator.reverso.net/conjugation-english.html" hreflang="en-US" rel="alternate"/> <link href="https://conjugueur.reverso.net/conjugaison-anglais.html" hreflang="fr-FR" rel="alternate"/> <link href="https://conjugador.reverso.net/conjugacion-ingles.html" hreflang="es-ES" rel="alternate"/> <link href="https://konjugator.reverso.net/konjugation-englisch.html" hreflang="de-DE" rel="alternate"/> <link href="https://coniugazione.reverso.net/coniugazione-inglese.html" hreflang="it-IT" rel="alternate"/> <link href="https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA.html" hreflang="he" rel="alternate"/> <link href="https://conjugacao.reverso.net/conjugacao-ingles.html" hreflang="pt-PT" rel="alternate"/> <link href="https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9.html" hreflang="ru-RU" rel="alternate"/> <link href="https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9.html" hreflang="ar" rel="alternate"/> <link href="https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E8%8B%B1%E8%AA%9E.html" hreflang="ja" rel="alternate"/><link href="https://conjugator.reverso.net/conjugation-english.html" rel="canonical"/>
+<link href="//cdn.reverso.net/conj/v2550/IMG/ReversoFavicon.ico" rel="ICON" type="image"/>
+<link as="style" href="//cdn.reverso.net/conj/v2550/CSS/jquery-ui.min.css" rel="stylesheet preload" type="text/css"/>
+<link as="style" href="//cdn.reverso.net/conj/v2550/CSS/Style.min.css" rel="stylesheet preload" type="text/css"/>
+
+
+
+
+
+
+
+<meta content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/><meta content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A/ERL66fN363FkXxgDc6F1+ucRUkAhjEca9W3la6xaLnD2Y1lABsqmdaJmPNaUKPKVBRpyMKEhXYl7rSvrQw+AkAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A6OdGH3fVf4eKRDbXb4thXA4InNqDJDRhZ8U533U/roYjp4Yau0T3YSuc63vmAs/8ga1cD0E3A7LEq6AXk1uXgsAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/></head>
+<body class="desktop en-conjugator-class en-interface-class" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><div aria-hidden="true" data-nosnippet="true" id="didomi-host"></div><iframe name="__cmpLocator" style="display: none;" title="cmpLocator"></iframe>
+<div id="wrapper">
+<header id="reverso-header-2020">
+<div class="reverso-header-wrapper" data-default-size="16px">
+<div class="reverso-header-left-wrapper" data-default-size="16px">
+<div class="reverso-logo-wrapper" data-default-size="16px">
+<a class="reverso-context-logo" data-default-size="16px" href="https://conjugator.reverso.net/conjugation-english.html">
+<span class="icon rev-title">
+<img alt="en" rel="preload" src="//cdn.reverso.net/conj/v2550/IMG/reverso-logo.svg" style="width: 126px;"/>
+</span>
+</a>
+</div>
+<nav class="reverso-links-wrapper" data-default-size="16px">
+<a class="translation-link product" data-default-size="14px" href="https://www.reverso.net/text-translation">Translation</a>
+<a class="context-link product" data-default-size="14px" href="https://context.reverso.net/translation/">Context</a>
+<a class="speller-link product" data-default-size="14px" href="https://www.reverso.net/spell-checker/english-spelling-grammar/">Grammar Check</a>
+<a class="synonyms-link product" data-default-size="14px" href="https://synonyms.reverso.net/synonym/en/">Synonyms</a>
+<a class="conjugator-link product" data-default-size="14px" href="https://conjugator.reverso.net/conjugation-english.html">Conjugation</a>
+<div class="selector closed nonselectable" data-default-size="14px" id="more-products-menu">
+<div class="option front" data-default-size="14px">
+<!-- <span data-default-size="14px">More</span> -->
+<!-- <span class="icon down-arrow"></span> -->
+<svg _ngcontent-serverapp-c42="" class="icon-ellipsis" fill="none" height="4" viewbox="0 0 16 4" width="16" xmlns="http://www.w3.org/2000/svg"><path _ngcontent-serverapp-c42="" clip-rule="evenodd" d="M3.5 1.98999C3.5 2.95649 2.7165 3.73999 1.75 3.73999C0.783502 3.73999 0 2.95649 0 1.98999C0 1.02349 0.783502 0.23999 1.75 0.23999C2.7165 0.23999 3.5 1.02349 3.5 1.98999ZM9.75 1.99999C9.75 2.96649 8.9665 3.74999 8 3.74999C7.0335 3.74999 6.25 2.96649 6.25 1.99999C6.25 1.03349 7.0335 0.24999 8 0.24999C8.9665 0.24999 9.75 1.03349 9.75 1.99999ZM14.25 3.74999C15.2165 3.74999 16 2.96649 16 1.99999C16 1.03349 15.2165 0.24999 14.25 0.24999C13.2835 0.24999 12.5 1.03349 12.5 1.99999C12.5 2.96649 13.2835 3.74999 14.25 3.74999Z" fill="#0970AC" fill-rule="evenodd"></path></svg>
+</div>
+<div class="drop-down" data-default-size="14px">
+<a class="option synonyms" data-default-size="14px" href="https://synonyms.reverso.net/synonym/en/">
+<span class="icon synonyms"></span>
+<span class="text" data-default-size="14px">Synonyms</span>
+</a>
+<a class="option document" data-default-size="14px" href="https://documents.reverso.net/Default.aspx?lang=en">
+<span class="icon document"></span>
+<span class="text" data-default-size="14px">Documents</span>
+</a>
+<a class="option dictionary" data-default-size="14px" href="https://dictionary.reverso.net/">
+<span class="icon dictionary"></span>
+<span class="text" data-default-size="14px">Dictionary</span>
+</a>
+<a class="option collabdictionary" data-default-size="14px" href="https://dictionary.reverso.net/CollabDict.aspx?srcLang=-1&amp;targLang=-1&amp;lang=en">
+<span class="icon about"></span>
+<span class="text" data-default-size="14px">Collaborative Dictionary</span>
+</a>
+<a class="option grammar" data-default-size="14px" href="https://grammar.reverso.net/">
+<span class="icon book"></span>
+<span class="text" data-default-size="14px">Grammar</span>
+</a>
+<a class="option expressio" data-default-size="14px" href="https://www.expressio.fr">
+<span class="icon expressio"></span>
+<span class="text" data-default-size="14px">Expressio</span>
+</a>
+<a class="option corporate" data-default-size="14px" href="https://www.corporate-translation.reverso.com">
+<span class="icon briefcase"></span>
+<span class="text" data-default-size="14px">Reverso Corporate</span>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="reverso-header-right-wrapper" data-default-size="16px">
+<a class="dapp-dl-button" data-default-size="14px" data-dl="https://context.reverso.net/translation/windows-mac-app" data-os="windows" href="https://dl.reverso.net/desktop-app/windows?utm_source=conjugator&amp;utm_campaign=button-header" title="Download for free&lt;span class='newlink'&gt;Translate text from any application or website in just one click.&lt;/span&gt;">
+<img alt="Download" class="dapp-download" data-default-size="24px" height="24px" src="//cdn.reverso.net/conj/v2550/IMG/dapp/download.svg" width="24px"/>
+<span class="text" data-default-size="14px">Download for Windows</span>
+<img alt="New" class="new-tag" data-default-size="14px" src="//cdn.reverso.net/conj/v2550/IMG/dapp/new.svg"/>
+</a>
+<!-- Login/Account menu component -->
+<!-- Anonymous user -->
+
+<div class="reverso-user-menu selector closed nonselectable" data-default-size="13px" id="reverso-user-menu">
+<div class="option icon-close front" data-default-size="14px">
+<span class="login" data-default-size="14px">Log in</span>
+<span class="icon user-anonymous"></span>
+<span class="icon cancel"></span>
+</div>
+<div class="drop-down" data-default-size="13px">
+<a class="option register sep-24" data-default-size="14px" href="https://account.reverso.net/register/conjugator.reverso.net/en?utm_source=conjugatorweb&amp;utm_medium=usertopmenu&amp;utm_campaign=login-register">
+<span class="icon add-user"></span>
+<span class="text" data-default-size="14px">Register</span>
+</a>
+<a class="option login sep-24" data-default-size="14px" href="https://account.reverso.net/login/conjugator.reverso.net/en?utm_source=conjugatorweb&amp;utm_medium=usertopmenu&amp;utm_campaign=login-login">
+<span class="icon login"></span>
+<span class="text" data-default-size="14px">Log in</span>
+</a>
+<span class="option facebook sep-24" data-default-size="14px" id="fb-content">
+<span class="icon facebook"></span>
+<span class="text" data-default-size="14px">Connect with Facebook</span>
+</span>
+<span class="option google sep-24" data-default-size="14px" id="google-content">
+<span class="icon google"></span>
+<span class="text" data-default-size="14px">Connect with Google</span>
+</span>
+<span class="option apple sep-24" data-default-size="14px" id="apple-content">
+<span class="icon apple"></span>
+<span class="text">Connect with Apple</span>
+</span>
+<div class="sep-full mobile-hidden" data-default-size="13px"></div>
+<a class="option premium" data-default-size="14px" href="https://documents.reverso.net/Pricing.aspx?lang=en&amp;origin=1&amp;utm_source=conjugator&amp;utm_campaign=user-menu-header">
+<span class="icon crown-unfilled"></span>
+<span class="text" data-default-size="14px">Reverso Premium</span>
+</a>
+<div class="sep-full" data-default-size="13px"></div>
+<div class="space-filler" data-default-size="13px"></div>
+</div>
+</div>
+<div class="selector closed nonselectable" data-default-size="13px" id="interface-lang-menu">
+<div class="option front" data-default-size="14px">
+<span class="text" data-default-size="14px">en</span>
+<span class="sel-arrow icon down-caret-full"></span>
+</div>
+<div class="drop-down language-select" data-default-size="13px">
+<a class="option" data-default-size="14px" data-value="ar" href="https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9.html">العربية</a>
+<a class="option" data-default-size="14px" data-value="de" href="https://konjugator.reverso.net/konjugation-englisch.html">Deutsch</a>
+<a class="option selected" data-default-size="14px" data-value="en" href="https://conjugator.reverso.net/conjugation-english.html">English</a>
+<a class="option" data-default-size="14px" data-value="es" href="https://conjugador.reverso.net/conjugacion-ingles.html">Español</a>
+<a class="option" data-default-size="14px" data-value="fr" href="https://conjugueur.reverso.net/conjugaison-anglais.html">Français</a>
+<a class="option" data-default-size="14px" data-value="he" href="https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA.html">עברית</a>
+<a class="option" data-default-size="14px" data-value="it" href="https://coniugazione.reverso.net/coniugazione-inglese.html">Italiano</a>
+<a class="option" data-default-size="14px" data-value="jp" href="https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E8%8B%B1%E8%AA%9E.html">日本語</a>
+<a class="option" data-default-size="14px" data-value="pt" href="https://conjugacao.reverso.net/conjugacao-ingles.html">Português</a>
+<a class="option" data-default-size="14px" data-value="ru" href="https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9.html">Русский</a>
+</div>
+</div>
+<div class="selector closed nonselectable" data-default-size="13px" id="additional-info-menu">
+<!--span class="option front icon three-dots"></span-->
+<div class="drop-down" data-default-size="13px">
+<a class="option dapp-dl" data-default-size="14px" data-dl="https://context.reverso.net/translation/windows-mac-app" data-os="windows" href="https://dl.reverso.net/desktop-app/windows?utm_source=conjugator&amp;utm_campaign=button-header">
+<span class="icon download"></span>
+<span class="text" data-default-size="14px">Download for Windows</span>
+</a>
+<div class="option interface-lang" data-default-size="14px">
+<div class="locale" data-default-size="14px">
+<span class="icon web"></span>
+<span class="text" data-default-size="14px">English</span>
+<span class="icon down-caret"></span>
+</div>
+<div class="interface-langs drop-down closed language-select" data-default-size="14px">
+<a class="option" data-default-size="14px" data-value="ar" href="https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9.html">العربية</a>
+<a class="option" data-default-size="14px" data-value="de" href="https://konjugator.reverso.net/konjugation-englisch.html">Deutsch</a>
+<a class="option selected" data-default-size="14px" data-value="en" href="https://conjugator.reverso.net/conjugation-english.html">English</a>
+<a class="option" data-default-size="14px" data-value="es" href="https://conjugador.reverso.net/conjugacion-ingles.html">Español</a>
+<a class="option" data-default-size="14px" data-value="fr" href="https://conjugueur.reverso.net/conjugaison-anglais.html">Français</a>
+<a class="option" data-default-size="14px" data-value="he" href="https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA.html">עברית</a>
+<a class="option" data-default-size="14px" data-value="it" href="https://coniugazione.reverso.net/coniugazione-inglese.html">Italiano</a>
+<a class="option" data-default-size="14px" data-value="jp" href="https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E8%8B%B1%E8%AA%9E.html">日本語</a>
+<a class="option" data-default-size="14px" data-value="pt" href="https://conjugacao.reverso.net/conjugacao-ingles.html">Português</a>
+<a class="option" data-default-size="14px" data-value="ru" href="https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9.html">Русский</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="wrapper-form active-header">
+<div class="wrapper-form-bg1">
+<div class="wrapper-form-bg-2">
+<div class="wrapper-form-bg-21">
+<form action="./conjugation-english.html?lang=en&amp;language=en" id="form1" method="post">
+<div class="aspNetHidden">
+<input id="__EVENTTARGET" name="__EVENTTARGET" type="hidden" value=""/>
+<input id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden" value=""/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUKMTY3MDk3NjEwOWRkLz4wnKZau+Y4Epo4Dhp8ks9eARM="/>
+</div>
+
+<div class="aspNetHidden">
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
+<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEdAAnpguJSjV1YuTEkPBlJPPIq/c1668KeTX7ewZVPtS58HEbbD3k8y7hsnamDP/JrZ/3j4P/h8974L8b20dCu9nyKk8EXyGkGv3o076ZKCTV/U3ST8gOkvijv4j8VrbXIh46en8ttNRVPVEi4izPJgPRwwfuxjx6LICU+wFM4aADhRKr+rokZjTusMXu82LcU8/vJZ1635vXVXvv3/4khE8+PvZN2tA=="/>
+</div>
+<input id="hidConjugation" name="ctl00$hidConjugation" type="hidden" value="Conjugation"/>
+<input id="hidConjugator" name="ctl00$hidConjugator" type="hidden" value="Conjugator"/>
+<input id="hidVerb" name="ctl00$hidVerb" type="hidden" value="Verb"/>
+<input id="verbTranslit" name="ctl00$verbTranslit" type="hidden"/>
+<input id="HomonymNumber" name="ctl00$HomonymNumber" type="hidden"/>
+<input id="VerbAttributes" name="ctl00$VerbAttributes" type="hidden"/>
+<div class="content-conj content-conj-inner">
+<div class="stickem-container clearfix">
+<div class="wrapperW">
+<div class="headerDescription conj clearfix">
+<h1 class="bigger">English verb conjugation, irregular verbs</h1>
+</div>
+<div id="content-menu">
+<div class="tableForm clearfix">
+<div class="conjForm">
+<div class="input-wrap">
+<label class="hide-element" for="txtVerb" id="txtVerbLabel">Enter an infinitive verb or a conjugated form to have its conjugation table</label>
+<input autocapitalize="off" autocomplete="off" class="verbbox keyboardInput ui-autocomplete-input" id="txtVerb" name="ctl00$txtVerb" tooltip="Enter an infinitive verb or a conjugated form to have its conjugation table" type="text" vki_attached="true"/>
+<div id="imgKeyboardContainer"><span class="keyboardInputInitiator icon-keyboard"></span></div>
+<a class="reset-search" onclick="clearSearch();" style="display: none;">X</a>
+</div>
+<div class="select-wrap">
+<a class="current-conj-language dropdown-toggle" href="#">
+<label class="">English</label>
+<span class="icon icon-arrow"></span></a>
+<ul class="dropdown">
+<li code="en">English</li>
+<li code="fr">French</li>
+<li code="es">Spanish</li>
+<li code="de">German</li>
+<li code="it">Italian</li>
+<li code="pt">Portuguese</li>
+<li code="he">Hebrew</li>
+<li code="ru">Russian</li>
+<li code="ar">Arabic</li>
+<li class="last-drop-item" code="jp">Japanese</li>
+</ul>
+</div>
+<a href="#" id="lbConjugate" onclick="doRedirectConjugate(''); return false;" title="Conjugate">Conjugate</a>
+</div>
+<div class="flags">
+<a id="aFr" l="fr" title="Conjugate in French">
+<span class="flag-home fr"></span>
+<i class="icon-arrow"></i>
+</a>
+<a class="active" id="aEn" l="en" title="Conjugate in English">
+<span class="flag-home en"></span>
+<i class="icon-arrow"></i>
+</a>
+<a id="aEs" l="es" title="Conjugate in Spanish">
+<span class="flag-home es"></span>
+<i class="icon-arrow"></i>
+</a>
+<a id="aDe" l="de" title="Conjugate in German">
+<span class="flag-home de"></span>
+<i class="icon-arrow"></i>
+</a>
+<a id="aIt" l="it" title="Conjugate in Italian">
+<span class="flag-home it"></span>
+<i class="icon-arrow"></i>
+</a>
+<a id="aHe" l="he" title="Conjugate in Hebrew">
+<span class="flag-home he"></span>
+<i class="icon-arrow"></i>
+</a>
+<a id="aPt" l="pt" title="Conjugate in Portuguese">
+<span class="flag-home pt"></span>
+<i class="icon-arrow"></i>
+</a>
+<a id="aRu" l="ru" title="Conjugate in Russian">
+<span class="flag-home ru"></span>
+<i class="icon-arrow"></i>
+</a>
+<a id="aAr" l="ar" title="Conjugate in Arabic">
+<span class="flag-home ar"></span>
+<i class="icon-arrow"></i>
+</a>
+<a id="aJp" l="jp" title="Conjugate in Japanese">
+<span class="flag-home jp"></span>
+<i class="icon-arrow"></i>
+</a>
+</div>
+</div>
+<div class="righttoolboxWrap clearfix grey-bg">
+<div class="righttoolbox">
+                                                Toolbox:
+                                                <a href="https://conjugator.reverso.net/conjugation-rules-model-english.html" id="aModel">
+<span id="lblModels">Models</span>
+</a>
+<a href="https://conjugator.reverso.net/info-british-american-conjugation.html" id="aVerbConjInEnUK">
+<span id="lblVerbConjInEnUK">British vs. American English</span>
+</a>
+<a href="https://conjugator.reverso.net/conjugation-modals-auxiliaries-verb-english.html" id="aAuxiliaryModal">
+<span id="lblAuxModal">Auxiliaries, modals</span>
+</a>
+<a href="https://conjugator.reverso.net/conjugation-irregular-verbs-english.html" id="aIrregular">
+<span id="lblIrregular">Irregular verbs</span>
+</a>
+</div>
+</div>
+</div>
+<div class="rightverbs" id="ch_popularVerbs">
+<div class="verb-of-day">
+<p>Verb of the day: </p>
+<div class="verb-results-wrapper">
+<a class="verb-result-link" href="conjugation-english-verb-bargain.html" id="verbDay">bargain</a>
+<a href="#" id="verbDaySynonym" title="Synonyms">
+<span class="icon icon-synonyms"></span>
+</a>
+<a href="#" id="verbDayCtx" title="See translation in context">
+<span class="icon context-search"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></span>
+</a>
+</div>
+</div>
+<div class="listverbs" id="ch_ExtrasVerbs"><div>
+<p>Most popular verbs</p>
+<ol>
+<li>
+<a href="conjugation-english-verb-go.html">go</a>
+</li>
+<li>
+<a href="conjugation-english-verb-remember.html">remember</a>
+</li>
+<li>
+<a href="conjugation-english-verb-be.html">be</a>
+</li>
+<li>
+<a href="conjugation-english-verb-eat.html">eat</a>
+</li>
+<li>
+<a href="conjugation-english-verb-have.html">have</a>
+</li>
+<li>
+<a href="conjugation-english-verb-run.html">run</a>
+</li>
+<li>
+<a href="conjugation-english-verb-see.html">see</a>
+</li>
+<li>
+<a href="conjugation-english-verb-do.html">do</a>
+</li>
+<li>
+<a href="conjugation-english-verb-can.html">can</a>
+</li>
+<li>
+<a href="conjugation-english-verb-read.html">read</a>
+</li>
+<li>
+<a href="conjugation-english-verb-play.html">play</a>
+</li>
+<li>
+<a href="conjugation-english-verb-write.html">write</a>
+</li>
+<li>
+<a href="conjugation-english-verb-think.html">think</a>
+</li>
+<li>
+<a href="conjugation-english-verb-get.html">get</a>
+</li>
+<li>
+<a href="conjugation-english-verb-say.html">say</a>
+</li>
+<li>
+<a href="conjugation-english-verb-buy.html">buy</a>
+</li>
+<li>
+<a href="conjugation-english-verb-take.html">take</a>
+</li>
+<li>
+<a href="conjugation-english-verb-speak.html">speak</a>
+</li>
+<li>
+<a href="conjugation-english-verb-come.html">come</a>
+</li>
+<li>
+<a href="conjugation-english-verb-work.html">work</a>
+</li>
+<li>
+<a href="conjugation-english-verb-know.html">know</a>
+</li>
+<li>
+<a href="conjugation-english-verb-lie.html">lie</a>
+</li>
+<li>
+<a href="conjugation-english-verb-ride.html">ride</a>
+</li>
+<li>
+<a href="conjugation-english-verb-sing.html">sing</a>
+</li>
+<li>
+<a href="conjugation-english-verb-sleep.html">sleep</a>
+</li>
+<li>
+<a href="conjugation-english-verb-study.html">study</a>
+</li>
+<li>
+<a href="conjugation-english-verb-talk.html">talk</a>
+</li>
+<li>
+<a href="conjugation-english-verb-make.html">make</a>
+</li>
+<li>
+<a href="conjugation-english-verb-teach.html">teach</a>
+</li>
+<li>
+<a href="conjugation-english-verb-want.html">want</a>
+</li>
+</ol>
+</div></div>
+</div>
+<div class="homecontent" id="ch_divLeft">
+<div class="conjContent" id="ch_divWelcomeMessage">
+<div class="Section1">
+<div class="Section1a">
+<h2 class="content-head">English Verb Conjugation</h2>
+<p>
+		    In English, you can type in infinitive forms such as 
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-go.html" target="_self">go</a>", 
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-abide.html" target="_self">abide</a>", 
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-break.html" target="_self">break</a>", … but also conjugated forms (
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-done.html">done</a>", 
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-making.html">making</a>", 
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-has.html">has</a>", 
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-comes.html">comes</a>"). The conjugator recognizes infinitive, reflexive verbs (
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-hurt%20oneself.html">hurt oneself</a>") and negative forms (
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-not%20remember.html">not remember</a>") as well as phrasal verbs (
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-get%20off.html">get off</a>", 
+		    "<a href="https://conjugator.reverso.net/conjugation-english-verb-come%20in.html">come in</a>"). 
+
+		    The Contractions option displays the contracted forms of auxiliaries and negatives, e.g.: not believe: "I do not believe" or "I don't believe", see: "I have seen" or "I've seen", "I will go" or "I'll go"...
+		</p>
+<p>
+		    The conjugator uses conjugation rules for <a href="https://conjugator.reverso.net/conjugation-irregular-verbs-english.html">irregular verbs</a> and 
+		    <a href="https://conjugator.reverso.net/conjugation-rules-model-english.html">models</a>. You can click on the corresponding sections to learn more.
+			<br/>
+<a href="https://conjugator.reverso.net/conjugation-modals-auxiliaries-verb-english.html" target="_self">Modals</a> such as "will" and "should" are also included. The page 
+		    <a href="https://conjugator.reverso.net/info-british-american-conjugation.html" target="_self">British and American English</a> highlights some important usage differences.
+		</p>
+</div>
+<div class="foopage">
+<span class="icon icon-info"></span>
+<p>The conjugator allows you to conjugate any verb as long as it corresponds to an existing conjugation model. They may be imaginary verbs, they may contain spelling mistakes or often be buzz verbs, not yet aggregated to our conjugation tables like <strong>crowdfund, retweet.</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="conjContent add-to-chrome">
+<p class="pre-button">Translate, conjugate, spellcheck in one click, from your browser</p>
+<a class="extension-red" href="https://chrome.google.com/webstore/detail/reverso-translate-in-cont/onhiacboedfinnofagfgoaanfedhmfab/?utm_source=conjugator&amp;utm_medium=button&amp;utm_campaign=homepage" rel="noopener" target="_blank">Add Reverso<br/>to Chrome</a>
+</div>
+<div class="spacer">
+</div>
+<div class="footerHome" id="ch_homebottom">
+<p>Conjugate verbs in <a href="conjugation-english.html">English</a>, <a href="conjugation-french.html">French</a>, <a href="conjugation-spanish.html">Spanish</a>, <a href="conjugation-german.html">German</a>, <a href="conjugation-italian.html">Italian</a>, <a href="conjugation-hebrew.html">Hebrew</a>, <a href="conjugation-russian.html">Russian</a>, <a href="conjugation-arabic.html">Arabic</a>, <a href="conjugation-japanese.html">Japanese</a>, <a href="conjugation-portuguese.html">Portuguese</a> with Reverso Conjugator. Learn conjugation rules and consult the list of conjugation models. Translate verbs in context or find their definition.</p>
+</div>
+<div class="top-horizontal" style="display: none !important;">
+<div class="bnrtitle">
+						Advertising</div>
+<div class="inside-box">
+<!-- Conjugueur-TOP_728x90 -->
+<div id="div-gpt-ad-Reverso_Conj_D_All_728x90_BTF" style="">
+
+</div>
+<!-- /2629866/Conjugueur_RichMedia -->
+<div data-google-query-id="CIHfppzOvYYDFZ4LBgAddTQGIg" id="div-gpt-ad-Conjugueur_RichMedia" style="height: 1px; width: 1px;">
+
+<div id="google_ads_iframe_/2629866/Conjugueur_RichMedia_0__container__" style="border: 0pt none;"></div></div>
+</div>
+</div>
+<div id="infoDialog" style="display: none;" tabindex="-1">Text is copied</div>
+</div>
+<div class="sticky">
+<div class="verticalbox" style="direction: ltr;">
+<div class="verticalboxtitle">
+<span>Advertising</span>
+</div>
+<div class="right-vertical">
+<!-- /2629866/Conjugueur_160x600 -->
+<div id="div-gpt-ad-Reverso_Conj_D_All_160x600_ATF" style="">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pre-footer-info">
+<div class="suggestion-index">
+                                 List of common verbs
+                                <a href="https://conjugator.reverso.net/index-english-1-250.html">1-250</a> ,
+                                <a href="https://conjugator.reverso.net/index-english-251-500.html">251-500</a>,
+                                <a href="https://conjugator.reverso.net/index-english-501-750.html">501-750</a>,
+                                <a href="https://conjugator.reverso.net/index-english-751-1000.html">751-1000</a>,
+                                <a href="https://conjugator.reverso.net/index-english-1001-1250.html">1001-1250</a>,
+                                <a href="https://conjugator.reverso.net/index-english-1251-1500.html">1251-1500</a>,
+                                <a href="https://conjugator.reverso.net/index-english-1501-1750.html">1501-1750</a>,
+                                <a href="https://conjugator.reverso.net/index-english-1751-2000.html">1751-2000</a>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div class="wrapper-form-bg-3"></div>
+</div>
+</div>
+<div class="conj clearfix" id="footer">
+<div class="footerLinks">
+<div class="divFooter">
+<div class="reverso-logo-wrapper" data-default-size="16px">
+<a class="reverso-context-logo" data-default-size="16px" href="https://conjugator.reverso.net/conjugation-english.html" title="Reverso Conjugation"></a>
+<span class="icon rev-title">
+<img alt="en" rel="preload" src="//cdn.reverso.net/conj/v2550/IMG/reverso-logo.svg" style="width: 126px;"/>
+</span>
+</div>
+<div class="inner">
+<div class="inner-block promo">
+<div class="info-description">
+<p>Helping millions of people and large organizations communicate more efficiently and precisely in all languages.</p>
+</div>
+<div class="social-content">
+<a class="facebook-link icon facebook" href="https://www.facebook.com/Reverso.net?ref=ts" rel="noopener" target="_blank" title="Facebook"></a>
+<a class="twitter-link icon twitter" href="https://twitter.com/ReversoEN" rel="noopener" target="_blank" title="Twitter"></a>
+<a class="instagram-link icon instagram" href="https://www.instagram.com/reverso_app/?hl=en" rel="noopener" target="_blank" title="Instagram"></a>
+</div>
+</div>
+<div class="inner-block products">
+<div class="inner-block__title">Products</div>
+<a class="inner-block__item" href="https://www.reverso.net/text-translation">Translate Text</a>
+<a class="inner-block__item" href="https://documents.reverso.net/Default.aspx?lang=en">Translate Documents</a>
+<a class="inner-block__item" href="https://context.reverso.net/translation/">Translation in Context</a>
+<a class="inner-block__item" href="https://www.reverso.net/spell-checker/english-spelling-grammar/">Grammar Check</a>
+<a class="inner-block__item" href="https://synonyms.reverso.net/synonym/">Synonyms</a>
+<a class="inner-block__item" href="https://conjugator.reverso.net/conjugation-english.html">Conjugation</a>
+<div class="inner-block__item more open">
+<a href="javascript:ShowFooterProducts()">More</a>
+<span class="inner-block__icon">
+<svg fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M4.22848 6.68112C4.0202 6.47284 4.0202 6.13515 4.22848 5.92687C4.43675 5.71859 4.77444 5.71859 4.98272 5.92687C4.98299 5.92713 4.98325 5.9274 4.98351 5.92766L7.99971 8.94386L11.0167 5.92687C11.225 5.71859 11.5627 5.71859 11.7709 5.92687C11.9792 6.13515 11.9792 6.47284 11.7709 6.68112L8.37683 10.0752C8.16855 10.2835 7.83087 10.2835 7.62259 10.0752L4.22848 6.68112Z" fill="#3B4C55"></path>
+</svg>
+</span>
+</div>
+<a class="inner-block__item hidden" href="https://dictionary.reverso.net/english-definition/">Dictionary</a>
+<a class="inner-block__item hidden" href="https://www.expressio.fr">Expressio</a>
+<a class="inner-block__item hidden" href="https://grammar.reverso.net/">Grammar</a>
+</div>
+<div class="app-and-offers">
+<div class="inner-block">
+<div class="inner-block__title">Free apps</div>
+<a class="inner-block__item" href="https://context.reverso.net/translation/windows-mac-app?utm_source=conjugator&amp;utm_campaign=link-footer">Reverso for Mac/Windows</a>
+<a class="inner-block__item" href="https://context.reverso.net/translation/mobile-app?utm_source=conjugator&amp;utm_campaign=link-footer">Reverso for iOS/Android</a>
+<a class="inner-block__item" href="https://www.reverso.net/download-browser-extension?utm_source=conjugator&amp;utm_campaign=link-footer">Reverso for Chrome/Firefox</a>
+</div>
+<div class="inner-block">
+<div class="inner-block__title">Offers</div>
+<a class="inner-block__item" href="https://documents.reverso.net/Pricing.aspx?origin=1&amp;lang=en&amp;utm_source=conjugator&amp;utm_campaign=link-footer">Reverso Premium</a>
+<a class="inner-block__item" href="https://www.corporate-translation.reverso.com/">Reverso Corporate Translator</a>
+</div>
+</div>
+</div>
+<div class="general">
+<div class="general_links">
+<strong class="content">
+<a href="https://www.reverso.net/contact/en?origin=1">Contact</a>
+<a href="https://www.corporate-translation.reverso.com/about-us">About Reverso</a>
+<a href="https://www.reverso.net/disclaimer.aspx?lang=EN">Terms &amp; Conditions</a>
+<a href="javascript:ShowPrivacySettings()">Privacy Settings</a>
+<a href="https://www.reverso.net/privacy.aspx?lang=EN">Privacy Policy</a>
+</strong>
+<strong class="rights">
+<span class="rights-reserved__copy">© </span>
+<span class="rights-reserved">2024</span>
+<span class="rights-reserved__text"> Reverso. All rights reserved.</span>
+</strong>
+</div>
+<div>
+<a href="https://conjugator.reverso.net/conjugation-english.html">Reverso Conjugator</a>,
+        <a href="https://conjugueur.reverso.net/conjugaison-francais.html">Conjugueur</a>,
+        <a href="https://conjugador.reverso.net/conjugacion-espanol.html">Conjugador</a>,
+        <a href="https://konjugator.reverso.net/konjugation-deutsch.html">Konjugation</a>,
+        <a href="https://coniugazione.reverso.net/coniugazione-italiano.html">Coniugazione</a>,
+        <a href="https://conjugacao.reverso.net/conjugacao-portugues.html">Conjugação</a>,
+        <a href="https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.html">Спряжение</a>,
+        <a href="https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.html">تصريف</a>,
+        <a href="https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E6%97%A5%E6%9C%AC%E8%AA%9E.html">日本語</a>,
+        <a href="https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%A2%D7%91%D7%A8%D7%99%D7%AA.html">עברית</a>
+<br/>
+<strong>
+<a href="https://conjugator.reverso.net/conjugation-spanish.html">Spanish verb conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-french.html">French verb conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-english.html">English verb conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-german.html">German verb conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-hebrew.html">Hebrew verb Conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-italian.html">Italian verb conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-portuguese.html">Portuguese verb conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-russian.html">Russian verb conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-arabic.html">Arabic verb conjugation</a>
+<a href="https://conjugator.reverso.net/conjugation-japanese.html">Japanese verb conjugation</a>
+</strong>
+</div>
+<div>
+<a href="https://www.reverso.net/text-translation">Reverso Translation</a>,
+        <a href="https://www.reverso.net/traduction-texte">Traduction</a>,
+        <a href="https://www.reverso.net/traducci%C3%B3n-texto">Traducción</a>,
+        <a href="https://www.reverso.net/traduzione-testo">Traduzione</a>,
+        <a href="https://www.reverso.net/tradu%C3%A7%C3%A3o-texto">Tradução</a>,
+        <a href="https://www.reverso.net/Text%C3%BCbersetzung">Übersetzung</a>,
+        <a href="https://www.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0">Перевод</a>,
+        <a href="https://www.reverso.net/traducere-text">Traducere online</a>,
+        <a href="https://www.reverso.net/%E6%96%87%E5%AD%97%E7%BF%BB%E8%AF%91">翻译</a>
+</div>
+<div>
+<a href="https://dictionary.reverso.net/english-definition/">Reverso Dictionary</a>,
+        <a href="https://dictionnaire.reverso.net/francais-definition/">Dictionnaire</a>,
+        <a href="https://diccionario.reverso.net/espanol-definiciones/">Diccionario</a>,
+        <a href="https://woerterbuch.reverso.net/deutsch-definition/">Wörterbuch</a>,
+        <a href="https://dizionario.reverso.net/inglese-definizioni/">Dizionario</a>,
+        <a href="https://dicionario.reverso.net/ingles-definicao/">Dicionário</a>
+<br/>
+<strong>
+<a href="https://dictionary.reverso.net/english-definition/">English dictionary</a>
+<a href="https://dictionary.reverso.net/english-french/">French Dictionary</a>
+<a href="https://dictionary.reverso.net/english-spanish/">Spanish Dictionary</a>
+<a href="https://dictionary.reverso.net/english-german/">German Dictionary</a>
+<a href="https://dictionary.reverso.net/english-russian/">Russian Dictionary</a>
+<a href="https://dictionary.reverso.net/english-chinese/">Chinese Dictionary</a>
+<a href="https://dictionary.reverso.net/english-italian/">Italian Dictionary</a>
+<a href="https://dictionary.reverso.net/english-portuguese/">Portuguese Dictionary</a>
+<a href="https://dictionary.reverso.net/english-cobuild/">Learn English</a>
+<a href="https://dictionary.reverso.net/medical-french-english/">Medical dictionary French English</a>
+<a href="https://dictionary.reverso.net/medical-english-french/">Medical dictionary English French</a>
+<a href="https://dictionary.reverso.net/computer-french-english/">Computer dictionary French English</a>
+<a href="https://dictionary.reverso.net/computer-english-french/">Computer dictionary English French</a>
+<a href="https://dictionary.reverso.net/computer-spanish-english/">Computer dictionary Spanish English</a>
+<a href="https://dictionary.reverso.net/computer-english-spanish/">Computer dictionary English Spanish</a>
+<a href="https://dictionary.reverso.net/business-french-english/">Business dictionary French English</a>
+<a href="https://dictionary.reverso.net/business-english-french/">Business dictionary English French</a>
+</strong>
+</div>
+<div class="recommended_links">
+<strong>Recommended links:</strong>
+<a href="https://www.tolearnenglish.com/free-educational-sites.php" rel="noopener" target="_blank">Free: Learn English, French and
+            other languages</a>
+<a href="https://fleex.tv/en/Home/Index4" rel="noopener" target="_blank"> Fleex: Learn English watching your favorite movies and TV shows</a>
+</div>
+</div>
+
+
+                    
+			Online conjugation: the best way to learn how to conjugate an English verb. Write the infinitive and the English conjugator will display forms in past tense, participle, present perfect, present continuous, past perfect, gerund. Consult conjugation models like have, be, go, take and see their translation and definition.
+
+                </div>
+</div>
+<div class="footerBlue">
+<div class="spacer">
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="bunner-f"></div>
+</div>
+<!-- //wrapper -->
+
+
+
+<link href="//cdn.reverso.net/conj/v2550/CSS/keyboard.min.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+<!--  Quantcast Tag -->
+
+<!--  Quantcast Tag -->
+<iframe src="https://7301dc1f836d85214662d4ad8f636c91.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" style="visibility: hidden; display: none;"></iframe>
+<noscript>
+<img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-9z6v4xdJwT5Z-.gif?labels=conjugator" style="display: none;" width="1">
+</img></noscript>
+<span class="scroll-to-top" id="btnScroll" onclick="scrollToTop();" title="Back to top"><span class="icon-top"><span class="path1"></span><span class="path2"></span></span></span>
+<ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" style="display: none;" tabindex="0"></ul><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"><div style="display: none;">Enter an infinitive verb or a conjugated form to have its conjugation table</div><div>Enter an infinitive verb or a conjugated form to have its conjugation table</div></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="log"></div><iframe name="googlefcPresent" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe height="0" src="https://www.google.com/recaptcha/api2/aframe" style="display: none;" width="0"></iframe><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration><iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="292cad47e4285f5" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://acdn.adnxs.com/dmp/async_usersync.html" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe><iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="3000a650f1c44f9" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://visitor.omnitagjs.com/visitor/isync?uid=19340f4f097d16f41f34fc0274981ca4&amp;gdpr=1&amp;gdpr_consent=CP_lRwAP_lRwAAHABBENA2EgAP_gAEPgAAAAKMtV_H__bW1r8X73aftkeY1P9_j77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIEu3bBIQNlHJDUTVCgaogVryDMakWcoTNKJ6BkiFMRO2dYCF5vmwtj-QKY5vr993dx2D-t_dv83dzyz4VHn3a5_2e0WJCdA58tDfv9bROb-9IPd_58v4v0_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff79Ll9-mCjIBZhoVEAdYEhIQaBhBAgBUFYQEUCAAAAEgaICAEwYFOwMAl1hIgBACgAGCAEAAKMgAQAAAQAIRABAAUCAACAQKAAEACAYCAAgYAAQAWAgEAAIDoEKYEECgWACRmREKYEIUCQQEtlQgkAQIK4QhFngAQCImCgAAAAAKwABAWCwOJJASoSCBLiDaAAAgAQCCACoQScmAAIAjZag8GTaMrSANDThKgAAA.f_wACHwAAAAA" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe><iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="319354077ebe0cd" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://eb2.3lift.com/sync?gdpr=true&amp;cmp_cs=CP_lRwAP_lRwAAHABBENA2EgAP_gAEPgAAAAKMtV_H__bW1r8X73aftkeY1P9_j77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIEu3bBIQNlHJDUTVCgaogVryDMakWcoTNKJ6BkiFMRO2dYCF5vmwtj-QKY5vr993dx2D-t_dv83dzyz4VHn3a5_2e0WJCdA58tDfv9bROb-9IPd_58v4v0_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff79Ll9-mCjIBZhoVEAdYEhIQaBhBAgBUFYQEUCAAAAEgaICAEwYFOwMAl1hIgBACgAGCAEAAKMgAQAAAQAIRABAAUCAACAQKAAEACAYCAAgYAAQAWAgEAAIDoEKYEECgWACRmREKYEIUCQQEtlQgkAQIK4QhFngAQCImCgAAAAAKwABAWCwOJJASoSCBLiDaAAAgAQCCACoQScmAAIAjZag8GTaMrSANDThKgAAA.f_wACHwAAAAA&amp;" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe><iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="3248acebb6bdebc" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://js-sec.indexww.com/um/ixmatch.html" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe><iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="33fbdde6404acec" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://eus.rubiconproject.com/usync.html?gdpr=1&amp;gdpr_consent=CP_lRwAP_lRwAAHABBENA2EgAP_gAEPgAAAAKMtV_H__bW1r8X73aftkeY1P9_j77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIEu3bBIQNlHJDUTVCgaogVryDMakWcoTNKJ6BkiFMRO2dYCF5vmwtj-QKY5vr993dx2D-t_dv83dzyz4VHn3a5_2e0WJCdA58tDfv9bROb-9IPd_58v4v0_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff79Ll9-mCjIBZhoVEAdYEhIQaBhBAgBUFYQEUCAAAAEgaICAEwYFOwMAl1hIgBACgAGCAEAAKMgAQAAAQAIRABAAUCAACAQKAAEACAYCAAgYAAQAWAgEAAIDoEKYEECgWACRmREKYEIUCQQEtlQgkAQIK4QhFngAQCImCgAAAAAKwABAWCwOJJASoSCBLiDaAAAgAQCCACoQScmAAIAjZag8GTaMrSANDThKgAAA.f_wACHwAAAAA" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe></html> The page is part of the website reverso.net . It is in the url https://conjugator.reverso.net/conjugation-english.html and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female"} Does this page contains user specific information? Answer only with yes or no.

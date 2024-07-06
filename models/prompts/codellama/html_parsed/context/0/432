@@ -1,0 +1,506 @@
+The following text is the html file of a webpage. <html class="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-disabled vector-feature-appearance-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-not-available no-touch vector-animations-ready ve-not-available ext-discussiontools-init-ready" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Terms of use - Meta</title>
+
+
+<link href="/w/load.php?lang=en&amp;modules=ext.discussionTools.init.styles%7Cext.translate%2CwikimediaBadges%7Cext.translate.edit.documentation.styles%7Cext.translate.tag.languages%7Cext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<meta content="MediaWiki 1.43.0-wmf.7" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Terms of use - Meta" property="og:title"/>
+<meta content="website" property="og:type"/>
+<link href="//upload.wikimedia.org" rel="preconnect"/>
+<link href="//meta.m.wikimedia.org/wiki/Terms_of_use" media="only screen and (max-width: 720px)" rel="alternate"/>
+<link href="/static/favicon/community.ico" rel="icon"/>
+<link href="/w/rest.php/v1/search" rel="search" title="Meta (en)" type="application/opensearchdescription+xml"/>
+<link href="//meta.wikimedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://meta.wikimedia.org/wiki/Terms_of_use" rel="canonical"/>
+<link href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Meta Atom feed" type="application/atom+xml"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+</head>
+<body class="ext-discussiontools-replytool-enabled ext-discussiontools-newtopictool-enabled ext-discussiontools-sourcemodetoolbar-enabled skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Terms_of_use rootpage-Terms_of_use skin-vector-2022 action-view uls-dialog-sticky-hide" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+<header class="vector-header mw-header">
+<div class="vector-header-start">
+<nav aria-label="Site" class="vector-main-menu-landmark" role="navigation">
+<div class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right" id="vector-main-menu-dropdown">
+<input aria-haspopup="true" aria-label="Main menu" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-main-menu-dropdown" id="vector-main-menu-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-main-menu-dropdown-checkbox" id="vector-main-menu-dropdown-label"><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+<span class="vector-dropdown-label-text">Main menu</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-main-menu-unpinned-container">
+<div class="vector-main-menu vector-pinnable-element" id="vector-main-menu">
+<div class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned" data-feature-name="main-menu-pinned" data-pinnable-element-id="vector-main-menu" data-pinned-container-id="vector-main-menu-pinned-container" data-saved-pinned-state="false" data-unpinned-container-id="vector-main-menu-unpinned-container">
+<div class="vector-pinnable-header-label">Main menu</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-navigation" id="p-navigation">
+<div class="vector-menu-heading">
+            Navigation
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/Special:MyLanguage/Main_Page" title="Visit the main page [alt-shift-z]"><span>Main page</span></a></li><li class="mw-list-item" id="n-wikimedia-news-label"><a href="/wiki/Wikimedia_News"><span>Wikimedia News</span></a></li><li class="mw-list-item" id="n-translations-text"><a href="/wiki/Special:LanguageStats"><span>Translations</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [alt-shift-r]"><span>Recent changes</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random page [alt-shift-x]"><span>Random page</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/Special:MyLanguage/Help:Help" title="The place to find out"><span>Help</span></a></li><li class="mw-list-item" id="n-Babel-text"><a href="/wiki/Meta:Babel"><span>Babel</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-community" id="p-community">
+<div class="vector-menu-heading">
+            Community
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-WikimediaResourceCenter-text"><a href="/wiki/Special:MyLanguage/Wikimedia_Resource_Center"><span>Wikimedia Resource Center</span></a></li><li class="mw-list-item" id="n-WikimediaForum-text"><a href="/wiki/Wikimedia_Forum"><span>Wikimedia Forum</span></a></li><li class="mw-list-item" id="n-mailinglists-text"><a href="/wiki/Special:MyLanguage/Mailing_lists/Overview"><span>Mailing lists</span></a></li><li class="mw-list-item" id="n-Requests-text"><a href="/wiki/Special:MyLanguage/Meta:Requests_and_proposals"><span>Requests</span></a></li><li class="mw-list-item" id="n-Babylon-text"><a href="/wiki/Special:MyLanguage/Meta:Babylon"><span>Babylon</span></a></li><li class="mw-list-item" id="n-Reports-text"><a href="/wiki/Special:MyLanguage/Wikimedia_Affiliates_Data_Portal"><span>Reports</span></a></li><li class="mw-list-item" id="n-Research-text"><a href="/wiki/Special:MyLanguage/Research:Index"><span>Research</span></a></li><li class="mw-list-item" id="n-planet"><a href="//en.planet.wikimedia.org/" title="Weblog aggregator of Wikimedia-related posts"><span>Planet Wikimedia</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-beyond_the_web" id="p-beyond_the_web">
+<div class="vector-menu-heading">
+            Beyond the Web
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-Meetup-text"><a href="/wiki/Special:MyLanguage/Meetup"><span>Meet Wikimedians</span></a></li><li class="mw-list-item" id="n-Events-text"><a href="/wiki/Events"><span>Events</span></a></li><li class="mw-list-item" id="n-wikimedia-movement-affiliates-shortlabel"><a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates"><span>Movement affiliates</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_meta.wikimedia.org&amp;uselang=en" title="Support us"><span>Donate</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<a class="mw-logo" href="/wiki/Special:MyLanguage/Main_Page">
+<img alt="" aria-hidden="true" class="mw-logo-icon" height="50" src="/static/images/icons/metawiki.svg" width="50"/>
+<span class="mw-logo-container skin-invert">
+<img alt="Wikimedia Meta-Wiki" class="mw-logo-wordmark" src="/static/images/mobile/copyright/metawiki-wordmark.svg" style="width: 7.5em; height: 1.8125em;"/>
+</span>
+</a>
+</div>
+<div class="vector-header-end">
+<div class="vector-search-box-vue vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<a accesskey="f" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" href="/wiki/Special:Search" id="" title="Search Meta [alt-shift-f]"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+<span>Search</span>
+</a>
+<div class="vector-typeahead-search-container">
+<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+<form action="/w/index.php" class="cdx-search-input cdx-search-input--has-end-button" id="searchform">
+<div class="cdx-search-input__input-wrapper" data-search-loc="header-moved" id="simpleSearch">
+<div class="cdx-text-input cdx-text-input--has-start-icon">
+<input accesskey="f" aria-label="Search Meta" autocapitalize="sentences" autocomplete="off" class="cdx-text-input__input" id="searchInput" name="search" placeholder="Search Meta" title="Search Meta [alt-shift-f]" type="search"/>
+<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+</div>
+<input name="title" type="hidden" value="Special:Search"/>
+</div>
+<button class="cdx-button cdx-search-input__end-button">Search</button>
+</form>
+</div>
+</div>
+</div>
+<nav aria-label="Personal tools" class="vector-user-links vector-user-links-wide" role="navigation">
+<div class="vector-user-links-main">
+<div class="vector-menu mw-portlet" id="p-vector-user-menu-preferences">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item active user-links-collapsible-item" id="ca-uls"><a class="uls-trigger cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" data-mw="interface" href="#"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+<span>English</span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-userpage">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<nav aria-label="Appearance" class="vector-appearance-landmark">
+</nav>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-notifications">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet" id="p-vector-user-menu-overflow">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-createaccount-2"><a class="" data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Terms+of+use" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a>
+</li>
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-login-2"><a accesskey="o" class="" data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Terms+of+use" title="You are encouraged to log in; however, it is not mandatory [alt-shift-o]"><span>Log in</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out" id="vector-user-links-dropdown" title="More options">
+<input aria-haspopup="true" aria-label="Personal tools" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-user-links-dropdown" id="vector-user-links-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-user-links-dropdown-checkbox" id="vector-user-links-dropdown-label"><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+<span class="vector-dropdown-label-text">Personal tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item" id="p-personal" title="User menu">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Terms+of+use" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li class="user-links-collapsible-item mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Terms+of+use" title="You are encouraged to log in; however, it is not mandatory [alt-shift-o]"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor" id="p-user-menu-anon-editor">
+<div class="vector-menu-heading">
+            Pages for logged out editors <a aria-label="Learn more about editing" href="/wiki/Help:Introduction"><span>learn more</span></a>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [alt-shift-y]"><span>Contributions</span></a></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [alt-shift-n]"><span>Talk</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+</div>
+<div class="mw-page-container">
+<div class="mw-page-container-inner">
+<div class="vector-sitenotice-container">
+<div class="notheme" id="siteNotice"><div id="centralNotice"></div><!-- CentralNotice --></div>
+</div>
+<div class="vector-column-start">
+<div class="vector-main-menu-container">
+<div id="mw-navigation">
+<nav aria-label="Site" class="vector-main-menu-landmark" id="mw-panel" role="navigation">
+<div class="vector-pinned-container" id="vector-main-menu-pinned-container">
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="mw-content-container">
+<main class="mw-body" id="content" role="main">
+<header class="mw-body-header vector-page-titlebar">
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Terms of use</span></h1>
+<div class="vector-dropdown mw-portlet mw-portlet-lang" id="p-lang-btn">
+<input aria-haspopup="true" aria-label="Go to an article in another language. Available in 2 languages" class="vector-dropdown-checkbox mw-interlanguage-selector" data-event-name="ui.dropdown-p-lang-btn" id="p-lang-btn-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-2" for="p-lang-btn-checkbox" id="p-lang-btn-label"><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+<span class="vector-dropdown-label-text">2 languages</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use" hreflang="en" lang="en" title="Wikipedia:Terms of use – English"><span>English</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/Wikipedia:%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE" hreflang="zh" lang="zh" title="Wikipedia:使用条款 – Chinese"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q118719909#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>
+</div>
+</div>
+</div>
+</header>
+<div class="vector-page-toolbar">
+<div class="vector-page-toolbar-container">
+<div id="left-navigation">
+<nav aria-label="Namespaces">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages" id="p-associated-pages">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Terms_of_use" title="View the content page [alt-shift-c]"><span>Content page</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/Talk:Terms_of_use" rel="discussion" title="Discussion about the content page [alt-shift-t]"><span>Discussion</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-dropdown emptyPortlet" id="p-variants">
+<input aria-haspopup="true" aria-label="Change language variant" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="p-variants-checkbox" id="p-variants-label"><span class="vector-dropdown-label-text">English</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-variants emptyPortlet" id="p-variants">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="vector-collapsible" id="right-navigation">
+<nav aria-label="Views">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views" id="p-views">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-view"><a href="/wiki/Terms_of_use"><span>Read</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-viewsource"><a accesskey="e" href="/w/index.php?title=Terms_of_use&amp;action=edit" title="This page is protected.
+    You can view its source [alt-shift-e]"><span>View source</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Terms_of_use&amp;action=history" title="Past revisions of this page [alt-shift-h]"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Page tools" class="vector-page-tools-landmark">
+<div class="vector-dropdown vector-page-tools-dropdown" id="vector-page-tools-dropdown">
+<input aria-haspopup="true" aria-label="Tools" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-page-tools-dropdown" id="vector-page-tools-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="vector-page-tools-dropdown-checkbox" id="vector-page-tools-dropdown-label"><span class="vector-dropdown-label-text">Tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-page-tools-unpinned-container">
+<div class="vector-page-tools vector-pinnable-element" id="vector-page-tools">
+<div class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned" data-feature-name="page-tools-pinned" data-pinnable-element-id="vector-page-tools" data-pinned-container-id="vector-page-tools-pinned-container" data-saved-pinned-state="false" data-unpinned-container-id="vector-page-tools-unpinned-container">
+<div class="vector-pinnable-header-label">Tools</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items" id="p-cactions" title="More options">
+<div class="vector-menu-heading">
+            Actions
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-more-collapsible-item mw-list-item" id="ca-more-view"><a href="/wiki/Terms_of_use"><span>Read</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-viewsource"><a href="/w/index.php?title=Terms_of_use&amp;action=edit"><span>View source</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-history"><a href="/w/index.php?title=Terms_of_use&amp;action=history"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-tb" id="p-tb">
+<div class="vector-menu-heading">
+            General
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Terms_of_use" title="A list of all wiki pages that link here [alt-shift-j]"><span>What links here</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Terms_of_use" rel="nofollow" title="Recent changes in pages linked from this page [alt-shift-k]"><span>Related changes</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [alt-shift-q]"><span>Special pages</span></a></li><li class="mw-list-item" id="t-permalink"><a href="https://meta.wikimedia.org/w/index.php?title=Terms_of_use&amp;oldid=25097125" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Terms_of_use&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Terms_of_use&amp;id=25097125&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li class="mw-list-item" id="t-urlshortener"><a aria-haspopup="dialog" href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FTerms_of_use"><span>Get shortened URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FTerms_of_use"><span>Download QR code</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q118719909" title="Link to connected data repository item [alt-shift-g]"><span>Wikidata item</span></a></li>
+<li class="mw-list-item mw-list-item-js" id="wbc-editpage"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q118719909#sitelinks-wikipedia" title="Edit interlanguage links"><span>Edit interlanguage links</span></a></li></ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-coll-print_export" id="p-coll-print_export">
+<div class="vector-menu-heading">
+            Print/export
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Terms+of+use"><span>Create a book</span></a></li><li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Terms_of_use&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Terms_of_use&amp;printable=yes" title="Printable version of this page [alt-shift-p]"><span>Printable version</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects" id="p-wikibase-otherprojects">
+<div class="vector-menu-heading">
+            In other projects
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-wikipedia mw-list-item"><a href="https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use" hreflang="en"><span>Wikipedia</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="vector-column-end">
+<div class="vector-sticky-pinned-container">
+<nav aria-label="Page tools" class="vector-page-tools-landmark">
+<div class="vector-pinned-container" id="vector-page-tools-pinned-container">
+</div>
+</nav>
+<nav aria-label="Appearance" class="vector-appearance-landmark">
+</nav>
+</div>
+</div>
+<div aria-labelledby="firstHeading" class="vector-body ve-init-mw-desktopArticleTarget-targetContainer" data-mw-ve-target-container="" id="bodyContent">
+<div class="vector-body-before-content">
+<div class="mw-indicators">
+</div>
+<div class="noprint" id="siteSub">From Meta, a Wikimedia project coordination wiki</div>
+</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-pt-translate-header noprint nomobile" dir="ltr" lang="en"><a href="/w/index.php?title=Special:Translate&amp;group=page-Terms+of+use&amp;action=page&amp;filter=" title="Special:Translate">Translate this page</a></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="mw-pt-languages noprint navigation-not-searchable" dir="ltr" lang="en"><div class="mw-pt-languages-label">Other languages:</div><ul class="mw-pt-languages-list"><li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/af" lang="af" title="Ons Gebruikstermrces (100% translated)">Afrikaans</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/id" lang="id" title="Ketentuan Penggunaan (100% translated)">Bahasa Indonesia</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ms" lang="ms" title="Syarat-syarat penggunaan (67% translated)">Bahasa Melayu</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/cy" lang="cy" title="Telerau defnydd (33% translated)">Cymraeg</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/de" lang="de" title="Nutzungsbedingungen (100% translated)">Deutsch</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/de-formal" lang="de-x-formal" title="Nutzungsbedingungen (67% translated)">Deutsch (Sie-Form)</a></li>
+<li><span class="mw-pt-languages-ui mw-pt-languages-selected mw-pt-progress mw-pt-progress--complete" dir="ltr" lang="en">English</span></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/eo" lang="eo" title="Uzkondiĉoj (67% translated)">Esperanto</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/ht" lang="ht" title="Kondisyon itilizasyon (100% translated)">Kreyòl ayisyen</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/la" lang="la" title="conditionem úimo (33% translated)">Latina</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/lb" lang="lb" title="Konditioune fir d'Benotzenfr (33% translated)">Lëtzebuergesch</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/nl" lang="nl" title="Gebruiksvoorwaarden (100% translated)">Nederlands</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/kaa" lang="kaa" title="Paydalanıw shártleri (67% translated)">Qaraqalpaqsha</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ksh" lang="ksh" title="Bedengonge för der Jebruch (33% translated)">Ripoarisch</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/qu" lang="qu" title="Q'apinapa kamachikuna (67% translated)">Runa Simi</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/de-ch" lang="de-CH" title="Nutzungsbedingungen (33% translated)">Schweizer Hochdeutsch</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/sco" lang="sco" title="Terms o uise (33% translated)">Scots</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/su" lang="su" title="Sarat pamakéan (100% translated)">Sunda</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/tl" lang="tl" title="Takdang gamit (33% translated)">Tagalog</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/vi" lang="vi" title="Điều khoản sử dụng (100% translated)">Tiếng Việt</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/tr" lang="tr" title="Kullanım şartları (100% translated)">Türkçe</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/diq" lang="diq" title="Şerte karkerdışi (33% translated)">Zazaki</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ast" lang="ast" title="Términos d'usu (33% translated)">asturianu</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/az" lang="az" title="İstifadə Şərtləri (67% translated)">azərbaycanca</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/bs" lang="bs" title="Uslovi korištenja (33% translated)">bosanski</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/ca" lang="ca" title="Condicions d'ús (100% translated)">català</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/da" lang="da" title="Brugsbetingelser (100% translated)">dansk</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/es" lang="es" title="Términos y condiciones de uso (100% translated)">español</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/eu" lang="eu" title="Erabilera baldintzak (33% translated)">euskara</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/fr" lang="fr" title="Conditions d’utilisation (100% translated)">français</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/frc" lang="frc" title="Conditions d’utilisation (33% translated)">français cadien</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/fo" lang="fo" title="Treytir fyri nýtslu (33% translated)">føroyskt</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/gl" lang="gl" title="Termos de uso (100% translated)">galego</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/it" lang="it" title="Condizioni d'uso (100% translated)">italiano</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ku" lang="ku" title="Mercên bikaranînê (33% translated)">kurdî</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/lv" lang="lv" title="Mūsu lietošanas nosacījumi (33% translated)">latviešu</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/lt" lang="lt" title="Naudojimo sąlygos (67% translated)">lietuvių</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/hu" lang="hu" title="Felhasználási feltételek (100% translated)">magyar</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/nb" lang="nb" title="Bruksbetingelser (100% translated)">norsk bokmål</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/oc" lang="oc" title="Condicions d’utilizacion (33% translated)">occitan</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/pl" lang="pl" title="Warunki użytkowania (100% translated)">polski</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/pt" lang="pt" title="Termos de utilização (100% translated)">português</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/pt-br" lang="pt-BR" title="Termos de uso (100% translated)">português do Brasil</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/ro" lang="ro" title="Termeni de utilizare (100% translated)">română</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/sc" lang="sc" title="Cunditziones de impreu (100% translated)">sardu</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/sq" lang="sq" title="Kushtet e përdorimit (33% translated)">shqip</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/sk" lang="sk" title="Podmienky používania (33% translated)">slovenčina</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/sl" lang="sl" title="Pogoji uporabe (33% translated)">slovenščina</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/fi" lang="fi" title="Käyttöehdot (100% translated)">suomi</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/sv" lang="sv" title="Användarvillkor (100% translated)">svenska</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/vec" lang="vec" title="Tèrmini d'uxo (100% translated)">vèneto</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/cs" lang="cs" title="Podmínky užití (100% translated)">čeština</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/el" lang="el" title="Όροι χρήσης (100% translated)">Ελληνικά</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ba" lang="ba" title="Ҡулланыу шарттары (33% translated)">башҡортса</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/be" lang="be" title="Умовы Выкарыстання (100% translated)">беларуская</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/be-tarask" lang="be-tarask" title="Умовы выкарыстаньня (100% translated)">беларуская (тарашкевіца)</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/bg" lang="bg" title="Условия за ползване (100% translated)">български</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/inh" lang="inh" title="Пайда эцара бехкамаш (33% translated)">гӀалгӀай</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ky" lang="ky" title="Колдонуу шарттары (33% translated)">кыргызча</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/mk" lang="mk" title="Услови на употреба (33% translated)">македонски</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ce" lang="ce" title="Лелоран хьал (33% translated)">нохчийн</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/ru" lang="ru" title="Условия использования (100% translated)">русский</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/sr" lang="sr" title="Услови коришћења (33% translated)">српски / srpski</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/tg" lang="tg" title="Қоидаҳои истифода (100% translated)">тоҷикӣ</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/uk" lang="uk" title="Умови використання (100% translated)">українська</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/hy" lang="hy" title="Օգտագործման պայմաններ (33% translated)">հայերեն</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="rtl" href="/wiki/Terms_of_use/yi" lang="yi" title="תנאים פון באניץ (33% translated)">ייִדיש</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="rtl" href="/wiki/Terms_of_use/he" lang="he" title="תנאי שימוש (100% translated)">עברית</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="rtl" href="/wiki/Terms_of_use/ur" lang="ur" title="شرائط استعمال (67% translated)">اردو</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="rtl" href="/wiki/Terms_of_use/ar" lang="ar" title="شروط الاستخدام (100% translated)">العربية</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="rtl" href="/wiki/Terms_of_use/fa" lang="fa" title="شرایط استفاده (100% translated)">فارسی</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="rtl" href="/wiki/Terms_of_use/arz" lang="arz" title="شروط الاستخدام (33% translated)">مصرى</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="rtl" href="/wiki/Terms_of_use/ps" lang="ps" title="د کارولو شرطونه (33% translated)">پښتو</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="rtl" href="/wiki/Terms_of_use/arc" lang="arc" title="ܬܢܘܝ̈ ܕܡܬܚܫܚܢܘܬܐ (33% translated)">ܐܪܡܝܐ</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ne" lang="ne" title="प्रयोगका शर्तहरु (33% translated)">नेपाली</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/mr" lang="mr" title="वापराच्या अटी (100% translated)">मराठी</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/hi" lang="hi" title="सेवा शर्तें (67% translated)">हिन्दी</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/as" lang="as" title="ব্যৱহাৰৰ চৰ্তাৱলী (33% translated)">অসমীয়া</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/bn" lang="bn" title="ব্যবহারের শর্তাবলী (100% translated)">বাংলা</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/pa" lang="pa" title="ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ (33% translated)">ਪੰਜਾਬੀ</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/gu" lang="gu" title="વપરાશની શરતો (67% translated)">ગુજરાતી</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ta" lang="ta" title="பயன்படுத்தல் விதிமுறைகள் (67% translated)">தமிழ்</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/te" lang="te" title="వాడుక నియమాలు (33% translated)">తెలుగు</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/ml" lang="ml" title="ഉപയോഗനിബന്ധനകൾ (67% translated)">മലയാളം</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/th" lang="th" title="ข้อกำหนดการใช้งาน (100% translated)">ไทย</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/my" lang="my" title="အသုံးပြုမှု စည်းမျဉ်းများ (100% translated)">မြန်မာဘာသာ</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/ka" lang="ka" title="გამოყენების პირობები (100% translated)">ქართული</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/km" lang="km" title="លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (33% translated)">ភាសាខ្មែរ</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/zh" lang="zh" title="使用条款 (100% translated)">中文</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/zh-hans" lang="zh-Hans" title="使用条款 (33% translated)">中文（简体）</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/zh-hant" lang="zh-Hant" title="使用條款 (33% translated)">中文（繁體）</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/ja" lang="ja" title="利用規約 (100% translated)">日本語</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Terms_of_use/nan" lang="nan" title="Sú-iōng tiâu-khuán (67% translated)">閩南語 / Bân-lâm-gú</a></li>
+<li><a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Terms_of_use/ko" lang="ko" title="이용 약관 (100% translated)">한국어</a></li></ul></div>
+
+<div aria-labelledby="process-header-header" class="ts-Process_header-headerBox" role="navigation" style="flex-flow: row;">
+<div class="ts-Process_header-controls" style="text-align: left;">←<a href="/wiki/Special:MyLanguage/Meta:Policies_and_guidelines" title="Special:MyLanguage/Meta:Policies and guidelines">Policies and guidelines</a><span style="display:none"><a href="/wiki/Meta:Policies_and_guidelines" title="Meta:Policies and guidelines"> </a></span></div>
+<div class="ts-Process_header-header" id="process-header-header"><b>Terms of use</b> </div>
+<div class="ts-Process_header-controls" style="text-align: right;"></div>
+</div>
+<div class="ts-Process_header-notes" role="note"><div class="noprint shortcut shortcut-ltr" dir="auto" lang=""><a class="mw-redirect" href="/wiki/Meta:Shortcuts" title="Meta:Shortcuts"><bdi lang="en">Shortcut</bdi></a>: <br/>TOU</div>This page describes the general conditions and mutual responsibilities that all users must agree with, before using Wikimedia projects and sites, or reusing their content.
+    </div>
+<p><br/>
+</p>
+<table class="plainlinks ombox ombox-move" role="presentation"><tbody><tr><td class="mbox-image"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Wikimedia-logo_black.svg" title="Wikimedia Foundation mark"><img alt="Wikimedia Foundation mark" class="mw-file-element" data-file-height="512" data-file-width="512" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/80px-Wikimedia-logo_black.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/120px-Wikimedia-logo_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/160px-Wikimedia-logo_black.svg.png 2x" width="80"/></a></span></td><td class="mbox-text"><b>This duplicated page's <a class="extiw" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" title="foundation:Special:MyLanguage/Policy:Terms of Use">translations</a> have been moved to the content's primary location at "<a class="extiw" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" title="foundation:Special:MyLanguage/Policy:Terms of Use">Policy:Terms of Use</a>" on <a href="/wiki/Special:MyLanguage/Wikimedia_Foundation_Governance_Wiki" title="Special:MyLanguage/Wikimedia Foundation Governance Wiki">Wikimedia Foundation Governance Wiki</a> where you can provide translations and feedback on it.</b><hr/>Any translations should be provided at <a class="extiw" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" title="foundation:Special:MyLanguage/Policy:Terms of Use">its location on Wikimedia Foundation Governance Wiki</a> and any related feedback provided on <a class="extiw" href="https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use" title="foundation:Policy talk:Terms of Use">its talk page there</a>. Thank you!</td></tr></tbody></table>
+<!-- 
+    NewPP limit report
+    Parsed by mw‐api‐int.eqiad.main‐7d6c887997‐bjnnv
+    Cached time: 20240529201014
+    Cache expiry: 2592000
+    Reduced expiry: false
+    Complications: []
+    DiscussionTools time usage: 0.011 seconds
+    CPU time usage: 0.462 seconds
+    Real time usage: 0.729 seconds
+    Preprocessor visited node count: 692/1000000
+    Post‐expand include size: 8279/2097152 bytes
+    Template argument size: 1096/2097152 bytes
+    Highest expansion depth: 16/100
+    Expensive parser function count: 4/500
+    Unstrip recursion depth: 0/20
+    Unstrip post‐expand size: 19086/5000000 bytes
+    Lua time usage: 0.030/10.000 seconds
+    Lua memory usage: 1020764/52428800 bytes
+    Number of Wikibase entities loaded: 0/400
+    -->
+<!--
+    Transclusion expansion time report (%,ms,calls,template)
+    100.00%  128.285      1 -total
+     67.43%   86.508      1 Template:Process_header
+     32.50%   41.696      1 Template:MovedToFoundationGovWiki
+     27.23%   34.933      1 Template:MovedToFoundationGovWiki/Content/en
+     22.03%   28.258      1 Template:Ombox
+     18.95%   24.307      5 Template:Dir
+     16.36%   20.990      1 Template:Shortcut
+     15.32%   19.658      4 Template:CURRENTCONTENTLANGUAGE
+     10.08%   12.936      1 Template:Shortcut_caption
+      9.14%   11.729      1 Template:TNT
+    -->
+<!-- Saved in parser cache with key metawiki:pcache:idhash:659495-0!canonical and timestamp 20240529201014 and revision id 25097125. Rendering was triggered because: api-parse
+     -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" width="1"/></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://meta.wikimedia.org/w/index.php?title=Terms_of_use&amp;oldid=25097125">https://meta.wikimedia.org/w/index.php?title=Terms_of_use&amp;oldid=25097125</a>"</div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Moved_to_Wikimedia_Foundation_Governance_Wiki" title="Category:Moved to Wikimedia Foundation Governance Wiki">Moved to Wikimedia Foundation Governance Wiki</a></li><li><a href="/wiki/Category:Terms_of_use" title="Category:Terms of use">Terms of use</a></li></ul></div></div>
+</div>
+</main>
+</div>
+<div class="mw-footer-container">
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 June 2023, at 06:30.</li>
+<li id="footer-info-copyright">Text is available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Creative Commons Attribution-ShareAlike License</a>;
+    additional terms may apply.
+    See <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> for details.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Meta:About">About Meta</a></li>
+<li id="footer-places-disclaimers"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:General_disclaimer">Disclaimers</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/meta.wikimedia.org">Statistics</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//meta.m.wikimedia.org/w/index.php?title=Terms_of_use&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+</div>
+</div>
+</div>
+<div class="vector-settings" id="p-dock-bottom">
+<ul>
+<li>
+<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" data-event-name="limited-width-toggle-off" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+<span>Toggle limited content width</span>
+</button>
+</li>
+</ul>
+</div>
+
+
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div><div class="vector-body" id="mw-teleport-target"></div><div class="mw-notification-area-overlay"><div class="mw-notification-area mw-notification-area-layout" id="mw-notification-area" style="display: none;"></div></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website wikipedia.org . It is in the url https://meta.wikimedia.org/wiki/Terms_of_use and when registering the user gave the following information {"username": "Jane-Doe-thesis", "email": "authorization.thesis@gmail.com", "password": "***"} Should this page be private to a certain user? Answer only with yes or no.

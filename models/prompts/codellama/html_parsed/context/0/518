@@ -1,0 +1,335 @@
+The following text is the html file of a webpage. <html class="no-touch"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Manage your login settings - Reverso Account</title>
+<link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" rel="stylesheet"/>
+<meta class="sr-only" content="" name="x-stylesheet-fallback-test"/>
+<link href="/lib/font-awesome/css/all.min.css" rel="stylesheet"/>
+<link href="/css/fonts.css" rel="stylesheet"/>
+<link href="/css/site.css" rel="stylesheet"/>
+<link href="/css/reverso-logo.css" rel="stylesheet"/>
+<link href="/css/loader.css" rel="stylesheet"/>
+<!-- GTM 4 - Google Analytics -->
+
+
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><div aria-hidden="true" data-nosnippet="true" id="didomi-host"></div><iframe name="__cmpLocator" style="display: none;" title="cmpLocator"></iframe>
+
+<div class="loading">
+	Loading…
+</div>
+<header class="header">
+<div class="header-top clearfix">
+<div class="logo">
+<a href="/Index">
+<img src="/images/svg/reverso-logo.svg" style="width: 126px;"/>
+</a>
+</div>
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light navbar-logout" style="flex-grow: 1">
+<div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+<ul class="navbar-nav flex-grow-1">
+<li class="nav-item">
+<a class="nav-link" href="http://www.reverso.net?lang=en">Translation</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://context.reverso.net?lang=en">Context</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.reverso.net/spell-checker">Grammar Check</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://synonyms.reverso.net?lang=en">Synonyms</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://conjugator.reverso.net?lang=en">Conjugation</a>
+</li>
+<li class="nav-item">
+</li>
+</ul>
+</div>
+</nav>
+<div class="selector closed double nonselectable" id="lang-selector">
+<span class="option front" style="margin-top: 5px;">en</span>
+<span class="arrow-icon"></span>
+<div class="drop-down">
+<form action="/?returnUrl=~%2FAccount%2FManage%2FLoginSettings&amp;culture=en&amp;handler=SetLanguage" id="language-en" method="post">
+<div class="option selected" data-value="&gt;en" onclick="document.forms['language-en'].submit()">English</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+<form action="/?returnUrl=~%2FAccount%2FManage%2FLoginSettings&amp;culture=fr&amp;handler=SetLanguage" id="language-fr" method="post">
+<div class="option" data-value="&gt;fr" onclick="document.forms['language-fr'].submit()">français</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+<form action="/?returnUrl=~%2FAccount%2FManage%2FLoginSettings&amp;culture=de&amp;handler=SetLanguage" id="language-de" method="post">
+<div class="option" data-value="&gt;de" onclick="document.forms['language-de'].submit()">Deutsch</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+<form action="/?returnUrl=~%2FAccount%2FManage%2FLoginSettings&amp;culture=es&amp;handler=SetLanguage" id="language-es" method="post">
+<div class="option" data-value="&gt;es" onclick="document.forms['language-es'].submit()">español</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+<form action="/?returnUrl=~%2FAccount%2FManage%2FLoginSettings&amp;culture=it&amp;handler=SetLanguage" id="language-it" method="post">
+<div class="option" data-value="&gt;it" onclick="document.forms['language-it'].submit()">italiano</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+<form action="/?returnUrl=~%2FAccount%2FManage%2FLoginSettings&amp;culture=pt&amp;handler=SetLanguage" id="language-pt" method="post">
+<div class="option" data-value="&gt;pt" onclick="document.forms['language-pt'].submit()">português</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+<form action="/?returnUrl=~%2FAccount%2FManage%2FLoginSettings&amp;culture=ru&amp;handler=SetLanguage" id="language-ru" method="post">
+<div class="option" data-value="&gt;ru" onclick="document.forms['language-ru'].submit()">русский</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</div>
+</div>
+<div class="selector closed nonselectable" id="top-menu">
+<span class="option front">
+<img src="/images/svg/Pictogram=Menu.svg" style="width: 30px;"/>
+</span>
+<div class="drop-down">
+<a class="option translation" href="http://www.reverso.net?lang=en" rel="nofollow noopener noreferrer" target="_blank">
+<span class="icon-lang"></span>
+<span class="text">Translation</span>
+</a>
+<a class="option speller" href="http://www.reverso.net/spell-checker" rel="nofollow noopener noreferrer" target="_blank">
+<span class="icon-spellcheck"></span>
+<span class="text">Grammar Check</span>
+</a>
+<a class="option conjugation" href="http://conjugator.reverso.net?lang=en" rel="nofollow noopener noreferrer" target="_blank">
+<span class="icon-conjugator"></span>
+<span class="text">Conjugation</span>
+</a>
+<a class="option synonyms" href="https://synonyms.reverso.net?lang=en" rel="nofollow noopener noreferrer" target="_blank">
+<span class="icon-synonyms"></span>
+<span class="text">Synonyms</span>
+</a>
+<a class="option document" href="https://documents.reverso.net/Default.aspx?lang=en" rel="nofollow noopener noreferrer" target="_blank">
+<span class="icon-document"></span>
+<span class="text">Documents translation</span>
+</a>
+<a class="option corporate" href="https://www.corporate-translation.reverso.com/?lang=en" rel="nofollow noopener noreferrer">
+<span class="icon-corporate"></span>
+<span class="text">Corporate solutions</span>
+</a>
+<a class="option newsletter" href="http://www.reverso.net/tricks.aspx?type=3&amp;lang=en" rel="nofollow noopener noreferrer" target="_blank">
+<span class="icon-mail"></span>
+<span class="text">Newsletter</span>
+</a>
+<a class="option help" href="https://context.reverso.net/translation/about" rel="nofollow noopener noreferrer" target="_blank">
+<span class="icon-help"></span>
+<span class="text">Help</span>
+</a>
+</div>
+</div>
+</div>
+<div style="max-height: 1px; border-bottom: 1px solid #DEE4E7;"></div>
+<div class="header-bottom clearfix">
+<div data-default-size="13px" id="user-menu">
+<a class="option" href="/Account/Manage" title="Manage your account">
+<img height="40" src="/Public/ProfilePicture/3265eef3-8551-46d4-988a-aded1460f951/d540a83b343c03a2d863b03e7ca260c20eeeff67d84b242abd9f5e5c99f3c14f" style="border-radius:10%" title="Jane Doe" width="40"/>
+</a>
+<a class="option" href="/Account/Logout"><span class="icon-exit"></span>Logout</a>
+</div>
+</div>
+</header>
+<div class="container">
+<main class="main-content pb-3" role="main">
+<h4 class="my-account-title">Manage your account</h4>
+<div class="account-holder">
+<div class="row">
+<div class="col-md-12">
+<!--
+<ul class="nav nav-pills flex-column">
+    <li id="profile" class="nav-item"><a class="nav-link " asp-page="./Index">Account</a></li>
+    <li id="linguistic-skills" class="nav-item"><a class="nav-link " asp-page="./LinguisticSkills">Linguistic skills</a></li>
+    <li id="linguistic-skills" class="nav-item"><a class="nav-link " asp-page="./PolishYourProfile">Polish your profile</a></li>
+    <li id="login-settings" class="nav-item"><a id="login-settings" class="nav-link active" asp-page="./LoginSettings">Manage your login settings</a></li>
+</ul>
+-->
+<div class="row nav nav-pills">
+<div class="col-md-4 padding-0 col-sm-12">
+<a class="nav-link text-center" href="/Account/Manage">Account</a>
+</div>
+<div class="col-md-4 padding-left-right-7 col-sm-12">
+<a class="nav-link text-center" href="/Account/Manage/LinguisticSkills">Linguistic skills</a>
+</div>
+<div class="col-md-4 padding-0 col-sm-12">
+<a class="nav-link text-center active" href="/Account/Manage/LoginSettings">Manage your login settings</a>
+</div>
+</div>
+</div>
+<div class="col-md-12">
+<form method="post">
+<div class="text-danger validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+<!-- Start copied section  -->
+<div class="row row-account-section">
+<div class="col-md-3 d-flex flex-column justify-content-center">
+<img class="account-icon-img" src="/images/account-img-3.png"/>
+</div>
+<div class="col-md-9">
+<div class="row row-account">
+<div class="col-sm-5 col-md-4 d-flex flex-column justify-content-center">
+<label>Email</label>
+</div>
+<div class="col-sm-7 col-md-8">
+<div class="btn-holder">
+<label style="padding-left: 0">authorization.thesis@gmail.com</label>
+</div>
+</div>
+</div>
+<div class="row row-account">
+<div class="col-sm-5 col-md-4 d-flex flex-column justify-content-center">
+<label>Password</label>
+</div>
+<div class="col-sm-7 col-md-8">
+<div class="btn-holder">
+<a href="/Account/Manage/ChangePassword">
+<label style="padding-left: 0">*******</label>
+<span class="inp-account-arrow"></span>
+</a>
+</div>
+</div>
+</div>
+<div class="row row-account">
+<div class="col-sm-5 col-md-4 d-flex flex-column justify-content-center">
+<label>Registered login services</label>
+</div>
+<div class="col-sm-7 col-md-8">
+<ul class="list-service list-service-custom" id="socialLoginList">
+<li>
+<span class="btn btn-service Google" name="provider"></span>
+</li>
+</ul>
+</div>
+</div>
+<div class="row row-account">
+<div class="col-sm-5 col-md-4 d-flex flex-column justify-content-center">
+<label>Add another service to login</label>
+</div>
+<div class="col-sm-7 col-md-8">
+<ul class="list-service list-service-custom" id="socialLoginList">
+<li>
+<button class="btn btn-service" formaction="/Account/Manage/LoginSettings?handler=LinkLogin" id="link-login-button" name="provider" title="Login with your Facebook account" type="submit" value="Facebook">
+<span class="btn btn-service Continue with Facebook" name="provider"></span>
+<img class="social-login-add" src="/images/add_80px.png"/>
+</button>
+</li>
+<li>
+<button class="btn btn-service" formaction="/Account/Manage/LoginSettings?handler=LinkLogin" id="link-login-button" name="provider" title="Login with your Apple account" type="submit" value="Apple">
+<span class="btn btn-service Sign in with Apple" name="provider"></span>
+<img class="social-login-add" src="/images/add_80px.png"/>
+</button>
+</li>
+</ul>
+</div>
+</div>
+<div class="row row-account">
+<div class="col-sm-5 col-md-4 d-flex flex-column justify-content-center">
+<label>Deactivate your account</label>
+</div>
+<div class="col-sm-7 col-md-8">
+<div class="btn-holder">
+<a class="btn btn-small btn-danger" href="/Account/Manage/DeactivateAccount" id="deactivate">Deactivate</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End copied section  -->
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</div>
+</div>
+</div>
+</main>
+</div>
+
+<div>
+<footer class="footer">
+<div class="footerLinks fleft">
+<a href="http://www.reverso.net/feedback.aspx?lang=EN" rel="nofollow">Contact</a> | 
+            <a href="http://www.reverso.net/tricks.aspx?type=3&amp;lang=EN" rel="nofollow">Newsletter</a> | 
+            <a href="http://www.reverso.net/tellafriend.aspx?lang=EN" rel="nofollow">Tell a friend</a> | 
+            <a href="http://reverso.softissimo.com/en/presentation">Reverso Corporate Translator</a> | 
+            <a href="http://www.reverso.net/disclaimer.aspx?lang=EN" rel="nofollow">Conditions of use</a> | 
+            <a href="https://context.reverso.net/translation/about" rel="nofollow">About</a>
+<hr/>
+<p class="copyright">© 2024 Reverso. All rights reserved.</p>
+</div>
+</footer>
+<div class="footer-mobile">
+<div class="footer-language">
+<ul class="languages-list">
+<li>
+<form action="/?culture=en&amp;handler=SetLanguage" id="language-en" method="post">
+<div class="current" data-value="&gt;en" onclick="document.forms['language-en'].submit()">
+<a class="current" href="#">
+                                    English
+                                </a>
+</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</li>
+<li>
+<form action="/?culture=fr&amp;handler=SetLanguage" id="language-fr" method="post">
+<div class="" data-value="&gt;fr" onclick="document.forms['language-fr'].submit()">
+<a class="" href="#">
+                                    français
+                                </a>
+</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</li>
+<li>
+<form action="/?culture=de&amp;handler=SetLanguage" id="language-de" method="post">
+<div class="" data-value="&gt;de" onclick="document.forms['language-de'].submit()">
+<a class="" href="#">
+                                    Deutsch
+                                </a>
+</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</li>
+<li>
+<form action="/?culture=es&amp;handler=SetLanguage" id="language-es" method="post">
+<div class="" data-value="&gt;es" onclick="document.forms['language-es'].submit()">
+<a class="" href="#">
+                                    español
+                                </a>
+</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</li>
+<li>
+<form action="/?culture=it&amp;handler=SetLanguage" id="language-it" method="post">
+<div class="" data-value="&gt;it" onclick="document.forms['language-it'].submit()">
+<a class="" href="#">
+                                    italiano
+                                </a>
+</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</li>
+<li>
+<form action="/?culture=pt&amp;handler=SetLanguage" id="language-pt" method="post">
+<div class="" data-value="&gt;pt" onclick="document.forms['language-pt'].submit()">
+<a class="" href="#">
+                                    português
+                                </a>
+</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</li>
+<li>
+<form action="/?culture=ru&amp;handler=SetLanguage" id="language-ru" method="post">
+<div class="" data-value="&gt;ru" onclick="document.forms['language-ru'].submit()">
+<a class="" href="#">
+                                    русский
+                                </a>
+</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GdMkrWtLLhFl05FZMaIvdIgQ4SPwvoU8xZp4hCwcmvK8Br3e149HdSVUKuRnRmKO4mecPTnS4O7ueCpUgZKS7jm37Z3bR5mSTwIt1gcX7iHe9xVKkSex-QZOnP48Sl4yWCw-Ynht_Tl1rwWTZKux0EUqOBhGiqRa4DPx1ixyaHoDprZFQyQzo8qKsx1Sr291Q"/></form>
+</li>
+</ul>
+</div>
+<div class="footer-bag">
+<div class="footer-text">
+<p class="copyright">© Reverso 2006-2024</p>
+</div>
+</div>
+<span class="scroll-to-top" id="btnScroll" onclick="scrollToTop();"><span class="icon-arrow-up2"></span></span>
+</div>
+</div>
+
+
+
+
+
+
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website reverso.net . It is in the url https://account.reverso.net/Account/Manage/LoginSettings and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female"} Should this page be private to a certain user? Answer only with yes or no.

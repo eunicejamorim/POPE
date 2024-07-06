@@ -1,0 +1,623 @@
+The following text is the html file of a webpage. <html class="w-mod-js w-mod-ix no-touch" data-wf-domain="www.advertising.yahooinc.com" data-wf-page="64232e2dde875c25fd9eaacb" data-wf-site="64232e2dde875c62a89eaa86" lang="en"><head>
+<meta charset="utf-8"/>
+<title>DSP Advertising - Demand Side Platform | Yahoo Advertising</title>
+<meta content="The Yahoo advertising demand side platform gives you all the benefits of a walled garden, with the neutrality and transparency of an independent DSP." name="description"/>
+<meta content="DSP Advertising - Demand Side Platform | Yahoo Advertising" property="og:title"/>
+<meta content="The Yahoo advertising demand side platform gives you all the benefits of a walled garden, with the neutrality and transparency of an independent DSP." property="og:description"/>
+<meta content="https://assets-global.website-files.com/624216f586d016596f7f8ab0/641b8905834f15c390446c95_Yahoo-Advertising-OG.jpg" property="og:image"/>
+<meta content="DSP Advertising - Demand Side Platform | Yahoo Advertising" property="twitter:title"/>
+<meta content="The Yahoo advertising demand side platform gives you all the benefits of a walled garden, with the neutrality and transparency of an independent DSP." property="twitter:description"/>
+<meta content="https://assets-global.website-files.com/624216f586d016596f7f8ab0/641b8905834f15c390446c95_Yahoo-Advertising-OG.jpg" property="twitter:image"/>
+<meta content="website" property="og:type"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/css/stage-www-advertising-yahooinc-com.94c632233.min.css" rel="stylesheet" type="text/css"/>
+
+<link href="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c93a19eafd0_favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c8fef9eaf51_y!-yangle-webclip.jpg" rel="apple-touch-icon"/>
+<link href="https://www.advertising.yahooinc.com/our-dsp" rel="canonical"/>
+<meta content="uSFccQU1KJJk5BPmruLBItyZyiRbYGxHNBra-p1Ktb0" name="google-site-verification"/>
+<!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+<!--<script src="https://cdn.weglot.com/weglot.min.js?api_key=wg_16a8aaf4d44e223fab4aa0f28897d6be5" async></script> -->
+
+
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><a class="skip-to-main w--current" href="#main">Skip to main content</a>
+<div class="navbar w-nav" data-animation="default" data-collapse="none" data-duration="400" data-easing="ease" data-easing2="ease" role="banner">
+<div class="global-nav">
+<div class="global-container w-container">
+<nav class="global-menu w-nav-menu" role="navigation"><a class="global-link y-bang-link w-inline-block" href="https://www.yahooinc.com/" target="_blank"><img alt="y!" class="y-bang" loading="eager" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875cb75d9eaaf0_y-bang-white.svg"/></a><a class="global-link w-nav-link" href="https://www.yahooinc.com/press" style="max-width: 1300px;" target="_blank">Press</a><a class="global-link w-nav-link" href="https://www.yahooinc.com/careers" style="max-width: 1300px;" target="_blank">Careers</a></nav>
+<div class="site-login-search">
+<div class="nav-drop_wrapper global-link w-dropdown" data-delay="0" data-hover="true">
+<div aria-controls="w-dropdown-list-0" aria-expanded="false" aria-haspopup="menu" class="nav-link nav-drop global-link w-dropdown-toggle" id="w-dropdown-toggle-0" role="button" tabindex="0">
+<div>Login</div>
+</div>
+<nav aria-labelledby="w-dropdown-toggle-0" class="nav-drop_list global-drop-list w-dropdown-list" id="w-dropdown-list-0"><a class="nav-drop_link w-dropdown-link" href="https://admanagerplus.yahoo.com/" tabindex="0" target="_blank">Yahoo DSP</a><a class="nav-drop_link w-dropdown-link" href="https://www.academy.yahooinc.com/" tabindex="0" target="_blank">Yahoo Academy Learning Center</a></nav>
+</div><a aria-label="Open Search Bar" class="search-btn search-btn-nav w-button" href="#" id="site-search">magglass</a>
+</div>
+</div>
+</div>
+<div class="site-search-container" style="display: none; opacity: 0;">
+<div class="container w-container">
+<div class="content-container">
+<form action="/search" class="search-container w-form" id="global-search"><label class="sr-only" for="search-3">Search</label><input class="search-input w-input" maxlength="256" name="query" placeholder="Search..." required="" type="search"/><input aria-label="Search" class="btn-search w-button" title="Search" type="submit" value="magglass"/></form>
+</div>
+</div>
+</div>
+<div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div></div>
+<div class="nav-navbar sticky w-nav" data-animation="over-right" data-collapse="medium" data-doc-height="1" data-duration="500" data-easing="ease-out-quart" data-easing2="ease" role="banner">
+<div class="container nav-container"><a aria-label="home" class="nav-logo_link w-nav-brand" href="/"><img alt="" class="nav-logo" loading="eager" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c143a9eb0b7_yahoo-advertising-logo.webp"/></a>
+<nav class="nav-menu w-nav-menu" role="navigation">
+<div class="nav-link-group"><a aria-current="page" class="nav-link w-nav-link w--current" href="/our-dsp">Our DSP</a><a class="nav-link w-nav-link" href="/about/our-brands">Our Brands</a>
+<div class="nav-drop_wrapper w-dropdown" data-delay="0" data-hover="true" style="">
+<div aria-controls="w-dropdown-list-1" aria-expanded="false" aria-haspopup="menu" class="nav-link nav-drop w-dropdown-toggle" id="w-dropdown-toggle-1" role="button" tabindex="0">
+<div aria-hidden="true" class="nav-drop_icon w-icon-dropdown-toggle"></div>
+<div>Inspiration</div>
+</div>
+<nav aria-labelledby="w-dropdown-toggle-1" class="nav-drop_list w-dropdown-list" id="w-dropdown-list-1"><a class="nav-drop_link w-dropdown-link" href="/blog" tabindex="0">Insights Blog</a><a class="nav-drop_link w-dropdown-link" href="/case-studies" tabindex="0">Case Studies</a><a class="nav-drop_link w-dropdown-link" href="/yahoo-creative-studios" tabindex="0">Yahoo Creative Studios</a></nav>
+</div>
+<div class="nav-drop_wrapper w-dropdown" data-delay="0" data-hover="true">
+<div aria-controls="w-dropdown-list-2" aria-expanded="false" aria-haspopup="menu" class="nav-link nav-drop w-dropdown-toggle" id="w-dropdown-toggle-2" role="button" tabindex="0">
+<div aria-hidden="true" class="nav-drop_icon w-icon-dropdown-toggle"></div>
+<div>About</div>
+</div>
+<nav aria-labelledby="w-dropdown-toggle-2" class="nav-drop_list w-dropdown-list" id="w-dropdown-list-2"><a class="nav-drop_link w-dropdown-link" href="/about/our-story" tabindex="0">Our Story</a><a class="nav-drop_link w-dropdown-link" href="/our-dsp/partners" tabindex="0">Our Partners</a><a class="nav-drop_link w-dropdown-link" href="/events" tabindex="0">Events</a></nav>
+</div><a class="nav-link w-nav-link" href="/press">Press</a>
+</div><a class="nav-link btn btn-secondary nav-cta nowrap w-nav-link" href="/contact">Contact Us</a>
+<div class="div-block no-translate" id="i18n-nav"></div>
+</nav>
+<div aria-controls="w-nav-overlay-1" aria-expanded="false" aria-haspopup="menu" aria-label="menu" class="nav-btn w-nav-button" role="button" style="-webkit-user-select: text;" tabindex="0">
+<div class="nav-bar top"></div>
+<div class="nav-bar middle"></div>
+<div class="nav-bar bottom"></div>
+</div>
+</div>
+<div class="nav-overlay" style="opacity: 0;"></div>
+<div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-1"></div></div>
+<main class="main-content" id="main">
+<div class="bg-triangle">
+<section class="section py-2">
+<div class="container">
+<div class="header">
+<div class="header-text slide-up" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+<h1 class="condensed">Yahoo DSP</h1>
+<h2 class="h4 text-primary mb-0">Advertising Solutions</h2>
+</div><img alt="" class="header-image" loading="eager" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, 97vw" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header-p-500.jpeg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header-p-800.jpeg 800w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header-p-1080.jpeg 1080w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header-p-1600.jpeg 1600w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header-p-2000.jpeg 2000w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header-p-2600.jpeg 2600w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header-p-3200.jpeg 3200w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c61f49ead32_AdTech-DSP-Header.webp 5004w"/>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container">
+<div class="content-container text-center slide-up-1" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+<h2 class="h1 condensed">everything you need to grow. and more.</h2>
+<p>Top-notch tech. Massive scale. And one-to-one customer relationships. Yahoo DSP brings you all the benefits of a walled garden – <span class="nowrap italic">without the wall.</span></p>
+</div>
+</div>
+</section>
+<section class="section overflow-hidden pb-3 pt-0">
+<div class="container">
+<div class="row align-center">
+<div class="col col-lg-8 col-md-7 col-sm-12 order-lg-last order-sm-first slide-right" style="opacity: 0;">
+<div class="video-bg-yangle">
+<div class="wistia my-0">
+<div class="w-embed w-script">
+
+
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+<div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+<div class="wistia_video_foam_dummy" data-source-container-id="wistia-yfgq30hyq3-1" style="border: 0px; display: block; height: 0px; margin: 0px; padding: 0px; position: static; visibility: hidden; width: auto;"></div><div class="wistia_embed wistia_async_yfgq30hyq3 videoFoam=true wistia_embed_initialized" id="wistia-yfgq30hyq3-1" style="height: 464.986px; position: relative; width: 826.656px;"><div class="w-chrome notranslate" id="wistia_chrome_23" style="display: inline-block; height: 464.986px; line-height: normal; margin: 0px; padding: 0px; position: relative; vertical-align: top; width: 826.656px; outline: none; overflow: hidden; box-sizing: content-box; border-radius: 0px;" tabindex="-1"><div id="wistia_grid_57_wrapper" style="display: block; width: 826.656px; height: 464.986px;"><div id="wistia_grid_57_above" style="height: 0px; font-size: 0px; line-height: 0px;"> </div><div id="wistia_grid_57_main" style="width: 826.641px; left: 0px; height: 464.984px; margin-top: 0px;"><div id="wistia_grid_57_behind"></div><div id="wistia_grid_57_center" style="width: 100%; height: 100%;"><div class="w-video-wrapper w-css-reset" style="height: 100%; position: absolute; top: 0px; width: 100%; opacity: 1; background-color: rgb(0, 0, 0);"><video aria-label="Video" controlslist="nodownload" crossorigin="anonymous" id="wistia_simple_video_160" playsinline="" poster="https://fast.wistia.com/assets/images/blank.gif" preload="none" src="blob:https://www.advertising.yahooinc.com/04ca15fc-751a-4064-95ee-5473c8b7b3e6" style="background: transparent; display: block; height: 100%; max-height: none; max-width: none; position: static; visibility: visible; width: 100%; object-fit: fill;" type="video/m3u8" x-webkit-airplay="allow"></video></div><div class="w-ui-container" style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%; opacity: 1;"><div class="w-vulcan-v2 w-css-reset" id="w-vulcan-v2-56" style="border-radius: 0px; box-sizing: border-box; cursor: default; direction: ltr; height: 100%; left: 0px; position: absolute; visibility: visible; top: 0px; width: 100%;"><div class="w-vulcan--background w-css-reset" style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%;"><div class="w-css-reset" data-handle="statusBar"></div><div class="w-css-reset" data-handle="backgroundFocus"><button aria-label="Play Video: Learn more about the Yahoo DSP" class="w-css-reset w-vulcan-v2-button" style="width: 0px; height: 0px; pointer-events: none;" tabindex="0"></button></div><div class="w-css-reset" data-handle="videoThumbnail" style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%; display: block;"><div style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%;"><video aria-label="Video" controlslist="nodownload" crossorigin="anonymous" id="wistia_simple_video_120" loop="" muted="" playsinline="" poster="https://fast.wistia.com/assets/images/blank.gif" preload="metadata" src="blob:https://www.advertising.yahooinc.com/a49e6611-1b85-48e9-9a02-cc91e31d1a1b" style="background: transparent; display: block; height: 100%; max-height: none; max-width: none; position: static; visibility: visible; width: 100%; object-fit: fill;" type="video/m3u8"></video></div><div style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%;"></div></div></div><div aria-atomic="true" aria-live="polite" class="w-vulcan--aria-live w-css-reset" style="position: absolute; left: -99999em;"></div><div class="w-vulcan-overlays-table w-css-reset" style="display: table; pointer-events: none; position: absolute; width: 100%;"><div class="w-vulcan-overlays--left w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 0px;"><div class="w-css-reset" style="height: 430.969px;"></div></div><div class="w-vulcan-overlays--center w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 100%;"><div class="w-css-reset" style="height: 430.969px;"><div class="w-css-reset" data-handle="bigPlayButton" style="pointer-events: auto;"><div class="w-bpb-wrapper w-css-reset w-css-reset-tree" style="border-radius: 0px; display: block; left: calc(50%); margin-left: -62.5px; margin-top: -40px; overflow: hidden; position: absolute; top: calc(50% + 0px);"><button aria-label="Play Video: Learn more about the Yahoo DSP" class="w-big-play-button w-css-reset-button-important w-vulcan-v2-button" style="cursor: pointer; height: 80px; box-shadow: none; width: 125px;" tabindex="0" type="button"><div style="background: rgb(57, 0, 125); display: block; left: 0px; height: 80px; mix-blend-mode: darken; position: absolute; top: 0px; width: 125px;"></div><div style="background-color: rgba(57, 0, 125, 0.7); height: 80px; left: 0px; position: absolute; top: 0px; transition: background-color 150ms ease 0s; width: 125px;"></div><svg alt="" aria-hidden="true" enable-background="new 0 0 125 80" style="fill: rgb(255, 255, 255); height: 80px; left: 0px; stroke-width: 0px; top: 0px; width: 100%; position: absolute;" viewbox="0 0 125 80" x="0px" y="0px"><rect clip-rule="evenodd" fill="none" fill-rule="evenodd" height="80" width="125"></rect><polygon clip-rule="evenodd" fill="#FFFFFF" fill-rule="evenodd" points="53,22 53,58 79,40"></polygon></svg></button></div></div><div class="w-css-reset" data-handle="clickForSoundButton" style="pointer-events: auto;"><div class="w-css-reset w-css-reset-tree" data-handle="click-for-sound-backdrop" style="display: block; height: 100%; left: 0px; pointer-events: none; position: absolute; top: 0px; width: 100%;"><button aria-label="Click for sound" class="w-vulcan-v2-button click-for-sound-btn" style="background: rgba(0, 0, 0, 0.8); border: 2px solid transparent; border-radius: 60px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; outline: none; pointer-events: auto; position: absolute; right: 20.5px; top: 20.5px; max-width: 785.641px;"><div style="display: flex; align-items: center; justify-content: flex-end; white-space: nowrap; overflow: hidden; max-width: 0px; transition: max-width 200ms ease 0s;"><span style="color: rgb(255, 255, 255); font-family: WistiaPlayerInter, Helvetica, sans-serif; font-size: 18px; font-weight: 500; padding-left: 1em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 826.641px;">Click for sound</span></div><svg height="52.5" viewbox="0 0 237 237" width="52.5"><path d="M88 107H65v24h24l23 23V84z" fill="#fff"></path><g fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"><path class="volume__small-wave" d="M142 86c9 21 9 44 0 65"></path><path class="volume__large-wave" d="M165 74c13 23 13 66 0 89"></path></g></svg></button></div></div><div class="w-css-reset" data-handle="playPauseNotifier" style="pointer-events: auto;"></div><div class="w-css-reset" data-handle="captions" style="pointer-events: auto;"><nothing></nothing></div><div class="w-css-reset" data-handle="playPauseLoading" style="pointer-events: auto;"><div class="w-css-reset w-css-reset-tree" style="height: 100%; left: 0px; pointer-events: none; position: absolute; top: 0px; width: 100%;"><button aria-label="Play Video" class="w-vulcan-v2-button" style="background: rgba(0, 0, 0, 0.6); border: 0px; border-radius: 50%; cursor: pointer; display: none; height: 140px; left: 50%; margin: 0px; padding: 0px; pointer-events: auto; position: absolute; opacity: 0; outline: none; top: 50%; transform: translate(-50%, -50%) scale(0.8); transition: opacity 200ms ease 0s, transform 600ms ease 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 140px;"><div style="box-sizing: border-box; height: 100%; padding: 47.25px 47.25px 47.25px 57.75px;"><div style="height: 100%; width: 100%;"><div style="display: none; height: 100%; width: 100%;"><svg aria-hidden="true" class="w-css-reset w-css-reset-tree" enable-background="new 0 0 11.556 16" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;" viewbox="0 0 11.556 16" x="0px" y="0px"><g><rect height="12" width="3.5" x="0" y="0"></rect><rect height="12" width="3.5" x="6.5" y="0"></rect></g></svg></div><div style="display: block; height: 100%; width: 100%;"><svg aria-hidden="true" class="w-css-reset w-css-reset-tree" enable-background="new 0 0 11.556 16" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;" viewbox="0 0 11.556 16" x="0px" y="0px"><polygon points="11.556,7.5 0,15 0,0"></polygon></svg></div></div></div></button></div></div><div class="w-css-reset" data-handle="transcript" style="pointer-events: auto;"><div class="w-css-reset" style="position: absolute;"></div></div></div></div><div class="w-vulcan-overlays--right w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 0px;"><div class="w-css-reset" style="height: 430.969px;"></div></div></div><div class="w-bottom-bar w-css-reset" style="bottom: 0px; border-radius: 0px; border-collapse: collapse; display: table; height: 34px; pointer-events: none; position: absolute; padding-left: 0px; padding-right: 0px; right: 0px; table-layout: auto; transform: unset; width: calc(100% + 0px);"><div class="w-bottom-bar-lower w-css-reset" style="position: relative;"><div style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%;"><div style="background: rgb(57, 0, 125); display: none; height: 100%; mix-blend-mode: darken; left: 0px; opacity: 1; position: absolute; top: 0px; transition: opacity 0s ease 0s; width: 100%;"></div><div style="background: rgba(57, 0, 125, 0.85); border-radius: 0px; height: 100%; opacity: 1; left: 0px; position: absolute; top: 0px; transition: opacity 0s ease 0s; width: 100%;"></div></div><div style="display: none;"><div style="background: rgb(57, 0, 125); display: none; height: 100%; mix-blend-mode: darken; left: 0px; opacity: 1; position: absolute; top: 0px; transition: opacity 0s ease 0s; width: 100%;"></div><div style="background: rgba(57, 0, 125, 0.85); border-radius: 0px; height: 100%; opacity: 1; left: 0px; position: absolute; top: 0px; transition: opacity 0s ease 0s; width: 100%;"></div></div><div class="w-bottom-bar-left w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 0px; opacity: 1; transition: opacity 0s ease 0s;"><div class="w-bottom-bar-left-inner w-css-reset" style="height: 34px; position: relative; pointer-events: auto; white-space: nowrap;"><div class="w-css-reset" data-handle="smallPlayButton" style="display: inline-block; vertical-align: top;"><div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 34px; position: relative; vertical-align: top; width: 40px;"><button aria-label="Play Video" class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; box-shadow: none; cursor: pointer; height: 100%; position: relative; transition: background-color 150ms ease 0s; width: calc(100% + 0px); padding-right: 0px;" tabindex="0" title="Play Video"><div class="w-vulcan-icon-wrapper" data-handle="smallPlayButton_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"><div style="box-sizing: border-box; height: 100%; margin-left: 1px; padding: 10px 0px 9px; position: relative; width: 100%;"><div style="height: 100%; width: 100%;"><div style="display: none; height: 100%; width: 100%;"><svg aria-hidden="true" class="w-css-reset w-css-reset-tree" enable-background="new 0 0 11.556 16" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%; vertical-align: top;" viewbox="0 0 11.556 16" x="0px" y="0px"><g><rect height="12" width="3.5" x="0" y="0"></rect><rect height="12" width="3.5" x="6.5" y="0"></rect></g></svg></div><div style="display: block; height: 100%; width: 100%;"><svg aria-hidden="true" class="w-css-reset w-css-reset-tree" enable-background="new 0 0 11.556 16" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%; vertical-align: top;" viewbox="0 0 11.556 16" x="0px" y="0px"><polygon points="11.556,7.5 0,15 0,0"></polygon></svg></div></div></div></div></button></div></div></div></div><div class="w-bottom-bar-middle w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 100%; opacity: 1; transition: opacity 0s ease 0s;"><div class="w-bottom-bar-middle-inner w-css-reset" style="height: 34px; position: relative; pointer-events: auto; white-space: nowrap; opacity: 1; transform: translateY(0px); transition: opacity 0ms ease 0s, transform 0ms ease 0s;"><div class="w-css-reset" data-handle="playbar" style="height: 100%; position: relative;"><div class="w-playbar-wrapper w-css-reset w-css-reset-tree" style="display: flex; height: 100%; width: 100%;"><div class="w-playbar__time" style="box-sizing: content-box; color: white; font-family: WistiaPlayerInterNumbersSemiBold, Helvetica, sans-serif; font-size: 13px; letter-spacing: 0.5px; line-height: 34px; padding-left: 5px; pointer-events: none; position: relative; text-align: center; width: 28px;">2:21</div><div aria-label="Playbar" aria-orientation="horizontal" aria-valuemax="141.275" aria-valuemin="0" aria-valuenow="0" aria-valuetext="0 seconds" role="slider" style="cursor: pointer; flex: 1 1 0%; height: 34px; outline: none; margin-left: 15px; margin-right: 10px; position: relative;" tabindex="0"><canvas height="34" style="height: 34px; left: -15px; position: absolute; top: 0px; width: 593.641px;" width="593.641"></canvas><div style="border-radius: 50%; height: 11.2px; left: -5.6px; opacity: 0; position: absolute; top: 11.4px; width: 11.2px;"></div></div></div></div></div></div><div class="w-bottom-bar-right w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 0px; opacity: 1; transition: opacity 0s ease 0s; white-space: nowrap;"><div class="w-bottom-bar-right-inner-anchor w-css-reset" style="height: 34px; position: relative; pointer-events: auto; white-space: nowrap; display: inline-block; right: 0px; top: 0px; vertical-align: top;"><div class="w-bottom-bar-right-inner w-css-reset" style="height: 34px; position: relative; pointer-events: auto; white-space: nowrap; display: inline-block; opacity: 1; right: 0px; top: 0px; transform: translateY(0px); transition: opacity 0ms ease 0s, transform 0ms ease 0s; padding-right: 0px;"><div class="w-css-reset" data-handle="captionsButton" style="display: inline-block; vertical-align: top;"><div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 34px; position: relative; vertical-align: top; width: 40px;"><button aria-expanded="false" aria-label="Show captions menu" class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; box-shadow: none; cursor: pointer; height: 100%; position: relative; transition: background-color 150ms ease 0s; width: calc(100% + 0px); padding-right: 0px;" tabindex="0" title="Show captions menu"><div class="w-vulcan-icon-wrapper" data-handle="captionsButton_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"><svg aria-hidden="true" enable-background="new 0 0 40 34" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;" viewbox="0 0 40 34" x="0px" y="0px"><g><path d="M18.4,18.7c-0.5,0.7-1.1,1.2-2.1,1.2c-1.3,0-2.4-1.1-2.4-2.8c0-1.6,1-2.8,2.4-2.8c1,0,1.6,0.5,2,1.2" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.8"></path></g><g><path d="M25.8,18.7c-0.5,0.7-1.1,1.2-2.1,1.2c-1.3,0-2.4-1.1-2.4-2.8c0-1.6,1-2.8,2.4-2.8c1,0,1.6,0.5,2,1.2" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.8"></path></g><g><path d="M31,21.9c0,1.6-1.4,3-3,3H12c-1.6,0-3-1.4-3-3V12c0-1.6,1.4-3,3-3h16c1.6,0,3,1.4,3,3V21.9z" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></path></g></svg></div></button></div></div><div class="w-css-reset" data-handle="volumeButton" style="display: inline-block; vertical-align: top;"><div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 34px; position: relative; vertical-align: top; width: 40px;"><button aria-label="Mute" class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; box-shadow: none; cursor: pointer; height: 100%; position: relative; transition: background-color 150ms ease 0s; width: calc(100% + 0px); padding-right: 0px;" tabindex="0" title="Mute"><div class="w-vulcan-icon-wrapper" data-handle="volumeButton_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"><svg aria-hidden="true" enable-background="new 0 0 40 34" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;" viewbox="0 0 40 34" x="0px" y="0px"><g style="transform: translateX(1.25px); transition: transform 100ms ease 0s;"><g><path d="M13.8,14.2c-0.5,0.5-1.4,0.8-2,0.8h-1.6C9.5,15,9,15.5,9,16.2v1.6c0,0.7,0.5,1.2,1.2,1.2h1.6c0.7,0,1.6,0.4,2,0.8l2.3,2.3c0.5,0.5,0.8,0.3,0.8-0.4v-9.6c0-0.7-0.4-0.8-0.8-0.4L13.8,14.2z"></path></g><g><path d="M22,11.7c0,0,1.1,2.5,1.1,5s-1.1,5-1.1,5" fill="none" stroke="#ffffff" stroke-line-cap="round" stroke-miterlimit="10" stroke-width="2" style="opacity: 1; transition: opacity 100ms ease 0s;"></path><path d="M25.8,9.2c0,0,1.7,3.8,1.7,7.5c0,3.7-1.7,7.5-1.7,7.5" fill="none" stroke="#ffffff" stroke-line-cap="round" stroke-miterlimit="10" stroke-width="2" style="opacity: 1; transition: opacity 100ms ease 0s;"></path></g><g style="opacity: 0; transition: opacity 100ms ease 0s;"><line fill="none" stroke="#ffffff" stroke-line-cap="round" stroke-miterlimit="10" stroke-width="1.8102" x1="19.2" x2="23.2" y1="15" y2="19"></line><line fill="none" stroke="#ffffff" stroke-line-cap="round" stroke-miterlimit="10" stroke-width="1.8102" x1="19.2" x2="23.2" y1="19" y2="15"></line></g></g></svg></div></button></div></div><div class="w-css-reset" data-handle="settingsButton" style="display: inline-block; vertical-align: top;"><div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 34px; position: relative; vertical-align: top; width: 40px;"><button aria-expanded="false" aria-label="Show settings menu" class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; box-shadow: none; cursor: pointer; height: 100%; position: relative; transition: background-color 150ms ease 0s; width: calc(100% + 0px); padding-right: 0px;" tabindex="0" title="Show settings menu"><div class="w-vulcan-icon-wrapper" data-handle="settingsButton_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"><svg aria-hidden="true" enable-background="new 0 0 40 34" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;" viewbox="0 0 40 34" x="0px" y="0px"><g><g><path d="M28.3,16.4h-1.9c-0.4,0-0.8-0.3-0.9-0.7l-0.4-1.1c-0.2-0.3-0.1-0.8,0.2-1.1l1.3-1.3c0.3-0.3,0.3-0.7,0-1l-0.4-0.4c-0.3-0.3-0.7-0.3-1,0l-1.3,1.3c-0.3,0.3-0.8,0.3-1.1,0.1l-1.1-0.5c-0.4-0.1-0.7-0.5-0.7-0.9V9.1c0-0.4-0.3-0.7-0.7-0.7h-0.6c-0.4,0-0.7,0.3-0.7,0.7v1.7c0,0.4-0.3,0.8-0.7,0.9l-1.2,0.5c-0.3,0.2-0.8,0.1-1.1-0.2l-1.2-1.2c-0.3-0.3-0.7-0.3-1,0l-0.4,0.4c-0.3,0.3-0.3,0.7,0,1l1.2,1.2c0.3,0.3,0.3,0.8,0.1,1.1l-0.5,1.2c-0.1,0.4-0.5,0.7-0.9,0.7h-1.6c-0.4,0-0.7,0.3-0.7,0.7v0.6c0,0.4,0.3,0.7,0.7,0.7h1.6c0.4,0,0.8,0.3,0.9,0.7l0.5,1.2c0.2,0.3,0.1,0.8-0.1,1.1l-1.2,1.2c-0.3,0.3-0.3,0.7,0,1l0.4,0.4c0.3,0.3,0.7,0.3,1,0l1.2-1.2c0.3-0.3,0.8-0.3,1.1-0.2l1.2,0.5c0.4,0.1,0.7,0.5,0.7,0.9v1.7c0,0.4,0.3,0.7,0.7,0.7h0.6c0.4,0,0.7-0.3,0.7-0.7V24c0-0.4,0.3-0.8,0.7-0.9l1.1-0.5c0.3-0.2,0.8-0.1,1.1,0.1l1.3,1.3c0.3,0.3,0.7,0.3,1,0l0.4-0.4c0.3-0.3,0.3-0.7,0-1l-1.3-1.3C25,21,25,20.5,25.1,20.2l0.4-1.1c0.1-0.4,0.5-0.7,0.9-0.7h1.9c0.4,0,0.7-0.3,0.7-0.7v-0.6C29,16.7,28.7,16.4,28.3,16.4z M23.8,17.5c0,2.2-1.8,3.9-3.9,3.9c-2.2,0-3.9-1.8-3.9-3.9s1.7-3.9,3.9-3.9C22.1,13.6,23.8,15.3,23.8,17.5z"></path></g></g></svg></div></button></div></div><div class="w-css-reset" data-handle="fullscreenControl" style="display: inline-block; vertical-align: top;"><div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 34px; position: relative; vertical-align: top; width: 40px;"><button aria-label="Fullscreen" class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; box-shadow: none; cursor: pointer; height: 100%; position: relative; transition: background-color 150ms ease 0s; width: calc(100% + 0px); padding-right: 0px;" tabindex="0" title="Fullscreen"><div class="w-vulcan-icon-wrapper" data-handle="fullscreenControl_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"><svg aria-hidden="true" enable-background="new 0 0 40 34" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;" viewbox="0 0 40 34" x="0px" y="0px"><g><g><polyline fill="none" points="31.4,12.6 31.4,8.7 25.8,8.7" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></polyline><polyline fill="none" points="14.7,8.7 9.1,8.7 9.1,12.6" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></polyline><polyline fill="none" points="25.8,24.8 31.4,24.8 31.4,20.9" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></polyline><polyline fill="none" points="9.1,20.9 9.1,24.8 14.7,24.8" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></polyline></g><rect enable-background="new" fill="none" height="8.9" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" width="13.3" x="13.7" y="12.3"></rect></g></svg></div></button></div></div></div></div><div class="w-ellipsis w-css-reset" style="height: 34px; position: relative; pointer-events: auto; white-space: nowrap; display: none;"></div></div></div></div><div class="w-foreground w-css-reset" style="height: 100%; left: 0px; pointer-events: none; position: absolute; top: 0px; width: 100%;"><div class="w-css-reset" data-handle="contextMenu" style="pointer-events: auto;"></div><div class="w-css-reset" data-handle="loadingHourglass" style="pointer-events: auto;"></div><div class="w-css-reset" data-handle="focusOutline" style="pointer-events: auto;"><div class="w-focus-outline" style="box-shadow: rgb(255, 255, 255) 0px 0px 0px 2px inset; border-radius: 0px; display: none; height: 100%; left: 0px; pointer-events: none; position: absolute; right: 0px; width: 100%;"></div></div></div></div></div></div><div id="wistia_grid_57_front"></div><div id="wistia_grid_57_top_inside"><div id="wistia_grid_57_top" style="height: 0px; font-size: 0px; line-height: 0px;"> </div></div><div id="wistia_grid_57_bottom_inside"><div id="wistia_grid_57_bottom" style="height: 0px; font-size: 0px; line-height: 0px;"> </div></div><div id="wistia_grid_57_left_inside"><div id="wistia_grid_57_left" style="height: 0px; font-size: 0px; line-height: 0px;"> </div></div><div id="wistia_grid_57_right_inside"><div id="wistia_grid_57_right" style="height: 0px; font-size: 0px; line-height: 0px;"> </div></div></div><div id="wistia_grid_57_below" style="height: 0px; font-size: 0px; line-height: 0px;"> </div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col col-lg-4 col-md-5 col-sm-12 slide-left" style="opacity: 0;">
+<h2 class="condensed">The best of <span class="nowrap">both worlds</span></h2>
+<p>Meet your happy medium. With huge scale, proprietary inventory and unique data, Yahoo DSP gives you all the benefits of a walled garden with the transparency of an independent. <br/></p>
+</div>
+</div>
+</div>
+</section>
+</div>
+<section class="section py-3 box-shadow-4">
+<div class="container row">
+<div class="row border-content justify-center">
+<div class="col col-lg-4 col-md-6 col-sm-12 px-0 slide-up" style="opacity: 0;">
+<div class="border-box"><a aria-label="Learn more about our identity solutions" class="w-inline-block" href="/our-dsp/identity"><img alt="" class="border-box-image zoom" sizes="(max-width: 479px) 80vw, (max-width: 767px) 88vw, (max-width: 991px) 43vw, 28vw" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875ca6339eafdb_identity-poster-image.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875ca6339eafdb_identity-poster-image-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875ca6339eafdb_identity-poster-image-p-800.jpg 800w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875ca6339eafdb_identity-poster-image.webp 800w"/></a>
+<h3 class="condensed">Identity at the core</h3>
+<p>Our best-in-class identity graph and first-party data connect the dots in a post-cookie world. No ID. No problem.</p>
+<div class="h-100 align-end"><a class="arrow-animation" href="/our-dsp/identity">Identity solutions</a></div>
+</div>
+</div>
+<div class="col col-lg-4 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;">
+<div class="border-box"><a aria-label="Learn more about our analytics tools" class="w-inline-block" href="/our-dsp/measure"><img alt="" class="border-box-image zoom" loading="lazy" sizes="(max-width: 479px) 80vw, (max-width: 767px) 88vw, (max-width: 991px) 43vw, 28vw" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c0f579ead8c_WhyYahoo-Analytics.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c0f579ead8c_WhyYahoo-Analytics-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c0f579ead8c_WhyYahoo-Analytics-p-800.jpg 800w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c0f579ead8c_WhyYahoo-Analytics.webp 800w"/></a>
+<h3 class="condensed">Performance you can see</h3>
+<p>Know more. Grow more. Machine learning drives performance without hidden fees or pricing inefficiencies.</p>
+<div class="h-100 align-end"><a class="arrow-animation" href="/our-dsp/measure">Measurement tools</a></div>
+</div>
+</div>
+<div class="col col-lg-4 col-md-6 col-sm-12 px-0 slide-up-2" style="opacity: 0;">
+<div class="border-box"><a aria-label="Learn more about our partners" class="w-inline-block" href="/our-dsp/partners"><img alt="Rope" class="border-box-image zoom" sizes="(max-width: 479px) 80vw, (max-width: 767px) 88vw, (max-width: 991px) 43vw, 28vw" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c181f9eae8d_partners-header.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c181f9eae8d_partners-header-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c181f9eae8d_partners-header-p-800.jpg 800w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c181f9eae8d_partners-header-p-1080.jpg 1080w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c181f9eae8d_partners-header.webp 1200w"/></a>
+<h3 class="condensed">Premium content access</h3>
+<p>Exclusive access to Yahoo premium inventory and one of the largest premium native marketplaces.</p>
+<div class="h-100 align-end"><a class="arrow-animation" href="/our-dsp/partners">Supply partners</a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section position-relative pt-3 overflow-hidden"><img alt="" class="overlapping-bg pointer-events-none crop-bottom-center" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c82009eaaee_yahoo-yangle-mobile.svg"/>
+<div class="overlapping-bg bg-transparent-top"></div>
+<div class="container pt-3">
+<div class="content-container ml-0 text-white">
+<h2 class="h1 condensed mb-2 slide-right" style="opacity: 0;">A DSP Built for Your Needs</h2>
+</div>
+<div class="card-slider_wrapper">
+<div class="owl-carousel owl-theme card-slider slide-right-1 owl-loaded owl-drag" style="opacity: 0;">
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 2134px;"><div class="owl-item active" style="width: 406.667px; margin-right: 20px;"><div class="card-slider_item">
+<div class="card">
+<div class="card-body"><a class="link-block w-inline-block" href="/our-dsp/plan"><img alt="Planning tools" class="border-box-image zoom" loading="lazy" sizes="(max-width: 479px) 75vw, 300px" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c8ad29ead93_DSP-Plan.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c8ad29ead93_DSP-Plan-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c8ad29ead93_DSP-Plan.webp 588w"/>
+<h3>Plan</h3>
+<p>Build data-driven campaigns to reach any goal.</p>
+</a></div>
+</div>
+</div></div><div class="owl-item active" style="width: 406.667px; margin-right: 20px;"><div class="card-slider_item">
+<div class="card">
+<div class="card-body"><a class="link-block w-inline-block" href="/our-dsp/target"><img alt="Targeting tools" class="border-box-image zoom" loading="lazy" sizes="(max-width: 479px) 75vw, 300px" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875cb56e9ead90_DSP-Target.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875cb56e9ead90_DSP-Target-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875cb56e9ead90_DSP-Target.webp 588w"/>
+<h3>Target</h3>
+<p>Capture audiences with identity-backed precision.</p>
+</a></div>
+</div>
+</div></div><div class="owl-item active" style="width: 406.667px; margin-right: 20px;"><div class="card-slider_item">
+<div class="card">
+<div class="card-body"><a class="link-block w-inline-block" href="/our-dsp/creative"><img alt="Creative tools" class="border-box-image zoom" loading="lazy" sizes="(max-width: 479px) 75vw, 300px" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c08be9ead91_DSP-Create.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c08be9ead91_DSP-Create-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c08be9ead91_DSP-Create.webp 588w"/>
+<h3>Create</h3>
+<p>Deliver powerful creative – from dynamic to custom.</p>
+</a></div>
+</div>
+</div></div><div class="owl-item" style="width: 406.667px; margin-right: 20px;"><div class="card-slider_item">
+<div class="card">
+<div class="card-body"><a class="link-block w-inline-block" href="/our-dsp/optimize"><img alt="Optimization tools" class="border-box-image zoom" sizes="(max-width: 479px) 75vw, 300px" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c68569ead94_DSP-Optimize.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c68569ead94_DSP-Optimize-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c68569ead94_DSP-Optimize.webp 588w"/>
+<h3>Optimize</h3>
+<p>Accelerate performance with built-in machine learning tech.</p>
+</a></div>
+</div>
+</div></div><div class="owl-item" style="width: 406.667px; margin-right: 20px;"><div class="card-slider_item">
+<div class="card">
+<div class="card-body"><a class="link-block w-inline-block" href="/our-dsp/measure"><img alt="Measurement tools" class="border-box-image zoom" loading="lazy" sizes="(max-width: 479px) 75vw, 300px" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c2f009ead92_DSP-Measure.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c2f009ead92_DSP-Measure-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c2f009ead92_DSP-Measure.webp 588w"/>
+<h3>Measure</h3>
+<p>Get a holistic view of your performance – from brand lift to revenue impact.</p>
+</a></div>
+</div>
+</div></div></div></div><div class="owl-dots disabled"></div></div>
+</div>
+<div class="card-slider_nav" id="tools_nav"><button aria-label="Previous DSP Tool" class="owl-prev disabled" role="presentation" type="button"><div class="btn btn-primary card-slider_nav-link grow-in-1" id="card-slider_left" style="opacity: 0;">
+<div class="card-slider_nav-icon w-embed"><svg fill="currentColor" viewbox="0 0 7.12 11.41" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g>
+<path d="M5.71,0,0,5.71l5.71,5.7L7.12,10,2.83,5.71l4.29-4.3Z"></path>
+</g>
+</g>
+</svg></div>
+</div></button>
+<button aria-label="Next DSP Tool" class="owl-next" role="presentation" type="button"><div class="btn btn-primary card-slider_nav-link grow-in-1" id="card-slider_right" style="opacity: 0;">
+<div class="card-slider_nav-icon w-embed"><svg fill="currentColor" viewbox="0 0 7.12 11.41" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g>
+<path d="M1.41,11.41l5.71-5.7L1.41,0,0,1.41l4.29,4.3L0,10Z"></path>
+</g>
+</g>
+</svg></div>
+</div></button></div>
+</div>
+</section>
+<section class="section overflow-hidden pb-3">
+<div class="container row">
+<h2 class="h1 condensed text-center mb-1 slide-up" style="opacity: 0;">Find your people <span class="nowrap">wherever they are</span></h2>
+<div class="row border-content justify-center">
+<div class="col col-lg-3 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;"><a class="link-block border-box w-inline-block" href="/our-dsp/advanced-tv"><img alt="" class="border-box-image zoom" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c4abc9ead79_DSPChannels-ATV.webp"/>
+<h3 class="h4">Advanced TV</h3>
+<p class="mb-0">Get the big picture on your audiences watching the biggest TV in the home.</p>
+</a></div>
+<div class="col col-lg-3 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;"><a class="link-block border-box w-inline-block" href="/our-dsp/digital-out-of-home"><img alt="" class="border-box-image zoom" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c06f99ead80_DSPChannels-DOOH.webp"/>
+<h3 class="h4">Digital-Out-of-home</h3>
+<p class="mb-0">Put your brand in the spotlight whenever your audiences are out and about.</p>
+</a></div>
+<div class="col col-lg-3 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;"><a class="link-block border-box w-inline-block" href="/our-dsp/audio"><img alt="" class="border-box-image zoom" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c17d89ead7a_DSPChannels-Audio.webp"/>
+<h3 class="h4">Audio</h3>
+<p class="mb-0">Break through the noise and be heard loud and clear by engaged listeners.</p>
+</a></div>
+<div class="col col-lg-3 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;"><a class="link-block border-box w-inline-block" href="/our-dsp/native"><img alt="" class="border-box-image zoom" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875cea199ead7e_DSPChannels-Native.webp"/>
+<h3 class="h4">Native Ads</h3>
+<p class="mb-0">Deliver experiences that are intentional, useful and relevant in environments people trust.</p>
+</a></div>
+<div class="col col-lg-3 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;"><a class="link-block border-box w-inline-block" href="/our-dsp/video"><img alt="" class="border-box-image zoom" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c631f9ead7b_DSPChannels-Video.webp"/>
+<h3 class="h4">Video</h3>
+<p class="mb-0">Reach people wherever they watch. Easy for you to buy. Even easier for people to view.</p>
+</a></div>
+<div class="col col-lg-3 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;"><a class="link-block border-box w-inline-block" href="/our-dsp/mobile"><img alt="" class="border-box-image zoom" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c4d699ead78_DSPChannels-Mobile.webp"/>
+<h3 class="h4">Mobile</h3>
+<p class="mb-0">Make a big impact on the smallest screen. Be front and center 24/7.</p>
+</a></div>
+<div class="col col-lg-3 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;"><a class="link-block border-box w-inline-block" href="/our-dsp/commerce"><img alt="" class="border-box-image zoom" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875cde279ead7d_DSPChannels-Commerce.webp"/>
+<h3 class="h4">Commerce</h3>
+<p class="mb-0">Get the scale, efficiency and brand-safe content you need to convert shoppers from search to sold.</p>
+</a></div>
+<div class="col col-lg-3 col-md-6 col-sm-12 px-0 slide-up-1" style="opacity: 0;"><a class="link-block border-box w-inline-block" href="/our-dsp/yahoo-backstage"><img alt="" class="border-box-image zoom crop-left" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64923fde5096609847968ae7_DSPChannels-YahooBackstage.jpg"/>
+<h3 class="h4">Yahoo Backstage</h3>
+<p class="mb-0">Get a direct line to curated, premium inventory.</p>
+</a></div>
+</div>
+</div>
+</section>
+<section class="section overflow-hidden bg-grey-hair py-3">
+<div class="container">
+<h2 class="h1 condensed mb-1 slide-right" style="opacity: 0;">Dive Deeper</h2>
+<div class="row justify-center">
+<div class="col col-lg-4 col-md-6 col-sm-12 px-1 pb-1 slide-up-1" style="opacity: 0;">
+<div class="card-block bg-white">
+<div class="row align-center mx-auto">
+<div class="col col-lg-5 col-xs-12 px-0 mb-0"><img alt="" class="card-block-image small-feature" height="500" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875cdb1a9ead8e_WhyYahoo-LC.webp"/></div>
+<div class="col col-lg-7 col-xs-12 py-1 px-1">
+<h2 class="h4">Get certified with the Yahoo DSP Learning Academy</h2><a class="arrow-animation" href="https://www.academy.yahooinc.com/" target="_blank">Get started</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col col-lg-4 col-md-6 col-sm-12 px-1 pb-1 slide-up-2" style="opacity: 0;">
+<div class="card-block bg-white">
+<div class="row align-center mx-auto">
+<div class="col col-lg-5 col-xs-12 px-0 mb-0"><img alt="" class="card-block-image small-feature" height="500" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c02b59ead8f_WhyYahoo-AdSpecs.webp"/></div>
+<div class="col col-lg-7 col-xs-12 py-1 px-1">
+<h2 class="h4">Find all you need to launch your campaign</h2><a class="arrow-animation" href="https://adspecs.yahooinc.com/" target="_blank">Ad specs</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col col-lg-4 col-md-6 col-sm-12 px-1 pb-1 slide-up-3" style="opacity: 0;">
+<div class="card-block bg-white">
+<div class="row align-center mx-auto">
+<div class="col col-lg-5 col-xs-12 px-0 mb-0"><img alt="" class="card-block-image small-feature" height="500" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 40vw, (max-width: 991px) 19vw, 13vw" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c36999ead72_Y-AdTech-Homepage-1.a.webp" srcset="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c36999ead72_Y-AdTech-Homepage-1.a-p-500.jpg 500w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c36999ead72_Y-AdTech-Homepage-1.a-p-800.jpg 800w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c36999ead72_Y-AdTech-Homepage-1.a-p-1080.jpg 1080w, https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c36999ead72_Y-AdTech-Homepage-1.a.webp 1200w"/></div>
+<div class="col col-lg-7 col-xs-12 py-1 px-1">
+<h2 class="h4">Be inspired by curated creative from our brand partners</h2><a class="arrow-animation" href="https://adshowcase.yahooinc.com/" target="_blank">Ad showcase</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section overflow-hidden bg-grey-hair pb-3 d-none">
+<div class="container row px-1">
+<div class="bg-yangle py-3 shrink-in-1" style="opacity: 0;">
+<h2 class="h1 condensed">Ready to Start? <br/>Hey, So Are We.</h2>
+<p>Our sales team can help you truly connect to audiences, with unified solutions scaled for growth.</p><a class="btn btn-primary btn-light mb-0 w-button" href="/contact">Get in Touch</a>
+</div>
+</div>
+</section>
+<section class="section yangle-primary py-3">
+<div class="container">
+<div class="row justify-center">
+<div class="col col-lg-8 col-md-10 col-sm-12">
+<div class="w-form">
+<form aria-label="AdTechContact-Update-Simplified" data-name="AdTechContact-Update-Simplified" data-redirect="/contact/thank-you" data-wf-element-id="52354453-0d85-8bb6-4a9e-1ec0a5973750" data-wf-page-id="64232e2dde875c25fd9eaacb" id="wf-form-AdTechContact-Update-Simplified" method="post" name="wf-form-AdTechContact-Update-Simplified" redirect="/contact/thank-you">
+<h2 class="h1 condensed text-white text-center">Ready to advertise?</h2>
+<p class="text-center text-white">Our sales team can help you truly connect to audiences, with unified solutions scaled for growth.</p>
+<div class="row justify-center">
+<div class="col col-lg-6 col-sm-12">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="Interest">I'm interested in:*</label><select autocomplete="off" class="input select input-light w-select" data-name="Interest" id="Interest" name="Interest" required="">
+<option value="">Select one...</option>
+<option value="DSP">Yahoo’s Demand Side Platform</option>
+<option value="O&amp;O">Yahoo Properties (Sports, Finance, etc.)</option>
+<option value="native">Native Ads</option>
+<option value="RMN">Retail Media Network/Private Media Network</option>
+</select></div>
+</div>
+<div class="col col-lg-6 col-sm-12" id="CountryDSP" style="display: none;">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="CountryDSP-Input">Country*</label><select autocomplete="off" class="input select input-light w-select" data-name="Country DSP Input" disabled="" id="CountryDSP-Input" name="CountryDSP-Input">
+<option value="">Select one...</option>
+<option value="UnitedStates">United States</option>
+<option value="UnitedKingdom">United Kingdom</option>
+<option value="Canada">Canada</option>
+<option value="Australia">Australia</option>
+<option value="Singapore">Singapore</option>
+</select></div>
+</div>
+</div>
+<div class="row">
+<div class="col col-lg-6 col-sm-12" id="QuarterlyBudget" style="display: none;">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="QuarterlyBudget-Input">Quarterly Budget*</label><select autocomplete="off" class="input select input-light w-select" data-name="QuarterlyBudget" disabled="" id="QuarterlyBudget-Input" name="QuarterlyBudget">
+<option value="">Select one...</option>
+<option value="Less than $250,000">Less than $250,000</option>
+<option value="$250,000 - $500,000">$250,000 - $500,000</option>
+<option value="Greater than $500,000">Greater than $500,000</option>
+</select></div>
+</div>
+<div class="col col-lg-6 col-sm-12" id="State" style="display: none;">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="State-Input">State</label><select class="input select input-light w-select" data-name="State" disabled="" id="State-Input" name="State">
+<option value="">Select one...</option>
+<option value="Alabama">Alabama</option>
+<option value=" Alaska"> Alaska</option>
+<option value=" Arizona"> Arizona</option>
+<option value=" Arkansas"> Arkansas</option>
+<option value=" California"> California</option>
+<option value=" Colorado"> Colorado</option>
+<option value=" Connecticut"> Connecticut</option>
+<option value=" Delaware"> Delaware</option>
+<option value=" Alaska"> Alaska</option>
+<option value=" Arizona"> Arizona</option>
+<option value=" Arkansas"> Arkansas</option>
+<option value=" California"> California</option>
+<option value=" Colorado"> Colorado</option>
+<option value=" Connecticut"> Connecticut</option>
+<option value=" Delaware"> Delaware</option>
+<option value=" Florida"> Florida</option>
+<option value=" Georgia"> Georgia</option>
+<option value=" Hawaii"> Hawaii</option>
+<option value=" Idaho"> Idaho</option>
+<option value=" Illinois"> Illinois</option>
+<option value=" Indiana"> Indiana</option>
+<option value=" Iowa"> Iowa</option>
+<option value=" Kansas"> Kansas</option>
+<option value=" Kentucky"> Kentucky</option>
+<option value=" Louisiana"> Louisiana</option>
+<option value=" Maine"> Maine</option>
+<option value=" Maryland"> Maryland</option>
+<option value=" Massachusetts"> Massachusetts</option>
+<option value=" Michigan"> Michigan</option>
+<option value=" Minnesota"> Minnesota</option>
+<option value=" Mississippi"> Mississippi</option>
+<option value=" Missouri"> Missouri</option>
+<option value=" Montana"> Montana</option>
+<option value=" Nebraska"> Nebraska</option>
+<option value=" Nevada"> Nevada</option>
+<option value=" New Hampshire"> New Hampshire</option>
+<option value=" New Jersey"> New Jersey</option>
+<option value=" New Mexico"> New Mexico</option>
+<option value=" New York"> New York</option>
+<option value=" North Carolina"> North Carolina</option>
+<option value=" North Dakota"> North Dakota</option>
+<option value=" Ohio"> Ohio</option>
+<option value=" Oklahoma"> Oklahoma</option>
+<option value=" Oregon"> Oregon</option>
+<option value=" Pennsylvania"> Pennsylvania</option>
+<option value=" Rhode Island"> Rhode Island</option>
+<option value=" South Carolina"> South Carolina</option>
+<option value=" South Dakota"> South Dakota</option>
+<option value=" Tennessee"> Tennessee</option>
+<option value=" Texas"> Texas</option>
+<option value=" Utah"> Utah</option>
+<option value=" Vermont"> Vermont</option>
+<option value=" Virginia"> Virginia</option>
+<option value=" Washington"> Washington</option>
+<option value=" West Virginia"> West Virginia</option>
+<option value=" Wisconsin"> Wisconsin</option>
+<option value=" Wyoming"> Wyoming</option>
+</select></div>
+</div>
+</div>
+<div id="MainInfo" style="display: none;">
+<div class="row">
+<div class="col col-lg-6 col-sm-12">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="First-Name-DSP">First Name*</label><input class="input input-light w-input" data-name="First Name DSP" disabled="" id="First-Name-DSP" maxlength="256" name="First-Name-DSP" placeholder="Enter first name" type="text"/></div>
+</div>
+<div class="col col-lg-6 col-sm-12">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="LastName-DSP">Last Name*</label><input class="input input-light w-input" data-name="Last Name-DSP" disabled="" id="LastName-DSP" maxlength="256" name="Last-Name-DSP" placeholder="Enter last name" type="text"/></div>
+</div>
+</div>
+<div class="row">
+<div class="col col-lg-6 col-sm-12">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="Email-DSP">Email*</label><input class="input input-light w-input" data-name="Email DSP" disabled="" id="Email-DSP" maxlength="256" name="Email-DSP" placeholder="E.g. jdoe@email.com" type="email"/></div>
+</div>
+<div class="col col-lg-6 col-sm-12">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="Company-DSP">Company*</label><input class="input input-light w-input" data-name="Company DSP" disabled="" id="Company-DSP" maxlength="256" name="Company-DSP" placeholder="Enter company name" type="text"/></div>
+</div>
+</div>
+<div class="row">
+<div class="col col-lg-6 col-sm-12">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="MobilePhone-DSP">Mobile Phone*</label><input class="input input-light w-input" data-name="Mobile Phone" disabled="" id="MobilePhone-DSP" maxlength="256" name="MobilePhone" placeholder="Enter phone number" type="tel"/></div>
+</div>
+<div class="col col-lg-6 col-sm-12">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="Website-DSP">Website*</label><input class="input input-light w-input" data-name="Website DSP" disabled="" id="Website-DSP" maxlength="256" name="Website-DSP" placeholder="E.g. www.website.com" type="text"/></div>
+</div>
+</div>
+</div>
+<div class="row" id="Country" style="display: none;">
+<div class="col col-lg-6 col-sm-12">
+<div class="input-group"><label class="input-label-2 pointer-events-none" for="Country-Input">Country*</label><select autocomplete="off" class="input select input-light w-select" data-name="Country Input" disabled="" id="Country-Input" name="Country-Input">
+<option value="">Select one...</option>
+<option value="UnitedStates">United States</option>
+<option value="UnitedKingdom">United Kingdom</option>
+<option value="Canada">Canada</option>
+<option value="Australia">Australia</option>
+<option value="Singapore">Singapore</option>
+<option value="HongKong">Hong Kong</option>
+<option value="Taiwan">Taiwan</option>
+</select></div>
+</div>
+</div>
+<div class="mt-1" id="O-O" style="display: none;">
+<div class="row" id="Types">
+<div class="col col-lg-12"><label class="text-small text-white mb-1" for="">I'm interested in:*</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Yahoo" disabled="" id="Yahoo" name="Yahoo" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="Yahoo">Yahoo</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Yahoo Life" disabled="" id="YahooLife" name="YahooLife" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="YahooLife">Yahoo Life</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Autoblog" disabled="" id="Autoblog" name="Autoblog" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="Autoblog">Autoblog</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Yahoo Sports" disabled="" id="YahooSports" name="YahooSports" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="YahooSports">Yahoo Sports</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Yahoo News" disabled="" id="YahooNews" name="YahooNews" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="YahooNews">Yahoo News</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Tech Crunch" disabled="" id="TechCrunch" name="TechCrunch" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="TechCrunch">TechCrunch</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Yahoo Finance" disabled="" id="YahooFinance" name="YahooFinance" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="YahooFinance">Yahoo Finance</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Yahoo Mail" disabled="" id="YahooMail" name="YahooMail" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="YahooMail">Yahoo Mail</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Engadget" disabled="" id="Engadget" name="Engadget" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="Engadget">Engadget</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Yahoo Entertainment" disabled="" id="YahooEntertainment" name="YahooEntertainment" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="YahooEntertainment">Yahoo Entertainment</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="AOL" disabled="" id="AOL" name="AOL" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="AOL">AOL</span>
+</label></div>
+<div class="col col-lg-4 col-md-6 col-xs-12 mb-1 w-clearfix"><label class="w-checkbox input-check_group">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Xbox" disabled="" id="Xbox" name="Xbox" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="Xbox">Xbox</span>
+</label></div>
+</div>
+</div><label class="w-checkbox input-check_group" id="Consent" style="display: none;">
+<div class="w-checkbox-input w-checkbox-input--inputType-custom input-check input-light"></div><input data-name="Marketing Consent 2" disabled="" id="MarketingConsent-2" name="MarketingConsent-2" style="opacity:0;position:absolute;z-index:-1" type="checkbox"/><span class="input-label static text-white w-form-label" for="MarketingConsent-2">I agree with Yahoo Inc.'s <a class="text-white-3" href="https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html" target="_blank">Terms of Service</a> and <a class="text-white-3" href="https://legal.yahoo.com/xw/en/yahoo/privacy/topic/b2bprivacypolicy/index.html" target="_blank">Privacy Policy</a> and provide my consent to receive B2B marketing communications from Yahoo Inc.*</span>
+</label><input class="btn btn-primary btn-light d-block mx-auto mt-2 w-button" data-wait="Please wait..." disabled="" id="Submit" style="display: none;" type="submit" value="Submit"/>
+<div class="text-white" id="ProgrammaticMechanic" style="display: none;"><label class="h2 pt-1" for="">Programmatic Mechanics</label>
+<p>Yahoo has partnered with Programmatic Mechanics to offer the Yahoo DSP as a managed service solution to clients. The Programmatic Mechanics team can provide you access to your account and ensure you are able to take advantage of the powerful targeting and inventory solutions available via the Yahoo DSP. We encourage you to provide further information at the link below and a representative will contact you soon.</p><a class="btn btn-primary btn-light w-button" href="https://progmechs.com/yahoo-partner/" id="contact-submit-pm" target="_blank">Get in touch</a><input class="d-none w-input" data-name="Hidden 3" disabled="" id="Hidden-3" maxlength="256" name="Hidden-3" placeholder="Example Text" type="text"/>
+</div>
+<div class="text-white" id="MIQ" style="display: none;">
+<h2 class="pt-1">MIQ</h2>
+<p>Yahoo has partnered with MiQ to provide best-in-class managed services to clients. MiQ has deep expertise in activating all of the features and benefits of the Yahoo DSP and its unique capabilities. We encourage you to provide further information at the link below and a representative will contact you soon.</p><a class="btn btn-primary btn-light w-button" href="https://www.wearemiq.com/yahoo/" id="contact-submit-miq" target="_blank">Get in touch</a><input class="d-none w-input" data-name="Hidden 3" disabled="" id="Hidden-3" maxlength="256" name="Hidden-3" placeholder="Example Text" type="text"/>
+</div>
+<div id="Taboola" style="display: none;">
+<div class="text-white"><label class="h2 pt-1" for="">Yahoo Native is now powered by Taboola </label>
+<p>Now, you can access Yahoo’s high-quality ad supply in Taboola Ads, Taboola’s industry leading, AI-powered advertising platform.</p><a class="btn btn-primary btn-light w-button" href="https://advertise.taboola.com/yahoo-native-taboola" id="contact-submit-tb" target="_blank">Get in touch</a><input class="d-none w-input" data-name="Hidden 3" disabled="" id="Hidden-3" maxlength="256" name="Hidden-3" placeholder="Example Text" type="text"/>
+</div>
+</div>
+<div class="row">
+<div class="col col-lg-12">
+<div class="input-group">
+<div class="w-embed"><input class="sourceLogging" data-name="formRef" id="formRef" name="formRef" type="hidden" value=""/>
+<input id="utm_source" name="utm_source" type="hidden" value=""/>
+<input id="utm_medium" name="utm_medium" type="hidden" value=""/>
+<input id="utm_campaign" name="utm_campaign" type="hidden" value=""/>
+<input id="utm_content" name="utm_content" type="hidden" value=""/>
+</div>
+</div>
+</div>
+</div>
+<div class="form-required-note section-note bold">*Required</div>
+</form>
+<div aria-label="AdTechContact-Update-Simplified success" class="form-success p-0 w-form-done" role="region" tabindex="-1">
+<div><img alt="Shield" class="d-block mx-auto icon-small invert" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875c2faa9eae40_shieldWithCheckMark.svg"/>
+<div class="text-white-3">
+<h2 class="condensed mb-0">Successful</h2>
+</div>
+</div>
+</div>
+<div aria-label="AdTechContact-Update-Simplified failure" class="form-error-3 w-form-fail" role="region" tabindex="-1">
+<div>Oops! Something went wrong while submitting the form.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="section footer position-relative">
+<div class="container">
+<h2 class="sr-only">Yahoo Inc. Footer</h2>
+<div class="row justify-center">
+<div class="col col-lg-3 col-md-12 mb-1">
+<div class="footer-brand"><a aria-label="Yahoo!" class="footer-logo w-inline-block" href="/">
+<div class="w-embed"><svg id="Layer_1" style="enable-background:new 0 0 796.3 236.4;" version="1.1" viewbox="0 0 796.3 236.4" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+
+<g>
+<path class="st0" d="M233.4,62.9v11.2c-6.4-8.3-18.3-14-32.1-14c-32.6,0-56.8,28.8-56.8,62.5c0,34.7,24,62.5,56.8,62.5
+		c13.8,0,25.7-5.5,32.1-14.3V182H274v-119H233.4z M288,10.2V182h42.1v-63.4c0-12.4,5.9-19.7,15.4-19.7c9.3,0,14.5,6.4,14.5,18.3V182
+		h42.1v-74.9c0-29-15.7-47-40.9-47c-13.5,0-24,5.2-31.4,14.5V10.2H288z M672.7,122.6c0,35.6-27.3,62.5-63.7,62.5
+		s-63.7-26.9-63.7-62.5c0-35.6,27.3-62.5,63.7-62.5S672.7,86.9,672.7,122.6L672.7,122.6z M538.2,122.6c0,35.6-27.3,62.5-63.7,62.5
+		c-36.4,0-63.7-26.9-63.7-62.5c0-35.6,27.3-62.5,63.7-62.5C510.9,60.1,538.2,86.9,538.2,122.6L538.2,122.6z M8.6,62.9l50.9,120
+		l-18.3,43.2h44.7l67.7-163.2h-44.4l-27.6,69.9L54.2,62.9H8.6z M209.8,147c-14,0-24.7-10.7-24.7-24.5c0-13.8,10.7-24.5,24.7-24.5
+		c13.8,0,24.5,10.7,24.5,24.5C234.3,136.4,223.6,147,209.8,147L209.8,147z M498.3,122.6c0-13.3-10-24-23.8-24
+		c-13.8,0-23.8,10.7-23.8,24c0,13.3,10,24,23.8,24C488.3,146.6,498.3,135.9,498.3,122.6L498.3,122.6z M632.8,122.6
+		c0-13.3-10-24-23.8-24c-13.8,0-23.8,10.7-23.8,24c0,13.3,10,24,23.8,24C622.8,146.6,632.8,135.9,632.8,122.6L632.8,122.6z
+		 M678,156.8c0,15,11.6,27.3,27.3,27.3c16.2,0,28.3-12.8,28.3-28.3c0-15.2-11.6-27.3-27.3-27.3C690.1,128.5,678,141.6,678,156.8
+		L678,156.8z M737.8,10.2l-44.7,107.9h49.9l44.7-107.9H737.8z"></path>
+</g>
+</svg></div>
+</a>
+<p>Yahoo is a media and technology company connecting people to their passions.</p>
+<div class="row footer-social-links">
+<div class="col col-lg-3"><a class="footer-social-link w-inline-block" href="https://twitter.com/yahooads" target="_blank"><img alt="" class="social-media" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64de698831e42448762755a7_x.svg"/></a></div>
+<div class="col col-lg-3"><a class="footer-social-link w-inline-block" href="https://www.linkedin.com/company/yahoo-advertising/" target="_blank"><img alt="LinkedIn" class="social-media" loading="lazy" src="https://assets-global.website-files.com/64232e2dde875c62a89eaa86/64232e2dde875ce1c19eaaed_linkedin.svg"/></a></div>
+</div>
+<p class="text-small"><sup>©</sup> <span class="copyright-year">2024</span>. Yahoo. All Rights Reserved.</p>
+</div>
+<div class="hr visible-md"></div>
+</div>
+<div class="col col-lg-3 col-md-4 col-sm-12 mb-2">
+<h3 class="h4 condensed mb-1">About Us</h3>
+<p><a class="footer-link" href="/about/our-story">Our Story</a></p>
+<p><a class="footer-link" href="/about">Why Yahoo</a></p>
+<p><a class="footer-link" href="https://www.yahooinc.com/press" target="_blank">Press</a></p>
+<p><a class="footer-link" href="https://www.yahooinc.com/careers" target="_blank">Careers</a></p>
+<p><a class="footer-link" href="https://www.yahooinc.com/accessibility" target="_blank">Accessibility</a></p>
+</div>
+<div class="col col-lg-3 col-md-4 col-sm-12 mb-2">
+<h3 class="h4 condensed mb-1">Brand Trust</h3>
+<p><a class="footer-link" href="https://legal.yahoo.com/xw/en/yahoo/privacy/topic/b2bprivacypolicy/index.html" target="_blank">Privacy Policy</a></p>
+<p><a class="footer-link" href="https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html" target="_blank">Terms of Service</a></p>
+<p><a class="footer-link" href="https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html" target="_blank">About Our Ads</a></p>
+<p><a class="footer-link" href="http://www.yahooinc.com/business-and-human-rights/" target="_blank">Business &amp; Human Rights</a></p>
+<p><a class="footer-link" href="/archive/gender-pay-report">Gender Pay Report</a></p>
+<p><a class="footer-link" href="https://yahooinc.com/eco/standardsofbusinessconduct" target="_blank">Code of Conduct</a></p>
+</div>
+<div class="col col-lg-3 col-md-4 col-sm-12 mb-2">
+<h3 class="h4 condensed mb-1">Get Started</h3>
+<p>Find the right advertising solution for your business.</p><a class="btn btn-secondary btn-light w-button" href="/contact">Get in Touch</a>
+</div>
+</div>
+</div>
+</footer>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5X979WV" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--Set Footer Copyright Year-->
+
+<!--Add <sup> around all ®-->
+
+<!--Form submit success animation trigger-->
+
+<!--IF User is on IE Make all Cards D Block-->
+<!-- Owl Slider - CSS -->
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha256-UhQQ4fxEeABh4JrcmAJ1+16id/1dnlOEVCFOxDef9Lw=" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha256-kksNxjDRxd/5+jGurZUJd1sdR2v+ClrCl3svESBaJqw=" rel="stylesheet"/>
+
+<!-- Owl Slider - JS -->
+
+
+<!-- Advanced Forms Code -->
+
+<!-- Advanced Forms Init -->
+
+<div style="display: none; visibility: hidden;">
+
+
+</div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div><div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-fade-in" style="display: none;transition: visibility 0s 400ms, opacity 400ms linear;
+                    opacity: 0;visibility: hidden;"></div><div class="otFloatingRoundedCorner ot-bottom-left ot-wo-title vertical-align-content" id="onetrust-banner-sdk" style="display: none;bottom: 1rem;visibility: hidden;
+                    opacity: 0;transition: visibility 0s 400ms, opacity 400ms linear;" tabindex="0"><div aria-describedby="onetrust-policy-text" aria-label="Privacy" aria-modal="true" class="ot-sdk-container" role="alertdialog"><div class="ot-sdk-row"><div class="ot-sdk-twelve ot-sdk-columns" id="onetrust-group-container"><div id="onetrust-policy"><div class="banner-header"><div class="banner_logo"></div></div><p id="onetrust-policy-text">By clicking “Accept all” you agree that Yahoo and our partners will store and/or access information on your device through the use of cookies and similar technologies and process your personal data, to display and measure ads and content and for audience insights. Select “Manage settings” to manage your choices. <a aria-label="More information about your privacy" href="https://legal.yahoo.com/xw/en/yahoo/privacy/topic/b2bprivacypolicy/index.html">Find out more about how we use your information in our B2B Privacy Policy.</a></p></div></div><div class="ot-sdk-twelve ot-sdk-columns" id="onetrust-button-group-parent"><div id="onetrust-button-group"><div class="banner-actions-container"><button id="onetrust-accept-btn-handler">Accept All</button> </div><button class="cookie-setting-link" id="onetrust-pc-btn-handler">Manage Settings</button></div></div><!-- Close Button --><div id="onetrust-close-btn-container"></div><!-- Close Button END--></div></div></div><div aria-describedby="ot-pc-desc" aria-label="Privacy Preference Center" aria-modal="true" class="otPcTab ot-fade-in" id="onetrust-pc-sdk" lang="en" role="alertdialog" style="display: none;
+                    transition: visibility 0s 400ms, opacity 400ms linear;
+                    opacity: 0;visibility: hidden;"><!-- pc header --><div class="ot-pc-header" role="presentation"><!-- Header logo --><div aria-label="Yahoo Logo" class="ot-pc-logo" role="img"><img alt="Yahoo Logo" src="https://cdn.cookielaw.org/logos/76989bf4-b703-41bc-a2c8-4e3b8679cc96/f8232573-ef64-4d23-be74-649600bdcdea/9f00a9bf-e0e0-4e4f-a264-0a2635449f20/YAHOO_LOGO_GRAPEJELLY%236001D2_RGB.png"/></div><div class="ot-title-cntr"><h2 id="ot-pc-title">Privacy Preference Center</h2><div class="ot-close-cntr"><button aria-label="Close" class="ot-close-icon" id="close-pc-btn-handler" style='background-image: url("https://cdn.cookielaw.org/logos/static/ot_close.svg");' tabindex="0"></button></div></div></div><!-- content --><!-- Groups / Sub groups with cookies --><div class="ot-pc-scrollbar ot-sdk-row" id="ot-pc-content" style="height: 425px;"><div class="ot-optout-signal ot-hide"><div class="ot-optout-icon"><svg xmlns="http://www.w3.org/2000/svg"><path class="ot-floating-button__svg-fill" d="M14.588 0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" fill-rule="evenodd"></path></svg></div><span></span></div><div class="ot-sdk-container ot-grps-cntr ot-sdk-column"><div aria-label="Cookie Categories" class="ot-sdk-four ot-sdk-columns ot-tab-list"><ul class="ot-cat-grp" role="tablist"><li class="ot-abt-tab" role="presentation"><!-- About Privacy container --><div aria-controls="ot-tab-desc" aria-selected="true" class="ot-active-menu category-menu-switch-handler" role="tab" tabindex="0"><h3 id="ot-pvcy-txt">Your Privacy</h3></div></li><li class="ot-cat-item ot-always-active-group ot-vs-config" data-optanongroupid="C0001" role="presentation"><div aria-controls="ot-desc-id-C0001" aria-selected="false" class="category-menu-switch-handler" role="tab" tabindex="-1"><h3 id="ot-header-id-C0001">Strictly Necessary Cookies</h3></div></li><li class="ot-cat-item ot-vs-config" data-optanongroupid="C0004" role="presentation"><div aria-controls="ot-desc-id-C0004" aria-selected="false" class="category-menu-switch-handler" role="tab" tabindex="-1"><h3 id="ot-header-id-C0004">Targeting Cookies</h3></div></li><li class="ot-cat-item ot-vs-config" data-optanongroupid="C0002" role="presentation"><div aria-controls="ot-desc-id-C0002" aria-selected="false" class="category-menu-switch-handler" role="tab" tabindex="-1"><h3 id="ot-header-id-C0002">Performance Cookies</h3></div></li><li class="ot-cat-item ot-vs-config" data-optanongroupid="C0003" role="presentation"><div aria-controls="ot-desc-id-C0003" aria-selected="false" class="category-menu-switch-handler" role="tab" tabindex="-1"><h3 id="ot-header-id-C0003">Functional Cookies</h3></div></li></ul></div><div class="ot-tab-desc ot-sdk-eight ot-sdk-columns"><div aria-labelledby="ot-pvcy-hdr" class="ot-desc-cntr" id="ot-tab-desc" role="tabpanel" tabindex="0"><h4 id="ot-pvcy-hdr">Your Privacy</h4><p class="ot-grp-desc" id="ot-pc-desc">When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+            <br/><a aria-label="More information about your privacy, opens in a new tab" class="privacy-notice-link" href="https://cookiepedia.co.uk/giving-consent-to-cookies" rel="noopener" tabindex="0" target="_blank">More information</a></p></div><div class="ot-desc-cntr ot-hide ot-always-active-group" id="ot-desc-id-C0001" role="tabpanel" tabindex="0"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Strictly Necessary Cookies</h4><div class="ot-tgl-cntr"><div class="ot-always-active">Always Active</div></div></div><p class="ot-grp-desc ot-category-desc">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div><div class="ot-desc-cntr ot-hide" id="ot-desc-id-C0004" role="tabpanel" tabindex="0"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Targeting Cookies</h4><div class="ot-tgl"><input aria-checked="false" aria-labelledby="ot-header-id-C0004" class="category-switch-handler" data-optanongroupid="C0004" id="ot-group-id-C0004" name="ot-group-id-C0004" role="switch" tabindex="0" type="checkbox"/> <label class="ot-switch" for="ot-group-id-C0004"><span aria-checked="false" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Targeting Cookies</span></label> </div><div class="ot-tgl-cntr"></div></div><p class="ot-grp-desc ot-category-desc">These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div><div class="ot-desc-cntr ot-hide" id="ot-desc-id-C0002" role="tabpanel" tabindex="0"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Performance Cookies</h4><div class="ot-tgl"><input aria-checked="false" aria-labelledby="ot-header-id-C0002" class="category-switch-handler" data-optanongroupid="C0002" id="ot-group-id-C0002" name="ot-group-id-C0002" role="switch" tabindex="0" type="checkbox"/> <label class="ot-switch" for="ot-group-id-C0002"><span aria-checked="false" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Performance Cookies</span></label> </div><div class="ot-tgl-cntr"></div></div><p class="ot-grp-desc ot-category-desc">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div><div class="ot-desc-cntr ot-hide" id="ot-desc-id-C0003" role="tabpanel" tabindex="0"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Functional Cookies</h4><div class="ot-tgl"><input aria-checked="false" aria-labelledby="ot-header-id-C0003" class="category-switch-handler" data-optanongroupid="C0003" id="ot-group-id-C0003" name="ot-group-id-C0003" role="switch" tabindex="0" type="checkbox"/> <label class="ot-switch" for="ot-group-id-C0003"><span aria-checked="false" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Functional Cookies</span></label> </div><div class="ot-tgl-cntr"></div></div><p class="ot-grp-desc ot-category-desc">These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div></div></div></div><!-- Vendors / Hosts --><section class="ot-hide ot-enbl-chr" id="ot-pc-lst"><div class="ot-lst-cntr ot-pc-scrollbar"><div id="ot-pc-hdr"><div id="ot-lst-title"><button aria-label="Back" class="ot-link-btn back-btn-handler" tabindex="0"><svg id="ot-back-arw" viewbox="0 0 444.531 444.531" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Back Button</title><g><path d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
+                  l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
+                  c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
+                  s18.795-3.521,25.834-10.564l21.409-21.412c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978
+                  L213.13,222.409z" fill="#656565"></path></g></svg></button><h3>Back</h3></div><div class="ot-lst-subhdr"><div id="ot-search-cntr"><p class="ot-scrn-rdr" role="status"></p><label class="ot-scrn-rdr" for="vendor-search-handler"></label> <input id="vendor-search-handler" name="vendor-search-handler" tabindex="0" type="text"/> <svg aria-hidden="true" viewbox="0 -30 110 110" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23
+              s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+              c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+              s-17-7.626-17-17S14.61,6,23.984,6z" fill="#2e3644"></path></svg></div><div id="ot-fltr-cntr"><button aria-haspopup="true" aria-label="Filter" id="filter-btn-handler"><svg aria-hidden="true" role="presentation" viewbox="0 0 402.577 402.577" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Filter Button</title><g><path d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
+                            c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
+                            c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
+                            C402.765,25.895,404.093,19.231,400.858,11.427z" fill="#2c3643"></path></g></svg></button></div></div></div><section class="ot-pc-scrollbar" id="ot-lst-cnt"><div class="ot-sdk-row"><div class="ot-sdk-column"><div id="ot-sel-blk"><div class="ot-sel-all"><div class="ot-sel-all-hdr"><span class="ot-consent-hdr">Consent</span> <span class="ot-li-hdr">Leg.Interest</span></div><div class="ot-sel-all-chkbox"><div class="ot-tgl" id="ot-selall-hostcntr"><input aria-checked="false" id="select-all-hosts-groups-handler" name="switch" role="switch" tabindex="0" type="checkbox"/> <label class="ot-switch" for="select-all-hosts-groups-handler"><span aria-checked="false" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Switch Label</span></label> <span class="ot-label-status">label</span></div><div class="ot-tgl" id="ot-selall-vencntr"><input aria-checked="false" id="select-all-vendor-groups-handler" name="switch" role="switch" tabindex="0" type="checkbox"/> <label class="ot-switch" for="select-all-vendor-groups-handler"><span aria-checked="false" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Switch Label</span></label> <span class="ot-label-status">label</span></div><div class="ot-tgl" id="ot-selall-licntr"><input aria-checked="false" id="select-all-vendor-leg-handler" name="switch" role="switch" tabindex="0" type="checkbox"/> <label class="ot-switch" for="select-all-vendor-leg-handler"><span aria-checked="false" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Switch Label</span></label> <span class="ot-label-status">label</span></div></div></div></div></div></div></section></div><div id="ot-anchor"></div><section id="ot-fltr-modal"><div id="ot-fltr-cnt"><button id="clear-filters-handler">Clear</button><div class="ot-fltr-scrlcnt ot-pc-scrollbar"><div class="ot-fltr-opts"><div class="ot-fltr-opt"><div class="ot-chkbox"><input aria-checked="false" class="category-filter-handler" id="chkbox-id" tabindex="0" type="checkbox"/> <label for="chkbox-id"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div><div class="ot-fltr-btns"><button id="filter-apply-handler">Apply</button> <button id="filter-cancel-handler">Cancel</button></div></div></div></section></section><!-- Footer buttons and logo --><div class="ot-pc-footer"><div class="ot-btn-container"><button class="save-preference-btn-handler onetrust-close-btn-handler" tabindex="0">Confirm My Choices</button><div class="ot-btn-subcntr"> <button id="accept-recommended-btn-handler" style="display: inline-block;" tabindex="0">Allow All</button></div></div><div class="ot-pc-footer-logo"><a aria-label="Powered by OneTrust Opens in a new Tab" href="https://www.onetrust.com/products/cookie-consent/" rel="noopener noreferrer" tabindex="0" target="_blank"><img alt="Powered by Onetrust" src="https://cdn.cookielaw.org/logos/static/powered_by_logo.svg" title="Powered by OneTrust Opens in a new Tab"/></a></div></div><!-- Cookie subgroup container --><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element --><!-- Checkbox HTML --><!-- Arrow SVG element --><!-- Accordion basic element --><span aria-atomic="true" aria-live="polite" class="ot-scrn-rdr">Your Privacy [`dialog closed`]</span><!-- Vendor Service container and item template --><iframe aria-hidden="true" class="ot-text-resize" style="position: absolute; top: -50000px; width: 100em;" title="onetrust-text-resize"></iframe></div></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration><div id="detach-button-host" style="--opera-video-toolbar-button-color-contrasting: hsla(0, 0%, 100%, 1); top: 933.188px; left: 878.148px;"></div><div class="hidden" id="qr-host" style="--opera-video-toolbar-button-color-contrasting: hsla(0, 0%, 100%, 1);"></div></html> The page is part of the website yahoo.com . It is in the url https://www.advertising.yahooinc.com/our-dsp and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female", "birthyear": "1970"} Does this page contains user specific information? Answer only with yes or no.

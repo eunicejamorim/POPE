@@ -1,0 +1,1040 @@
+The following text is the html file of a webpage. <html class="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-disabled vector-feature-appearance-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-not-available no-touch vector-animations-ready ve-available" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Wikipedia, the free encyclopedia</title>
+
+
+<link href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<meta content="MediaWiki 1.43.0-wmf.7" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/5/5c/Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1481" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg/800px-Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="988" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg/640px-Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="790" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Wikipedia, the free encyclopedia" property="og:title"/>
+<meta content="website" property="og:type"/>
+<link href="//upload.wikimedia.org" rel="preconnect"/>
+<link href="//en.m.wikipedia.org/wiki/Main_Page" media="only screen and (max-width: 720px)" rel="alternate"/>
+<link href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom" rel="alternate" title="Wikipedia picture of the day feed" type="application/atom+xml"/>
+<link href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom" rel="alternate" title="Wikipedia featured articles feed" type="application/atom+xml"/>
+<link href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom" rel="alternate" title='Wikipedia "On this day..." feed' type="application/atom+xml"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="icon"/>
+<link href="/w/rest.php/v1/search" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://en.wikipedia.org/wiki/Main_Page" rel="canonical"/>
+<link href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="license"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Main_Page rootpage-Main_Page skin-vector-2022 action-view uls-dialog-sticky-hide" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" data-new-gr-c-s-loaded="14.1176.0"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+<header class="vector-header mw-header">
+<div class="vector-header-start">
+<nav aria-label="Site" class="vector-main-menu-landmark" role="navigation">
+<div class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right" id="vector-main-menu-dropdown">
+<input aria-haspopup="true" aria-label="Main menu" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-main-menu-dropdown" id="vector-main-menu-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-main-menu-dropdown-checkbox" id="vector-main-menu-dropdown-label"><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+<span class="vector-dropdown-label-text">Main menu</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-main-menu-unpinned-container">
+<div class="vector-main-menu vector-pinnable-element" id="vector-main-menu">
+<div class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned" data-feature-name="main-menu-pinned" data-pinnable-element-id="vector-main-menu" data-pinned-container-id="vector-main-menu-pinned-container" data-saved-pinned-state="false" data-unpinned-container-id="vector-main-menu-unpinned-container">
+<div class="vector-pinnable-header-label">Main menu</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-navigation" id="p-navigation">
+<div class="vector-menu-heading">
+            Navigation
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [alt-shift-z]"><span>Main page</span></a></li><li class="mw-list-item" id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Visit a randomly selected article [alt-shift-x]"><span>Random article</span></a></li><li class="mw-list-item" id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li class="mw-list-item" id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-interaction" id="p-interaction">
+<div class="vector-menu-heading">
+            Contribute
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [alt-shift-r]"><span>Recent changes</span></a></li><li class="mw-list-item" id="n-upload"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<a class="mw-logo" href="/wiki/Main_Page">
+<img alt="" aria-hidden="true" class="mw-logo-icon" height="50" src="/static/images/icons/wikipedia.png" width="50"/>
+<span class="mw-logo-container skin-invert">
+<img alt="Wikipedia" class="mw-logo-wordmark" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;"/>
+<img alt="The Free Encyclopedia" class="mw-logo-tagline" height="13" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" style="width: 7.3125em; height: 0.8125em;" width="117"/>
+</span>
+</a>
+</div>
+<div class="vector-header-end">
+<div class="vector-search-box-vue vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<a accesskey="f" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" href="/wiki/Special:Search" id="" title="Search Wikipedia [alt-shift-f]"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+<span>Search</span>
+</a>
+<div class="vector-typeahead-search-container">
+<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+<form action="/w/index.php" class="cdx-search-input cdx-search-input--has-end-button" id="searchform">
+<div class="cdx-search-input__input-wrapper" data-search-loc="header-moved" id="simpleSearch">
+<div class="cdx-text-input cdx-text-input--has-start-icon">
+<input accesskey="f" aria-label="Search Wikipedia" autocapitalize="sentences" autocomplete="off" class="cdx-text-input__input" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [alt-shift-f]" type="search"/>
+<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+</div>
+<input name="title" type="hidden" value="Special:Search"/>
+</div>
+<button class="cdx-button cdx-search-input__end-button">Search</button>
+</form>
+</div>
+</div>
+</div>
+<nav aria-label="Personal tools" class="vector-user-links vector-user-links-wide" role="navigation">
+<div class="vector-user-links-main">
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-preferences">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-userpage">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<nav aria-label="Appearance" class="vector-appearance-landmark">
+</nav>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-notifications">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet" id="p-vector-user-menu-overflow">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-createaccount-2"><a class="" data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a>
+</li>
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-login-2"><a accesskey="o" class="" data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page" title="You're encouraged to log in; however, it's not mandatory. [alt-shift-o]"><span>Log in</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out" id="vector-user-links-dropdown" title="Log in and more options">
+<input aria-haspopup="true" aria-label="Personal tools" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-user-links-dropdown" id="vector-user-links-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-user-links-dropdown-checkbox" id="vector-user-links-dropdown-label"><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+<span class="vector-dropdown-label-text">Personal tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item" id="p-personal" title="User menu">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li class="user-links-collapsible-item mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page" title="You're encouraged to log in; however, it's not mandatory. [alt-shift-o]"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor" id="p-user-menu-anon-editor">
+<div class="vector-menu-heading">
+            Pages for logged out editors <a aria-label="Learn more about editing" href="/wiki/Help:Introduction"><span>learn more</span></a>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [alt-shift-y]"><span>Contributions</span></a></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [alt-shift-n]"><span>Talk</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+</div>
+<div class="mw-page-container">
+<div class="mw-page-container-inner">
+<div class="vector-sitenotice-container">
+<div class="notheme" id="siteNotice"><!-- CentralNotice --></div>
+</div>
+<div class="vector-column-start">
+<div class="vector-main-menu-container">
+<div id="mw-navigation">
+<nav aria-label="Site" class="vector-main-menu-landmark" id="mw-panel" role="navigation">
+<div class="vector-pinned-container" id="vector-main-menu-pinned-container">
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="mw-content-container">
+<main class="mw-body" id="content" role="main">
+<header class="mw-body-header vector-page-titlebar vector-page-titlebar-blank">
+<h1 class="firstHeading mw-first-heading" id="firstHeading" style="display: none"><span class="mw-page-title-main">Main Page</span></h1>
+<div class="mw-indicators">
+</div>
+</header>
+<div class="vector-page-toolbar">
+<div class="vector-page-toolbar-container">
+<div id="left-navigation">
+<nav aria-label="Namespaces">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages" id="p-associated-pages">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Main_Page" title="View the content page [alt-shift-c]"><span>Main Page</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/Talk:Main_Page" rel="discussion" title="Discuss improvements to the content page [alt-shift-t]"><span>Talk</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-dropdown emptyPortlet" id="p-variants">
+<input aria-haspopup="true" aria-label="Change language variant" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="p-variants-checkbox" id="p-variants-label"><span class="vector-dropdown-label-text">English</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-variants emptyPortlet" id="p-variants">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="vector-collapsible" id="right-navigation">
+<nav aria-label="Views">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views" id="p-views">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-view"><a href="/wiki/Main_Page"><span>Read</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-viewsource"><a accesskey="e" href="/w/index.php?title=Main_Page&amp;action=edit" title="This page is protected.
+    You can view its source [alt-shift-e]"><span>View source</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Main_Page&amp;action=history" title="Past revisions of this page [alt-shift-h]"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Page tools" class="vector-page-tools-landmark">
+<div class="vector-dropdown vector-page-tools-dropdown" id="vector-page-tools-dropdown">
+<input aria-haspopup="true" aria-label="Tools" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-page-tools-dropdown" id="vector-page-tools-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="vector-page-tools-dropdown-checkbox" id="vector-page-tools-dropdown-label"><span class="vector-dropdown-label-text">Tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-page-tools-unpinned-container">
+<div class="vector-page-tools vector-pinnable-element" id="vector-page-tools">
+<div class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned" data-feature-name="page-tools-pinned" data-pinnable-element-id="vector-page-tools" data-pinned-container-id="vector-page-tools-pinned-container" data-saved-pinned-state="false" data-unpinned-container-id="vector-page-tools-unpinned-container">
+<div class="vector-pinnable-header-label">Tools</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items" id="p-cactions" title="More options">
+<div class="vector-menu-heading">
+            Actions
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-more-collapsible-item mw-list-item" id="ca-more-view"><a href="/wiki/Main_Page"><span>Read</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-viewsource"><a href="/w/index.php?title=Main_Page&amp;action=edit"><span>View source</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-history"><a href="/w/index.php?title=Main_Page&amp;action=history"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-tb" id="p-tb">
+<div class="vector-menu-heading">
+            General
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Main_Page" title="List of all English Wikipedia pages containing links to this page [alt-shift-j]"><span>What links here</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [alt-shift-k]"><span>Related changes</span></a></li><li class="mw-list-item" id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [alt-shift-u]"><span>Upload file</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [alt-shift-q]"><span>Special pages</span></a></li><li class="mw-list-item" id="t-permalink"><a href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1225315602" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Main_Page&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Main_Page&amp;id=1225315602&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li class="mw-list-item" id="t-urlshortener"><a aria-haspopup="dialog" href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMain_Page"><span>Get shortened URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMain_Page"><span>Download QR code</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Structured data on this page hosted by Wikidata [alt-shift-g]"><span>Wikidata item</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-coll-print_export" id="p-coll-print_export">
+<div class="vector-menu-heading">
+            Print/export
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Main_Page&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Main_Page&amp;printable=yes" title="Printable version of this page [alt-shift-p]"><span>Printable version</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects" id="p-wikibase-otherprojects">
+<div class="vector-menu-heading">
+            In other projects
+        </div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-foundation mw-list-item"><a href="https://foundation.wikimedia.org/wiki/Home" hreflang="en"><span>Wikimedia Foundation</span></a></li><li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en"><span>MediaWiki</span></a></li><li class="wb-otherproject-link wb-otherproject-meta mw-list-item"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en"><span>Meta-Wiki</span></a></li><li class="wb-otherproject-link wb-otherproject-outreach mw-list-item"><a href="https://outreach.wikimedia.org/wiki/Main_Page" hreflang="en"><span>Wikimedia Outreach</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en"><span>Wikispecies</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item"><a href="https://en.wikibooks.org/wiki/Main_Page" hreflang="en"><span>Wikibooks</span></a></li><li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en"><span>Wikidata</span></a></li><li class="wb-otherproject-link wb-otherproject-wikifunctions mw-list-item"><a href="https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page" hreflang="en"><span>Wikifunctions</span></a></li><li class="wb-otherproject-link wb-otherproject-wikimania badge-Q70894304 mw-list-item" title=""><a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en"><span>Wikimania</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://en.wikinews.org/wiki/Main_Page" hreflang="en"><span>Wikinews</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/Main_Page" hreflang="en"><span>Wikiquote</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://en.wikisource.org/wiki/Main_Page" hreflang="en"><span>Wikisource</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiversity mw-list-item"><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page" hreflang="en"><span>Wikiversity</span></a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item"><a href="https://en.wikivoyage.org/wiki/Main_Page" hreflang="en"><span>Wikivoyage</span></a></li><li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item"><a href="https://en.wiktionary.org/wiki/Wiktionary:Main_Page" hreflang="en"><span>Wiktionary</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="vector-column-end">
+<div class="vector-sticky-pinned-container">
+<nav aria-label="Page tools" class="vector-page-tools-landmark">
+<div class="vector-pinned-container" id="vector-page-tools-pinned-container">
+</div>
+</nav>
+<nav aria-label="Appearance" class="vector-appearance-landmark">
+</nav>
+</div>
+</div>
+<div aria-labelledby="firstHeading" class="vector-body ve-init-mw-desktopArticleTarget-targetContainer" data-mw-ve-target-container="" id="bodyContent">
+<div class="vector-body-before-content">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div class="cn-fundraising" id="centralNotice">
+
+<div aria-label="fundraising banner" class="frb frb-rml-disabled frb-country-PT" id="frb-inline" role="region" style="">
+<div class="modal">
+<div class="modal-container">
+<button class="modal-close modal-close-x">
+<svg viewbox="0 0 20 16" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd" transform="translate(1 1)"><path d="M7.181 13.285L.753 7 7.181.715" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.778"></path><rect fill="#000" height="1.778" rx=".889" width="18.182" x=".818" y="6.111"></rect></g></svg>
+</button>
+<div class="modal-title">
+<span class="modal-title-text">Thank you, dear donor!</span>
+</div>
+<div class="modal-text">
+                    Your generosity helps keep Wikipedia and its sister sites thriving. Select "hide appeals" to suppress fundraising messages in this browser for a week, or go back to the appeal if you're still interested in donating.
+                </div>
+<div class="frb-modal-buttons">
+<button class="modal-close modal-close-button" name="frb-modal-close-button">Hide appeals for a week</button>
+<button class="modal-close modal-close-button" name="frb-modal-back-button">Back to appeal</button>
+</div>
+</div>
+</div>
+<div class="frb-inline-main">
+<div class="frb-inline-message-wrapper">
+<div class="frb-inline-topbar">
+                Wikipedia is yours.
+            </div>
+<div class="frb-inline-message">
+<div>
+<svg aria-hidden="true" class="frb-icon frb-icon-info" height="16" role="img" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="nonzero">
+<circle cx="8.035" cy="8.143" r="7.844"></circle>
+<path d="M9.672 6.097l-1.695 5.879c-.094.336-.14.557-.14.662 0 .06.024.117.074.169.05.053.101.079.157.079a.428.428 0 0 0 .28-.124c.249-.204.547-.574.894-1.108l.28.165c-.831 1.45-1.716 2.175-2.653 2.175-.359 0-.644-.101-.856-.302a1.008 1.008 0 0 1-.318-.765c0-.204.046-.463.14-.777l1.15-3.953c.11-.38.165-.667.165-.86a.424.424 0 0 0-.157-.322c-.105-.094-.248-.14-.43-.14-.083 0-.182.002-.298.007l.108-.33 2.803-.455h.496zm-.513-3.804c.342 0 .63.119.864.356.234.237.352.524.352.86 0 .336-.119.623-.356.86-.225.232-.537.36-.86.355-.33 0-.615-.118-.852-.355a1.171 1.171 0 0 1-.355-.86c0-.336.117-.623.351-.86a1.16 1.16 0 0 1 .856-.356z"></path>
+</g>
+</svg>
+                Please don't skip this 1-minute read. Today, our nonprofit asks for your support. It matters. When Wikipedia was created, it was one of the first spaces online where you could learn for free, without ads. This space is yours. Just 2% of our readers donate, so whatever gift you can afford helps, whether it's <span class="frb-replaced">€2</span> or <span class="frb-replaced">€25</span>. <i>— The Wikimedia Foundation, nonprofit behind Wikipedia and other free knowledge projects.</i>
+</div>
+</div>
+</div>
+<form class="frb-form" id="frb-form">
+<div class="frb-step-1">
+<fieldset class="frb-cta frb-cta-first">
+<ul class="frb-btn-wrapper">
+<li>
+<button class="active frb-submit frb-btn-cta" id="donate-minimum">
+<span class="frb-btn-cta-label">Give <span class="frb-replaced">€2</span></span>
+</button>
+</li>
+<li>
+<button class="frb-btn frb-btn-simple" id="donate-custom">
+                                    Give a different amount
+                                </button>
+</li>
+</ul>
+<div class="frb-cta-first-payment-options frb-logo-wrapper">
+<div class="frb-pm-cc frb-cctypes-vmaj">
+<span class="frb-cc-logo-wrapper">
+<svg aria-labelledby="frb-cc-logo-visa-title" class="frb-cc-logo-visa" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-visa-title">Visa</title><path d="M7.7 0h184.6c4.2 0 7.7 3.3 7.7 7.5v105c0 4.1-3.4 7.5-7.7 7.5H7.7c-4.2 0-7.7-3.3-7.7-7.5V7.5C0 3.3 3.4 0 7.7 0z" fill="#FFFFFF"></path><path d="M0 98v14.3c0 4.2 3.4 7.7 7.7 7.7h184.6c4.2 0 7.7-3.4 7.7-7.7V98H0z" fill="#F7B600"></path><path d="M200 22V7.7c0-4.2-3.4-7.7-7.7-7.7H7.7C3.4 0 0 3.4 0 7.7V22h200zM81.9 36.9L62.3 83.4H49.4l-9.6-37.2c-.6-2.3-1.1-3.1-2.8-4.1-3.8-1.8-7.8-3.1-12-3.9l.2-1.4h20.6c2.8 0 5.1 2 5.6 4.8l5.1 26.9 12.6-31.7h12.8zm50.3 31.3c0-12.3-17-13-16.9-18.4 0-1.7 1.6-3.4 5.2-3.9 4.1-.4 8.2.3 12 2.1l2.1-9.8c-3.6-1.4-7.5-2.1-11.4-2.1-12 0-20.4 6.4-20.5 15.3-.1 6.8 6 10.4 10.6 12.6s6.3 3.8 6.3 5.8c0 3.1-3.8 4.5-7.3 4.5-4.3.1-8.6-.9-12.5-2.9l-2.2 10.2c4.3 1.7 8.9 2.5 13.5 2.5 12.7 0 20.9-6.2 21.1-15.9m31.6 15.2H175l-9.8-46.5h-10.4c-2.3 0-4.3 1.3-5.2 3.4l-18.3 43.1H144l2.5-7h15.6l1.7 7zm-13.6-16.5l6.4-17.4 3.7 17.4h-10.1zm-51-30l-10 46.5H77.1l10-46.5h12.1z" fill="#1A1F71"></path></svg>
+<svg aria-labelledby="frb-cc-logo-mastercard-title" class="frb-cc-logo-mastercard" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-mastercard-title">MasterCard</title><path d="M192.3 120H7.7c-4.2 0-7.7-3.4-7.7-7.5V7.5C0 3.4 3.5 0 7.7 0h184.6c4.2 0 7.7 3.4 7.7 7.5v105c0 4.1-3.5 7.5-7.7 7.5z"></path><g id="Layer_1-2"><path d="M61.9 106.5v-6.2c.2-2-1.3-3.7-3.3-3.9h-.5c-1.4-.1-2.7.6-3.5 1.8-.7-1.1-1.9-1.8-3.3-1.8-1.2-.1-2.3.5-3 1.5v-1.2h-2v9.9h2v-5.7c-.1-1.3.8-2.5 2.1-2.6h.4c1.4 0 2.2.9 2.2 2.6v5.7h2v-5.7c-.1-1.3.8-2.5 2.1-2.6h.4c1.5 0 2.2.9 2.2 2.6v5.7l2.2-.1zm32.1-10h-3.6v-3h-2v3h-2.1v1.8h2.1v4.7c0 2.3.8 3.7 3.3 3.7.9 0 1.9-.3 2.7-.8l-.6-1.8c-.6.3-1.2.5-1.9.6-1 0-1.5-.7-1.5-1.7v-4.8H94v-1.7zm18.3-.2c-1.1 0-2.1.5-2.7 1.5v-1.2h-2v9.9h2v-5.6c0-1.6.8-2.7 2.2-2.7.5 0 .9.1 1.3.2l.7-1.9c-.5-.1-1-.2-1.5-.2zm-27.7 1c-1.2-.7-2.6-1.1-4-1-2.5 0-4 1.2-4 3.1 0 1.6 1.1 2.6 3.3 2.9l1 .1c1.2.2 1.8.6 1.8 1.1 0 .8-.9 1.3-2.3 1.3-1.2 0-2.3-.3-3.3-1l-1 1.6c1.3.9 2.7 1.3 4.3 1.3 2.8 0 4.4-1.3 4.4-3.2 0-1.9-1.2-2.6-3.3-2.9l-1-.1c-.9-.1-1.8-.4-1.8-1s.8-1.2 2-1.2c1.1 0 2.1.3 3.1.9l.8-1.9zm29.9 4.2c-.1 2.7 2 5.1 4.7 5.2h.5c1.3.1 2.6-.4 3.5-1.2l-1-1.6c-.7.6-1.6.9-2.6.9-1.8-.2-3.2-1.8-3-3.7.2-1.6 1.4-2.9 3-3 .9 0 1.8.3 2.6.9l1-1.6c-1-.8-2.3-1.2-3.5-1.2-2.7-.1-5 2-5.2 4.7v.6zm-13.9-5.2c-2.9 0-4.9 2.1-4.9 5.2-.2 2.7 1.9 5 4.5 5.2h.5c1.5.1 2.9-.4 4-1.4l-1-1.5c-.8.7-1.8 1-2.9 1-1.5.1-2.8-1-3-2.5h7.4v-.8c.1-3.1-1.8-5.2-4.6-5.2zm0 1.8c1.4 0 2.5 1 2.6 2.4v.1h-5.3c.1-1.4 1.3-2.5 2.7-2.5zm-26.7 3.4v-4.9h-2v1.2c-.8-1-2-1.5-3.2-1.5-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2 1.2.1 2.4-.5 3.2-1.5v1.2h2v-4.9zm-7.9 0c-.1-1.7 1.1-3.2 2.8-3.4h.3c1.8.2 3.2 1.8 3 3.7-.2 1.6-1.4 2.9-3 3-1.7 0-3.1-1.4-3.1-3.1-.1 0-.1-.1 0-.2zm76.1-5.2c-1.1 0-2.1.5-2.7 1.5v-1.2h-2v9.9h2v-5.6c0-1.6.8-2.7 2.2-2.7.5 0 .9.1 1.3.2l.7-1.9c-.5-.1-1-.2-1.5-.2zm15.8 8.7c.1 0 .3 0 .4.1.1 0 .2.1.3.2.1.1.2.2.2.3.1.2.1.5 0 .8-.1.1-.1.2-.2.3-.1.1-.2.2-.3.2-.1.1-.3.1-.4.1-.4 0-.8-.2-.9-.6-.1-.2-.1-.5 0-.8.1-.1.1-.2.2-.3.1-.1.2-.2.3-.2.2 0 .3-.1.4-.1zm0 1.8c.1 0 .2 0 .3-.1.1 0 .2-.1.2-.2.3-.3.3-.7 0-1l-.2-.2c-.1 0-.2-.1-.3-.1-.1 0-.2 0-.3.1-.1 0-.2.1-.2.2-.3.3-.3.7 0 1 .1.1.2.1.2.2.1.1.2.1.3.1zm.1-1.2c.1 0 .2 0 .3.1.1.1.1.1.1.2s0 .1-.1.2-.1.1-.2.1l.3.3h-.2l-.3-.3h-.1v.3h-.2v-.9h.4zm-.2.1v.2h.3v-.2h-.3zm-23.3-4.2v-5h-2v1.2c-.8-1-2-1.5-3.2-1.5-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2 1.2.1 2.4-.5 3.2-1.5v1.2h2v-4.8zm-8 0c-.1-1.7 1.1-3.2 2.8-3.4h.3c1.8.2 3.2 1.8 3 3.7-.2 1.6-1.4 2.9-3 3-1.7 0-3.1-1.4-3.1-3.1v-.2zm27.9 0v-9h-2v5.2c-.8-1-2-1.5-3.2-1.5-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2 1.2.1 2.4-.5 3.2-1.5v1.2h2v-4.8zm-8 0c-.1-1.7 1.1-3.2 2.8-3.4h.3c1.8.3 3.1 2 2.8 3.9-.2 1.5-1.4 2.6-2.8 2.8-1.7 0-3.1-1.4-3.1-3.1-.1 0-.1-.1 0-.2z" fill="#FFFFFF" id="_Compound_Path_"></path><g id="_Group_"><path d="M83.9 21h32.4v58.7H83.9z" fill="#FF5F00"></path><path d="M86 50.3C86 38.8 91.2 28 100.2 21c-16.1-12.7-39.4-9.9-52.1 6.3S38.2 67 54.3 79.7c13.4 10.6 32.4 10.6 45.8 0C91.2 72.6 86 61.8 86 50.3z" fill="#EB001B" id="_Path_2"></path><path d="M156.6 73.5v-1.2h.5V72h-1.2v.2h.5v1.2h.2zm2.4 0V72h-.4l-.4 1-.4-1h-.4v1.5h.3v-1.1l.4.9h.3l.4-.9v1.1h.2zm1.2-23.2c0 20.6-16.6 37.3-37.1 37.3-8.3 0-16.4-2.8-22.9-8 16.1-12.7 18.9-36.2 6.2-52.4-1.8-2.3-3.9-4.4-6.2-6.3 16.1-12.7 39.4-9.9 52.1 6.3 5.1 6.6 7.9 14.8 7.9 23.1z" fill="#F79E1B"></path></g></g></svg>
+<svg aria-labelledby="frb-cc-logo-amex-title" class="frb-cc-logo-amex" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-amex-title">Amex</title><lineargradient gradienttransform="translate(0 -3474.102)" gradientunits="userSpaceOnUse" id="SVGID_2_" x1="187.342" x2="13.247" y1="3564.816" y2="3503.596"><stop offset="0" stop-color="#51BCEA"></stop><stop offset="1" stop-color="#3078BC"></stop></lineargradient><path d="M192.3 120H7.7c-4.2 0-7.7-3.5-7.7-7.7V7.7C0 3.5 3.5 0 7.7 0h184.6c4.2 0 7.7 3.5 7.7 7.7v104.7c0 4.1-3.5 7.6-7.7 7.6z" fill="url(#SVGID_2_)"></path><path d="M162.8 60.1L179 42.5h-11L157.4 54l-10.2-11.5h-33.4v35h32.9l10.6-11.6 10.2 11.6h10.8l-15.5-17.4zm-20.3 10.1H122v-7h18.2V56H122v-6.4h20.8l9.1 10.2-9.4 10.4zm-95-7.7l-5.6-13.9-5.6 13.9m74.4 15h-8.5V50.1L90.1 77.5h-7.3L70.7 50.1v27.4h-17l-3.2-7.8H33.2L30 77.5h-9l14.9-35h12.3l14.1 33.1V42.5H76l10.9 23.7 10-23.7h13.8v35z" fill="#FFFFFF"></path></svg>
+<svg aria-labelledby="frb-cc-logo-jcb-title" class="frb-cc-logo-jcb" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-jcb-title">JCB</title><path d="M193.1 0H7.7C3.4 0 0 3.3 0 7.5v105c0 3.9 3.1 7.1 6.9 7.5h185.4c4.3 0 7.7-3.4 7.7-7.5V7.5c0-3.9-3.1-7.1-6.9-7.5z" fill="#FFFFFF"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6338_1_" x1="-227.894" x2="-209.808" y1="959.936" y2="959.936"><stop offset="0" stop-color="#007940"></stop><stop offset=".229" stop-color="#00873F"></stop><stop offset=".743" stop-color="#40A737"></stop><stop offset="1" stop-color="#5CB531"></stop></lineargradient><path d="M130.4 69.6h8.7c.2 0 .8-.1 1.1-.1 1.6-.3 3.1-1.8 3.1-3.9 0-2-1.4-3.5-3.1-3.9-.2-.1-.7-.1-1.1-.1h-8.7v8z" fill="url(#path6338_1_)" id="path6338"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6349_1_" x1="-227.894" x2="-209.823" y1="962.732" y2="962.732"><stop offset="0" stop-color="#007940"></stop><stop offset=".229" stop-color="#00873F"></stop><stop offset=".743" stop-color="#40A737"></stop><stop offset="1" stop-color="#5CB531"></stop></lineargradient><path d="M138.1 15c-8.2 0-15 6.7-15 15v15.6h21.2c.5 0 1.1 0 1.5.1 4.8.2 8.3 2.7 8.3 7 0 3.4-2.4 6.3-6.8 6.8v.2c4.9.3 8.6 3 8.6 7.3 0 4.5-4.1 7.5-9.6 7.5H123V105h22c8.2 0 15-6.7 15-15V15h-21.9z" fill="url(#path6349_1_)" id="path6349"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6360_1_" x1="-227.894" x2="-209.807" y1="965.808" y2="965.808"><stop offset="0" stop-color="#007940"></stop><stop offset=".229" stop-color="#00873F"></stop><stop offset=".743" stop-color="#40A737"></stop><stop offset="1" stop-color="#5CB531"></stop></lineargradient><path d="M142.1 53.7c0-2-1.4-3.3-3.1-3.5-.2 0-.6-.1-.8-.1h-7.8v7.3h7.8c.2 0 .7 0 .8-.1 1.7-.3 3.1-1.7 3.1-3.6z" fill="url(#path6360_1_)" id="path6360"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6371_1_" x1="-268.384" x2="-250.018" y1="962.752" y2="962.752"><stop offset="0" stop-color="#1F286F"></stop><stop offset=".475" stop-color="#004E94"></stop><stop offset=".826" stop-color="#0066B1"></stop><stop offset="1" stop-color="#006FBC"></stop></lineargradient><path d="M55.1 15c-8.2 0-15 6.7-15 15v37c4.2 2.1 8.6 3.4 12.9 3.4 5.2 0 8-3.1 8-7.4V45.5h12.9v17.4c0 6.8-4.2 12.3-18.5 12.3-8.7 0-15.4-1.9-15.4-1.9v31.6h22c8.2 0 15-6.7 15-15V15H55.1z" fill="url(#path6371_1_)" id="path6371"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6384_1_" x1="-248.235" x2="-230.398" y1="962.712" y2="962.712"><stop offset="0" stop-color="#6C2C2F"></stop><stop offset=".173" stop-color="#882730"></stop><stop offset=".573" stop-color="#BE1833"></stop><stop offset=".859" stop-color="#DC0436"></stop><stop offset="1" stop-color="#E60039"></stop></lineargradient><path d="M96.6 15c-8.2 0-15 6.7-15 15v19.6c3.8-3.2 10.4-5.3 21-4.8 5.7.2 11.8 1.8 11.8 1.8V53c-3.1-1.6-6.7-3-11.4-3.3-8.1-.6-12.9 3.4-12.9 10.3 0 7 4.9 11 12.9 10.3 4.7-.3 8.3-1.8 11.4-3.3v6.3s-6 1.6-11.8 1.8c-10.6.5-17.2-1.6-21-4.8V105h22c8.2 0 15-6.7 15-15V15h-22z" fill="url(#path6384_1_)" id="path6384"></path></svg>
+<svg aria-labelledby="frb-cc-logo-discover-title" class="frb-cc-logo-discover" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-discover-title">Discover</title><path d="M192.3 120H7.7c-4.2 0-7.7-3.5-7.7-7.7V7.7C0 3.5 3.5 0 7.7 0h184.6c4.2 0 7.7 3.5 7.7 7.7v104.7c0 4.1-3.5 7.6-7.7 7.6z" fill="#FFFFFF"></path><path d="M47.5 120h144.8c4.2 0 7.7-3.5 7.7-7.7V64.6s-21.5 15.4-61.9 31C104 108.9 57 118.2 47.5 120z" fill="#E77730"></path><path d="M26.6 54.2c-1.8 1.6-4 2.3-7.6 2.3h-1.5V37.8H19c3.6 0 5.8.6 7.6 2.3 1.9 1.7 3.1 4.4 3.1 7 0 2.7-1.2 5.4-3.1 7.1m-6.5-21.3h-8.2v28.2H20c4.3 0 7.4-1 10.2-3.3 3.3-2.7 5.2-6.7 5.2-10.8 0-8.2-6.3-14.1-15.3-14.1M38 61.3h5.6V32.9H38v28.4zm19.1-17.5c-3.3-1.2-4.3-2-4.3-3.6 0-1.8 1.8-3.2 4.1-3.2 1.7 0 3 .7 4.5 2.3l2.9-3.8c-2.4-2.1-5.3-3.2-8.4-3.2-5.1 0-8.9 3.5-8.9 8.1 0 3.9 1.8 5.9 7 7.7 2.2.8 3.3 1.3 3.8 1.6 1.1.7 1.7 1.8 1.7 2.9 0 2.3-1.9 4-4.3 4-2.7 0-4.8-1.3-6.1-3.8l-3.6 3.5c2.6 3.8 5.6 5.3 9.9 5.3 5.8 0 9.8-3.8 9.8-9.2.2-4.3-1.7-6.3-8.1-8.6m10 3.3c0 8.3 6.6 14.8 15.1 14.8 2.4 0 4.5-.5 7-1.7v-6.5c-2.2 2.2-4.2 3.1-6.7 3.1-5.6 0-9.6-4.1-9.6-9.7 0-5.4 4.1-9.7 9.3-9.7 2.7 0 4.7 1 7 3.2V34c-2.4-1.2-4.5-1.8-6.9-1.8-8.4.1-15.2 6.7-15.2 14.9m66.2 4.9l-7.6-19h-6.1l12.1 29h3l12.4-29h-6l-7.8 19m16.3 9.3h15.8v-4.8h-10.2v-7.7h9.8V44h-9.8v-6.2h10.2v-4.9h-15.8M176.3 46h-1.6v-8.5h1.7c3.5 0 5.4 1.4 5.4 4.2-.1 2.7-2 4.3-5.5 4.3m11.1-4.6c0-5.2-3.7-8.3-10.1-8.3H169v28.2h5.6V49.9h.7l7.7 11.4h6.9l-9-11.9c4.2-.9 6.5-3.8 6.5-8" fill="#211E1E"></path><path d="M121.2 47.1c0 8.2-6.8 15-15.1 15S91 55.3 91 47.1s6.8-15 15.1-15c8.4 0 15.1 6.8 15.1 15" fill="#E77731"></path><path d="M106.3 32c-.6 0-1.2 0-1.8.1.2 0 .4 0 .6-.1.5.1.9.1 1.2 0h.8-.8M91.4 43.6c-.1.5-.2 1.1-.3 1.6 0 .2 0 .4-.1.5.1-.5.1-1 .2-1.5.1-.1.1-.3.2-.6" fill="none"></path></svg>
+</span>
+</div>
+<div class="frb-pm-pp">
+<svg aria-labelledby="frb-logo-paypal-title" class="frb-logo-payments frb-logo-payments--paypal" height="24" role="img" viewbox="0 0 80 24" width="80" xmlns="http://www.w3.org/2000/svg"><title id="frb-logo-paypal-title">PayPal</title><g fill="none" fill-rule="nonzero"><path d="M12.444 5.085H6.97a.763.763 0 0 0-.752.648L4.006 19.891c-.044.279.17.53.451.53H7.07a.762.762 0 0 0 .751-.647l.597-3.819a.762.762 0 0 1 .75-.648h1.733c3.606 0 5.686-1.76 6.23-5.248.245-1.526.01-2.724-.698-3.564-.778-.922-2.158-1.41-3.99-1.41zm.631 5.171c-.3 1.981-1.8 1.981-3.25 1.981h-.826l.579-3.7a.457.457 0 0 1 .45-.388h.379c.988 0 1.92 0 2.402.569.288.339.376.842.266 1.538zM28.803 10.193h-2.62a.458.458 0 0 0-.451.388l-.116.74-.184-.269c-.567-.83-1.832-1.108-3.095-1.108-2.896 0-5.37 2.213-5.851 5.317-.25 1.548.105 3.029.976 4.061.799.95 1.941 1.345 3.301 1.345 2.334 0 3.628-1.513 3.628-1.513l-.117.734c-.044.281.17.533.45.533h2.36a.763.763 0 0 0 .752-.648l1.416-9.05a.457.457 0 0 0-.449-.53zm-3.653 5.145c-.253 1.51-1.441 2.525-2.957 2.525-.76 0-1.37-.246-1.76-.713-.387-.464-.534-1.123-.411-1.858.236-1.497 1.444-2.544 2.937-2.544.744 0 1.35.25 1.748.72.399.475.557 1.139.443 1.87zM42.761 10.193h-2.634a.761.761 0 0 0-.63.336l-3.632 5.398-1.54-5.187a.764.764 0 0 0-.73-.547h-2.587a.46.46 0 0 0-.433.608l2.9 8.588-2.726 3.884a.46.46 0 0 0 .372.727h2.63c.25 0 .483-.123.625-.33l8.76-12.755a.46.46 0 0 0-.375-.722" fill="#283B82"></path><path d="M51.48 5.085h-5.473a.762.762 0 0 0-.75.648l-2.214 14.158c-.044.279.17.53.45.53H46.3c.261 0 .485-.191.525-.453l.628-4.013a.762.762 0 0 1 .751-.648h1.732c3.606 0 5.686-1.76 6.23-5.248.246-1.526.01-2.724-.699-3.564-.777-.922-2.156-1.41-3.987-1.41zm.632 5.171c-.299 1.981-1.799 1.981-3.25 1.981h-.826l.58-3.7a.456.456 0 0 1 .45-.388h.379c.987 0 1.92 0 2.402.569.287.339.375.842.265 1.538zM67.84 10.193h-2.62a.455.455 0 0 0-.45.388l-.116.74-.184-.269c-.567-.83-1.832-1.108-3.094-1.108-2.897 0-5.37 2.213-5.851 5.317-.25 1.548.105 3.029.976 4.061.8.95 1.94 1.345 3.3 1.345 2.334 0 3.628-1.513 3.628-1.513l-.117.734c-.044.281.17.533.452.533h2.36a.762.762 0 0 0 .75-.648l1.417-9.05a.46.46 0 0 0-.452-.53zm-3.654 5.145c-.251 1.51-1.441 2.525-2.957 2.525-.76 0-1.37-.246-1.76-.713-.387-.464-.533-1.123-.41-1.858.237-1.497 1.444-2.544 2.936-2.544.744 0 1.35.25 1.748.72.4.475.56 1.139.443 1.87zM70.929 5.474L68.683 19.89c-.044.279.17.53.45.53h2.258a.761.761 0 0 0 .751-.647l2.215-14.157a.459.459 0 0 0-.45-.532H71.38a.458.458 0 0 0-.45.389" fill="#469BDB"></path></g></svg>
+</div>
+<div class="frb-pm-google">
+<svg aria-labelledby="frb-logo-google-title" class="frb-logo-payments frb-logo-payments--google" height="24" role="img" viewbox="170.7 170 752 400" width="48" xmlns="http://www.w3.org/2000/svg">
+<title id="frb-logo-google-title">Google Pay</title>
+<path d="M722.7 170h-352c-110 0-200 90-200 200s90 200 200 200h352c110 0 200-90 200-200s-90-200-200-200z" fill="#FFF"></path><path d="M722.7 186.2c24.7 0 48.7 4.9 71.3 14.5 21.9 9.3 41.5 22.6 58.5 39.5 16.9 16.9 30.2 36.6 39.5 58.5 9.6 22.6 14.5 46.6 14.5 71.3s-4.9 48.7-14.5 71.3c-9.3 21.9-22.6 41.5-39.5 58.5-16.9 16.9-36.6 30.2-58.5 39.5-22.6 9.6-46.6 14.5-71.3 14.5h-352c-24.7 0-48.7-4.9-71.3-14.5-21.9-9.3-41.5-22.6-58.5-39.5-16.9-16.9-30.2-36.6-39.5-58.5-9.6-22.6-14.5-46.6-14.5-71.3s4.9-48.7 14.5-71.3c9.3-21.9 22.6-41.5 39.5-58.5 16.9-16.9 36.6-30.2 58.5-39.5 22.6-9.6 46.6-14.5 71.3-14.5h352m0-16.2h-352c-110 0-200 90-200 200s90 200 200 200h352c110 0 200-90 200-200s-90-200-200-200z" fill="#3C4043"></path><g fill="#3C4043"><path d="M529.3 384.2v60.5h-19.2V295.3H561c12.9 0 23.9 4.3 32.9 12.9 9.2 8.6 13.8 19.1 13.8 31.5 0 12.7-4.6 23.2-13.8 31.7-8.9 8.5-19.9 12.7-32.9 12.7h-31.7v.1zm0-70.5v52.1h32.1c7.6 0 14-2.6 19-7.7 5.1-5.1 7.7-11.3 7.7-18.3 0-6.9-2.6-13-7.7-18.1-5-5.3-11.3-7.9-19-7.9h-32.1v-.1zM657.9 339.1c14.2 0 25.4 3.8 33.6 11.4 8.2 7.6 12.3 18 12.3 31.2v63h-18.3v-14.2h-.8c-7.9 11.7-18.5 17.5-31.7 17.5-11.3 0-20.7-3.3-28.3-10s-11.4-15-11.4-25c0-10.6 4-19 12-25.2 8-6.3 18.7-9.4 32-9.4 11.4 0 20.8 2.1 28.1 6.3v-4.4c0-6.7-2.6-12.3-7.9-17-5.3-4.7-11.5-7-18.6-7-10.7 0-19.2 4.5-25.4 13.6l-16.9-10.6c9.3-13.5 23.1-20.2 41.3-20.2zm-24.8 74.2c0 5 2.1 9.2 6.4 12.5 4.2 3.3 9.2 5 14.9 5 8.1 0 15.3-3 21.6-9s9.5-13 9.5-21.1c-6-4.7-14.3-7.1-25-7.1-7.8 0-14.3 1.9-19.5 5.6-5.3 3.9-7.9 8.6-7.9 14.1zM808.2 342.4l-64 147.2h-19.8l23.8-51.5-42.2-95.7h20.9l30.4 73.4h.4l29.6-73.4h20.9z"></path></g><path d="M452.93 372c0-6.26-.56-12.25-1.6-18.01h-80.48v33l46.35.01c-1.88 10.98-7.93 20.34-17.2 26.58v21.41h27.59c16.11-14.91 25.34-36.95 25.34-62.99z" fill="#4285F4"></path><path d="M400.01 413.58c-7.68 5.18-17.57 8.21-29.14 8.21-22.35 0-41.31-15.06-48.1-35.36h-28.46v22.08c14.1 27.98 43.08 47.18 76.56 47.18 23.14 0 42.58-7.61 56.73-20.71l-27.59-21.4z" fill="#34A853"></path><path d="M320.09 370.05c0-5.7.95-11.21 2.68-16.39v-22.08h-28.46c-5.83 11.57-9.11 24.63-9.11 38.47s3.29 26.9 9.11 38.47l28.46-22.08a51.657 51.657 0 0 1-2.68-16.39z" fill="#FABB05"></path><path d="M370.87 318.3c12.63 0 23.94 4.35 32.87 12.85l24.45-24.43c-14.85-13.83-34.21-22.32-57.32-22.32-33.47 0-62.46 19.2-76.56 47.18l28.46 22.08c6.79-20.3 25.75-35.36 48.1-35.36z" fill="#E94235"></path>
+</svg>
+</div>
+</div>
+</fieldset>
+</div>
+<div class="frb-step-2" style="display: none;">
+<fieldset class="frb-amounts">
+<legend class="frb-legend">
+<span class="error-highlight">Please select an amount (<span class="frb-replace-currencycode">EUR</span>).</span> The average donation in <span class="frb-replace-countryname">Portugal</span> is around <span class="frb-replaced">€8</span>.
+                        </legend>
+<ul class="frb-btn-wrapper">
+<li>
+<input id="frb-amt-ps1" name="amount" type="radio" value="2"/>
+<label class="frb-btn" for="frb-amt-ps1">€2</label>
+</li>
+<li>
+<input id="frb-amt-ps2" name="amount" type="radio" value="10"/>
+<label class="frb-btn" for="frb-amt-ps2">€10</label>
+</li>
+<li>
+<input id="frb-amt-ps3" name="amount" type="radio" value="15"/>
+<label class="frb-btn" for="frb-amt-ps3">€15</label>
+</li>
+<li>
+<input id="frb-amt-ps4" name="amount" type="radio" value="25"/>
+<label class="frb-btn" for="frb-amt-ps4">€25</label>
+</li>
+<li>
+<input id="frb-amt-ps5" name="amount" type="radio" value="50"/>
+<label class="frb-btn" for="frb-amt-ps5">€50</label>
+</li>
+<li>
+<input id="frb-amt-ps6" name="amount" type="radio" value="75"/>
+<label class="frb-btn" for="frb-amt-ps6">€75</label>
+</li>
+<li>
+<input id="frb-amt-ps7" name="amount" type="radio" value="100"/>
+<label class="frb-btn" for="frb-amt-ps7">€100</label>
+</li>
+<li class="frb-amt-other">
+<input id="frb-amt-other" name="amount" type="radio" value="Other"/>
+<label class="frb-btn" id="frb-amt-other-label">
+<span class="frb-amt-other-span">
+                                        Other (<span class="frb-replace-currencysymbol">€</span>)
+                                    </span>
+<input autocomplete="off" id="frb-amt-other-input" inputmode="decimal" name="otherAmount" tabindex="-1" type="text"/>
+</label>
+</li>
+</ul>
+</fieldset>
+<fieldset class="frb-frequency">
+<legend class="frb-legend error-highlight">How often would you like to donate?</legend>
+<ul class="frb-btn-wrapper">
+<li>
+<input checked="" id="frb-frequency-onetime" name="frequency" onclick="frb.toggleMonthly(false);" type="radio" value="onetime"/>
+<label class="frb-btn" for="frb-frequency-onetime">One time</label>
+</li>
+<li>
+<input id="frb-frequency-monthly" name="frequency" onclick="frb.toggleMonthly(true);" type="radio" value="monthly"/>
+<label class="frb-btn" for="frb-frequency-monthly">Give monthly</label>
+</li>
+</ul>
+</fieldset>
+<fieldset class="frb-methods">
+<legend class="frb-legend error-highlight">Please select a payment method</legend>
+<div class="frb-payment-options frb-btn-wrapper">
+<div class="frb-button frb-pm-cc frb-cctypes-vmaj" data-name="Credit Card">
+<input class="frb-radio" id="frb-pm-cc" name="frb-methods" onchange="frb.setMethod({ method:'cc' });" type="radio"/>
+<label class="frb-label" for="frb-pm-cc">
+<span class="frb-pm-cc-label">Credit / Debit Card</span>
+<span class="frb-cc-logo-wrapper">
+<svg aria-labelledby="frb-cc-logo-visa-title" class="frb-cc-logo-visa" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-visa-title">Visa</title><path d="M7.7 0h184.6c4.2 0 7.7 3.3 7.7 7.5v105c0 4.1-3.4 7.5-7.7 7.5H7.7c-4.2 0-7.7-3.3-7.7-7.5V7.5C0 3.3 3.4 0 7.7 0z" fill="#FFFFFF"></path><path d="M0 98v14.3c0 4.2 3.4 7.7 7.7 7.7h184.6c4.2 0 7.7-3.4 7.7-7.7V98H0z" fill="#F7B600"></path><path d="M200 22V7.7c0-4.2-3.4-7.7-7.7-7.7H7.7C3.4 0 0 3.4 0 7.7V22h200zM81.9 36.9L62.3 83.4H49.4l-9.6-37.2c-.6-2.3-1.1-3.1-2.8-4.1-3.8-1.8-7.8-3.1-12-3.9l.2-1.4h20.6c2.8 0 5.1 2 5.6 4.8l5.1 26.9 12.6-31.7h12.8zm50.3 31.3c0-12.3-17-13-16.9-18.4 0-1.7 1.6-3.4 5.2-3.9 4.1-.4 8.2.3 12 2.1l2.1-9.8c-3.6-1.4-7.5-2.1-11.4-2.1-12 0-20.4 6.4-20.5 15.3-.1 6.8 6 10.4 10.6 12.6s6.3 3.8 6.3 5.8c0 3.1-3.8 4.5-7.3 4.5-4.3.1-8.6-.9-12.5-2.9l-2.2 10.2c4.3 1.7 8.9 2.5 13.5 2.5 12.7 0 20.9-6.2 21.1-15.9m31.6 15.2H175l-9.8-46.5h-10.4c-2.3 0-4.3 1.3-5.2 3.4l-18.3 43.1H144l2.5-7h15.6l1.7 7zm-13.6-16.5l6.4-17.4 3.7 17.4h-10.1zm-51-30l-10 46.5H77.1l10-46.5h12.1z" fill="#1A1F71"></path></svg>
+<svg aria-labelledby="frb-cc-logo-mastercard-title" class="frb-cc-logo-mastercard" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-mastercard-title">MasterCard</title><path d="M192.3 120H7.7c-4.2 0-7.7-3.4-7.7-7.5V7.5C0 3.4 3.5 0 7.7 0h184.6c4.2 0 7.7 3.4 7.7 7.5v105c0 4.1-3.5 7.5-7.7 7.5z"></path><g id="Layer_1-2"><path d="M61.9 106.5v-6.2c.2-2-1.3-3.7-3.3-3.9h-.5c-1.4-.1-2.7.6-3.5 1.8-.7-1.1-1.9-1.8-3.3-1.8-1.2-.1-2.3.5-3 1.5v-1.2h-2v9.9h2v-5.7c-.1-1.3.8-2.5 2.1-2.6h.4c1.4 0 2.2.9 2.2 2.6v5.7h2v-5.7c-.1-1.3.8-2.5 2.1-2.6h.4c1.5 0 2.2.9 2.2 2.6v5.7l2.2-.1zm32.1-10h-3.6v-3h-2v3h-2.1v1.8h2.1v4.7c0 2.3.8 3.7 3.3 3.7.9 0 1.9-.3 2.7-.8l-.6-1.8c-.6.3-1.2.5-1.9.6-1 0-1.5-.7-1.5-1.7v-4.8H94v-1.7zm18.3-.2c-1.1 0-2.1.5-2.7 1.5v-1.2h-2v9.9h2v-5.6c0-1.6.8-2.7 2.2-2.7.5 0 .9.1 1.3.2l.7-1.9c-.5-.1-1-.2-1.5-.2zm-27.7 1c-1.2-.7-2.6-1.1-4-1-2.5 0-4 1.2-4 3.1 0 1.6 1.1 2.6 3.3 2.9l1 .1c1.2.2 1.8.6 1.8 1.1 0 .8-.9 1.3-2.3 1.3-1.2 0-2.3-.3-3.3-1l-1 1.6c1.3.9 2.7 1.3 4.3 1.3 2.8 0 4.4-1.3 4.4-3.2 0-1.9-1.2-2.6-3.3-2.9l-1-.1c-.9-.1-1.8-.4-1.8-1s.8-1.2 2-1.2c1.1 0 2.1.3 3.1.9l.8-1.9zm29.9 4.2c-.1 2.7 2 5.1 4.7 5.2h.5c1.3.1 2.6-.4 3.5-1.2l-1-1.6c-.7.6-1.6.9-2.6.9-1.8-.2-3.2-1.8-3-3.7.2-1.6 1.4-2.9 3-3 .9 0 1.8.3 2.6.9l1-1.6c-1-.8-2.3-1.2-3.5-1.2-2.7-.1-5 2-5.2 4.7v.6zm-13.9-5.2c-2.9 0-4.9 2.1-4.9 5.2-.2 2.7 1.9 5 4.5 5.2h.5c1.5.1 2.9-.4 4-1.4l-1-1.5c-.8.7-1.8 1-2.9 1-1.5.1-2.8-1-3-2.5h7.4v-.8c.1-3.1-1.8-5.2-4.6-5.2zm0 1.8c1.4 0 2.5 1 2.6 2.4v.1h-5.3c.1-1.4 1.3-2.5 2.7-2.5zm-26.7 3.4v-4.9h-2v1.2c-.8-1-2-1.5-3.2-1.5-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2 1.2.1 2.4-.5 3.2-1.5v1.2h2v-4.9zm-7.9 0c-.1-1.7 1.1-3.2 2.8-3.4h.3c1.8.2 3.2 1.8 3 3.7-.2 1.6-1.4 2.9-3 3-1.7 0-3.1-1.4-3.1-3.1-.1 0-.1-.1 0-.2zm76.1-5.2c-1.1 0-2.1.5-2.7 1.5v-1.2h-2v9.9h2v-5.6c0-1.6.8-2.7 2.2-2.7.5 0 .9.1 1.3.2l.7-1.9c-.5-.1-1-.2-1.5-.2zm15.8 8.7c.1 0 .3 0 .4.1.1 0 .2.1.3.2.1.1.2.2.2.3.1.2.1.5 0 .8-.1.1-.1.2-.2.3-.1.1-.2.2-.3.2-.1.1-.3.1-.4.1-.4 0-.8-.2-.9-.6-.1-.2-.1-.5 0-.8.1-.1.1-.2.2-.3.1-.1.2-.2.3-.2.2 0 .3-.1.4-.1zm0 1.8c.1 0 .2 0 .3-.1.1 0 .2-.1.2-.2.3-.3.3-.7 0-1l-.2-.2c-.1 0-.2-.1-.3-.1-.1 0-.2 0-.3.1-.1 0-.2.1-.2.2-.3.3-.3.7 0 1 .1.1.2.1.2.2.1.1.2.1.3.1zm.1-1.2c.1 0 .2 0 .3.1.1.1.1.1.1.2s0 .1-.1.2-.1.1-.2.1l.3.3h-.2l-.3-.3h-.1v.3h-.2v-.9h.4zm-.2.1v.2h.3v-.2h-.3zm-23.3-4.2v-5h-2v1.2c-.8-1-2-1.5-3.2-1.5-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2 1.2.1 2.4-.5 3.2-1.5v1.2h2v-4.8zm-8 0c-.1-1.7 1.1-3.2 2.8-3.4h.3c1.8.2 3.2 1.8 3 3.7-.2 1.6-1.4 2.9-3 3-1.7 0-3.1-1.4-3.1-3.1v-.2zm27.9 0v-9h-2v5.2c-.8-1-2-1.5-3.2-1.5-2.9 0-5.2 2.3-5.2 5.2 0 2.9 2.3 5.2 5.2 5.2 1.2.1 2.4-.5 3.2-1.5v1.2h2v-4.8zm-8 0c-.1-1.7 1.1-3.2 2.8-3.4h.3c1.8.3 3.1 2 2.8 3.9-.2 1.5-1.4 2.6-2.8 2.8-1.7 0-3.1-1.4-3.1-3.1-.1 0-.1-.1 0-.2z" fill="#FFFFFF" id="_Compound_Path_"></path><g id="_Group_"><path d="M83.9 21h32.4v58.7H83.9z" fill="#FF5F00"></path><path d="M86 50.3C86 38.8 91.2 28 100.2 21c-16.1-12.7-39.4-9.9-52.1 6.3S38.2 67 54.3 79.7c13.4 10.6 32.4 10.6 45.8 0C91.2 72.6 86 61.8 86 50.3z" fill="#EB001B" id="_Path_2"></path><path d="M156.6 73.5v-1.2h.5V72h-1.2v.2h.5v1.2h.2zm2.4 0V72h-.4l-.4 1-.4-1h-.4v1.5h.3v-1.1l.4.9h.3l.4-.9v1.1h.2zm1.2-23.2c0 20.6-16.6 37.3-37.1 37.3-8.3 0-16.4-2.8-22.9-8 16.1-12.7 18.9-36.2 6.2-52.4-1.8-2.3-3.9-4.4-6.2-6.3 16.1-12.7 39.4-9.9 52.1 6.3 5.1 6.6 7.9 14.8 7.9 23.1z" fill="#F79E1B"></path></g></g></svg>
+<svg aria-labelledby="frb-cc-logo-amex-title" class="frb-cc-logo-amex" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-amex-title">Amex</title><lineargradient gradienttransform="translate(0 -3474.102)" gradientunits="userSpaceOnUse" id="SVGID_1_" x1="187.342" x2="13.247" y1="3564.816" y2="3503.596"><stop offset="0" stop-color="#51BCEA"></stop><stop offset="1" stop-color="#3078BC"></stop></lineargradient><path d="M192.3 120H7.7c-4.2 0-7.7-3.5-7.7-7.7V7.7C0 3.5 3.5 0 7.7 0h184.6c4.2 0 7.7 3.5 7.7 7.7v104.7c0 4.1-3.5 7.6-7.7 7.6z" fill="url(#SVGID_1_)"></path><path d="M162.8 60.1L179 42.5h-11L157.4 54l-10.2-11.5h-33.4v35h32.9l10.6-11.6 10.2 11.6h10.8l-15.5-17.4zm-20.3 10.1H122v-7h18.2V56H122v-6.4h20.8l9.1 10.2-9.4 10.4zm-95-7.7l-5.6-13.9-5.6 13.9m74.4 15h-8.5V50.1L90.1 77.5h-7.3L70.7 50.1v27.4h-17l-3.2-7.8H33.2L30 77.5h-9l14.9-35h12.3l14.1 33.1V42.5H76l10.9 23.7 10-23.7h13.8v35z" fill="#FFFFFF"></path></svg>
+<svg aria-labelledby="frb-cc-logo-jcb-title" class="frb-cc-logo-jcb" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-jcb-title">JCB</title><path d="M193.1 0H7.7C3.4 0 0 3.3 0 7.5v105c0 3.9 3.1 7.1 6.9 7.5h185.4c4.3 0 7.7-3.4 7.7-7.5V7.5c0-3.9-3.1-7.1-6.9-7.5z" fill="#FFFFFF"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6338_2_" x1="-227.894" x2="-209.808" y1="959.936" y2="959.936"><stop offset="0" stop-color="#007940"></stop><stop offset=".229" stop-color="#00873F"></stop><stop offset=".743" stop-color="#40A737"></stop><stop offset="1" stop-color="#5CB531"></stop></lineargradient><path d="M130.4 69.6h8.7c.2 0 .8-.1 1.1-.1 1.6-.3 3.1-1.8 3.1-3.9 0-2-1.4-3.5-3.1-3.9-.2-.1-.7-.1-1.1-.1h-8.7v8z" fill="url(#path6338_2_)" id="path6338"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6349_2_" x1="-227.894" x2="-209.823" y1="962.732" y2="962.732"><stop offset="0" stop-color="#007940"></stop><stop offset=".229" stop-color="#00873F"></stop><stop offset=".743" stop-color="#40A737"></stop><stop offset="1" stop-color="#5CB531"></stop></lineargradient><path d="M138.1 15c-8.2 0-15 6.7-15 15v15.6h21.2c.5 0 1.1 0 1.5.1 4.8.2 8.3 2.7 8.3 7 0 3.4-2.4 6.3-6.8 6.8v.2c4.9.3 8.6 3 8.6 7.3 0 4.5-4.1 7.5-9.6 7.5H123V105h22c8.2 0 15-6.7 15-15V15h-21.9z" fill="url(#path6349_2_)" id="path6349"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6360_2_" x1="-227.894" x2="-209.807" y1="965.808" y2="965.808"><stop offset="0" stop-color="#007940"></stop><stop offset=".229" stop-color="#00873F"></stop><stop offset=".743" stop-color="#40A737"></stop><stop offset="1" stop-color="#5CB531"></stop></lineargradient><path d="M142.1 53.7c0-2-1.4-3.3-3.1-3.5-.2 0-.6-.1-.8-.1h-7.8v7.3h7.8c.2 0 .7 0 .8-.1 1.7-.3 3.1-1.7 3.1-3.6z" fill="url(#path6360_2_)" id="path6360"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6371_2_" x1="-268.384" x2="-250.018" y1="962.752" y2="962.752"><stop offset="0" stop-color="#1F286F"></stop><stop offset=".475" stop-color="#004E94"></stop><stop offset=".826" stop-color="#0066B1"></stop><stop offset="1" stop-color="#006FBC"></stop></lineargradient><path d="M55.1 15c-8.2 0-15 6.7-15 15v37c4.2 2.1 8.6 3.4 12.9 3.4 5.2 0 8-3.1 8-7.4V45.5h12.9v17.4c0 6.8-4.2 12.3-18.5 12.3-8.7 0-15.4-1.9-15.4-1.9v31.6h22c8.2 0 15-6.7 15-15V15H55.1z" fill="url(#path6371_2_)" id="path6371"></path><lineargradient gradienttransform="matrix(2.0492 0 0 -2.0492 590.04 2032.794)" gradientunits="userSpaceOnUse" id="path6384_2_" x1="-248.235" x2="-230.398" y1="962.712" y2="962.712"><stop offset="0" stop-color="#6C2C2F"></stop><stop offset=".173" stop-color="#882730"></stop><stop offset=".573" stop-color="#BE1833"></stop><stop offset=".859" stop-color="#DC0436"></stop><stop offset="1" stop-color="#E60039"></stop></lineargradient><path d="M96.6 15c-8.2 0-15 6.7-15 15v19.6c3.8-3.2 10.4-5.3 21-4.8 5.7.2 11.8 1.8 11.8 1.8V53c-3.1-1.6-6.7-3-11.4-3.3-8.1-.6-12.9 3.4-12.9 10.3 0 7 4.9 11 12.9 10.3 4.7-.3 8.3-1.8 11.4-3.3v6.3s-6 1.6-11.8 1.8c-10.6.5-17.2-1.6-21-4.8V105h22c8.2 0 15-6.7 15-15V15h-22z" fill="url(#path6384_2_)" id="path6384"></path></svg>
+<svg aria-labelledby="frb-cc-logo-discover-title" class="frb-cc-logo-discover" viewbox="0 0 200 120" xmlns="http://www.w3.org/2000/svg"><title id="frb-cc-logo-discover-title">Discover</title><path d="M192.3 120H7.7c-4.2 0-7.7-3.5-7.7-7.7V7.7C0 3.5 3.5 0 7.7 0h184.6c4.2 0 7.7 3.5 7.7 7.7v104.7c0 4.1-3.5 7.6-7.7 7.6z" fill="#FFFFFF"></path><path d="M47.5 120h144.8c4.2 0 7.7-3.5 7.7-7.7V64.6s-21.5 15.4-61.9 31C104 108.9 57 118.2 47.5 120z" fill="#E77730"></path><path d="M26.6 54.2c-1.8 1.6-4 2.3-7.6 2.3h-1.5V37.8H19c3.6 0 5.8.6 7.6 2.3 1.9 1.7 3.1 4.4 3.1 7 0 2.7-1.2 5.4-3.1 7.1m-6.5-21.3h-8.2v28.2H20c4.3 0 7.4-1 10.2-3.3 3.3-2.7 5.2-6.7 5.2-10.8 0-8.2-6.3-14.1-15.3-14.1M38 61.3h5.6V32.9H38v28.4zm19.1-17.5c-3.3-1.2-4.3-2-4.3-3.6 0-1.8 1.8-3.2 4.1-3.2 1.7 0 3 .7 4.5 2.3l2.9-3.8c-2.4-2.1-5.3-3.2-8.4-3.2-5.1 0-8.9 3.5-8.9 8.1 0 3.9 1.8 5.9 7 7.7 2.2.8 3.3 1.3 3.8 1.6 1.1.7 1.7 1.8 1.7 2.9 0 2.3-1.9 4-4.3 4-2.7 0-4.8-1.3-6.1-3.8l-3.6 3.5c2.6 3.8 5.6 5.3 9.9 5.3 5.8 0 9.8-3.8 9.8-9.2.2-4.3-1.7-6.3-8.1-8.6m10 3.3c0 8.3 6.6 14.8 15.1 14.8 2.4 0 4.5-.5 7-1.7v-6.5c-2.2 2.2-4.2 3.1-6.7 3.1-5.6 0-9.6-4.1-9.6-9.7 0-5.4 4.1-9.7 9.3-9.7 2.7 0 4.7 1 7 3.2V34c-2.4-1.2-4.5-1.8-6.9-1.8-8.4.1-15.2 6.7-15.2 14.9m66.2 4.9l-7.6-19h-6.1l12.1 29h3l12.4-29h-6l-7.8 19m16.3 9.3h15.8v-4.8h-10.2v-7.7h9.8V44h-9.8v-6.2h10.2v-4.9h-15.8M176.3 46h-1.6v-8.5h1.7c3.5 0 5.4 1.4 5.4 4.2-.1 2.7-2 4.3-5.5 4.3m11.1-4.6c0-5.2-3.7-8.3-10.1-8.3H169v28.2h5.6V49.9h.7l7.7 11.4h6.9l-9-11.9c4.2-.9 6.5-3.8 6.5-8" fill="#211E1E"></path><path d="M121.2 47.1c0 8.2-6.8 15-15.1 15S91 55.3 91 47.1s6.8-15 15.1-15c8.4 0 15.1 6.8 15.1 15" fill="#E77731"></path><path d="M106.3 32c-.6 0-1.2 0-1.8.1.2 0 .4 0 .6-.1.5.1.9.1 1.2 0h.8-.8M91.4 43.6c-.1.5-.2 1.1-.3 1.6 0 .2 0 .4-.1.5.1-.5.1-1 .2-1.5.1-.1.1-.3.2-.6" fill="none"></path></svg>
+</span>
+</label>
+</div>
+<div class="frb-button frb-pm-pp" data-name="PayPal">
+<input class="frb-radio" id="frb-pm-pp" name="frb-methods" onchange="frb.setMethod({ method:'paypal' });" type="radio"/>
+<label class="frb-label" for="frb-pm-pp">
+<svg aria-labelledby="frb-logo-paypal-title" class="frb-logo-payments frb-logo-payments--paypal" height="24" role="img" viewbox="0 0 80 24" width="80" xmlns="http://www.w3.org/2000/svg"><title id="frb-logo-paypal-title">PayPal</title><g fill="none" fill-rule="nonzero"><path d="M12.444 5.085H6.97a.763.763 0 0 0-.752.648L4.006 19.891c-.044.279.17.53.451.53H7.07a.762.762 0 0 0 .751-.647l.597-3.819a.762.762 0 0 1 .75-.648h1.733c3.606 0 5.686-1.76 6.23-5.248.245-1.526.01-2.724-.698-3.564-.778-.922-2.158-1.41-3.99-1.41zm.631 5.171c-.3 1.981-1.8 1.981-3.25 1.981h-.826l.579-3.7a.457.457 0 0 1 .45-.388h.379c.988 0 1.92 0 2.402.569.288.339.376.842.266 1.538zM28.803 10.193h-2.62a.458.458 0 0 0-.451.388l-.116.74-.184-.269c-.567-.83-1.832-1.108-3.095-1.108-2.896 0-5.37 2.213-5.851 5.317-.25 1.548.105 3.029.976 4.061.799.95 1.941 1.345 3.301 1.345 2.334 0 3.628-1.513 3.628-1.513l-.117.734c-.044.281.17.533.45.533h2.36a.763.763 0 0 0 .752-.648l1.416-9.05a.457.457 0 0 0-.449-.53zm-3.653 5.145c-.253 1.51-1.441 2.525-2.957 2.525-.76 0-1.37-.246-1.76-.713-.387-.464-.534-1.123-.411-1.858.236-1.497 1.444-2.544 2.937-2.544.744 0 1.35.25 1.748.72.399.475.557 1.139.443 1.87zM42.761 10.193h-2.634a.761.761 0 0 0-.63.336l-3.632 5.398-1.54-5.187a.764.764 0 0 0-.73-.547h-2.587a.46.46 0 0 0-.433.608l2.9 8.588-2.726 3.884a.46.46 0 0 0 .372.727h2.63c.25 0 .483-.123.625-.33l8.76-12.755a.46.46 0 0 0-.375-.722" fill="#283B82"></path><path d="M51.48 5.085h-5.473a.762.762 0 0 0-.75.648l-2.214 14.158c-.044.279.17.53.45.53H46.3c.261 0 .485-.191.525-.453l.628-4.013a.762.762 0 0 1 .751-.648h1.732c3.606 0 5.686-1.76 6.23-5.248.246-1.526.01-2.724-.699-3.564-.777-.922-2.156-1.41-3.987-1.41zm.632 5.171c-.299 1.981-1.799 1.981-3.25 1.981h-.826l.58-3.7a.456.456 0 0 1 .45-.388h.379c.987 0 1.92 0 2.402.569.287.339.375.842.265 1.538zM67.84 10.193h-2.62a.455.455 0 0 0-.45.388l-.116.74-.184-.269c-.567-.83-1.832-1.108-3.094-1.108-2.897 0-5.37 2.213-5.851 5.317-.25 1.548.105 3.029.976 4.061.8.95 1.94 1.345 3.3 1.345 2.334 0 3.628-1.513 3.628-1.513l-.117.734c-.044.281.17.533.452.533h2.36a.762.762 0 0 0 .75-.648l1.417-9.05a.46.46 0 0 0-.452-.53zm-3.654 5.145c-.251 1.51-1.441 2.525-2.957 2.525-.76 0-1.37-.246-1.76-.713-.387-.464-.533-1.123-.41-1.858.237-1.497 1.444-2.544 2.936-2.544.744 0 1.35.25 1.748.72.4.475.56 1.139.443 1.87zM70.929 5.474L68.683 19.89c-.044.279.17.53.45.53h2.258a.761.761 0 0 0 .751-.647l2.215-14.157a.459.459 0 0 0-.45-.532H71.38a.458.458 0 0 0-.45.389" fill="#469BDB"></path></g></svg>
+</label>
+</div>
+<div class="frb-button frb-pm-google" data-name="Google Pay">
+<input class="frb-radio" id="frb-pm-google" name="frb-methods" onchange="frb.setMethod({ method:'google' });" type="radio"/>
+<label class="frb-label" for="frb-pm-google">
+<svg aria-labelledby="frb-logo-google-title" class="frb-logo-payments frb-logo-payments--google" height="24" role="img" viewbox="170.7 170 752 400" xmlns="http://www.w3.org/2000/svg">
+<title id="frb-logo-google-title">Google Pay</title>
+<path d="M722.7 170h-352c-110 0-200 90-200 200s90 200 200 200h352c110 0 200-90 200-200s-90-200-200-200z" fill="#FFF"></path><path d="M722.7 186.2c24.7 0 48.7 4.9 71.3 14.5 21.9 9.3 41.5 22.6 58.5 39.5 16.9 16.9 30.2 36.6 39.5 58.5 9.6 22.6 14.5 46.6 14.5 71.3s-4.9 48.7-14.5 71.3c-9.3 21.9-22.6 41.5-39.5 58.5-16.9 16.9-36.6 30.2-58.5 39.5-22.6 9.6-46.6 14.5-71.3 14.5h-352c-24.7 0-48.7-4.9-71.3-14.5-21.9-9.3-41.5-22.6-58.5-39.5-16.9-16.9-30.2-36.6-39.5-58.5-9.6-22.6-14.5-46.6-14.5-71.3s4.9-48.7 14.5-71.3c9.3-21.9 22.6-41.5 39.5-58.5 16.9-16.9 36.6-30.2 58.5-39.5 22.6-9.6 46.6-14.5 71.3-14.5h352m0-16.2h-352c-110 0-200 90-200 200s90 200 200 200h352c110 0 200-90 200-200s-90-200-200-200z" fill="#3C4043"></path><g fill="#3C4043"><path d="M529.3 384.2v60.5h-19.2V295.3H561c12.9 0 23.9 4.3 32.9 12.9 9.2 8.6 13.8 19.1 13.8 31.5 0 12.7-4.6 23.2-13.8 31.7-8.9 8.5-19.9 12.7-32.9 12.7h-31.7v.1zm0-70.5v52.1h32.1c7.6 0 14-2.6 19-7.7 5.1-5.1 7.7-11.3 7.7-18.3 0-6.9-2.6-13-7.7-18.1-5-5.3-11.3-7.9-19-7.9h-32.1v-.1zM657.9 339.1c14.2 0 25.4 3.8 33.6 11.4 8.2 7.6 12.3 18 12.3 31.2v63h-18.3v-14.2h-.8c-7.9 11.7-18.5 17.5-31.7 17.5-11.3 0-20.7-3.3-28.3-10s-11.4-15-11.4-25c0-10.6 4-19 12-25.2 8-6.3 18.7-9.4 32-9.4 11.4 0 20.8 2.1 28.1 6.3v-4.4c0-6.7-2.6-12.3-7.9-17-5.3-4.7-11.5-7-18.6-7-10.7 0-19.2 4.5-25.4 13.6l-16.9-10.6c9.3-13.5 23.1-20.2 41.3-20.2zm-24.8 74.2c0 5 2.1 9.2 6.4 12.5 4.2 3.3 9.2 5 14.9 5 8.1 0 15.3-3 21.6-9s9.5-13 9.5-21.1c-6-4.7-14.3-7.1-25-7.1-7.8 0-14.3 1.9-19.5 5.6-5.3 3.9-7.9 8.6-7.9 14.1zM808.2 342.4l-64 147.2h-19.8l23.8-51.5-42.2-95.7h20.9l30.4 73.4h.4l29.6-73.4h20.9z"></path></g><path d="M452.93 372c0-6.26-.56-12.25-1.6-18.01h-80.48v33l46.35.01c-1.88 10.98-7.93 20.34-17.2 26.58v21.41h27.59c16.11-14.91 25.34-36.95 25.34-62.99z" fill="#4285F4"></path><path d="M400.01 413.58c-7.68 5.18-17.57 8.21-29.14 8.21-22.35 0-41.31-15.06-48.1-35.36h-28.46v22.08c14.1 27.98 43.08 47.18 76.56 47.18 23.14 0 42.58-7.61 56.73-20.71l-27.59-21.4z" fill="#34A853"></path><path d="M320.09 370.05c0-5.7.95-11.21 2.68-16.39v-22.08h-28.46c-5.83 11.57-9.11 24.63-9.11 38.47s3.29 26.9 9.11 38.47l28.46-22.08a51.657 51.657 0 0 1-2.68-16.39z" fill="#FABB05"></path><path d="M370.87 318.3c12.63 0 23.94 4.35 32.87 12.85l24.45-24.43c-14.85-13.83-34.21-22.32-57.32-22.32-33.47 0-62.46 19.2-76.56 47.18l28.46 22.08c6.79-20.3 25.75-35.36 48.1-35.36z" fill="#E94235"></path>
+</svg>
+</label>
+</div>
+</div>
+</fieldset>
+<fieldset class="frb-fieldset frb-ptf" style="display: none;">
+<div class="frb-ptf frb-checkbox-wrapper">
+<input class="frb-checkbox" id="frb-ptf-checkbox" name="ptf" onclick="frb.updateFeeDisplay();" type="checkbox" value="true"/>
+<label class="frb-checkbox-label" for="frb-ptf-checkbox">
+                                I'll generously add <span class="frb-ptf-fee frb-replaced">a little</span> to cover the transaction fees so you can keep 100% of my donation.
+                            </label>
+</div>
+</fieldset>
+<fieldset class="frb-optin" style="">
+<legend class="frb-legend error-highlight">
+                            Can we follow up and let you know if we need your help again? <span class="frb-explanation">The support and advice we get from donors in <span class="frb-replace-countryname">Portugal</span> is priceless, but many donors don't let us stay in touch. Will you commit today, this <span class="frb-replace-dayofweek">Sunday</span>, to staying in touch with the Wikimedia Foundation?</span>
+</legend>
+<ul class="frb-btn-wrapper">
+<li>
+<input class="frb-optin" id="frb-optin-yes" name="opt_in" type="radio" value="1"/>
+<label class="frb-btn" for="frb-optin-yes">
+                                    Yes
+                                </label>
+</li>
+<li>
+<input class="frb-optin" id="frb-optin-no" name="opt_in" type="radio" value="0"/>
+<label class="frb-btn" for="frb-optin-no">
+                                    No
+                                </label>
+</li>
+</ul>
+<div class="frb-optin-no-prompt">
+<div class="frb-optin-no-prompt__no"> Sorry to hear that. We don't email often; would you consider changing your mind?</div>
+<div class="frb-optin-no-prompt__yes"> Thanks for changing your mind! We’ll respect your inbox.</div>
+</div>
+<div class="frb-smallprint">
+                            We will send you email updates and tell you if the Wikimedia Foundation needs your support or advice in the future. Your information is handled in accordance with our <a href="https://foundation.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_privacy_policy&amp;language=en" target="_blank">donor privacy policy</a>. Each email you receive will include easy unsubscribe options.
+                        </div>
+</fieldset>
+<fieldset class="frb-continue">
+<button class="frb-submit" id="frb-btn-first-submit">
+                            Continue
+                        </button>
+</fieldset>
+<div class="frb-error frb-error-smallamount">Please select an amount (minimum €0.93)</div>
+<div class="frb-error frb-error-bigamount">We cannot accept donations greater than 23250 EUR through our website. Please contact our major gifts staff at benefactors@wikimedia.org.</div>
+<div class="frb-error frb-error-method">Please select a payment method</div>
+<div class="frb-error frb-error-optin">Please select an email option</div>
+<div class="frb-cta frb-cta-hiddenmessage">Thank you for joining the 2% of readers who give.</div>
+<div class="frb-legal frb-smallprint">
+<div class="frb-localize-links">
+<a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Problems_donating&amp;country=PT&amp;language=en&amp;uselang=en&amp;wmf_medium=sitenotice&amp;wmf_campaign=C2324_mlWW2_dsk_FR&amp;wmf_source=B2324_0528_mlWW_dsk_p2_sm_twn_twin2" target="_blank">Problems donating?</a> |
+    <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Ways_to_Give&amp;country=PT&amp;language=en&amp;uselang=en&amp;wmf_medium=sitenotice&amp;wmf_campaign=C2324_mlWW2_dsk_FR&amp;wmf_source=B2324_0528_mlWW_dsk_p2_sm_twn_twin2" target="_blank">Other ways to give</a> |
+    <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=FAQ&amp;country=PT&amp;language=en&amp;uselang=en&amp;wmf_medium=sitenotice&amp;wmf_campaign=C2324_mlWW2_dsk_FR&amp;wmf_source=B2324_0528_mlWW_dsk_p2_sm_twn_twin2" target="_blank">Frequently asked questions</a> |
+    <span class="frb-legal-nonUS">We never sell your information. By submitting, you are agreeing to our <a href="https://foundation.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_privacy_policy&amp;language=en" target="_blank">donor privacy policy</a> and to sharing your information with the <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_deductibility&amp;language=en" target="_blank">Wikimedia Foundation</a> and its service providers in the U.S. and elsewhere.</span>
+<span class="frb-legal-US" style="display: none;">We never sell your information. By submitting, you are agreeing to our <a href="https://foundation.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_privacy_policy&amp;language=en" target="_blank">donor privacy policy</a>. The Wikimedia Foundation is a nonprofit, <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_deductibility&amp;language=en" target="_blank">tax-exempt organization</a>.</span>
+<span class="frb-legal-NL" style="display: none;">We never sell your information. By submitting, you are agreeing to our <a href="https://foundation.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_privacy_policy&amp;language=en" target="_blank">donor privacy policy</a> and to sharing your information with the Wikimedia Foundation and its service providers in the U.S. and elsewhere. The Wikimedia Foundation is a nonprofit, <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_deductibility&amp;language=en" target="_blank">tax-exempt organization</a>.</span>
+<span class="recurring-details">If you make a recurring donation, you will be debited by the Wikimedia Foundation until you notify us to stop. We’ll send you an email which will include a link to <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Cancel_or_change_recurring_giving&amp;language=en" target="_blank">easy cancellation instructions</a>.</span>
+</div>
+</div>
+</div>
+<div class="frb-step-upsell" style="display: none;">
+<button class="frb-back">
+<svg aria-labelledby="frb-icon-back-title-upsell" class="frb-icon frb-icon-back" height="16" viewbox="0 0 20 16" width="20" xmlns="http://www.w3.org/2000/svg">
+<title id="frb-icon-back-title-upsell">Back</title>
+<g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+<path d="M7.181 13.285L.753 7 7.181.715" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.778"></path>
+<rect height="1.778" rx=".889" width="18.182" x=".818" y="6.111"></rect>
+</g>
+</svg>
+</button>
+<div class="frb-upsell">
+<div class="frb-upsell-cta">Why not make it <span class="frb-upsell-ask frb-replaced"></span> monthly?</div>
+<div class="frb-upsell-color">Monthly support is the best way to ensure that Wikipedia keeps thriving.</div>
+</div>
+<div class="frb-monthly-buttons">
+<button class="frb-submit" id="frb-monthly-donate-no">
+                            No thanks! I'll make a one-time donation of <span class="frb-ptf-total frb-replaced"></span>
+</button>
+<button class="frb-submit" id="frb-monthly-donate-yes">
+                            Yes, I'll donate <span class="frb-upsell-ask frb-replaced"></span> each month
+                        </button>
+<button class="frb-step-monthly-diff-amt-link">
+                            Yes, I'll donate monthly, but for a different amount
+                        </button>
+</div>
+</div>
+<div class="frb-step-monthly-diff-amt" style="display: none;">
+<button class="frb-back">
+<svg aria-labelledby="frb-icon-back-title" class="frb-icon frb-icon-back" height="16" viewbox="0 0 20 16" width="20" xmlns="http://www.w3.org/2000/svg">
+<title id="frb-icon-back-title">Back</title>
+<g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+<path d="M7.181 13.285L.753 7 7.181.715" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.778"></path>
+<rect height="1.778" rx=".889" width="18.182" x=".818" y="6.111"></rect>
+</g>
+</svg>
+</button>
+<div class="frb-upsell-ty">Thank you for your support!</div>
+<label for="frb-amt-monthly-other-input">Enter your monthly donation amount</label>
+<input autocomplete="off" class="frb-input" id="frb-amt-monthly-other-input" inputmode="decimal" name="otherMonthlyAmount" size="5" type="text" value=""/>
+<div class="frb-error frb-error-smallamount">Please select an amount (minimum €0.93)</div>
+<div class="frb-error frb-error-bigamount">We cannot accept donations greater than 23250 EUR through our website. Please contact our major gifts staff at benefactors@wikimedia.org.</div>
+<button class="frb-submit inactive" id="frb-donate-monthly-other">
+                        Donate <span class="frb-monthly-total"></span> monthly
+                    </button>
+</div>
+</form>
+</div>
+<div class="frb-inline-bottombar">
+<div class="frb-inline-rml-wrapper">
+<button class="frb-footer-button frb-inline-rml-link">
+                    Maybe later
+                    <svg aria-hidden="true" class="frb-inline-rml-icon" height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+<path d="M5.7 6.2h3.357c.355 0 .643.289.643.65 0 .359-.288.65-.643.65H6.343a.645.645 0 0 1-.643-.65V6.2z"></path>
+<circle cx="6.5" cy="6.5" r="6.5" stroke-width="1.4"></circle>
+<path d="M5.7 2.654A.65.65 0 0 1 6.35 2c.359 0 .65.298.65.654V7H5.7V2.654z"></path>
+</g>
+</svg>
+</button>
+<div class="frb-inline-rml" style="display: none;">
+<div class="frb-inline-rml-form-wrapper">
+<div class="frb-inline-rml-form">
+<form action="https://www.pages04.net/wikimedia/remind/Form?sp_source=B2324_0528_mlWW_dsk_p2_sm_twn_twin2" method="post">
+<div class="frb-legend">Send me an email reminder</div>
+<input name="formSourceName" type="hidden" value="StandardForm"/>
+<input name="sp_exp" type="hidden" value="yes"/>
+<input name="rml_source" type="hidden" value="B2324_0528_mlWW_dsk_p2_sm_twn_twin2"/>
+<input name="rml_group" type="hidden" value="dsk_sm"/>
+<input name="rml_country" type="hidden" value="PT"/>
+<input name="rml_language" type="hidden" value="en"/>
+<input name="rml_submitDate" type="hidden" value="06/02/2024"/>
+<input name="rml_segment" type="hidden" value="11"/>
+<input autocomplete="email" class="frb-input email_input required" dir="ltr" name="Email" placeholder="Email address" type="email"/>
+<button class="frb-submit active" type="submit">Submit</button>
+<div class="frb-error frb-error-invalidemail">
+                                    Please enter a valid email address i.e. name@domain.com
+                                </div>
+<div class="frb-smallprint frb-localize-links">
+<span class="frb-legal-US" style="display: none;">We never sell your information. By submitting, you are agreeing to our <a href="https://foundation.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_privacy_policy&amp;language=en" target="_blank">donor privacy policy</a>. The Wikimedia Foundation is a nonprofit, <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_deductibility&amp;language=en" target="_blank">tax-exempt organization</a>.</span>
+<span class="frb-legal-NL" style="display: none;">We never sell your information. By submitting, you are agreeing to our <a href="https://foundation.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_privacy_policy&amp;language=en" target="_blank">donor privacy policy</a> and to sharing your information with the Wikimedia Foundation and its service providers in the U.S. and elsewhere. The Wikimedia Foundation is a nonprofit, <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_deductibility&amp;language=en" target="_blank">tax-exempt organization</a>.</span>
+<span class="frb-legal-nonUS">We never sell your information. By submitting, you are agreeing to our <a href="https://foundation.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_privacy_policy&amp;language=en" target="_blank">donor privacy policy</a> and to sharing your information with the <a href="https://donate.wikimedia.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_deductibility&amp;language=en" target="_blank">Wikimedia Foundation</a> and its service providers in the U.S. and elsewhere.</span>
+</div>
+</form>
+<div class="frb-inline-rml-done" style="display: none;">
+                                Thank you! We will send you a reminder email.
+                            </div>
+<div class="frb-inline-rml-form-close-wrapper">
+<button class="frb-inline-rml-form-close">
+                                    Close
+                                    <svg aria-hidden="true" class="frb-inline-rml-form-close-icon" height="12" viewbox="0 0 12 12" width="12" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-width="1.4">
+<path d="M1 1l9.944 9.944M10.944 1L1 10.944"></path>
+</g>
+</svg>
+</button>
+</div>
+</div>
+</div>
+</div></div>
+<button class="frb-footer-button frb-iad modal-open">
+                I already donated
+            </button>
+<button class="frb-footer-button frb-inline-close">
+                Close
+                <svg aria-hidden="true" class="frb-inline-close-icon" height="12" viewbox="0 0 12 12" width="12" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-width="1.4">
+<path d="M1 1l9.944 9.944M10.944 1L1 10.944"></path>
+</g>
+</svg>
+</button>
+</div>
+</div>
+</div><div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
+<div class="mp-box" id="mp-topbanner">
+<div id="mp-welcomecount">
+<div id="mp-welcome"><h1><span class="mw-headline" id="Welcome_to_Wikipedia">Welcome to <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a></span></h1>,</div>
+<div id="mp-free">the <a href="/wiki/Free_content" title="Free content">free</a> <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="/wiki/Help:Introduction_to_Wikipedia" title="Help:Introduction to Wikipedia">anyone can edit</a>.</div>
+<div id="articlecount"><a href="/wiki/Special:Statistics" title="Special:Statistics">6,830,375</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
+</div>
+</div>
+<div id="mp-upper">
+<div class="MainPageBG mp-box" id="mp-left">
+<h2 class="mp-h2" id="mp-tfa-h2"><span id="From_today.27s_featured_article"></span><span class="mw-headline" id="From_today's_featured_article">From today's featured article</span></h2>
+<div class="mp-contains-float" id="mp-tfa"><div id="mp-tfa-img" style="float: left; margin: 0.5em 0.9em 0.4em 0em;">
+<div class="thumbinner mp-thumb" style="background: transparent; color: inherit; border: none; padding: 0; max-width: 128px;">
+<span class="mw-image-border" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg" title="Hall's A Concise Anglo-Saxon Dictionary"><img alt="Hall's A Concise Anglo-Saxon Dictionary" class="mw-file-element" data-file-height="1269" data-file-width="1028" decoding="async" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg/126px-Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg/189px-Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg/252px-Clark_Hall_A_Concise_Anglo-Saxon_Dictionary_1894_title_page.jpg 2x" width="126"/></a></span><div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Hall's <i>A Concise Anglo-Saxon Dictionary</i></div></div>
+</div>
+<p><b><a href="/wiki/John_Richard_Clark_Hall" title="John Richard Clark Hall">John Richard Clark Hall</a></b> (1855–1931) was a British scholar of <a href="/wiki/Old_English" title="Old English">Old English</a>, and a barrister. Hall's <i>A Concise Anglo-Saxon Dictionary</i> <i>(pictured)</i> became a widely used work upon its 1894 publication, and after multiple revisions remains in print. His 1901 prose translation of <i><a href="/wiki/Beowulf" title="Beowulf">Beowulf</a></i> was still the canonical introduction to the poem into the 1960s; some later editions included <a href="/wiki/On_Translating_Beowulf" title="On Translating Beowulf">a prefatory essay</a> by <a href="/wiki/J._R._R._Tolkien" title="J. R. R. Tolkien">J. R. R. Tolkien</a>. Hall's other work on <i>Beowulf</i> included a <a href="/wiki/Metre_(poetry)" title="Metre (poetry)">metrical</a> translation in 1914, and the translation and collection of <a href="/wiki/Knut_Stjerna" title="Knut Stjerna">Knut Stjerna</a>'s Swedish papers on the poem in the 1912 work <i>Essays on Questions Connected with the Old English Poem of Beowulf</i>. In the final decade of his life, Hall's writings took to a Christian theme. The <a href="/wiki/Society_for_Promoting_Christian_Knowledge" title="Society for Promoting Christian Knowledge">Society for Promoting Christian Knowledge</a> published two of his works in this time: <i>Herbert Tingle, and Especially his Boyhood</i>, and <i>Birth-Control and Self-Control</i>. Hall worked as a clerk at the <a href="/wiki/Local_Government_Board" title="Local Government Board">Local Government Board</a> in <a href="/wiki/Whitehall" title="Whitehall">Whitehall</a>, becoming principal clerk in 1898. (<b><a href="/wiki/John_Richard_Clark_Hall" title="John Richard Clark Hall">Full article...</a></b>)
+    </p>
+<div class="tfa-recent" style="text-align: right;">
+    Recently featured: <div class="hlist inline">
+<ul><li><a href="/wiki/Ludwigsburg_Palace" title="Ludwigsburg Palace">Ludwigsburg Palace</a></li>
+<li><a href="/wiki/Siege_of_Gu%C3%AEnes_(1352)" title="Siege of Guînes (1352)">Siege of Guînes (1352)</a></li>
+<li><a href="/wiki/Boundary_Fire_(2017)" title="Boundary Fire (2017)">Boundary Fire (2017)</a></li></ul>
+</div></div>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist tfa-footer noprint" style="text-align:right;">
+<ul><li><b><a href="/wiki/Wikipedia:Today%27s_featured_article/June_2024" title="Wikipedia:Today's featured article/June 2024">Archive</a></b></li>
+<li><b><a class="extiw" href="https://lists.wikimedia.org/postorius/lists/daily-article-l.lists.wikimedia.org/" title="mail:daily-article-l">By email</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">More featured articles</a></b></li>
+<li><b><a href="/wiki/Wikipedia:About_Today%27s_featured_article" title="Wikipedia:About Today's featured article">About</a></b></li></ul>
+</div></div>
+<h2 class="mp-h2" id="mp-dyk-h2"><span class="mw-headline" id="Did_you_know_...">Did you know ...</span></h2>
+<div class="mp-contains-float" id="mp-dyk">
+<div class="dyk-img" style="float: right; margin-left: 0.5em;">
+<div class="thumbinner mp-thumb" style="background: transparent; color: inherit; border: none; padding: 0; max-width: 121px;">
+<span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Lie_Kiat_Teng,_Kami_Perkenalkan_(1954),_p33.jpg" title="Lie Kiat Teng"><img alt="Lie Kiat Teng" class="mw-file-element" data-file-height="1434" data-file-width="1076" decoding="async" height="161" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lie_Kiat_Teng%2C_Kami_Perkenalkan_%281954%29%2C_p33.jpg/121px-Lie_Kiat_Teng%2C_Kami_Perkenalkan_%281954%29%2C_p33.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lie_Kiat_Teng%2C_Kami_Perkenalkan_%281954%29%2C_p33.jpg/182px-Lie_Kiat_Teng%2C_Kami_Perkenalkan_%281954%29%2C_p33.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lie_Kiat_Teng%2C_Kami_Perkenalkan_%281954%29%2C_p33.jpg/242px-Lie_Kiat_Teng%2C_Kami_Perkenalkan_%281954%29%2C_p33.jpg 2x" width="121"/></a></span><div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Lie Kiat Teng</div></div>
+</div>
+<ul><li>... that <b><a href="/wiki/Lie_Kiat_Teng" title="Lie Kiat Teng">Lie Kiat Teng</a></b> <i>(pictured)</i> appealed to the "moral obligation" of doctors to address a healthcare crisis in <a href="/wiki/South_Sulawesi" title="South Sulawesi">South Sulawesi</a>?</li>
+<li>... that in 1978 the chairman of the <b><a href="/wiki/Democratic_Yemeni_Union_of_Peasants" title="Democratic Yemeni Union of Peasants">Democratic Yemeni Union of Peasants</a></b> was arrested after the South Yemeni government was taken over by <a href="/wiki/Abdul_Fattah_Ismail" title="Abdul Fattah Ismail">Abdul Fattah Ismail</a>?</li>
+<li>... that <b><a href="/wiki/Lyle_Bauer" title="Lyle Bauer">Lyle Bauer</a></b> continued to attend <a href="/wiki/Canadian_Football_League" title="Canadian Football League">Canadian Football League</a> executive meetings despite being unable to speak due to his treatment for stage four throat cancer?</li>
+<li>... that the <b><a href="/wiki/Capitolium_of_Constantinople" title="Capitolium of Constantinople">Capitolium of Constantinople</a></b>, originally a <a href="/wiki/Capitolium" title="Capitolium">pagan temple</a>, was later topped by a cross?</li>
+<li>... that the <a href="/wiki/Diss_(music)" title="Diss (music)">diss track</a> "<b><a href="/wiki/6:16_in_LA" title="6:16 in LA">6:16 in LA</a></b>", directed at <a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a>, samples <a href="/wiki/Al_Green" title="Al Green">Al Green</a>'s "What a Wonderful Thing Love Is", a song that features <a href="/wiki/Teenie_Hodges" title="Teenie Hodges">Drake's guitarist uncle</a>?</li>
+<li>... that an essay of jailed <a href="/wiki/Socialist_Revolutionary_Party" title="Socialist Revolutionary Party">Socialist Revolutionary</a> politician <b><a href="/wiki/Alexander_Helfgot" title="Alexander Helfgot">Alexander Helfgot</a></b> was smuggled out of Russia and published in Berlin in 1922?</li>
+<li>... that when producer <a href="/wiki/Daniel_Grodnik" title="Daniel Grodnik">Daniel Grodnik</a> proposed the idea for <i><b><a href="/wiki/Terror_Train" title="Terror Train">Terror Train</a></b></i> to his wife, she thought that it sounded terrible?</li>
+<li>... that the <b><a href="/wiki/Eurovision_Song_Contest_1991" title="Eurovision Song Contest 1991">Eurovision Song Contest 1991</a></b> was moved to <a href="/wiki/Rome" title="Rome">Rome</a> from <a href="/wiki/Sanremo" title="Sanremo">Sanremo</a> at a late stage due to increased security concerns resulting from the <a href="/wiki/Gulf_War" title="Gulf War">Gulf War</a>?</li>
+<li>... that in college, <a href="/wiki/American_football" title="American football">American football</a> player <b><a href="/wiki/Jarrett_Kingston" title="Jarrett Kingston">Jarrett Kingston</a></b> started at the position of <a href="/wiki/Guard_(gridiron_football)" title="Guard (gridiron football)">left guard</a>, then moved to <a href="/wiki/Tackle_(gridiron_football_position)#Left_tackle" title="Tackle (gridiron football position)">left tackle</a>, and then played <a href="/wiki/Tackle_(gridiron_football_position)#Right_tackle" title="Tackle (gridiron football position)">right tackle</a> and <a href="/wiki/Guard_(gridiron_football)" title="Guard (gridiron football)">right guard</a>?</li></ul>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist dyk-footer noprint" style="margin-top: 0.5em; text-align: right;">
+<ul><li><b><a href="/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">Archive</a></b></li>
+<li><b><a href="/wiki/Help:Your_first_article" title="Help:Your first article">Start a new article</a></b></li>
+<li><b><a href="/wiki/Template_talk:Did_you_know" title="Template talk:Did you know">Nominate an article</a></b></li></ul>
+</div>
+</div>
+</div>
+<div class="MainPageBG mp-box" id="mp-right">
+<h2 class="mp-h2" id="mp-itn-h2"><span class="mw-headline" id="In_the_news">In the news</span></h2>
+<div class="mp-contains-float" id="mp-itn"><div class="itn-img" role="figure">
+<div class="thumbinner mp-thumb" style="background: transparent; color: inherit; border: none; padding: 0; max-width: 121px;">
+<span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Donald_Trump_official_portrait_(3x4a).jpg" title="Donald Trump in 2017"><img alt="Donald Trump in 2017" class="mw-file-element" data-file-height="2102" data-file-width="1576" decoding="async" height="161" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/121px-Donald_Trump_official_portrait_%283x4a%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/182px-Donald_Trump_official_portrait_%283x4a%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/242px-Donald_Trump_official_portrait_%283x4a%29.jpg 2x" width="121"/></a></span><div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word; text-align: left;">Donald Trump</div></div>
+</div>
+<ul><li>Former U.S. president <a href="/wiki/Donald_Trump" title="Donald Trump">Donald Trump</a> <i>(pictured)</i> is found guilty <b><a href="/wiki/Prosecution_of_Donald_Trump_in_New_York" title="Prosecution of Donald Trump in New York">on all 34 counts of falsifying business records</a></b>.</li>
+<li>In <a href="/wiki/American_open-wheel_car_racing" title="American open-wheel car racing">Indy car racing</a>, <a href="/wiki/Josef_Newgarden" title="Josef Newgarden">Josef Newgarden</a> wins <b><a href="/wiki/2024_Indianapolis_500" title="2024 Indianapolis 500">the Indianapolis 500</a></b>.</li>
+<li>In <a href="/wiki/Cricket" title="Cricket">cricket</a>, the <a href="/wiki/Kolkata_Knight_Riders" title="Kolkata Knight Riders">Kolkata Knight Riders</a> <b><a href="/wiki/2024_Indian_Premier_League_final" title="2024 Indian Premier League final">defeat</a></b> <a href="/wiki/Sunrisers_Hyderabad" title="Sunrisers Hyderabad">Sunrisers Hyderabad</a> to win <a href="/wiki/2024_Indian_Premier_League" title="2024 Indian Premier League">the Indian Premier League</a>.</li>
+<li><a href="/wiki/Gitanas_Naus%C4%97da" title="Gitanas Nausėda">Gitanas Nausėda</a> <b><a href="/wiki/2024_Lithuanian_presidential_election" title="2024 Lithuanian presidential election">is re-elected</a></b> as president of Lithuania.</li>
+<li><b><a href="/wiki/2024_Enga_landslide" title="2024 Enga landslide">A landslide</a></b> in Papua New Guinea's <a href="/wiki/Enga_Province" title="Enga Province">Enga Province</a> leaves thousands of people missing and presumed dead.</li></ul>
+<div class="itn-footer" style="margin-top: 0.5em;">
+<div><b><a href="/wiki/Portal:Current_events" title="Portal:Current events">Ongoing</a></b>: <link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist inline">
+<ul><li><a href="/wiki/Israel%E2%80%93Hamas_war" title="Israel–Hamas war">Israel–Hamas war</a>
+<ul><li><a href="/wiki/Timeline_of_the_Israel%E2%80%93Hamas_war_(7_May_2024_%E2%80%93_present)" title="Timeline of the Israel–Hamas war (7 May 2024 – present)">timeline</a></li></ul></li>
+<li><a href="/wiki/Russian_invasion_of_Ukraine" title="Russian invasion of Ukraine">Russian invasion of Ukraine</a>
+<ul><li><a href="/wiki/Timeline_of_the_Russian_invasion_of_Ukraine_(1_April_2024_%E2%80%93_present)" title="Timeline of the Russian invasion of Ukraine (1 April 2024 – present)">timeline</a></li></ul></li>
+<li><a href="/wiki/Sudanese_civil_war_(2023%E2%80%93present)" title="Sudanese civil war (2023–present)">Sudanese civil war</a>
+<ul><li><a href="/wiki/Timeline_of_the_Sudanese_civil_war_(2024)" title="Timeline of the Sudanese civil war (2024)">timeline</a></li></ul></li></ul></div></div>
+<div><b><a href="/wiki/Deaths_in_2024" title="Deaths in 2024">Recent deaths</a></b>: <link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist inline">
+<ul><li><a href="/wiki/Margot_Benacerraf" title="Margot Benacerraf">Margot Benacerraf</a></li>
+<li><a href="/wiki/Alan_Choe" title="Alan Choe">Alan Choe</a></li>
+<li><a href="/wiki/Hugues_Gall" title="Hugues Gall">Hugues Gall</a></li>
+<li><a href="/wiki/Richard_Ellis_(biologist)" title="Richard Ellis (biologist)">Richard Ellis</a></li>
+<li><span class="nowrap"><a href="/wiki/Larry_R._Hicks" title="Larry R. Hicks">Larry R. Hicks</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Richard_M._Sherman" title="Richard M. Sherman">Richard M. Sherman</a></span></li></ul></div></div></div>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist itn-footer noprint" style="text-align:right;">
+<ul><li><b><a href="/wiki/Wikipedia:In_the_news/Candidates" title="Wikipedia:In the news/Candidates">Nominate an article</a></b></li></ul>
+</div></div>
+<h2 class="mp-h2" id="mp-otd-h2"><span class="mw-headline" id="On_this_day">On this day</span></h2>
+<div class="mp-contains-float" id="mp-otd">
+<p><b><a href="/wiki/June_2" title="June 2">June 2</a></b>: <i><b><a href="/wiki/Festa_della_Repubblica" title="">Festa della Repubblica</a></b></i> in Italy (<a href="/wiki/1946" title="1946">1946</a>)
+    </p>
+<div id="mp-otd-img" style="float:right;margin-left:0.5em;">
+<div class="thumbinner mp-thumb" style="background: transparent; color: inherit; border: none; padding: 0; max-width: 125px;">
+<span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Luigi_Galleani_portrait.jpg" title="Luigi Galleani"><img alt="Luigi Galleani" class="mw-file-element" data-file-height="226" data-file-width="180" decoding="async" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Luigi_Galleani_portrait.jpg/125px-Luigi_Galleani_portrait.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/5/5d/Luigi_Galleani_portrait.jpg 1.5x" width="125"/></a></span><div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Luigi Galleani</div></div>
+</div>
+<ul><li><a href="/wiki/1802" title="1802">1802</a> – <a href="/wiki/Henry_Hacking" title="Henry Hacking">Henry Hacking</a> killed the <a href="/wiki/Aboriginal_Australians" title="Aboriginal Australians">Aboriginal Australian</a> resistance fighter <b><a href="/wiki/Pemulwuy" title="Pemulwuy">Pemulwuy</a></b> after <a href="/wiki/Philip_Gidley_King" title="Philip Gidley King">Philip Gidley King</a> ordered that he be brought in dead or alive.</li>
+<li><a href="/wiki/1919" title="1919">1919</a> – <a href="/wiki/First_Red_Scare" title="First Red Scare">First Red Scare</a>: The <a href="/wiki/Anarchism" title="Anarchism">anarchist</a> followers of <a href="/wiki/Luigi_Galleani" title="Luigi Galleani">Luigi Galleani</a> <i>(pictured)</i> <b><a href="/wiki/1919_United_States_anarchist_bombings" title="1919 United States anarchist bombings">set off eight bombs</a></b> in eight cities across the United States.</li>
+<li><a href="/wiki/1953" title="1953">1953</a> – <a href="/wiki/Elizabeth_II" title="Elizabeth II">Queen Elizabeth II</a> <b><a href="/wiki/Coronation_of_Elizabeth_II" title="Coronation of Elizabeth II">was crowned</a></b> at <a href="/wiki/Westminster_Abbey" title="Westminster Abbey">Westminster Abbey</a> in London.</li>
+<li><a href="/wiki/1994" title="1994">1994</a> – The <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> suffered <b><a href="/wiki/1994_Mull_of_Kintyre_Chinook_crash" title="1994 Mull of Kintyre Chinook crash">a significant peacetime disaster</a></b> when a <a href="/wiki/Boeing_Chinook_(UK_variants)" title="Boeing Chinook (UK variants)">Chinook</a> helicopter crashed on the <a href="/wiki/Mull_of_Kintyre" title="Mull of Kintyre">Mull of Kintyre</a> in Scotland, killing all 29 people on board.</li>
+<li><a href="/wiki/2023" title="2023">2023</a> – A <b><a href="/wiki/2023_Odisha_train_collision" title="2023 Odisha train collision">collision between two passenger trains and a parked freight train</a></b> near the city of <a href="/wiki/Balasore" title="Balasore">Balasore</a>, <a href="/wiki/Odisha" title="Odisha">Odisha</a>, in eastern India resulted in 296 deaths and more than 1,200 people injured.</li></ul>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist" style="margin-top: 0.5em;"><ul><li><b><a href="/wiki/William_Salmon" title="William Salmon">William Salmon</a></b>  (<abbr title="born">b.</abbr> 1644)</li><li><b><a href="/wiki/Gilbert_Baker_(artist)" title="Gilbert Baker (artist)">Gilbert Baker</a></b>  (<abbr title="born">b.</abbr> 1951)</li><li><b><a href="/wiki/Alexander_Shulgin" title="Alexander Shulgin">Alexander Shulgin</a></b>  (<abbr title="died">d.</abbr> 2014)</li><li><b><a href="/wiki/Radoje_Pajovi%C4%87" title="Radoje Pajović">Radoje Pajović</a></b>  (<abbr title="died">d.</abbr> 2019)</li></ul></div>
+<div style="margin-top:0.5em;">
+    More anniversaries: <link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist inline nowraplinks">
+<ul><li><a href="/wiki/June_1" title="June 1">June 1</a></li>
+<li><b><a href="/wiki/June_2" title="June 2">June 2</a></b></li>
+<li><a href="/wiki/June_3" title="June 3">June 3</a></li></ul>
+</div></div>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist otd-footer noprint" style="text-align:right;">
+<ul><li><b><a href="/wiki/Wikipedia:Selected_anniversaries/June" title="Wikipedia:Selected anniversaries/June">Archive</a></b></li>
+<li><b><a class="extiw" href="https://lists.wikimedia.org/postorius/lists/daily-article-l.lists.wikimedia.org/" title="mail:daily-article-l">By email</a></b></li>
+<li><b><a href="/wiki/List_of_days_of_the_year" title="List of days of the year">List of days of the year</a></b></li></ul>
+</div></div>
+</div>
+</div>
+<div class="MainPageBG mp-box" id="mp-lower">
+<h2 class="mp-h2" id="mp-tfp-h2"><span id="Today.27s_featured_picture"></span><span class="mw-headline" id="Today's_featured_picture">Today's featured picture</span></h2>
+<div id="mp-tfp">
+<table role="presentation" style="margin:0 3px 3px; width:100%; box-sizing:border-box; text-align:center; border-collapse:collapse; padding:0.9em">
+<tbody><tr>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Cloisters_of_Moissac_Abbey.jpg" title="Cloisters of Moissac Abbey"><img alt="Cloisters of Moissac Abbey" class="mw-file-element" data-file-height="3044" data-file-width="4895" decoding="async" height="311" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cloisters_of_Moissac_Abbey.jpg/500px-Cloisters_of_Moissac_Abbey.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cloisters_of_Moissac_Abbey.jpg/750px-Cloisters_of_Moissac_Abbey.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cloisters_of_Moissac_Abbey.jpg/1000px-Cloisters_of_Moissac_Abbey.jpg 2x" width="500"/></a></span>
+</td></tr>
+<tr>
+<td style="padding:0 0.9em; text-align:left;">
+<p><b><a href="/wiki/Moissac_Abbey" title="Moissac Abbey">Moissac Abbey</a></b> was a <a class="mw-redirect" href="/wiki/Benedictine" title="Benedictine">Benedictine</a> monastery in <a href="/wiki/Moissac" title="Moissac">Moissac</a>, Tarn-et-Garonne, in south-western France. A number of its medieval buildings survive, including the abbey church, which has a notable <a href="/wiki/Romanesque_art" title="Romanesque art">Romanesque</a> sculpture around the entrance. This picture shows the abbey's <a href="/wiki/Cloister" title="Cloister">cloisters</a>.
+    </p>
+<p style="text-align:center;"><small>Photograph credit: <a href="/wiki/User:Benh" title="User:Benh">Benh Lieu Song</a></small></p>
+<div class="potd-recent" style="text-align:right;">
+    Recently featured: <link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist inline">
+<ul><li><a href="/wiki/Template:POTD/2024-06-01" title="Template:POTD/2024-06-01">Jeremiah Gurney</a></li>
+<li><a href="/wiki/Template:POTD/2024-05-31" title="Template:POTD/2024-05-31">Common moorhen</a></li>
+<li><a href="/wiki/Template:POTD/2024-05-30" title="Template:POTD/2024-05-30">Peanut</a></li></ul>
+</div></div>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist potd-footer noprint" style="text-align:right;">
+<ul><li><b><a href="/wiki/Wikipedia:Picture_of_the_day/Archive" title="Wikipedia:Picture of the day/Archive">Archive</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">More featured pictures</a></b></li></ul>
+</div>
+</td></tr></tbody></table></div>
+</div>
+<div class="mp-box" id="mp-bottom">
+<h2 class="mp-h2" id="mp-other"><span class="mw-headline" id="Other_areas_of_Wikipedia">Other areas of Wikipedia</span></h2>
+<div id="mp-other-content">
+<ul><li><b><a href="/wiki/Wikipedia:Community_portal" title="Wikipedia:Community portal">Community portal</a></b> – The central hub for editors, with resources, links, tasks, and announcements.</li>
+<li><b><a href="/wiki/Wikipedia:Village_pump" title="Wikipedia:Village pump">Village pump</a></b> – Forum for discussions about Wikipedia itself, including policies and technical issues.</li>
+<li><b><a href="/wiki/Wikipedia:News" title="Wikipedia:News">Site news</a></b> – Sources of news about Wikipedia and the broader Wikimedia movement.</li>
+<li><b><a href="/wiki/Wikipedia:Teahouse" title="Wikipedia:Teahouse">Teahouse</a></b> – Ask basic questions about using or editing Wikipedia.</li>
+<li><b><a href="/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk">Help desk</a></b> – Ask questions about using or editing Wikipedia.</li>
+<li><b><a href="/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference desk</a></b> – Ask research questions about encyclopedic topics.</li>
+<li><b><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Content portals</a></b> – A unique way to navigate the encyclopedia.</li></ul>
+</div>
+<h2 class="mp-h2" id="mp-sister"><span id="Wikipedia.27s_sister_projects"></span><span class="mw-headline" id="Wikipedia's_sister_projects">Wikipedia's sister projects</span></h2>
+<div id="mp-sister-content">
+<p>Wikipedia is written by volunteer editors and hosted by the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, a non-profit organization that also hosts a range of other volunteer <a class="extiw" href="https://wikimediafoundation.org/our-work/wikimedia-projects/" title="foundationsite:our-work/wikimedia-projects/">projects</a>:
+    </p>
+<div class="plainlist">
+<ul id="sister-projects-list">
+<li>
+<div><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/" title="Commons"><img alt="Commons logo" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="42" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/47px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/62px-Commons-logo.svg.png 2x" width="31"/></a></span></div>
+<div><span><a class="extiw" href="https://commons.wikimedia.org/wiki/" title="c:">Commons</a></span><br/>Free media repository</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://www.mediawiki.org/wiki/" title="MediaWiki"><img alt="MediaWiki logo" class="mw-file-element" data-file-height="100" data-file-width="100" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/35px-MediaWiki-2020-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/53px-MediaWiki-2020-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/70px-MediaWiki-2020-icon.svg.png 2x" width="35"/></a></span></div>
+<div><span><a class="extiw" href="https://www.mediawiki.org/wiki/" title="mw:">MediaWiki</a></span><br/>Wiki software development</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://meta.wikimedia.org/wiki/" title="Meta-Wiki"><img alt="Meta-Wiki logo" class="mw-file-element" data-file-height="900" data-file-width="900" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" width="35"/></a></span></div>
+<div><span><a class="extiw" href="https://meta.wikimedia.org/wiki/" title="m:">Meta-Wiki</a></span><br/>Wikimedia project coordination</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://en.wikibooks.org/wiki/" title="Wikibooks"><img alt="Wikibooks logo" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" width="35"/></a></span></div>
+<div><span><a class="extiw" href="https://en.wikibooks.org/wiki/" title="b:">Wikibooks</a></span><br/>Free textbooks and manuals</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://www.wikidata.org/wiki/" title="Wikidata"><img alt="Wikidata logo" class="mw-file-element" data-file-height="590" data-file-width="1050" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/47px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/71px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/94px-Wikidata-logo.svg.png 2x" width="47"/></a></span></div>
+<div><span><a class="extiw" href="https://www.wikidata.org/wiki/" title="d:">Wikidata</a></span><br/>Free knowledge base</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://en.wikinews.org/wiki/" title="Wikinews"><img alt="Wikinews logo" class="mw-file-element" data-file-height="415" data-file-width="759" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/51px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/77px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/102px-Wikinews-logo.svg.png 2x" width="51"/></a></span></div>
+<div><span><a class="extiw" href="https://en.wikinews.org/wiki/" title="n:">Wikinews</a></span><br/>Free-content news</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://en.wikiquote.org/wiki/" title="Wikiquote"><img alt="Wikiquote logo" class="mw-file-element" data-file-height="355" data-file-width="300" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" width="35"/></a></span></div>
+<div><span><a class="extiw" href="https://en.wikiquote.org/wiki/" title="q:">Wikiquote</a></span><br/>Collection of quotations</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://en.wikisource.org/wiki/" title="Wikisource"><img alt="Wikisource logo" class="mw-file-element" data-file-height="430" data-file-width="410" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" width="35"/></a></span></div>
+<div><span><a class="extiw" href="https://en.wikisource.org/wiki/" title="s:">Wikisource</a></span><br/>Free-content library</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://species.wikimedia.org/wiki/" title="Wikispecies"><img alt="Wikispecies logo" class="mw-file-element" data-file-height="1103" data-file-width="941" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" width="35"/></a></span></div>
+<div><span><a class="extiw" href="https://species.wikimedia.org/wiki/" title="species:">Wikispecies</a></span><br/>Directory of species</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://en.wikiversity.org/wiki/" title="Wikiversity"><img alt="Wikiversity logo" class="mw-file-element" data-file-height="512" data-file-width="626" decoding="async" height="34" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/41px-Wikiversity_logo_2017.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/62px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/82px-Wikiversity_logo_2017.svg.png 2x" width="41"/></a></span></div>
+<div><span><a class="extiw" href="https://en.wikiversity.org/wiki/" title="v:">Wikiversity</a></span><br/>Free learning tools</div>
+</li>
+<li>
+<div><span typeof="mw:File"><a href="https://en.wikivoyage.org/wiki/" title="Wikivoyage"><img alt="Wikivoyage logo" class="mw-file-element" data-file-height="193" data-file-width="193" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="35"/></a></span></div>
+<div><span><a class="extiw" href="https://en.wikivoyage.org/wiki/" title="voy:">Wikivoyage</a></span><br/>Free travel guide</div>
+</li>
+<li>
+<div><span class="sister-projects-wikt-icon-light"><span typeof="mw:File"><a href="https://en.wiktionary.org/wiki/" title="Wiktionary"><img alt="Wiktionary logo" class="mw-file-element" data-file-height="391" data-file-width="391" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/35px-Wiktionary-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/53px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/70px-Wiktionary-logo-v2.svg.png 2x" width="35"/></a></span></span><span class="sister-projects-wikt-icon-dark"><span typeof="mw:File"><a href="https://en.wiktionary.org/wiki/" title="Wiktionary"><img alt="Wiktionary logo" class="mw-file-element" data-file-height="350" data-file-width="370" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/41px-Wiktionary-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/62px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/82px-Wiktionary-logo.svg.png 2x" width="41"/></a></span></span></div>
+<div><span><a class="extiw" href="https://en.wiktionary.org/wiki/" title="wikt:">Wiktionary</a></span><br/>Dictionary and thesaurus</div>
+</li>
+</ul>
+</div></div>
+<h2 class="mp-h2" id="mp-lang"><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2>
+<div>
+<div class="wikipedia-languages nourlexpansion">
+<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Many <a class="extiw" href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" title="meta:List of Wikipedias">other Wikipedias are available</a>; some of the largest are listed below.
+    </p>
+<ul class="plainlinks">
+<li>
+<div class="wikipedia-languages-count-container">
+<div class="wikipedia-languages-prettybars"></div>
+<div aria-level="3" class="wikipedia-languages-count" role="heading">1,000,000+ articles</div>
+<div class="wikipedia-languages-prettybars"></div>
+</div>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist wikipedia-languages-langs inline">
+<ul><li><a class="external text" href="https://ar.wikipedia.org/wiki/"><span class="autonym" lang="ar" title="Arabic (ar:)">العربية</span></a></li>
+<li><a class="external text" href="https://arz.wikipedia.org/wiki/"><span class="autonym" lang="arz" title="Egyptian Arabic (arz:)">مصرى</span></a></li>
+<li><a class="external text" href="https://de.wikipedia.org/wiki/"><span class="autonym" lang="de" title="German (de:)">Deutsch</span></a></li>
+<li><a class="external text" href="https://es.wikipedia.org/wiki/"><span class="autonym" lang="es" title="Spanish (es:)">Español</span></a></li>
+<li><a class="external text" href="https://fa.wikipedia.org/wiki/"><span class="autonym" lang="fa" title="Persian (fa:)">فارسی</span></a>‎</li>
+<li><a class="external text" href="https://fr.wikipedia.org/wiki/"><span class="autonym" lang="fr" title="French (fr:)">Français</span></a></li>
+<li><a class="external text" href="https://it.wikipedia.org/wiki/"><span class="autonym" lang="it" title="Italian (it:)">Italiano</span></a></li>
+<li><a class="external text" href="https://nl.wikipedia.org/wiki/"><span class="autonym" lang="nl" title="Dutch (nl:)">Nederlands</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/wiki/"><span class="autonym" lang="ja" title="Japanese (ja:)">日本語</span></a></li>
+<li><a class="external text" href="https://pl.wikipedia.org/wiki/"><span class="autonym" lang="pl" title="Polish (pl:)">Polski</span></a></li>
+<li><a class="external text" href="https://pt.wikipedia.org/wiki/"><span class="autonym" lang="pt" title="Portuguese (pt:)">Português</span></a></li>
+<li><a class="external text" href="https://ru.wikipedia.org/wiki/"><span class="autonym" lang="ru" title="Russian (ru:)">Русский</span></a></li>
+<li><a class="external text" href="https://sv.wikipedia.org/wiki/"><span class="autonym" lang="sv" title="Swedish (sv:)">Svenska</span></a></li>
+<li><a class="external text" href="https://uk.wikipedia.org/wiki/"><span class="autonym" lang="uk" title="Ukrainian (uk:)">Українська</span></a></li>
+<li><a class="external text" href="https://vi.wikipedia.org/wiki/"><span class="autonym" lang="vi" title="Vietnamese (vi:)">Tiếng Việt</span></a></li>
+<li><a class="external text" href="https://zh.wikipedia.org/wiki/"><span class="autonym" lang="zh" title="Chinese (zh:)">中文</span></a></li></ul>
+</div>
+</li>
+<li>
+<div class="wikipedia-languages-count-container">
+<div class="wikipedia-languages-prettybars"></div>
+<div aria-level="3" class="wikipedia-languages-count" role="heading">250,000+ articles</div>
+<div class="wikipedia-languages-prettybars"></div>
+</div>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist wikipedia-languages-langs inline">
+<ul><li><a class="external text" href="https://id.wikipedia.org/wiki/"><span class="autonym" lang="id" title="Indonesian (id:)">Bahasa Indonesia</span></a></li>
+<li><a class="external text" href="https://ms.wikipedia.org/wiki/"><span class="autonym" lang="ms" title="Malay (ms:)">Bahasa Melayu</span></a></li>
+<li><a class="external text" href="https://zh-min-nan.wikipedia.org/wiki/"><span class="autonym" lang="nan" title="Minnan (nan:)">閩南語 / Bân-lâm-gú</span></a></li>
+<li><a class="external text" href="https://bg.wikipedia.org/wiki/"><span class="autonym" lang="bg" title="Bulgarian (bg:)">Български</span></a></li>
+<li><a class="external text" href="https://ca.wikipedia.org/wiki/"><span class="autonym" lang="ca" title="Catalan (ca:)">Català</span></a></li>
+<li><a class="external text" href="https://cs.wikipedia.org/wiki/"><span class="autonym" lang="cs" title="Czech (cs:)">Čeština</span></a></li>
+<li><a class="external text" href="https://da.wikipedia.org/wiki/"><span class="autonym" lang="da" title="Danish (da:)">Dansk</span></a></li>
+<li><a class="external text" href="https://eo.wikipedia.org/wiki/"><span class="autonym" lang="eo" title="Esperanto (eo:)">Esperanto</span></a></li>
+<li><a class="external text" href="https://eu.wikipedia.org/wiki/"><span class="autonym" lang="eu" title="Basque (eu:)">Euskara</span></a></li>
+<li><a class="external text" href="https://he.wikipedia.org/wiki/"><span class="autonym" lang="he" title="Hebrew (he:)">עברית</span></a></li>
+<li><a class="external text" href="https://hy.wikipedia.org/wiki/"><span class="autonym" lang="hy" title="Armenian (hy:)">Հայերեն</span></a></li>
+<li><a class="external text" href="https://ko.wikipedia.org/wiki/"><span class="autonym" lang="ko" title="Korean (ko:)">한국어</span></a></li>
+<li><a class="external text" href="https://hu.wikipedia.org/wiki/"><span class="autonym" lang="hu" title="Hungarian (hu:)">Magyar</span></a></li>
+<li><a class="external text" href="https://no.wikipedia.org/wiki/"><span class="autonym" lang="no" title="Norwegian (no:)">Norsk bokmål</span></a></li>
+<li><a class="external text" href="https://ro.wikipedia.org/wiki/"><span class="autonym" lang="ro" title="Romanian (ro:)">Română</span></a></li>
+<li><a class="external text" href="https://simple.wikipedia.org/wiki/"><span class="autonym" lang="en" title="Simple English (simple:)">Simple English</span></a></li>
+<li><a class="external text" href="https://sr.wikipedia.org/wiki/"><span class="autonym" lang="sr" title="Serbian (sr:)">Srpski</span></a></li>
+<li><a class="external text" href="https://sh.wikipedia.org/wiki/"><span class="autonym" lang="sh" title="Serbo-Croatian (sh:)">Srpskohrvatski</span></a></li>
+<li><a class="external text" href="https://fi.wikipedia.org/wiki/"><span class="autonym" lang="fi" title="Finnish (fi:)">Suomi</span></a></li>
+<li><a class="external text" href="https://tr.wikipedia.org/wiki/"><span class="autonym" lang="tr" title="Turkish (tr:)">Türkçe</span></a></li>
+<li><a class="external text" href="https://uz.wikipedia.org/wiki/"><span class="autonym" lang="uz" title="Uzbek (uz:)">Oʻzbekcha / ўзбекча</span></a></li></ul>
+</div>
+</li>
+<li>
+<div class="wikipedia-languages-count-container">
+<div class="wikipedia-languages-prettybars"></div>
+<div aria-level="3" class="wikipedia-languages-count" role="heading">50,000+ articles</div>
+<div class="wikipedia-languages-prettybars"></div>
+</div>
+<link href="mw-data:TemplateStyles:r1129693374" rel="mw-deduplicated-inline-style"/><div class="hlist wikipedia-languages-langs inline">
+<ul><li><a class="external text" href="https://ast.wikipedia.org/wiki/"><span class="autonym" lang="ast" title="Asturian (ast:)">Asturianu</span></a></li>
+<li><a class="external text" href="https://az.wikipedia.org/wiki/"><span class="autonym" lang="az" title="Azerbaijani (az:)">Azərbaycanca</span></a></li>
+<li><a class="external text" href="https://bn.wikipedia.org/wiki/"><span class="autonym" lang="bn" title="Bangla (bn:)">বাংলা</span></a></li>
+<li><a class="external text" href="https://bs.wikipedia.org/wiki/"><span class="autonym" lang="bs" title="Bosnian (bs:)">Bosanski</span></a></li>
+<li><a class="external text" href="https://ckb.wikipedia.org/wiki/"><span class="autonym" lang="ckb" title="Central Kurdish (ckb:)">کوردی</span></a></li>
+<li><a class="external text" href="https://et.wikipedia.org/wiki/"><span class="autonym" lang="et" title="Estonian (et:)">Eesti</span></a></li>
+<li><a class="external text" href="https://el.wikipedia.org/wiki/"><span class="autonym" lang="el" title="Greek (el:)">Ελληνικά</span></a></li>
+<li><a class="external text" href="https://fy.wikipedia.org/wiki/"><span class="autonym" lang="fy" title="Western Frisian (fy:)">Frysk</span></a></li>
+<li><a class="external text" href="https://ga.wikipedia.org/wiki/"><span class="autonym" lang="ga" title="Irish (ga:)">Gaeilge</span></a></li>
+<li><a class="external text" href="https://gl.wikipedia.org/wiki/"><span class="autonym" lang="gl" title="Galician (gl:)">Galego</span></a></li>
+<li><a class="external text" href="https://hr.wikipedia.org/wiki/"><span class="autonym" lang="hr" title="Croatian (hr:)">Hrvatski</span></a></li>
+<li><a class="external text" href="https://ka.wikipedia.org/wiki/"><span class="autonym" lang="ka" title="Georgian (ka:)">ქართული</span></a></li>
+<li><a class="external text" href="https://ku.wikipedia.org/wiki/"><span class="autonym" lang="ku" title="Kurdish (ku:)">Kurdî</span></a></li>
+<li><a class="external text" href="https://lv.wikipedia.org/wiki/"><span class="autonym" lang="lv" title="Latvian (lv:)">Latviešu</span></a></li>
+<li><a class="external text" href="https://lt.wikipedia.org/wiki/"><span class="autonym" lang="lt" title="Lithuanian (lt:)">Lietuvių</span></a></li>
+<li><a class="external text" href="https://ml.wikipedia.org/wiki/"><span class="autonym" lang="ml" title="Malayalam (ml:)">മലയാളം</span></a></li>
+<li><a class="external text" href="https://mk.wikipedia.org/wiki/"><span class="autonym" lang="mk" title="Macedonian (mk:)">Македонски</span></a></li>
+<li><a class="external text" href="https://my.wikipedia.org/wiki/"><span class="autonym" lang="my" title="Burmese (my:)">မြန်မာဘာသာ</span></a></li>
+<li><a class="external text" href="https://nn.wikipedia.org/wiki/"><span class="autonym" lang="nn" title="Norwegian Nynorsk (nn:)">Norsk nynorsk</span></a></li>
+<li><a class="external text" href="https://pa.wikipedia.org/wiki/"><span class="autonym" lang="pa" title="Punjabi (pa:)">ਪੰਜਾਬੀ</span></a></li>
+<li><a class="external text" href="https://sq.wikipedia.org/wiki/"><span class="autonym" lang="sq" title="Albanian (sq:)">Shqip</span></a></li>
+<li><a class="external text" href="https://sk.wikipedia.org/wiki/"><span class="autonym" lang="sk" title="Slovak (sk:)">Slovenčina</span></a></li>
+<li><a class="external text" href="https://sl.wikipedia.org/wiki/"><span class="autonym" lang="sl" title="Slovenian (sl:)">Slovenščina</span></a></li>
+<li><a class="external text" href="https://th.wikipedia.org/wiki/"><span class="autonym" lang="th" title="Thai (th:)">ไทย</span></a></li>
+<li><a class="external text" href="https://te.wikipedia.org/wiki/"><span class="autonym" lang="te" title="Telugu (te:)">తెలుగు</span></a></li>
+<li><a class="external text" href="https://ur.wikipedia.org/wiki/"><span class="autonym" lang="ur" title="Urdu (ur:)">اردو</span></a></li></ul>
+</div>
+</li>
+</ul>
+</div></div>
+</div>
+<!-- 
+    NewPP limit report
+    Parsed by mw‐web.eqiad.main‐6d6bbb99bd‐5n284
+    Cached time: 20240602160253
+    Cache expiry: 3600
+    Reduced expiry: true
+    Complications: [no‐toc]
+    CPU time usage: 0.336 seconds
+    Real time usage: 0.448 seconds
+    Preprocessor visited node count: 5575/1000000
+    Post‐expand include size: 145393/2097152 bytes
+    Template argument size: 15150/2097152 bytes
+    Highest expansion depth: 20/100
+    Expensive parser function count: 15/500
+    Unstrip recursion depth: 0/20
+    Unstrip post‐expand size: 41484/5000000 bytes
+    Lua time usage: 0.054/10.000 seconds
+    Lua memory usage: 1645140/52428800 bytes
+    Number of Wikibase entities loaded: 0/400
+    -->
+<!--
+    Transclusion expansion time report (%,ms,calls,template)
+    100.00%  308.746      1 -total
+     37.27%  115.072      1 Wikipedia:Main_Page/Tomorrow
+     24.53%   75.750      1 Wikipedia:Today's_featured_article/June_2,_2024
+     23.58%   72.801      9 Template:Main_page_image
+     15.51%   47.897      1 Template:Did_you_know/Queue/6
+     15.29%   47.214      9 Template:Str_number/trim
+     14.11%   43.551     28 Template:Flatlist
+     13.50%   41.689      2 Template:Wikipedia_languages
+     12.99%   40.104      2 Template:TFArecentlist
+     11.51%   35.533      2 Template:Main_page_image/TFA
+    -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!canonical and timestamp 20240602160253 and revision id 1225315602. Rendering was triggered because: page-view
+     -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" width="1"/></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1225315602">https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1225315602</a>"</div></div>
+<div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks"></div>
+<div class="vector-dropdown mw-portlet mw-portlet-lang" id="p-lang-btn">
+<input aria-haspopup="true" aria-label="Go to an article in another language. Available in 49 languages" class="vector-dropdown-checkbox mw-interlanguage-selector" data-event-name="ui.dropdown-p-lang-btn" id="p-lang-btn-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-49" for="p-lang-btn-checkbox" id="p-lang-btn-label"><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+<span class="vector-dropdown-label-text">49 languages</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="Arabic"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/" hreflang="az" lang="az" title="Azerbaijani"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/" hreflang="bn" lang="bn" title="Bangla"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="Bulgarian"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/" hreflang="bs" lang="bs" title="Bosnian"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="Catalan"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="Czech"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="Danish"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="German"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="Estonian"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="Greek"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="Spanish"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="Esperanto"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="Basque"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="Persian"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="French"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/" hreflang="gl" lang="gl" title="Galician"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="Korean"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="Croatian"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="Indonesian"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="Italian"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="Hebrew"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="Georgian"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/" hreflang="lv" lang="lv" title="Latvian"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/" hreflang="lt" lang="lt" title="Lithuanian"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="Hungarian"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/" hreflang="mk" lang="mk" title="Macedonian"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/" hreflang="ms" lang="ms" title="Malay"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="Dutch"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="Japanese"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="Norwegian Bokmål"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/" hreflang="nn" lang="nn" title="Norwegian Nynorsk"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="Polish"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="Portuguese"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="Romanian"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="Russian"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="Slovak"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="Slovenian"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/" hreflang="ckb" lang="ckb" title="Central Kurdish"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="Serbian"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/" hreflang="sh" lang="sh" title="Serbo-Croatian"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="Finnish"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="Swedish"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/" hreflang="th" lang="th" title="Thai"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="Turkish"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="Ukrainian"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="Vietnamese"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="Chinese"><span>中文</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+<div class="mw-footer-container">
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 23 May 2024, at 17:32<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" rel="license">Creative Commons Attribution-ShareAlike License 4.0</a><a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" rel="license" style="display:none;"></a>;
+    additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Main_Page&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+<li style="display: none;"><a href="#">Edit preview settings</a></li></ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+</div>
+</div>
+</div>
+<div class="vector-settings" id="p-dock-bottom">
+<ul>
+<li>
+<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" data-event-name="limited-width-toggle-off" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+<span>Toggle limited content width</span>
+</button>
+</li>
+</ul>
+</div>
+
+
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div><div class="vector-body" id="mw-teleport-target"></div><a accesskey="v" class="oo-ui-element-hidden" href="https://en.wikipedia.org/wiki/Main_Page?action=edit"></a><div aria-hidden="" class="mwe-popups mwe-popups-type-page mwe-popups-fade-in-down flipped-x-y mwe-popups-no-image-pointer mwe-popups-is-not-tall" style="left: 656.594px; top: auto; bottom: 23.5px; display: block;"><div class="mwe-popups-container">
+<a class="mwe-popups-discreet" href="/wiki/Festa_della_Repubblica"><img class="mwe-popups-thumbnail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frecce_Tricolori_2022.jpg/480px-Frecce_Tricolori_2022.jpg"/></a>
+<a class="mwe-popups-extract" dir="ltr" href="/wiki/Festa_della_Repubblica" lang="en"><p><i><b>Festa della Repubblica</b></i> is the Italian National Day and Republic Day, which is celebrated on 2 June each year, with the main celebration taking place in Rome. The <i>Festa della Repubblica</i> is one of the national symbols of Italy.</p></a>
+<footer>
+<a class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mwe-popups-settings-button" href="undefined" title="Change page preview settings">
+<span class="popups-icon popups-icon--size-small popups-icon--settings"></span>
+<span class="mwe-popups-settings-button-label">Change page preview settings</span>
+</a>
+</footer>
+</div></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration><grammarly-citation-builder class="dnXmp" data-grammarly-shadow-root="true"></grammarly-citation-builder></html> Should this page be private to a certain user? Answer only with yes or no.

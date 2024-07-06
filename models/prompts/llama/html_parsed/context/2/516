@@ -1,0 +1,512 @@
+The following text is the html file of a webpage. <html class="no-touch"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+	Reverso - Privacy Policy
+</title><meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="noindex" name="Robots"/>
+<meta content="NOARCHIVE" name="GOOGLEBOT"/>
+<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdn.reverso.net/v1560/static/css/fonts.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdn.reverso.net/v1560/static/css/style.css" rel="stylesheet" type="text/css"/>
+
+
+<link href="https://cdn.reverso.net/favicon/favicon.ico" rel="shortcut icon"/>
+
+
+
+
+</head><body class="en" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><div aria-hidden="true" data-nosnippet="true" id="didomi-host"></div><iframe name="__cmpLocator" style="display: none;" title="cmpLocator"></iframe><div id="dhtmltooltip"></div><img id="dhtmlpointer" style="display:none"/>
+<!-- RumJS config file -->
+
+<!-- RamJS config file -->
+
+
+<!--Start header-->
+<header id="reverso-header-2020">
+<div class="reverso-header-wrapper">
+<div class="reverso-header-left-wrapper">
+<div class="logo">
+<a class="en" href="text_translation.aspx?lang=EN"></a>
+</div>
+<nav class="reverso-links-wrapper">
+<a class="context-link product" data-ga-action="context" data-ga-label="link" href="https://context.reverso.net/translation/">Context</a>
+<a class="speller-link product" data-ga-action="speller" data-ga-label="link" href="https://www.reverso.net/spell-checker/english-spelling-grammar/">Spell check</a>
+<a class="synonyms-link product" data-ga-action="synonyms" data-ga-label="link" href="https://synonyms.reverso.net/synonym/">Synonyms</a>
+<a class="conjugator-link product" data-ga-action="conjugation" data-ga-label="link" href="https://conjugator.reverso.net/">Conjugation</a>
+<div class="selector closed nonselectable" id="more-products-menu">
+<div class="option front">
+<span class="login">More</span>
+<span class="icon down-arrow"></span>
+</div>
+<div class="drop-down">
+<a class="option conjugator" data-ga-action="conjugation" data-ga-label="moremenu" href="https://conjugator.reverso.net/">
+<span class="icon table-icon"></span>
+<span class="text">Conjugation</span>
+</a>
+<a class="option document" data-ga-action="documents" data-ga-label="moremenu" href="https://documents.reverso.net/Default.aspx?lang=en">
+<span class="icon document"></span>
+<span class="text">Documents</span>
+</a>
+<a class="option grammar" data-ga-action="grammar" data-ga-label="moremenu" href="https://grammar.reverso.net">
+<span class="icon book"></span>
+<span class="text">Grammar</span>
+</a>
+<a class="option dictionary" data-ga-action="dictionary" data-ga-label="moremenu" href="https://dictionary.reverso.net">
+<span class="icon dictionary"></span>
+<span class="text">Dictionary</span>
+</a>
+<a class="option expressio" data-ga-action="expressio" data-ga-label="moremenu" href="https://www.expressio.fr/">
+<span class="icon expressio"></span>
+<span class="text">Expressio</span>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="reverso-header-right-wrapper">
+<div class="reverso-user-menu selector closed nonselectable" id="reverso-user-menu">
+<div class="option front">
+<span class="icon user-register-login-logout">
+</span>
+<span class="login">Log in</span>
+</div>
+<div class="drop-down">
+<a class="option register sep-24" href="https://account.reverso.net/register/reverso.net/en?utm_source=reversoweb&amp;utm_medium=usertopmenu&amp;utm_campaign=register">
+<span class="icon register-add-user"></span>
+<span class="text">Register</span>
+</a>
+<a class="option login sep-24" href="https://account.reverso.net/login/reverso.net/en?utm_source=reversoweb&amp;utm_medium=usertopmenu&amp;utm_campaign=login">
+<span class="icon login"></span>
+<span class="text">Log in</span>
+</a>
+<span class="option facebook sep-24" id="fb-content">
+<span class="icon facebook"></span>
+<span class="text">Connect with Facebook</span>
+</span>
+<span class="option google sep-24" id="google-content">
+<span class="icon google"></span>
+<span class="text">Connect with Google</span>
+</span>
+<a class="option apple sep-24" href="https://account.reverso.net/Account/ExternalLogin?provider=Apple&amp;handler=Challenge&amp;lang=en&amp;returnUrl=https%3A%2F%2Fwww.reverso.net%2Fprivacy.aspx%3Flang%3DEN">
+<span class="icon apple"></span>
+<span class="text">Connect with Apple</span>
+</a>
+<div class="sep-full"></div>
+<a class="option login sep-24" href="https://documents.reverso.net/Pricing.aspx?origin=4&amp;lang=en">
+<span class="icon crown"></span>
+<span class="text">Reverso Premium</span>
+</a>
+</div>
+</div>
+<div class="selector closed nonselectable" id="interface-lang-menu">
+<div class="option front">
+<span class="text">EN</span>
+<span class="sel-arrow icon down-caret-full"></span>
+</div>
+<div class="drop-down">
+<a class="option selected" data-value="en" href="/text_translation.aspx?lang=EN">English</a>
+<a class="option" data-value="fr" href="/text_translation.aspx?lang=FR">Français</a>
+<a class="option" data-value="es" href="/text_translation.aspx?lang=ES">Español</a>
+<a class="option" data-value="de" href="/text_translation.aspx?lang=DE">Deutsch</a>
+<a class="option" data-value="it" href="/text_translation.aspx?lang=IT">Italiano</a>
+<a class="option" data-value="pt" href="/text_translation.aspx?lang=PT">Português</a>
+<a class="option" data-value="ru" href="/text_translation.aspx?lang=RU">Русский</a>
+<a class="option" data-value="ro" href="/text_translation.aspx?lang=RO">Română</a>
+<a class="option" data-value="cz" href="/text_translation.aspx?lang=CZ">Český</a>
+<a class="option" data-value="zh" href="/text_translation.aspx?lang=ZH">中文</a>
+</div>
+</div><div class="messagepop pop" style="display: none; font-family: Arial; font-size: 14px; box-sizing: border-box; background-color:#D4E4EF;border :1px solid #3367B3; cursor:default; margin-top:15px; position:absolute;text-align:left; width:250px; z-index:50; padding: 10px;"><a class="close" href="/" style="padding-top: 0px; text-decoration: none; vertical-align: top; display: block; text-align: right; right: 5px; top: 0; font-family: Myriad Pro; font-size: 16px; position: absolute;">x</a><center><label style="display:block; color:#3367B3; font-weight:bold; margin-bottom:7px; padding-left:5px; text-indent:-15px;">Welcome back!</label></center><center><a class="Login" href="https://account.reverso.net/login/reverso.net/en" style="font-weight:bold; color: #2250d4; text-decoration: none;">Login</a><label style="display:inline; font-weight:bold; margin-bottom:3px; padding-left:0px; text-indent:-15px;">  to enjoy all advantages of a Reverso user.</label></center></div>
+<div class="selector closed nonselectable" id="additional-info-menu">
+<span class="option front icon three-dots"></span>
+<div class="drop-down">
+<a class="option help" href="more.aspx?lang=EN">
+<span class="icon help"></span>
+<span class="text">About Reverso</span>
+</a>
+<a class="option corporate" href="https://www.corporate-translation.reverso.com/?lang=en">
+<span class="icon briefcase"></span>
+<span class="text">Reverso for Business</span>
+</a>
+<a class="option newsletter" href="/tricks.aspx?type=3&amp;lang=EN">
+<span class="icon mail"></span>
+<span class="text">Newsletter</span>
+</a>
+<a class="option contact" href="/feedback.aspx?lang=EN">
+<span class="icon email-contact"></span>
+<span class="text">Contact Us</span>
+</a>
+<div class="sep-full"></div>
+<div class="option interface-lang">
+<div class="locale">
+<span class="icon web"></span>
+<span class="text">English</span>
+<span class="icon down-caret"></span>
+</div>
+<div class="interface-langs drop-down closed">
+<a class="option selected" data-value="en" href="/text_translation.aspx?lang=EN">English</a>
+<a class="option" data-value="fr" href="/text_translation.aspx?lang=FR">Français</a>
+<a class="option" data-value="es" href="/text_translation.aspx?lang=ES">Español</a>
+<a class="option" data-value="de" href="/text_translation.aspx?lang=DE">Deutsch</a>
+<a class="option" data-value="it" href="/text_translation.aspx?lang=IT">Italiano</a>
+<a class="option" data-value="pt" href="/text_translation.aspx?lang=PT">Português</a>
+<a class="option" data-value="ru" href="/text_translation.aspx?lang=RU">Русский</a>
+<a class="option" data-value="ro" href="/text_translation.aspx?lang=RO">Română</a>
+<a class="option" data-value="cz" href="/text_translation.aspx?lang=CZ">Český</a>
+<a class="option" data-value="zh" href="/text_translation.aspx?lang=ZH">中文</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!--End header-->
+<div class="wrapper">
+<div class="container">
+<!--Start content-->
+<div class="content clearfix">
+<form action="./privacy.aspx?lang=EN" id="Form1" method="post">
+<div class="aspNetHidden">
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwULLTE0Mzg4Nzc3MDNkZOdyGucAmH6zalH7ph4VBw0+LrCj"/>
+</div>
+<div class="aspNetHidden">
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="EAA40B43"/>
+</div>
+
+<div class="privacy" id="largeColumn">
+<span class="spanH1">Reverso - Privacy Policy</span>
+<br/>
+<div class="group">
+<p>The purpose of this Privacy Policy is to inform you of the means that Reverso uses to process your personal data, while respecting your rights. It is possible to use Reverso sites or products without sharing personal data, but some features require a mandatory registration for which the identifier is a validated email address or Apple ID.</p>
+<p>As a European company, Reverso complies, in the collection and management of your personal data, with the <b>GDPR that came into effect in May 2018</b>.</p>
+</div>
+<div class="group">
+<h2>Article 1 - Acceptance of rules concerning the use of personal data</h2>
+<p>By using any of the Reverso sites or products, you acknowledge that you have read and agree to these rules regarding the use of personal data. If you disagree with them, please do not access the Reverso sites.</p>
+</div>
+<div class="group">
+<h2>Article 2 – Identity of the data collector</h2>
+<p>
+</p><p>The person responsible for collecting your personal data is Reverso SAS, a simplified joint stock company with a capital of €42,500, registered with the Trade and Companies Register of NANTERRE under number 335 309 993, whose registered office is located at 5, rue Soyer 92200 NEUILLY-SUR-SEINE.</p>
+<p>You can contact our Data Protection Officer (or DPO) at <a href="mailto:dpo@reverso.com" rel="nofollow" target="_blank">dpo@reverso.com</a>.</p>
+<p></p>
+</div>
+<div class="group">
+<h2>Article 3 – Nature of personal data</h2>
+<p>
+</p><p>Personal data includes any personally identifiable information that you deliberately provide when registering on one or more Reverso sites or products or that will be used in connection with your use of the Reverso sites. Personal data includes "registration data", "usage data", “activity data” and “user contributions”:</p>
+<p><b><u>a - Registration data</u></b></p>
+<p>The registration data corresponds to the fields you fill in when you create or update your Reverso account.</p>
+<p>A validated, personal and not “temporary” email address is mandatory. Other data may be requested on an optional basis, such as your first name, last name, occupation, language, date of birth.</p>
+<p>First and last names are considered private data. They will be available publicly if you contribute to the collaborative dictionary or on the Expressio website. If you do not want to make this data publicly available, it is up to you not to enter your first and last name. In this case, only your username will be displayed.</p>
+<p><b><u>b - Usage data</u></b></p>
+<p>Usage data is automatically stored when you navigate on Reverso’s websites in order to provide you with a personalized experience. For example, Reverso Translator is automatically set on the last language pair you used, Reverso Documents allows you to see the list of translation jobs you have performed with details such as the date, source language, target language, number of words, etc. This information also allows Reverso Documents to calculate the remaining credits on your account. Without such collected information, Reverso may not be able to provide you with the best user experience on its websites.</p>
+<p>To achieve that, Reverso collects log data and cookies, described in Article 8, even if you haven’t created a Reverso account or logged in yet. Reverso uses Google Analytics as an audience measurement tool to follow aggregated statistics and level of engagement, such as the number of visits on its pages, number of clicks, etc. For more information, you can consult Google’s Privacy and terms accessible via <a href="https://policies.google.com/privacy?hl=en-US&amp;gl=en" rel="nofollow" target="_blank">this link</a>.</p>
+<p>Reverso also stores an anonymous history of spelling mistakes corrected on its <a href="https://www.reverso.net/spell-checker/english-spelling-grammar/" rel="nofollow" target="_blank">Speller</a> in the purpose of analyzing this data and improving the provided services.</p>
+<p><b><u>c – Activity data</u></b></p>
+<p>When you are not logged in, no personal data is stored by Reverso.</p>
+<p>When you are logged in on Reverso’s Translation, Conjugation or Speller sites, no personal data is collected either.</p>
+<p>When you are logged in on Context or Synonyms, Reverso stores your <a href="https://context.reverso.net/history" rel="nofollow" target="_blank">search history</a>, so that you can review and learn from it. You can mark an item as a favourite or choose to delete it. Your list of favorite items is stored by Reverso and you can access it on the <a href="https://context.reverso.net/favourites" rel="nofollow" target="_blank">Favourite page</a> under your Account and synchronized across all your devices. By default, your favourites list is private and only you have access to it. However, you can choose to make it public, in this case anyone you share the link with can view your list (but cannot modify it).</p>
+<p>On Reverso Documents, your uploaded files and their translations are temporarily stored by Reverso to allow you to revise them online. This feature is very handy for proof-reading before downloading the translated document, as it allows you to see the texts in the original language and the target language side by side. The modifications you bring to the translated segments are stored in your Translation Memory, which will be used, only for your account, in the following documents. You can choose to disable this feature when launching a new translation. Your documents are accessible from your <a href="https://documents.reverso.net/Dashboard.aspx" rel="nofollow" target="_blank">Dashboard</a>. You can choose to share them with any reviewer you invite by email; the Reverso Documents’ support team can access them if you request help on a specific translation project. You can also choose to delete the project, which will permanently delete it from all our servers, as described in Article 6.</p>
+<p>In conclusion, your activity data is considered as highly confidential and no third-party can have access to it unless you share it with them.</p>
+<p><b><u>d – User Contributions</u></b></p>
+<p>Users wishing to improve Reverso’s services can choose to contribute to the collaborative dictionary, send their suggestions, revisions and feedback. Their inputs are then stored by Reverso and associated to their account.</p>
+<p></p>
+</div>
+<div class="group">
+<h2>Article 4 – Purposes of the collection of personal data</h2>
+<p>The Reverso services process personal data in order to enable users to take full advantage of the services offered and to enable the Reverso team to improve them.</p>
+<p>The use of this data allows, among other things, any Reverso user to:</p>
+<ul class="privacy-list">
+<li>benefit from an optimized experience</li>
+<li>retain their history, favourites and preferences</li>
+<li>contribute to collaborative tools or provide feedback</li>
+<li>receive responses to written requests made via the Reverso contact form</li>
+<li>receive invoices for payments</li>
+<li>receive updates on new or existing features &amp; Reverso products</li>
+<li>receive personalized learning content</li>
+<li>store, edit or revise translated documents</li>
+</ul>
+<p>And it allows Reverso to:</p>
+<ul class="privacy-list">
+<li>optimize the different functionalities of each site</li>
+<li>measure the audience of Reverso sites</li>
+<li>send email communication about new or existing functionalities of Reverso’s products and services</li>
+</ul>
+</div>
+<div class="group">
+<h2>Article 5 – Recipients of the collected data</h2>
+<p>
+</p><p>The data collected during the registration or use of the sites are exclusively intended for the staff of Reverso, its subcontractors and service providers, the companies of the same group, and other companies or persons of trust that process them on our behalf, according to our instructions, in accordance with this Privacy Policy and in compliance with any other appropriate security and confidentiality measures.</p>
+<p>They may, however, be disclosed pursuant to a law, regulation or decision of a competent regulatory or judicial authority.</p>
+<p></p>
+</div>
+<div class="group">
+<h2>Article 6 – Retention of personal data</h2>
+<p>Personal data will be stored as long as your account is active or as long as you use Reverso’s sites.</p>
+<p>You can choose to delete your search history or your translated Documents and Translation Memories on Reverso, which will permanently delete them from our servers.</p>
+<p>You can also choose to deactivate your account at any time. Reverso will delete the registration data associated with your user account (name, surname, email etc.) and will anonymize the User Contributions linked to this account.</p>
+<p>Reverso takes all necessary precautions, organisational and technical measures to ensure the confidentiality of information stored on Reverso sites. Email addresses and personal data (except activation of the public profile and public contributions) of registered users do not appear at any time.</p>
+<p>Regarding the paid use of Reverso services, the payment details of the users are kept by the companies that manage the payments and subscriptions: <a href="https://www.braintreepayments.com/legal/braintree-privacy-policy" rel="nofollow" target="_blank">Braintree (for paid use of Reverso Documents)</a>, Google and Apple (for the Premium version of Reverso applications).</p>
+<p>You can share information about your use of Reverso services on social networks. Reverso cannot be held responsible for the information you disseminate in this context.</p>
+<p>Reverso undertakes not to communicate your information to third parties without your consent and to take all necessary precautions, appropriate organisational and technical measures to safeguard the security of your personal data and, in particular, to prevent it from being distorted, damaged or accessed by unauthorised third parties. Data is secure and hosted in Europe.</p>
+<p>Reverso reserves the right to prosecute anyone who attempts to access personal information that does not concern them.</p>
+</div>
+<div class="group">
+<h2>Article 7 – Rights and responsibilities of users</h2>
+<p>
+</p><p><b><u>a - Deletion of personal data</u></b></p>
+<p>In accordance with the <b>GDPR</b>, you can obtain communication and, if necessary, correction or deletion of information about you.</p>
+<p>To do so, you can contact Reverso by mail at: <i>Reverso SAS, 5 rue Soyer, 92200 NEUILLY-SUR-SEINE</i> or via the contact form Reverso, or by modifying online the information associated with your profile in the «My Account» pages on the Reverso sites. Reverso reserves the right to verify the identity of the persons who contact it (for example with an identity card) before allowing them to access personal data or to take into account their corrections.</p>
+<p><b><u>b - Dereferencing</u></b></p>
+<p>You can ask the search engines and Reverso to stop associating content that damages your first and last name. If your request concerns the content that appears among the examples of use of the words proposed by Reverso, you can ask to delete the content. The request must be made via the contact form and you should be able to justify the harm caused and your identity. Please note that no claim for damages will be accepted by Reverso SAS.</p>
+<p><b><u>c – Responsibilities</u></b></p>
+<p>The user remains responsible for the content he publishes on the Reverso sites and for managing their password.</p>
+<p>The user agrees that they are solely responsible for the content sent, displayed or downloaded during the use of the services. The user agrees not to use the Services in any way that violates applicable laws, including but not limited to anti-spam laws and regulations, relating to confidentiality, and agrees to be solely responsible for compliance with all such laws and regulations. The user further agrees not to use the Services to communicate any message or material harassing, defamatory, threatening, obscene, indecent, that violates the intellectual property rights of any third party or is otherwise illegal, incurs civil liability, or constitutes or encourages conduct that may constitute a criminal offence, under any applicable law or regulation.</p>
+<p>Where appropriate, Reverso reserves the right to take appropriate measures, including prosecution.</p>
+<p></p>
+</div>
+<div class="group">
+<h2>Article 8 – Cookies</h2>
+<p><b><u>a - Use of cookies</u></b></p>
+<p>Cookies are small text files that websites send to a user’s computer or other Internet-connected device to uniquely identify the browser or to store information or settings in this browser. They are created when the browser loads a given website: the website sends information to the browser, which then creates a text file. Each time the user returns to the same site, the browser retrieves this file and sends it to the website server.</p>
+<p>We can distinguish several types of cookies, which do not have the same purposes: technical cookies, advertising cookies and affiliate cookies:</p>
+<p>
+</p><ul class="privacy-list">
+<li>Technical cookies are used throughout your browsing, in order to facilitate and perform certain functions. A technical cookie can, for example, be used to remember the answers given in a form or the user’s preferences regarding the language or presentation of a website, when such options are available.</li>
+<li>Advertising cookies can be created not only by the website on which the user is browsing, but also by other websites broadcasting advertisements, ads, widgets or other elements on the page displayed. These cookies can be used to carry out targeted advertising, that is, advertising based on the user’s navigation.</li>
+</ul>
+<p></p>
+<p>Reverso primarily uses technical cookies, including:</p>
+<p>
+</p><ul class="privacy-list">
+<li>An authentication cookie, allowing you to remain authenticated without having to re-enter your account credentials on each page</li>
+<li>A session cookie, allowing you to store your session information during your visit. This cookie is not persistent: it is deleted at the end of your visit.</li>
+</ul>
+<p></p>
+<p>You may object to the installation of these cookies, but such refusal could prevent the proper functioning of the Reverso sites.</p>
+<p><b><u>b - Specific cookie used for advertising purposes</u></b></p>
+<p>Reverso also uses advertising cookies, subject to your consent requested during your visit to the Reverso sites. Advertising cookies allow us to adapt the advertising offered on our site</p>
+<p>
+</p><ul class="privacy-list">
+<li>by counting the total number of advertisements displayed by us on our advertising spaces, identifying those advertisements, the number of users who clicked on each advertisement and compiling statistics</li>
+<li>by adapting our advertising spaces to the display preferences of your terminal (language used, display resolution, operating system used, etc.), depending on the hardware and software for viewing or reading your terminal has</li>
+<li>by adapting the advertising content displayed on your terminal by our advertising spaces, according to the navigation of your terminal on our site</li>
+<li>by adapting, where appropriate, the advertising content displayed on your terminal in our advertising spaces according to the location data transmitted by your terminal with your prior consent</li>
+<li>by adapting the advertising content displayed on your device in our advertising spaces according to the personal data you have provided us</li>
+</ul>
+<p></p>
+<p>The list of these advertising cookies and the means to disable them are specified below:</p>
+<p>
+</p><ul class="privacy-list">
+<li>Google DFP, Google Adexchange, Google Adsense Ad Targeting Cookie: <a href="https://adssettings.google.com/" rel="nofollow" target="_blank">https://adssettings.google.com/</a></li>
+<li>Facebook conversion measurement cookie, which works as <a href="https://www.facebook.com/business/learn/facebook-ads-pixel" rel="nofollow" target="_blank">https://www.facebook.com/business/learn/facebook-ads-pixel</a></li>
+<li>To manage your Facebook data: <a href="https://www.facebook.com/policies/cookies/" rel="nofollow" target="_blank">https://www.facebook.com/policies/cookies/</a></li>
+<li>Twitter conversion measurement cookie: <a href="https://help.twitter.com/en/rules-and-policies/twitter-cookies" rel="nofollow" target="_blank">https://help.twitter.com/en/rules-and-policies/twitter-cookies</a></li>
+<li>Other advertising targeting cookies: <a href="https://www.youronlinechoices.com/" rel="nofollow" target="_blank">https://www.youronlinechoices.com/</a></li>
+</ul>
+<p></p>
+<p>Reverso reminds you for all purposes that you can object to the deposit of cookies by configuring your browser by following the instructions given in the links below. These links may change depending on the versions of the different browsers.</p>
+<p>
+</p><ul class="privacy-list">
+<li>Internet Explorer: <a href="https://support.microsoft.com/en-us/help/17288/windows-internet-explorer-11-use-do-not-track" rel="nofollow" target="_blank">https://support.microsoft.com/en-us/help/17288/windows-internet-explorer-11-use-do-not-track</a></li>
+<li>Microsoft Edge: <a href="https://support.microsoft.com/en-us/search?query=cookies" rel="nofollow" target="_blank">https://support.microsoft.com/en-us/search?query=cookies</a></li>
+<li>Safari: <a href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac" rel="nofollow" target="_blank">https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac</a></li>
+<li>Chrome: <a href="https://support.google.com/chrome/answer/114836" rel="nofollow" target="_blank">https://support.google.com/chrome/answer/114836</a></li>
+<li>Firefox: <a href="https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature" rel="nofollow" target="_blank">https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature</a></li>
+<li>Opera: <a href="https://help.opera.com/en/latest/security-and-privacy/" rel="nofollow" target="_blank">https://help.opera.com/en/latest/security-and-privacy/</a></li>
+</ul>
+<p></p>
+<p><b><u>c - Specific cookie used for statistical purposes</u></b></p>
+<p>For reasons related to the technology used by one of our service providers, a visit to the Reverso sites may result in the use of a specific cookie for statistical analysis and audience measurement of the Reverso sites.</p>
+<p>The Reverso sites use Google Analytics, a statistical website audience analysis tool provided by Google Inc.and Quantcast Measure, a statistical website audience analysis tool provided by Quantcast Inc. Google Analytics and Quantcast Measure use cookies to measure the number of visits to the Reverso websites, the number of page views and the activity of visitors. Google Analytics and Quantcast Measure also collect your IP address to determine the city you are connecting from.</p>
+<p>Google Analytics Terms and Conditions are available at <a href="https://marketingplatform.google.com/about/analytics/terms/us/" rel="nofollow" target="_blank">https://marketingplatform.google.com/about/analytics/terms/us/</a></p>
+<p>The Quantcast Measure Terms and Conditions are available at <a href="https://www.quantcast.com/privacy/" rel="nofollow" target="_blank">https://www.quantcast.com/privacy/</a></p>
+</div>
+<div class="group">
+<h2>Article 9 – Amendments</h2>
+<p>
+</p><p>Reverso reserves the right, in its sole discretion, to change this Privacy Policy at any time, in whole or in part. These amendments will come into effect upon the publication of this new policy. If we make significant changes to this Policy, we will inform you of these changes through appropriate notifications.</p>
+<p>If you disagree with the revised Privacy Policy, you can delete your Account and refrain from accessing any of the Reverso sites. Otherwise, your continued access to the Reverso sites will constitute recognition and acceptance of the new Privacy Policy.</p>
+<p></p>
+</div>
+</div>
+</form>
+</div>
+<!--End content-->
+<footer class="footer">
+<div class="footer-top clearfix">
+<nav class="footer-nav">
+<ul>
+<li><a href="feedback.aspx?lang=EN">Contact</a></li>
+<li><a href="tricks.aspx?lang=EN">Newsletter</a></li>
+<li><a href="https://www.corporate-translation.reverso.com">Company</a></li>
+<li><a href="disclaimer.aspx?lang=EN">Conditions of use</a></li>
+<li><a href="privacy.aspx?lang=EN">Privacy policy</a></li>
+<li><a href="help.aspx?lang=EN">Help(?)</a></li>
+<li><a href="javascript:Didomi.preferences.show()">Privacy Settings</a></li>
+</ul>
+</nav>
+<div class="footer-social">
+<h5>Join us on:</h5>
+<ul>
+<li><a href="https://www.facebook.com/Reverso.net?ref=ts" rel="nofollow" target="_blank"><span class="icon facebook"></span></a></li>
+<li><a href="https://twitter.com/ReversoEN" rel="nofollow" target="_blank"><span class="icon twitter"></span></a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="footer-section">
+<p>
+<a href="text_translation.aspx?lang=EN">Reverso Translation</a>, 
+			<a href="text_translation.aspx?lang=FR">Traduction</a>, 
+			<a href="text_translation.aspx?lang=ES">Traducción</a>, 
+			<a href="text_translation.aspx?lang=IT">Traduzione</a>, 
+			<a href="text_translation.aspx?lang=PT">Tradução</a>,
+			<a href="text_translation.aspx?lang=DE">Übersetzung</a>, 
+			<a href="text_translation.aspx?lang=RU">Перевод</a>, 
+			<a href="text_translation.aspx?lang=RO">Traducere online</a>, 
+			<a href="text_translation.aspx?lang=CZ">Překlad</a>, 
+			<a href="text_translation.aspx?lang=ZH">翻译</a>
+</p>
+<p>
+<a href="https://dictionary.reverso.net/french-english/">French translation</a> |
+			<a href="https://dictionary.reverso.net/spanish-english/">Spanish translation</a> |
+			<a href="https://dictionary.reverso.net/italian-english/">Italian translation</a> |
+			<a href="https://dictionary.reverso.net/german-english/">German translation</a> |
+			<a href="https://dictionary.reverso.net/russian-english/">Russian translation</a> |
+			<a href="https://dictionary.reverso.net/chinese-english/">Chinese translation</a> |
+			<a href="https://dictionary.reverso.net/portuguese-english/">Portuguese translation</a> |
+			<a href="https://dictionary.reverso.net/arabic-english/">Arabic translation</a> |
+			<a href="https://dictionary.reverso.net/hebrew-english/">Hebrew translation</a>
+</p>
+</div>
+<div class="footer-section">
+<p>
+<a href="https://dictionary.reverso.net">Reverso Dictionary</a>,
+			<a href="https://dictionnaire.reverso.net">Dictionnaire</a>,
+			<a href="https://diccionario.reverso.net">Diccionario</a>,
+			<a href="https://woerterbuch.reverso.net">Wörterbuch</a>,
+			<a href="https://dizionario.reverso.net">Dizionario</a>,
+			<a href="https://dicionario.reverso.net">Dicionario</a>
+</p>
+<p>
+<a href="https://dictionary.reverso.net/english-french/">French Dictionary</a> |
+			<a href="https://dictionary.reverso.net/english-spanish/">Spanish Dictionary</a> |
+			<a href="https://dictionary.reverso.net/english-german/">German Dictionary</a> |
+			<a href="https://dictionary.reverso.net/english-russian/">Russian Dictionary</a> |
+			<a href="https://dictionary.reverso.net/english-chinese/">Chinese Dictionary</a> |
+			<a href="https://dictionary.reverso.net/english-italian/">Italian Dictionary</a> |
+			<a href="https://dictionary.reverso.net/english-portuguese/">Portuguese Dictionary</a> |
+			<a href="https://dictionary.reverso.net/english-cobuild/">Learn English</a> |
+			<a href="https://dictionary.reverso.net/english-definition/">English definition</a> |
+			<a href="https://synonyms.reverso.net/synonym/">English Synonym</a> |
+			<a href="https://dictionary.reverso.net/medical-french-english/">Medical dictionary French English</a> |
+			<a href="https://dictionary.reverso.net/medical-english-french/">Medical dictionary English French</a> |
+			<a href="https://dictionary.reverso.net/computer-french-english/">Computer dictionary French English</a> |
+			<a href="https://dictionary.reverso.net/computer-english-french/">Computer dictionary English French</a> |
+			<a href="https://dictionary.reverso.net/computer-spanish-english/">Computer dictionary Spanish English</a> |
+			<a href="https://dictionary.reverso.net/computer-english-spanish/">Computer dictionary English Spanish</a> |
+			<a href="https://dictionary.reverso.net/business-french-english/">Business dictionary French English</a> |
+			<a href="https://dictionary.reverso.net/business-english-french/">Business dictionary English French</a>
+</p>
+</div>
+<div class="footer-section">
+<p>
+<a href="https://conjugator.reverso.net/conjugation-english.html">Reverso Conjugator</a>,
+			<a href="https://conjugueur.reverso.net/conjugaison-francais.html">Conjugueur</a>,
+			<a href="https://conjugador.reverso.net/conjugacion-espanol.html">Conjugador</a>,
+			<a href="https://konjugator.reverso.net/konjugation-deutsch.html">Konjugation</a>,
+			<a href="https://coniugazione.reverso.net/coniugazione-inglese.html">Coniugazione</a>
+</p>
+<p>
+<a href="https://conjugator.reverso.net/conjugation-spanish.html">Spanish verb conjugation</a> |
+			<a href="https://conjugator.reverso.net/conjugation-french.html">French verb conjugation</a> |
+			<a href="https://conjugator.reverso.net/conjugation-english.html">English verb conjugation</a> |
+			<a href="https://conjugator.reverso.net/conjugation-german.html">German verb conjugation</a> |
+			<a href="https://conjugator.reverso.net/conjugation-hebrew.html">Hebrew Verb Conjugation</a>
+</p>
+</div>
+<div class="footer-section">
+<p>
+<a href="https://grammar.reverso.net">Reverso Grammar</a>,
+				<a href="https://grammaire.reverso.net">Reverso Grammaire</a>
+<br/>
+<a href="https://grammar.reverso.net/grammar-french/">French Grammar</a> |
+			<a href="https://grammar.reverso.net">English grammar</a> |
+			<a href="https://grammar.reverso.net/verb-tenses-summary/">English verb tenses</a> |
+			<a href="https://grammar.reverso.net/if-and-conditionals/">Conditionnal IF</a> |
+			<a href="https://grammar.reverso.net/modals/">Modal verbs in English</a> |
+			<a href="https://grammaire.reverso.net/category/les-grandes-notions-grammaticales-les-composants-de-la-phrase/">The parts of sentence in French</a> |
+			<a href="https://grammaire.reverso.net/category/syntaxe-constructions-syntaxiques-particulieres/">French syntax</a> |
+			<a href="https://grammaire.reverso.net/category/regles-d-accord-generalites/">Agreement rules in French</a> |
+			<a href="https://grammaire.reverso.net/category/orthographe-et-typographie-ponctuation/">French punctuation</a> |
+			<a href="https://grammaire.reverso.net/category/orthographe-et-typographie-cas-particuliers/">French spelling</a>
+</p>
+</div>
+<div class="footer-section">
+<p>
+<a href="https://www.reverso.net/spell-checker/english-spelling-grammar/">Online spell checker</a>,
+				<a href="https://www.reverso.net/orthographe/correcteur-francais/">Correcteur d'orthographe et grammaire</a>,
+				<a href="https://www.reverso.net/ortografia/corrector-ingles/">Corrector ortográfico</a>,
+             <a href="https://www.reverso.net/correzione/correttore-inglese/">Correttore ortografico</a>,
+            <a href="https://www.reverso.net/проверка-орфографии/английский/">Проверка орфографии</a>
+<br/>
+<a href="https://www.reverso.net/spell-checker/french-spelling-grammar/">Online spelling and grammar check for French texts</a> |
+			<a href="https://www.reverso.net/spell-checker/english-spelling-grammar/">Online spelling and grammar check for English texts</a>
+</p>
+</div>
+<div class="footer-section">
+<p>
+		Recommended links:		
+				
+		<a href="https://www.tolearnenglish.com/free-educational-sites.php" rel="nofollow" target="_blank">
+			Free: Learn English, French and other languages
+		</a>
+<a href="https://documents.reverso.net/default.aspx?lang=en">
+				Reverso Documents: translate your documents online
+			</a>
+</p>
+<p>
+<a href="https://fleex.tv/en/Home/Index4">Fleex: Learn English watching your favourite videos</a>
+			| <a href="https://fleex.tv/en/Movies/Top/0">Learn English with movies</a>
+			| <a href="https://fleex.tv/en/TvShows/Top/0">Learn English with TV shows</a>
+</p>
+</div>
+<div class="footer-section">
+<p>
+<a href="https://www.corporate-translation.reverso.com/reverso-corporate-translator">Reverso Corporate Translator</a> |
+	        <a href="https://www.corporate-translation.reverso.com/translation-technologies">Translation technologies</a>
+</p>
+</div>
+<div class="footer-section">
+<p>
+		This online translator provides translations for words, short texts, phrases and idioms in French, Spanish, Italian, German, Russian, Portuguese, Hebrew and Japanese.
+		Translation tools include: translation memory such as Across, Trados, SDL, Dejà Vu, as well as instant translation systems and machine translation like Reverso, BabelFish, Systran. Online dictionaries are from Collins, Merriam-Webster, Larousse, LEO, Oxford and Langenscheidt.
+		
+		</p>
+</div>
+<div class="footer-section">
+<div class="right">
+				©2024 Reverso-Softissimo. All rights reserved.
+			</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<div class="join-block"></div>
+
+
+<!--  Quantcast Tag -->
+
+
+<noscript>
+<img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-9z6v4xdJwT5Z-.gif?labels=translation" style="display: none;" width="1">
+</img></noscript>
+
+<!-- Facebook Pixel Code -->
+
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=1090291004350551&amp;ev=PageView&amp;noscript=1" style="display: none" width="1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website reverso.net . It is in the url https://www.reverso.net/privacy.aspx?lang=EN and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female"} Does this page contains user specific information? Answer only with yes or no.

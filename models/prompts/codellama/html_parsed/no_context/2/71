@@ -1,0 +1,873 @@
+The following text is the html file of a webpage. <html class="a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition a-ember no-touch a-ws" data-19ax5a9jf="dingo" data-aui-build-date="3.24.4-2024-05-22" lang="en-gb"><!-- sp:feature:head-start --><head><meta charset="utf-8"/>
+<!-- sp:end-feature:head-start -->
+<!-- sp:feature:csm:head-open-part1 -->
+
+<!-- sp:end-feature:csm:head-open-part1 -->
+<!-- sp:feature:cs-optimization -->
+<meta content="on" http-equiv="x-dns-prefetch-control"/>
+<link href="https://images-eu.ssl-images-amazon.com" rel="dns-prefetch"/>
+<link href="https://m.media-amazon.com" rel="dns-prefetch"/>
+<link href="https://completion.amazon.com" rel="dns-prefetch"/>
+<!-- sp:end-feature:cs-optimization -->
+<!-- sp:feature:csm:head-open-part2 -->
+
+<!-- 12oya00udm74lxbwlrshurm00aycw5nzc9hqidr3xymcg -->
+
+<!-- sp:end-feature:csm:head-open-part2 -->
+<!-- sp:feature:aui-assets -->
+<link href="https://m.media-amazon.com/images/I/11EIQ5IGqaL._RC|01e5ncglxyL.css,01lF2n-pPaL.css,41SwWPpN5yL.css,31+Z83i6adL.css,01IWMurvs8L.css,01ToTiqCP7L.css,01qPl4hxayL.css,01ITNc8rK9L.css,413Vvv3GONL.css,11TIuySqr6L.css,01Rw4F+QU6L.css,11j54vTBQxL.css,01pbKJp5dbL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,213SZJ8Z+PL.css,01oDR3IULNL.css,51qPa7JG96L.css,01XPHJk60-L.css,01dmkcyJuIL.css,01B9+-hVWxL.css,21Ol27dM9tL.css,11JRZ3s9niL.css,21wA+jAxKjL.css,11U8GXfhueL.css,01CFUgsA-YL.css,316CD+csp-L.css,116t+WD27UL.css,11uWFHlOmWL.css,11v8YDG4ifL.css,11otOAnaYoL.css,01FwL+mJQOL.css,11NDsgnHEZL.css,21RE+gQIxcL.css,11CLXYZ6DRL.css,012f1fcyibL.css,21w-O41p+SL.css,11XH+76vMZL.css,11hvENnYNUL.css,11FRI-QT39L.css,01890+Vwk8L.css,01864Lq457L.css,01cbS3UK11L.css,21F85am0yFL.css,016Sx2kF1+L.css_.css?AUIClients/AmazonUI#not-trident" rel="stylesheet"/>
+
+<!-- sp:end-feature:aui-assets -->
+<!-- sp:feature:cookie-consent-js-stub -->
+
+<!-- sp:end-feature:cookie-consent-js-stub -->
+<!-- sp:feature:nav-inline-css -->
+<!-- NAVYAAN CSS -->
+
+<link href="https://images-eu.ssl-images-amazon.com/images/I/41-WpIOxHtL._RC|71uPJ0SFGtL.css,41YmmdnGqWL.css,111mRDKcFfL.css,31-P1-9TebL.css,31YZpDCYJPL.css,21pkK7OQMnL.css,41yQj5y2obL.css,110Nj+wUGYL.css,31sgPDgo3OL.css,01R53xsjpjL.css,11EKggV-DlL.css,415g7iDx4VL.css,11qTzxZ0Y5L.css_.css?AUIClients/NavDesktopUberAsset&amp;gntwZgwT#desktop.de.488657-T1.878681-T1.777424-T1" rel="stylesheet"/>
+<!-- sp:end-feature:nav-inline-css -->
+<!-- sp:feature:host-assets -->
+<meta charset="utf-8"/><title>Amazon.de: Die Amazon.de VISA Karte</title><link href="https://images-eu.ssl-images-amazon.com/images/I/111XYKFgYDL.css?AUIClients/CruiseWebAppAssets-base" rel="stylesheet"/><meta content="AnYxEmpEQgih5VuzsAFDxp6OgaM+9Y1C+4HCTeO97KptN4/nTCiveiL1a2ZpO6J/K8z4MY/JTVvkNzeZHt7Z3u4xqs1FQ9wCN8RhYn01cL8Z9+CtTRmj4lw2Grg7ROmpA9EEx3YEq/5uoXVfb4BmcHgoYBbPU7Hzj8bpKN5m6+MTiSNX2L0OOG2Xi84b+Jx5UN3QCcZoR3zBOkj3k3XxcsUw+FpynI/Jx3azacMyq9eMvIO/+P3a9CnpB4iKqy9qAGxsxGi4sBG2ZrRvBhVu/MN1D238" name="encrypted-slate-token"/></head>
+<!--&&&Portal&Delimiter&&&--><!-- sp:end-feature:host-assets -->
+<!-- sp:feature:encrypted-slate-token -->
+<!-- sp:end-feature:encrypted-slate-token -->
+<!-- sp:feature:csm:head-close -->
+<!-- sp:end-feature:csm:head-close -->
+<!-- sp:feature:head-close -->
+<!-- sp:end-feature:head-close -->
+<!-- sp:feature:start-body -->
+<body class="a-m-de a-aui_72554-c a-aui_a11y_2_750578-c a-aui_a11y_6_837773-c a-aui_a11y_sr_678508-t1 a-aui_amzn_img_959719-c a-aui_amzn_img_gate_959718-c a-aui_killswitch_csa_logger_372963-c a-aui_pci_risk_banner_210084-c a-aui_rel_noreferrer_noopener_309527-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c a-meter-animate" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1174.0"><div id="a-page"><!-- sp:end-feature:start-body -->
+<!-- sp:feature:csm:body-open -->
+
+
+<!-- sp:end-feature:csm:body-open -->
+<!-- sp:feature:nav-inline-js -->
+<!-- NAVYAAN JS -->
+
+<img alt="" src="https://m.media-amazon.com/images/G/03/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB600084709_.png" style="display:none"/>
+
+
+<!-- sp:end-feature:nav-inline-js -->
+<!-- sp:feature:nav-skeleton -->
+<!-- sp:end-feature:nav-skeleton -->
+<!-- sp:feature:navbar -->
+<!--Pilu -->
+<!-- NAVYAAN -->
+<!-- navmet initial definition -->
+
+
+
+
+
+<noscript>
+
+</noscript>
+
+<a id="nav-top"></a>
+<a class="skip-link" id="skiplink" tabindex="0">Skip to main content</a>
+
+<header class="nav-opt-sprite nav-flex nav-locale-de nav-lang-en nav-ssl nav-rec nav-progressive-attribute" id="navbar-main">
+<div aria-label="navigation" cel_widget_id="Navigation-desktop-navbar" class="nav-sprite-v1 celwidget nav-bluebeacon nav-a11y-t1 bold-focus-hover layout2 nav-flex layout3 layout3-alt nav-packard-glow hamburger nav-progressive-attribute" data-cel-widget="Navigation-desktop-navbar" data-csa-c-id="a5hcib-vt36rx-ha7xsg-vc70xj" id="navbar" role="navigation">
+<div id="nav-belt">
+<div class="nav-left">
+
+<div id="nav-logo">
+<a aria-label="Amazon.de" class="nav-logo-link nav-progressive-attribute" href="/-/en/ref=nav_logo" id="nav-logo-sprites">
+<span class="nav-sprite nav-logo-base"></span>
+<span class="nav-sprite nav-logo-ext nav-progressive-content" id="logo-ext"></span>
+<span class="nav-logo-locale">.de</span>
+</a>
+</div>
+
+<div id="nav-global-location-slot">
+<span class="a-declarative nav-progressive-attribute" data-a-modal='{"width":375, "closeButton":"false","popoverLabel":"Choose your location", "ajaxHeaders":{"anti-csrftoken-a2z":"hJEz+KYs+/567XHrYkNjQGWocL5Nm/CGXQgRJ1wEi5UmAAAAAGZVqwgAAAAB"}, "name":"glow-modal", "url":"/portal-migration/hz/glow/get-rendered-address-selections?deviceType=desktop&amp;pageType=cruise-cobrandcard&amp;storeContext=financial&amp;actionSource=desktop-modal", "footer":"&lt;span class=\"a-declarative\" data-action=\"a-popover-close\" data-a-popover-close=\"{}\"&gt;&lt;span class=\"a-button a-button-primary\"&gt;&lt;span class=\"a-button-inner\"&gt;&lt;button name=\"glowDoneButton\" class=\"a-button-text\" type=\"button\"&gt;Done&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;","header":"Choose your location"}' data-action="a-modal" id="nav-global-location-data-modal-action">
+<a class="nav-a nav-a-2 a-popover-trigger a-declarative nav-progressive-attribute" id="nav-global-location-popover-link" tabindex="0">
+<div class="nav-sprite nav-progressive-attribute" id="nav-packard-glow-loc-icon"></div>
+<div id="glow-ingress-block">
+<span class="nav-line-1 nav-progressive-content" id="glow-ingress-line1">
+                   Deliver to
+                </span>
+<span class="nav-line-2 nav-progressive-content" id="glow-ingress-line2">
+                   Portugal
+                </span>
+</div>
+</a>
+</span>
+<input class="nav-progressive-attribute" data-addnewaddress="add-new" id="unifiedLocation1ClickAddress" name="dropdown-selection" type="hidden" value="add-new"/>
+<input class="nav-progressive-attribute" data-addnewaddress="add-new" id="ubbShipTo" name="dropdown-selection-ubb" type="hidden" value="add-new"/>
+<input class="nav-progressive-attribute" id="glowValidationToken" name="glow-validation-token" type="hidden" value="hJEz+KYs+/567XHrYkNjQGWocL5Nm/CGXQgRJ1wEi5UmAAAAAGZVqwgAAAAB"/>
+<input class="nav-progressive-attribute" id="glowDestinationType" name="glow-destination-type" type="hidden" value="COUNTRY"/>
+</div>
+<div class="nav-progressive-content" id="nav-global-location-toaster-script-container">
+<!-- NAVYAAN-GLOW-NAV-TOASTER -->
+
+
+</div>
+</div>
+<div class="nav-fill">
+
+<div id="nav-search">
+<div id="nav-bar-left"></div>
+<form accept-charset="utf-8" action="/s/ref=nb_sb_noss" class="nav-searchbar nav-progressive-attribute" id="nav-search-bar-form" method="GET" name="site-search" role="search">
+<div class="nav-left">
+<div id="nav-search-dropdown-card">
+<div class="nav-search-scope nav-sprite">
+<div class="nav-search-facade" data-value="search-alias=aps">
+<span class="nav-search-label nav-progressive-content" id="nav-search-label-id" style="width: auto;">All</span>
+<i class="nav-icon"></i>
+</div>
+<label class="nav-progressive-attribute" for="searchDropdownBox" id="searchDropdownDescription" style="display:none">Select the department you want to search in</label>
+<select aria-describedby="searchDropdownDescription" class="nav-search-dropdown searchSelect nav-progressive-attrubute nav-progressive-search-dropdown" data-nav-digest="w9Gm2ODO9yj5d7UyIAcazhUOgHQ=" data-nav-selected="0" id="searchDropdownBox" name="url" style="display: block; top: 2.5px;" tabindex="0" title="Search in">
+<option selected="selected" value="search-alias=aps">All Departments</option>
+<option value="search-alias=alexa-skills">Alexa Skills</option>
+<option value="search-alias=amazon-devices">Amazon Devices</option>
+<option value="search-alias=amazon-global-store">Amazon Global Store</option>
+<option value="search-alias=warehouse-deals">Amazon Warehouse</option>
+<option value="search-alias=mobile-apps">Apps &amp; Games</option>
+<option value="search-alias=audible">Audible Audiobooks</option>
+<option value="search-alias=automotive">Automotive</option>
+<option value="search-alias=baby">Baby</option>
+<option value="search-alias=stripbooks">Books</option>
+<option value="search-alias=photo">Camera &amp; Photo</option>
+<option value="search-alias=popular">CDs &amp; Vinyl</option>
+<option value="search-alias=classical">Classical Music</option>
+<option value="search-alias=computers">Computers &amp; Accessories</option>
+<option value="search-alias=todays-deals">Deals</option>
+<option value="search-alias=digital-music">Digital Music</option>
+<option value="search-alias=dvd">DVD &amp; Blu-ray</option>
+<option value="search-alias=electronics">Electronics &amp; Photo</option>
+<option value="search-alias=fashion">Fashion</option>
+<option value="search-alias=fashion-womens">   Women</option>
+<option value="search-alias=fashion-mens">   Men</option>
+<option value="search-alias=fashion-girls">   Girls</option>
+<option value="search-alias=fashion-boys">   Boys</option>
+<option value="search-alias=fashion-baby">   Baby</option>
+<option value="search-alias=outdoor">Garden &amp; Outdoors</option>
+<option value="search-alias=gift-cards">Gift Cards</option>
+<option value="search-alias=grocery">Grocery</option>
+<option value="search-alias=handmade">Handmade</option>
+<option value="search-alias=drugstore">Health &amp; Personal Care</option>
+<option value="search-alias=local-services">Home &amp; Business Services</option>
+<option value="search-alias=kitchen">Home &amp; Kitchen</option>
+<option value="search-alias=diy">Home Improvement</option>
+<option value="search-alias=industrial">Industrial &amp; Scientific</option>
+<option value="search-alias=digital-text">Kindle Store</option>
+<option value="search-alias=appliances">Large Appliances</option>
+<option value="search-alias=lighting">Lighting</option>
+<option value="search-alias=fashion-luggage">Luggage and travel gear</option>
+<option value="search-alias=luxury">Luxury Stores</option>
+<option value="search-alias=magazines">Magazines</option>
+<option value="search-alias=mi">Musical Instruments &amp; DJ Equipment</option>
+<option value="search-alias=office-products">Office Products</option>
+<option value="search-alias=videogames">PC &amp; Video Games</option>
+<option value="search-alias=beauty">Perfume &amp; Cosmetic</option>
+<option value="search-alias=pets">Pet Supplies</option>
+<option value="search-alias=luxury-beauty">Premium Beauty</option>
+<option value="search-alias=instant-video">Prime Video</option>
+<option value="search-alias=software">Software</option>
+<option value="search-alias=sports">Sports</option>
+<option value="search-alias=specialty-aps-sns">Subscribe &amp; Save</option>
+<option value="search-alias=toys">Toys &amp; Games</option>
+</select>
+</div>
+</div>
+</div>
+<div class="nav-fill">
+<div class="nav-search-field">
+<label for="twotabsearchtextbox" style="display: none;">Search Amazon.de</label>
+<input aria-label="Search Amazon.de" autocomplete="off" class="nav-input nav-progressive-attribute" dir="auto" id="twotabsearchtextbox" name="field-keywords" placeholder="Search Amazon.de" spellcheck="false" tabindex="0" type="text" value=""/>
+</div>
+<div id="nav-iss-attach"></div>
+</div>
+<div class="nav-right">
+<div class="nav-search-submit nav-sprite">
+<span aria-label="Go" class="nav-search-submit-text nav-sprite nav-progressive-attribute" id="nav-search-submit-text">
+<input class="nav-input nav-progressive-attribute" id="nav-search-submit-button" tabindex="0" type="submit" value="Go"/>
+</span>
+</div>
+</div>
+</form>
+</div>
+
+</div>
+<div class="nav-right">
+
+<div class="layoutToolbarPadding" id="nav-tools">
+<a aria-label="Choose a language for shopping." class="nav-a nav-a-2 icp-link-style-2" href="/-/en/customer-preferences/edit?ie=UTF8&amp;preferencesReturnUrl=%2F-%2Fen%2Fdp%2FB00OSAGJTY%3Fref_%3Dfooter_cbcc&amp;ref_=topnav_lang_ais" id="icp-nav-flyout">
+<span class="icp-nav-link-inner">
+<span class="nav-line-1">
+</span>
+<span class="nav-line-2">
+<span class="icp-nav-flag icp-nav-flag-de icp-nav-flag-lop"></span>
+<div>EN</div>
+<span class="nav-icon nav-arrow" style="visibility: visible;"></span>
+</span>
+</span>
+</a>
+<a class="nav-a nav-a-2 nav-truncate nav-progressive-attribute" data-csa-c-content-id="nav_youraccount_btn" data-csa-c-id="cg8vwy-ui2pvo-wdvlw6-zg6mdo" data-csa-c-slot-id="nav-link-accountList" data-csa-c-type="link" data-nav-ref="nav_youraccount_btn" data-nav-role="signin" data-ux-jq-mouseenter="true" href="https://www.amazon.de/-/en/gp/css/homepage.html?ref_=nav_youraccount_btn" id="nav-link-accountList" tabindex="0">
+<div class="nav-line-1-container"><span class="nav-line-1 nav-progressive-content" id="nav-link-accountList-nav-line-1">Hello, Jane</span></div>
+<span class="nav-line-2">Account &amp; Lists<span class="nav-icon nav-arrow" style="visibility: visible;"></span>
+</span>
+</a>
+<a class="nav-hidden-aria" href="/-/en/gp/flex/sign-out.html?path=%2Fgp%2Fyourstore%2Fhome&amp;useRedirectOnSuccess=1&amp;signIn=1&amp;action=sign-out&amp;ref_=nav_signout" tabindex="0">
+  Not Jane? Sign Out
+</a>
+<a class="nav-a nav-a-2 nav-progressive-attribute" href="/-/en/gp/css/order-history?ref_=nav_orders_first" id="nav-orders" tabindex="0">
+<span class="nav-line-1">Returns</span>
+<span class="nav-line-2">&amp; Orders<span class="nav-icon nav-arrow"></span></span>
+</a>
+<a aria-label="1 item in shopping basket" class="nav-a nav-a-2 nav-progressive-attribute" href="https://www.amazon.de/-/en/gp/cart/view.html?ref_=nav_cart" id="nav-cart">
+<div id="nav-cart-count-container">
+<span aria-hidden="true" class="nav-cart-count nav-cart-1 nav-progressive-attribute nav-progressive-content" id="nav-cart-count">1</span>
+<span class="nav-cart-icon nav-sprite"></span>
+</div>
+<div class="nav-progressive-attribute" id="nav-cart-text-container">
+<span aria-hidden="true" class="nav-line-1">
+        Shopping-
+      </span>
+<span aria-hidden="true" class="nav-line-2">
+        Basket
+        <span class="nav-icon nav-arrow"></span>
+</span>
+</div>
+</a>
+</div>
+
+</div>
+</div><div id="nav-flyout-iss-anchor"><div class="nav-issFlyout nav-flyout" id="nav-flyout-searchAjax"><div class="nav-template nav-flyout-content"></div><div class="autocomplete-results-container"><div class="two-pane-results-container"><div class="left-pane-results-container"></div><div class="right-pane-results-container"></div></div></div></div></div><div id="nav-flyout-anchor"><div class="nav-coreFlyout nav-flyout" id="nav-flyout-amazonprime"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-accountList"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content"><div id="nav-al-container"><div class="nav-flyout-content nav-flyout-accessibility" id="nav-al-profile"></div><div class="nav-al-column nav-tpl-itemList nav-flyout-content nav-flyout-accessibility" id="nav-al-wishlist"><div class="nav-title" id="nav-al-title">Your Lists</div><div class="nav-template have-bot-border" id="nav-flyout-wl-alexa" style="display: none;"></div><div class="nav-template have-bot-border nav-spinner" id="nav-flyout-wl-items" style="display: none;"></div><a class="nav-link nav-item" href="/gcx/Geschenkefinder/gfhz/?_encoding=UTF8&amp;ref_=nav_wishlist_gf"><span class="nav-text">Find a Gift</span></a> <a class="nav-link nav-item" href="/-/en/hz/wishlist/ls?triggerElementID=createList&amp;ref_=nav_ListFlyout_navFlyout_createList_lv_redirect"><span class="nav-text">Create a List</span></a> <a class="nav-link nav-item" href="/-/en/gp/wedding/homepage?ref_=nav_ListFlyout_gno_listpop_wr"><span class="nav-text">Wedding List</span></a> <a class="nav-link nav-item" href="/-/en/baby-reg/homepage?ref_=nav_ListFlyout_gno_listpop_br"><span class="nav-text">Baby Wishlist</span></a> <a class="nav-link nav-item" href="/-/en/discover/?ref_=nav_ListFlyout_sbl"><span class="nav-text">Discover Your Style</span></a> <a class="nav-link nav-item" href="/-/en/showroom?ref_=nav_ListFlyout_srm_your_desk_wl_de"><span class="nav-text">Explore Showroom</span></a></div><div class="nav-al-column nav-template nav-flyout-content nav-tpl-itemList nav-flyout-accessibility" id="nav-al-your-account"><div class="nav-title">Your Account</div><a class="nav-link nav-item" href="/-/en/gp/css/homepage.html?ref_=nav_AccountFlyout_ya"><span class="nav-text">Your Account</span></a> <a class="nav-link nav-item" href="/-/en/gp/css/order-history?ref_=nav_AccountFlyout_orders" id="nav_prefetch_yourorders"><span class="nav-text">Your Orders</span></a> <a class="nav-link nav-item" href="/-/en/ddb/your-dash-buttons?ref_=nav_youraccount_snk_ddb_ydb_d_nav_ya"><span class="nav-text">Your Dash Buttons</span></a> <a class="nav-link nav-item" href="/-/en/hz/wishlist/ls?requiresSignIn=1&amp;ref_=nav_AccountFlyout_wl"><span class="nav-text">Your Lists</span></a> <a class="nav-link nav-item" href="/-/en/gp/yourstore?ref_=nav_AccountFlyout_recs"><span class="nav-text">Your Recommendations</span></a> <a class="nav-link nav-item" href="/-/en/auto-deliveries?ref_=nav_AccountFlyout_sns"><span class="nav-text">Your Subscribe &amp; Save Items</span></a> <a class="nav-link nav-item" href="/-/en/yourpets?ref_=nav_AccountFlyout_ya_pp"><span class="nav-text">Your Pets</span></a> <a class="nav-link nav-item" href="/hz5/yourmembershipsandsubscriptions?ref_=nav_AccountFlyout_digital_subscriptions"><span class="nav-text">Memberships &amp; Subscriptions</span></a> <a class="nav-link nav-item" href="/-/en/gp/browse.html?node=14154536031&amp;ref_=nav_AccountFlyout_deb2b_reg"><span class="nav-text">Register for a free business account</span></a> <a class="nav-link nav-item" href="/hz/mycd/myx?ref_=nav_AccountFlyout_myk"><span class="nav-text">Manage Your Content and Devices</span></a> <a class="nav-link nav-item" href="/-/en/gp/browse.html?node=5686557031&amp;ref_=nav_AccountFlyout_pmu"><span class="nav-text">My Prime Music</span></a> <a class="nav-link nav-item" href="https://music.amazon.de?ref=nav_youraccount_cldplyr"><span class="nav-text">Your Music</span></a> <a class="nav-link nav-item" href="/-/en/clouddrive?ref_=nav_AccountFlyout_clddrv"><span class="nav-text">Your Amazon Drive</span></a> <a class="nav-link nav-item" href="/-/en/gp/browse.html?node=3279204031&amp;ref_=nav_AccountFlyout_piv"><span class="nav-text">Your Prime Video</span></a> <a class="nav-link nav-item" href="/-/en/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku"><span class="nav-text">Your Kindle Unlimited</span></a> <a class="nav-link nav-item" href="/-/en/gp/video/mystuff/watchlist?ref_=nav_AccountFlyout_ywl"><span class="nav-text">Your Watchlist</span></a> <a class="nav-link nav-item" href="/-/en/gp/video/mystuff/library?ref_=nav_AccountFlyout_yvl"><span class="nav-text">Your Video Purchases &amp; Rentals</span></a> <a class="nav-link nav-item" href="/-/en/gp/swvgdtt/your-account/manage-downloads.html?ref_=nav_AccountFlyout_gsl"><span class="nav-text">Your Games and Software Library</span></a> <a class="nav-link nav-item" href="/-/en/gp/mas/your-account/myapps?ref_=nav_AccountFlyout_aad"><span class="nav-text">Your Android Apps &amp; Devices</span></a> <a class="nav-link nav-item" href="https://www.amazon.de/-/en/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%2F%3Fie%3DUTF8%26ASIN%3DB00OSAGJTY%26language%3Den%26ref_%3Dnav_youraccount_switchacct&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=deflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;switch_account=picker&amp;ignoreAuthState=1&amp;_encoding=UTF8" id="nav-item-switch-account"><span class="nav-text">Switch Accounts</span></a> <a class="nav-link nav-item" href="/-/en/gp/flex/sign-out.html?path=%2Fgp%2Fyourstore%2Fhome&amp;useRedirectOnSuccess=1&amp;signIn=1&amp;action=sign-out&amp;ref_=nav_AccountFlyout_signout" id="nav-item-signout"><span class="nav-text">Sign Out</span></a></div></div></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-fullWidthFlyout nav-flyout" id="nav-flyout-timeline"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-amazonfresh"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-groceries"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-transientFlyout"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-health"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-giftCards"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-abAcquisition"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-abActivation"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-abAccountLink"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-abCatAcquisition"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-abCatActivation"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-abCatAccountLink"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-icp"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div><div class="nav-coreFlyout nav-flyout" id="nav-flyout-icp-footer-flyout"><div class="nav-arrow"><div class="nav-arrow-inner"></div></div><div class="nav-template nav-flyout-content nav-spinner"></div><div class="nav-flyout-buffer-left"></div><div class="nav-flyout-buffer-right"></div><div class="nav-flyout-buffer-top"></div><div class="nav-flyout-buffer-bottom"></div></div></div>
+<div class="nav-sprite" id="nav-main">
+<div class="nav-left">
+
+<a aria-label="Open Menu" data-csa-c-id="qwg6y2-debaua-xer9sj-6peysf" data-csa-c-interaction-events="click" data-csa-c-slot-id="HamburgerMenuDesktop" data-csa-c-type="widget" href="javascript: void(0)" id="nav-hamburger-menu" role="button">
+<i class="hm-icon nav-sprite"></i>
+<span class="hm-icon-label">All</span>
+</a>
+
+
+</div>
+<div class="nav-fill">
+<div id="nav-shop">
+</div>
+<div id="nav-xshop-container">
+<div class="nav-progressive-content" id="nav-xshop">
+
+<a class="nav-a" data-csa-c-content-id="nav_cs_help" data-csa-c-id="i033r4-mt3hex-kxbvwu-5d1vqj" data-csa-c-slot-id="nav_cs_0" data-csa-c-type="link" href="/-/en/gp/help/customer/display.html?nodeId=508510&amp;ref_=nav_cs_help" tabindex="0">Customer Service</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_amazonbasics" data-csa-c-id="nr94h0-qvcfuz-esgjr5-u58m8f" data-csa-c-slot-id="nav_cs_1" data-csa-c-type="link" href="/-/en/stores/node/1686827031/?field-lbr_brands_browse-bin=AmazonBasics&amp;ref_=nav_cs_amazonbasics" tabindex="0">Amazon Basics</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_buy_again" data-csa-c-id="z2xdu6-xn4hlz-9owtot-iwq3sv" data-csa-c-slot-id="nav_cs_2" data-csa-c-type="link" href="/-/en/gp/buyagain?ref_=nav_cs_buy_again" tabindex="0">Buy Again</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_gb" data-csa-c-id="dr1gy-xzz3wh-aa7hkv-jy6gc0" data-csa-c-slot-id="nav_cs_3" data-csa-c-type="link" href="/-/en/gp/angebote?ref_=nav_cs_gb" tabindex="0">Today's Deals</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_bestsellers" data-csa-c-id="rasyyo-t5twme-asmnqc-l67le1" data-csa-c-slot-id="nav_cs_4" data-csa-c-type="link" href="/-/en/gp/bestsellers/?ref_=nav_cs_bestsellers" tabindex="0">Best Sellers</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_newreleases" data-csa-c-id="wzqtoo-8q8pqj-ty3vui-hkg9zt" data-csa-c-slot-id="nav_cs_5" data-csa-c-type="link" href="/-/en/gp/new-releases/?ref_=nav_cs_newreleases" tabindex="0">New Releases</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_home" data-csa-c-id="lp0o96-4gb96n-gntkcb-qwzdny" data-csa-c-slot-id="nav_cs_6" data-csa-c-type="link" href="/-/en/k%C3%BCche-haushalt-wohnen/b/?ie=UTF8&amp;node=3167641&amp;ref_=nav_cs_home" tabindex="0">Home &amp; Kitchen</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_shoppertoolkit" data-csa-c-id="fdwka7-attqlg-uy4bup-jmhlpa" data-csa-c-slot-id="nav_cs_7" data-csa-c-type="link" href="/-/en/b/?node=15425785031&amp;ref_=nav_cs_shoppertoolkit" tabindex="0">Shopper Toolkit</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_gc" data-csa-c-id="fv3uw0-2e7or5-d8rvi6-cy7pbi" data-csa-c-slot-id="nav_cs_8" data-csa-c-type="link" href="/-/en/Amazon-Geschenkgutscheine-Gutschein-Geschenkkarte-Gru%C3%9Fkarte-Geburtstag-Ostern-Weihnachten-Aufladen/b/?ie=UTF8&amp;node=1571256031&amp;ref_=nav_cs_gc" tabindex="0">Gift Cards</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_books" data-csa-c-id="9dlxz5-xscaok-9q23nv-dsb7b" data-csa-c-slot-id="nav_cs_9" data-csa-c-type="link" href="/-/en/b%C3%BCcher-buch-lesen/b/?ie=UTF8&amp;node=186606&amp;ref_=nav_cs_books" tabindex="0">Books</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_giftfinder" data-csa-c-id="smicfr-ur5fcg-ri1rrp-4llm13" data-csa-c-slot-id="nav_cs_10" data-csa-c-type="link" href="/gcx/-/gfhz/?ref_=nav_cs_giftfinder" tabindex="0">Gift Ideas	</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_fashion" data-csa-c-id="hlyjqd-frbfp-k4eal0-jblgyh" data-csa-c-slot-id="nav_cs_11" data-csa-c-type="link" href="/-/en/Amazon-Fashion-Mode/b/?ie=UTF8&amp;node=11961464031&amp;ref_=nav_cs_fashion" tabindex="0">Fashion</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_hi" data-csa-c-id="vz0745-dwi0ae-suhk1f-xe8wbq" data-csa-c-slot-id="nav_cs_12" data-csa-c-type="link" href="/-/en/baumarkt-werkzeug-heimwerken/b/?ie=UTF8&amp;node=80084031&amp;ref_=nav_cs_hi" tabindex="0">Home Improvement</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_pc" data-csa-c-id="kkhdwq-c7bdu4-8l835s-ubyjps" data-csa-c-slot-id="nav_cs_13" data-csa-c-type="link" href="/-/en/Computer-Zubehoer/b/?ie=UTF8&amp;node=340843031&amp;ref_=nav_cs_pc" tabindex="0">Computers</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_electronics" data-csa-c-id="gb324y-ge8fmw-mzu9m-a6lw6z" data-csa-c-slot-id="nav_cs_14" data-csa-c-type="link" href="/-/en/Elektronik-Foto/b/?ie=UTF8&amp;node=562066&amp;ref_=nav_cs_electronics" tabindex="0">Electronics &amp; Photo</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_hpc" data-csa-c-id="720igy-7trf0e-kq75b5-eweuo6" data-csa-c-slot-id="nav_cs_15" data-csa-c-type="link" href="/-/en/Drogerie-K%C3%B6rperpflege/b/?ie=UTF8&amp;node=64187031&amp;ref_=nav_cs_hpc" tabindex="0">Drugstore &amp; Body Care</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_automotive" data-csa-c-id="xe2m0i-mmecp2-nlddl3-mlqrmb" data-csa-c-slot-id="nav_cs_16" data-csa-c-type="link" href="/-/en/auto-tuning-autoteile/b/?ie=UTF8&amp;node=78191031&amp;ref_=nav_cs_automotive" tabindex="0">Car &amp; Motorbike</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_video_games" data-csa-c-id="qa8ax8-c8me9m-dkg41y-q6v3pi" data-csa-c-slot-id="nav_cs_17" data-csa-c-type="link" href="/-/en/Video-Games/b/?ie=UTF8&amp;node=300992&amp;ref_=nav_cs_video_games" tabindex="0">PC &amp; Video Games</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_sports" data-csa-c-id="t9iozz-78yh7r-tvn0zx-d4fzuq" data-csa-c-slot-id="nav_cs_18" data-csa-c-type="link" href="/-/en/sport-freizeit-sportartikel/b/?ie=UTF8&amp;node=16435051&amp;ref_=nav_cs_sports" tabindex="0">Sports &amp; Outdoors</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_toys" data-csa-c-id="k53eoo-g13gsc-gldswn-g6orkf" data-csa-c-slot-id="nav_cs_19" data-csa-c-type="link" href="/-/en/Spielzeug-Brettspiele-Baby-Kleinkind/b/?ie=UTF8&amp;node=12950651&amp;ref_=nav_cs_toys" tabindex="0">Toys &amp; Games</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_pets" data-csa-c-id="lana7a-dwly0o-dti8in-axux57" data-csa-c-slot-id="nav_cs_20" data-csa-c-type="link" href="/-/en/Tierbedarf-Tiernahrung/b/?ie=UTF8&amp;node=340852031&amp;ref_=nav_cs_pets" tabindex="0">Pet Supplies</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_baby" data-csa-c-id="1fbh2f-ppvpqb-9t7w22-2589w1" data-csa-c-slot-id="nav_cs_21" data-csa-c-type="link" href="/-/en/baby-babyausstattung-babyartikel/b/?ie=UTF8&amp;node=355007011&amp;ref_=nav_cs_baby" tabindex="0">Baby</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_sns" data-csa-c-id="60mk67-voy1mp-eblfhj-fhut9k" data-csa-c-slot-id="nav_cs_22" data-csa-c-type="link" href="/-/en/auto-deliveries/landing?ref_=nav_cs_sns" tabindex="0">Subscribe &amp; Save</a>
+<a class="nav-a" data-csa-c-content-id="nav_cs_beauty" data-csa-c-id="803jm6-d9f308-h274rn-i57s62" data-csa-c-slot-id="nav_cs_23" data-csa-c-type="link" href="/-/en/Premium-Beauty/b/?ie=UTF8&amp;node=3765352031&amp;ref_=nav_cs_beauty" tabindex="0">Beauty &amp; Personal Care</a>
+<a class="nav-a" data-csa-c-id="xwpjar-htxybv-1myf7m-bym1gf" data-csa-c-slot-id="nav_cs_24" data-csa-c-type="link" href="https://services.amazon.de/business/online-verkopen.htm?ld=AZDEGNOSellC" tabindex="0">Sell on Amazon</a>
+<a aria-label="Click to contact Accessibility Support, or reach us directly at 0800-011-6243" class="nav-hidden-aria" data-csa-c-id="8qhftw-1572ow-mpcy98-pwirxq" data-csa-c-slot-id="nav_cs_25" data-csa-c-type="link" href="/-/en/hz/contact-us/accessibility" tabindex="0">Disability Customer Support</a>
+
+</div>
+</div>
+</div>
+<div class="nav-right">
+<!-- Navyaan SWM -->
+<div id="nav-swmslot" style="display: none !important;">
+<div data-cel-widget="nav_sitewide_msg" id="navSwmHoliday" style="height: 39px; width: 400px; overflow: hidden; position: relative; ">
+<a aria-label="See all Deals" class="nav-imageHref" href="/-/en/gp/goldbox/?ie=UTF8&amp;ref_=nav_swm_it_SWM&amp;pf_rd_p=a569cfc3-0f33-49f6-ba90-21b809b3fa05&amp;pf_rd_s=nav-sitewide-msg-export&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=A1PA6795UKMFR9&amp;pf_rd_r=SDBANSPW7VVZFFD14531" tabindex="0">
+<img alt="See all Deals" src="https://m.media-amazon.com/images/G/03/x-site/2021/xcm_banners_de-bau-deals-swm_400x39_de-de._CB615427420_.jpg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div id="nav-subnav-toaster"></div>
+<div id="nav-progressive-subnav">
+</div>
+</div>
+</header>
+
+
+
+<a id="skippedLink" tabindex="-1"></a>
+
+
+<!-- sp:end-feature:navbar -->
+<!-- sp:feature:host-atf -->
+<div class="a-section" id="cruise">
+<div class="a-section">
+<div class="a-section a-spacing-none">
+<div class="a-section a-spacing-none">
+<div class="a-section a-spacing-none"><div class="a-section a-spacing-none"><div class="a-section artboard-udp">
+
+<div class="a-section artboard-udp__content">
+<div class="a-section a-spacing-double-large artboard-udp__header">
+<div class="a-section artboard-udp__header-container">
+<div class="a-section a-spacing-medium artboard-udp__header-card-art-container">
+<img alt="Amazon.de VISA Karte" class="artboard-udp__header-card-art" src="https://m.media-amazon.com/images/G/03/credit/img23/cbcc/wd_lp/cbcc_p-np._CB600108101_.png"/>
+</div>
+<div class="a-section a-spacing-large artboard-udp__header-product-title-and-acr">
+<span class="a-color-base artboard-udp__header-product-title">
+                        Amazon.de VISA Karte
+                    </span>
+<span class="a-letter-space"></span>
+<div class="a-section artboard-udp__header-product-acr">
+<div class="a-section"></div>
+</div>
+</div>
+<div class="a-section artboard-udp__header-welcome-offer">
+<div class="a-section a-spacing-mini">
+<span class="artboard-udp__header-welcome-offer-title a-text-bold">
+                            Amazon.de VISA Karte
+                        </span>
+</div>
+<div class="a-section">
+<span class="a-size-base artboard-udp__header-welcome-offer-description">
+<br/>
+</span>
+</div>
+</div>
+<div class="a-section a-spacing-small artboard-udp__header-action-container" id="issuance-buy-box">
+<span class="a-button a-button-primary artboard-udp__header-action-button" id="a-autoid-0"><span class="a-button-inner"><a class="a-button-text" href="/-/en/palm?pr=con&amp;inc=d8d01c31-6488-4a24-b184-ef73e99253cc&amp;ts=1zscoxw4f60i2p1213ursnjum4oaayd&amp;plattr=math&amp;place=ccmp_detailpage&amp;imp=a305e90d-e9bc-4131-bde9-507d1333c317&amp;alc=UK-CBCC-B01LSOD0ZI&amp;act=issuance_apply&amp;cv=466&amp;hva=B0BPMDHWF1&amp;cmt=4.66&amp;cmp=0.0&amp;sig=e12ddc1e38718ac807c944f84522ead7&amp;signature=240E5BFE9EA4035A68BD045C6C796D4D2C33245366F5B038E2236559303D58B8&amp;sigauth=IRS_APPLY_NOW" id="applyBoxLink" role="button">
+                        Check eligibility now
+                    </a></span></span>
+</div>
+<div class="a-section a-spacing-large artboard-udp__header-terms-and-conditions">
+<span style="font-size:16px">Die Kooperation mit der Landesbank Berlin (LBB) bzgl. der Amazon.de VISA Karte endete. <br/>LBB hat alle Kund:innen hierzu separat informiert. <br/>Alle Kartenkontos wurden geschlossen und die Amazon.de VISA Karte kann nicht mehr für Zahlungen verwendet werden. </span> <br/><br/>
+<br/><br/>
+<img alt="Stay tuned." src="https://m.media-amazon.com/images/G/03/credit/img23/cbcc/wd_lp/cbcc_teaser_banner_desktop_02.jpg"/>
+</div>
+<div class="a-section artboard-udp__header-benefits">
+</div>
+</div>
+</div>
+<div class="a-section a-spacing-double-large artboard-udp__body-line-break"></div>
+<div class="a-section artboard-udp__body">
+<div class="a-section artboard-udp__body-spotlight">
+<div class="a-section a-spacing-double-large artboard-udp__body-big-headline">
+</div>
+</div>
+<div class="a-section a-spacing-double-large artboard-udp__body-spotlight-features">
+</div>
+<div class="a-section a-spacing-double-large artboard-udp__body-faq-container">
+<div class="a-section">
+<h3 class="a-size-extra-large a-color-base a-text-center a-text-bold">
+                        Häufig gestellte Fragen<br/><a href="https://portal.lbb.de/lbb/static/zustimmung_faqs" target="”_blank”">Alle FAQs findest du hier &gt; </a>
+</h3>
+</div>
+<div aria-live="polite" class="a-row a-expander-container a-expander-section-container a-section-expander-container">
+<a class="a-expander-header a-declarative a-expander-section-header a-link-section-expander a-size-medium" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"", "collapse_prompt":""}' data-action="a-expander-toggle" href="javascript:void(0)"><i class="a-icon a-icon-section-expand"></i><span class="a-expander-prompt">
+                            Kann ich meine Amazon.de VISA Karte weiterhin nutzen?
+                        </span></a>
+<div aria-expanded="false" class="a-expander-content a-expander-section-content a-section-expander-inner" style="display:none">
+                            Nein. Alle Kartenkontos wurden bereits geschlossen.
+                        </div>
+</div>
+<div aria-live="polite" class="a-row a-expander-container a-expander-section-container a-section-expander-container">
+<a class="a-expander-header a-declarative a-expander-section-header a-link-section-expander a-size-medium" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"", "collapse_prompt":""}' data-action="a-expander-toggle" href="javascript:void(0)"><i class="a-icon a-icon-section-expand"></i><span class="a-expander-prompt">
+                            Wird es eine neue Amazon Kreditkarte geben?
+                        </span></a>
+<div aria-expanded="false" class="a-expander-content a-expander-section-content a-section-expander-inner" style="display:none">
+                            Wir arbeiten an einem neuen Produkt und werden an dieser Stelle informieren, wenn es Neuigkeiten gibt.
+                        </div>
+</div>
+<div aria-live="polite" class="a-row a-expander-container a-expander-section-container a-section-expander-container">
+<a class="a-expander-header a-declarative a-expander-section-header a-link-section-expander a-size-medium" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"", "collapse_prompt":""}' data-action="a-expander-toggle" href="javascript:void(0)"><i class="a-icon a-icon-section-expand"></i><span class="a-expander-prompt">
+                            Wo finde ich die FAQs der Landesbank Berlin (LBB)?
+                        </span></a>
+<div aria-expanded="false" class="a-expander-content a-expander-section-content a-section-expander-inner" style="display:none">
+<a href="https://portal.lbb.de/lbb/static/zustimmung_faqs" target="”_blank”">Alle FAQs findest du hier &gt;
+                        </a></div><a href="https://portal.lbb.de/lbb/static/zustimmung_faqs" target="”_blank”">
+</a></div><a href="https://portal.lbb.de/lbb/static/zustimmung_faqs" target="”_blank”">
+</a><div aria-live="polite" class="a-row a-expander-container a-expander-section-container a-section-expander-container"><a href="https://portal.lbb.de/lbb/static/zustimmung_faqs" target="”_blank”">
+</a><a class="a-expander-header a-declarative a-expander-section-header a-link-section-expander a-size-medium" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"", "collapse_prompt":""}' data-action="a-expander-toggle" href="javascript:void(0)"><i class="a-icon a-icon-section-expand"></i><span class="a-expander-prompt">
+                            Wie lange habe ich noch Zugriff auf mein Kreditkartenbanking?
+                        </span></a>
+<div aria-expanded="false" class="a-expander-content a-expander-section-content a-section-expander-inner" style="display:none">
+                            Die Nutzung des Kreditkarten-Bankings ist bis 60 Tage nach Kontoschließung möglich. Bitte lade daher deine Kartenabrechnungen rechtzeitig aus deinem Postfach herunter.
+                        </div>
+</div>
+</div>
+</div>
+</div>
+<div class="a-section artboard-udp__background">
+<img alt="Background image" class="artboard-udp__background-image" src="https://m.media-amazon.com/images/G/03/credit/img20/dp/p/p_header-image_desktop._CB418270229_.jpg"/>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class="a-section a-spacing-none">
+<div class="a-section a-spacing-none">
+<div class="a-section a-spacing-base"><div class="a-section a-spacing-none" id="cruise-customer-reviews"><div aria-label="Spitzenrezensionen" id="customerReviews">
+<hr aria-hidden="true" class="a-spacing-large a-divider-normal"/><span class="cr-widget-PageState">
+<span data-state='{"asin":"B00OSAGJTY","deviceType":"desktop","contextId":"","reviewCommentsAjaxUrl":"","reviewCommentSubmissionAjaxUrl":"","approvedAuthorAjaxUrl":"","reviewsAjaxUrl":"/hz/reviews-render/ajax/medley-filtered-reviews/get/","medleyReviewsAjaxUrl":"/hz/reviews-render/ajax/medley-reviews/get/","reviewerType":"","formatType":"","filterByKeyword":"","filterByLanguage":"","filterByStar":"","filterByHeight":"","filterByWeight":"","filterByAge":"","showLanguageFilter":false,"showHeightFilter":false,"showAgeFilter":false,"showStarFilter":false,"showMediaFilter":false,"showReviewerFilter":false,"languageOfPreference":"de_DE","isCardTreatmentEnabled":false,"lazyWidgetLoaderBufferPixels":"1000","lazyWidgetLoaderDelayBeforeTriggering":"5000","lazyWidgetLoaderUrl":"/hz/reviews-render/ajax/lazy-widgets/stream","lazyWidgetCsrfToken":"hDSV4qQxg%2BSBU0x5tXSoV77bQq%2BBWk0XCnDbNvztakhfAAAAAGZVRk4AAAAB","lazyWidgetDomainWhitelist":["amazon.com","amazon.ca","amazon.com.mx","amazon.com.br","amazon.cl","amazon.com.co","amazon.co.uk","amazon.de","amazon.it","amazon.sa","amazon.com.tr","amazon.es","amazon.fr","amazon.in","amazon.ae","amazon.nl","amazon.se","amazon.pl","amazon.eg","amazon.co.za","amazon.com.be","amazon.com.ng","amazon.ie","amazon.co.jp","amazon.com.au","amazon.sg","amazon.cn"],"signinUrl":"https://www.amazon.de/ap/signin?openid.return_to\u003dhttps%3A%2F%2Fcruise-dataproxy-prod.dub.amazon.com%2Famazon-visa-karte%2Fproduct-reviews%2FB00OSAGJTY%3Fie%3DUTF8\u0026openid.identity\u003dhttp%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select\u0026openid.assoc_handle\u003ddeflex\u0026openid.mode\u003dcheckid_setup\u0026marketPlaceId\u003dA1PA6795UKMFR9\u0026language\u003dde\u0026openid.claimed_id\u003dhttp%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select\u0026openid.ns\u003dhttp%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0","reftagTriggerUrl":"/hz/reviews-render/ajax/reftag-trigger","mobileImageGalleryUrl":"","productInfoUrl":"","disableScroll":false,"onLoadShowHideElements":"#cm-cr-dp-reviews-loading-wrapper,.cr-reviews-loading","marketplaceId":"A1PA6795UKMFR9","locale":"de_DE"}' id="cr-state-object"></span>
+</span>
+
+<link href="https://images-eu.ssl-images-amazon.com/images/I/01STrEog8JL._RC|018qj6SXL2L.css,01CrjKjlp-L.css,41V7rn1NJUL.css,01cdXa5nSoL.css_.css?AUIClients/DesktopMedleyFilteringMetaAsset&amp;qsD9TvSP#386124-T1.810333-T1" rel="stylesheet"/>
+
+<div class="a-fixed-left-grid a-spacing-extra-large" data-hook="reviews-medley-widget" id="reviewsMedley"><div class="a-fixed-left-grid-inner" style="padding-left:300px"><div class="a-fixed-left-grid-col a-col-left" style="width:300px;margin-left:-300px;float:left;"><span class="cr-widget-TitleRatingsHistogram">
+<div cel_widget_id="cr-ratings-histogram_customer-reviews-detail_0" class="celwidget c-f" data-cel-widget="cr-ratings-histogram_customer-reviews-detail_0" data-csa-c-content-id="DsUnknown" data-csa-c-id="82geqx-gu9mqn-hn1xry-t7bcgk" data-csa-c-painter="cr-ratings-histogram-cards" data-csa-c-slot-id="DsUnknown-1" data-csa-c-type="widget" data-csa-op-log-render="">
+
+
+<!--CardsClient--><div class="_cr-ratings-histogram_style_star-rating__s2nPF" data-acp-tracking="{}" data-card-metrics-id="cr-ratings-histogram_customer-reviews-detail_0" data-mix-claimed="true" id="CardInstanceCvJbAgP7Hs2ZNUJq0u-Miw"><div class="_cr-ratings-histogram_style_ratings-histogram-desktop__2txK-"><div class="_cr-ratings-histogram_style_ratings-histogram-card-data__dudeB" data-arp-link-ref-tag="cm_cr_dp_d_top" data-asin="B00OSAGJTY" data-cel-widget-name="cm_cr_dp_d_rating_histogram" data-is-cn-marketplace="false" data-is-lynx-message-marketplace="false" data-is-mobile="false" data-ref-tag="acr_creditProductMedleyDesktopdp_hist" data-report-violation-url="" data-reviews-ratings-help-page-url="/gp/help/customer/display.html/ref=cm_cr_dp_d_omni_lm_btn?nodeId=G8UYX7LALQC8V9KA" data-should-open-help-page-in-new-tab="true" data-show-divider="false" data-star-rating-explanation-url="" data-star-rating-size="Medium" data-star-type="Review" data-trust-message-treatment="C" data-trust-message-url="" data-update-reviews-ratings-explanation="true"><div class="a-section celwidget" data-cel-widget="cm_cr_dp_d_rating_histogram" data-csa-c-id="1zm7p1-ep6vti-xez3iv-hv4bvf" id="cm_cr_dp_d_rating_histogram"><div class="a-row"><h2>Kundenrezensionen</h2></div><div class="a-fixed-left-grid AverageCustomerReviews a-spacing-small"><div class="a-fixed-left-grid-inner" style="padding-left:105px"><div class="a-fixed-left-grid-col a-col-left" style="width:105px;margin-left:-105px;float:left"><i class="a-icon a-icon-star-medium a-star-medium-3-5" data-hook="average-star-rating"><span class="a-icon-alt">3,3 von 5 Sternen</span></i></div><div class="a-fixed-left-grid-col aok-align-center a-col-right" style="padding-left:0%;float:left"><div class="a-row"><span class="a-size-base a-nowrap"><span class="a-size-medium a-color-base" data-hook="rating-out-of-text">3,3 von 5</span></span></div></div></div></div><div class="a-row a-spacing-medium averageStarRatingNumerical"><span class="a-size-base a-color-secondary" data-hook="total-review-count">28.361 weltweite Bewertungen</span></div><div class="a-fixed-left-grid a-spacing-none"><div class="a-fixed-left-grid-inner" style="padding-left:280px"><div class="a-fixed-left-grid-col a-col-left" style="width:280px;margin-left:-280px;float:left"><table class="a-normal a-align-center a-spacing-base" id="histogramTable" role="presentation"><tbody><tr class="a-histogram-row a-align-center"><td class="aok-nowrap a-nowrap"><a aria-label="Alle 5-Sterne-Rezensionen" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_5?ie=UTF8&amp;filterByStar=five_star&amp;reviewerType=all_reviews#reviews-filter-bar">5 Sterne</a><span class="a-letter-space"></span></td><td class="a-span10"><a aria-label="Balkendiagramm bei 45 Prozent" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_5?ie=UTF8&amp;filterByStar=five_star&amp;reviewerType=all_reviews#reviews-filter-bar"><div aria-valuenow="45%" class="a-meter" role="progressbar"><div class="a-meter-bar a-meter-unfilled" style="width:45%"></div></div></a></td><td class="a-text-right a-nowrap a-nowrap"><span class="a-letter-space"></span><a aria-label="45 Prozent der Bewertungen haben 5 Sterne" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_5?ie=UTF8&amp;filterByStar=five_star&amp;reviewerType=all_reviews#reviews-filter-bar">45%</a></td></tr><tr class="a-histogram-row a-align-center"><td class="aok-nowrap a-nowrap"><a aria-label="Alle 4-Sterne-Rezensionen" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_4?ie=UTF8&amp;filterByStar=four_star&amp;reviewerType=all_reviews#reviews-filter-bar">4 Sterne</a><span class="a-letter-space"></span></td><td class="a-span10"><a aria-label="Balkendiagramm bei 9 Prozent" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_4?ie=UTF8&amp;filterByStar=four_star&amp;reviewerType=all_reviews#reviews-filter-bar"><div aria-valuenow="9%" class="a-meter" role="progressbar"><div class="a-meter-bar a-meter-unfilled" style="width:9%"></div></div></a></td><td class="a-text-right a-nowrap a-nowrap"><span class="a-letter-space"></span><a aria-label="9 Prozent der Bewertungen haben 4 Sterne" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_4?ie=UTF8&amp;filterByStar=four_star&amp;reviewerType=all_reviews#reviews-filter-bar">9%</a></td></tr><tr class="a-histogram-row a-align-center"><td class="aok-nowrap a-nowrap"><a aria-label="Alle 3-Sterne-Rezensionen" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_3?ie=UTF8&amp;filterByStar=three_star&amp;reviewerType=all_reviews#reviews-filter-bar">3 Sterne</a><span class="a-letter-space"></span></td><td class="a-span10"><a aria-label="Balkendiagramm bei 7 Prozent" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_3?ie=UTF8&amp;filterByStar=three_star&amp;reviewerType=all_reviews#reviews-filter-bar"><div aria-valuenow="7%" class="a-meter" role="progressbar"><div class="a-meter-bar a-meter-unfilled" style="width:7%"></div></div></a></td><td class="a-text-right a-nowrap a-nowrap"><span class="a-letter-space"></span><a aria-label="7 Prozent der Bewertungen haben 3 Sterne" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_3?ie=UTF8&amp;filterByStar=three_star&amp;reviewerType=all_reviews#reviews-filter-bar">7%</a></td></tr><tr class="a-histogram-row a-align-center"><td class="aok-nowrap a-nowrap"><a aria-label="Alle 2-Sterne-Rezensionen" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_2?ie=UTF8&amp;filterByStar=two_star&amp;reviewerType=all_reviews#reviews-filter-bar">2 Sterne</a><span class="a-letter-space"></span></td><td class="a-span10"><a aria-label="Balkendiagramm bei 5 Prozent" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_2?ie=UTF8&amp;filterByStar=two_star&amp;reviewerType=all_reviews#reviews-filter-bar"><div aria-valuenow="5%" class="a-meter" role="progressbar"><div class="a-meter-bar a-meter-unfilled" style="width:5%"></div></div></a></td><td class="a-text-right a-nowrap a-nowrap"><span class="a-letter-space"></span><a aria-label="5 Prozent der Bewertungen haben 2 Sterne" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_2?ie=UTF8&amp;filterByStar=two_star&amp;reviewerType=all_reviews#reviews-filter-bar">5%</a></td></tr><tr class="a-histogram-row a-align-center"><td class="aok-nowrap a-nowrap"><a aria-label="Alle 1-Stern-Rezensionen" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_1?ie=UTF8&amp;filterByStar=one_star&amp;reviewerType=all_reviews#reviews-filter-bar">1 Stern</a><span class="a-letter-space"></span></td><td class="a-span10"><a aria-label="Balkendiagramm bei 33 Prozent" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_1?ie=UTF8&amp;filterByStar=one_star&amp;reviewerType=all_reviews#reviews-filter-bar"><div aria-valuenow="33%" class="a-meter" role="progressbar"><div class="a-meter-bar a-meter-unfilled" style="width:33%"></div></div></a></td><td class="a-text-right a-nowrap a-nowrap"><span class="a-letter-space"></span><a aria-label="33 Prozent der Bewertungen haben 1 Sterne" class="a-size-base a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditProductMedleyDesktopdp_hist_1?ie=UTF8&amp;filterByStar=one_star&amp;reviewerType=all_reviews#reviews-filter-bar">33%</a></td></tr></tbody></table></div></div></div><div class="a-fixed-left-grid a-spacing-none"><div class="a-fixed-left-grid-inner" style="padding-left:300px"><div class="a-fixed-left-grid-col a-col-left" style="width:300px;margin-left:-300px;float:left"><div class="a-row a-expander-container a-spacing-top-medium a-expander-inline-container"><a aria-expanded="false" class="a-expander-header a-declarative a-expander-inline-header a-link-expander" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"", "collapse_prompt":""}' data-action="a-expander-toggle" data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-id="rb74f7-cty40t-l0j4kv-5r0zu" data-csa-c-type="widget" data-csa-interaction-events="click" data-hook="cr-ratings-explanation-expand" href="javascript:void(0)" role="button"><i class="a-icon a-icon-expand"></i><span class="a-expander-prompt">So funktionieren Kundenrezensionen und -bewertungen</span></a><div aria-expanded="false" class="a-expander-content a-expander-inline-content a-expander-inner" style="display:none"><p class="a-spacing-top-small">Kundenbewertungen, einschließlich Produkt-Sternebewertungen, helfen Kunden, mehr über das Produkt zu erfahren und zu entscheiden, ob es das richtige Produkt für sie ist.</p><p>Um die Gesamtbewertung der Sterne und die prozentuale Aufschlüsselung nach Sternen zu berechnen, verwenden wir keinen einfachen Durchschnitt. Stattdessen berücksichtigt unser System beispielsweise, wie aktuell eine Bewertung ist und ob der Prüfer den Artikel bei Amazon gekauft hat. Es wurden auch Bewertungen analysiert, um die Vertrauenswürdigkeit zu überprüfen.</p><a class="a-link-normal" href="/-/en/gp/help/customer/display.html/ref=cm_cr_dp_d_omni_lm_btn?nodeId=G8UYX7LALQC8V9KA" rel="noopener" target="_blank">Erfahren Sie mehr darüber, wie Kundenbewertungen bei Amazon funktionieren.</a></div></div></div></div></div></div></div></div></div>
+
+
+
+</div></span>
+<hr aria-hidden="true" class="a-spacing-large a-spacing-top-large a-divider-normal"/><span class="cr-lazy-widget cr-age-recommendation" data-widget-name="cr-age-recommendation">
+</span><span class="cr-lazy-widget cr-solicitation" data-widget-name="cr-solicitation">
+</span><hr aria-hidden="true" class="a-spacing-extra-large a-spacing-top-extra-large a-divider-normal"/></div><div class="a-fixed-left-grid-col a-col-right" style="padding-left:2.5%;float:left;"><div class="a-row cm_cr_grid_center_container"><div class="a-fixed-right-grid-col cm_cr_grid_center_left" style="float:left;"></div><div class="a-fixed-right-grid-col cm_cr_grid_center_right" style="float:left;"><div class="a-popover-preload" id="a-popover-widget_customer_image_gallery">
+<div class="a-section cr-lightbox-popover-container cr-lightbox-popover-container--gallery" data-hook="image-popover" id="cr_customers_image_gallery">
+<div class="cr-large-loadingIcon">
+</div>
+<div class="cr-lightbox-view-image-gallery" id="crViewAllImagesLink">
+<a class="a-link-normal reviews-image-gallery-link" data-hook="see-all-images-link" href="javascript:toggleSeeAllRankingView()">
+<div class="cr-lightbox-view-image-gallery__icon"> </div>
+<span class="a-text-bold">
+                        Bildergalerie anzeigen
+                    </span>
+</a>
+</div>
+<div class="cr-lightbox-review-row-no-display" id="crReviewRow">
+<div class="cr-lightbox-image-viewer">
+<div class="cr-lightbox-main-image-container">
+<img alt="Kundenbild" class="cr-lightbox-main-image" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"/>
+</div>
+<div class="cr-lightbox-navigator-container cr-lightbox-navigator-container__back">
+<div class="cr-lightbox-navigator-button cr-lightbox-navigator-button__back">
+</div>
+</div>
+<div class="cr-lightbox-navigator-container cr-lightbox-navigator-container__next">
+<div class="cr-lightbox-navigator-button cr-lightbox-navigator-button__next">
+</div>
+</div>
+</div>
+<div class="a-section cr-lightbox-review-information">
+<div class="a-section a-spacing-mini cr-review-stars-and-title">
+<div class="a-row a-spacing-mini">
+<a class="a-profile cr-lightbox-customer-profile" data-a-size="small" href="javascript:void(0)"><div aria-hidden="true" class="a-profile-avatar-wrapper"><div class="a-profile-avatar"><img class="a-lazy-loaded" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif" style=""/><noscript><img/></noscript></div></div><div class="a-profile-content"><span class="a-profile-name">Amazon Customer</span></div></a>
+</div>
+<i class="a-icon a-icon-star a-star-5 cr-lightbox-review-rating"><span class="a-icon-alt">5,0 von 5 Sternen</span></i>
+<span class="a-size-base cr-lightbox-review-title a-text-bold">
+</span>
+<br/>
+<span class="a-size-small a-color-secondary cr-lightbox-review-origin">
+</span>
+</div>
+<span class="a-size-base cr-lightbox-review-body">
+</span>
+<div class="a-section a-spacing-top-base">
+<span class="a-size-medium a-color-secondary">
+                Bilder in dieser Rezension
+            </span>
+<div class="a-section a-spacing-top-mini cr-lightbox-image-thumbnails">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="a-section cr-lightbox-see-all-popover-container" id="seeAllImagesContainer"></div>
+
+</div><div class="review-with-images-section" data-hook="review-image-tile-gallery">
+<div alt="Kundenbild" class="cr-customer-image-thumbnail"></div>
+</div>
+<div cel_widget_id="cr-media-carousel_customer-reviews-detail-media_0" class="celwidget c-f" data-cel-widget="cr-media-carousel_customer-reviews-detail-media_0" data-csa-c-content-id="DsUnknown" data-csa-c-id="s5lhza-jmv0ll-nltnfy-409zs0" data-csa-c-painter="cr-media-carousel-cards" data-csa-c-slot-id="DsUnknown-1" data-csa-c-type="widget" data-csa-op-log-render="">
+
+
+<!--CardsClient--><div data-acp-tracking="{}" data-card-metrics-id="cr-media-carousel_customer-reviews-detail-media_0" data-mix-claimed="true" data-mobile="false" data-mshop="false" id="CardInstance5IlpZ4hu_sLJky3u3lrxwQ"><div data-csa-c-id="7t45nx-60dfys-v0fwaa-sv0xr0" data-csa-c-slot-id="cm_cr_image_carousel" data-csa-c-type="widget" id="cm_cr_carousel_images_section"><div class="a-begin a-carousel-container a-carousel-display-stretchyGoodness a-carousel-transition-slide _Y3Itb_cr-image-carousel_2W1Qw" data-a-carousel-options='{"first_item_flush_left":false,"currentGutter":0,"minimum_gutter_width":0,"hide_off_screen":false,"name":"cr-carousel-fixed-width"}'><input autocomplete="on" class="a-carousel-firstvisibleitem" type="hidden"/><div class="a-row a-spacing-medium _Y3Itb_cr-carousel-heading_1JAfE"><div class="a-column a-span6 a-text-left"><h3 id="cr-media-carousel-heading">Rezensionen mit Bildern</h3></div><div class="a-column a-span6 a-text-right a-span-last"><div data-asin="B00OSAGJTY" data-csa-c-id="520i4z-b5iycd-nvi52f-9kntxi" data-csa-c-slot-id="cm_cr_dp_see_all_image_carousel_reviews" data-csa-c-type="widget" data-mediatype="IMAGE" data-mix-operations="CRSeeMoreThumbnailOpsClickHandler" data-seemore="true"><a class="a-link-emphasis" href="javascript:void(0)">Alle Fotos anzeigen</a></div></div></div><div class="a-row a-carousel-controls a-carousel-row a-carousel-has-buttons a-carousel-overlay-buttons"><div class="a-carousel-row-inner"><div class="a-carousel-col a-carousel-left"><a class="a-button a-button-image a-carousel-button a-carousel-goto-prevpage" href="#" id="a-autoid-1" tabindex="0"><span class="a-button-inner"><i class="a-icon a-icon-previous"><span class="a-icon-alt">Previous page</span></i></span></a></div><div class="a-carousel-col a-carousel-center"><div class="a-carousel-viewport"><ol class="a-carousel" role="list"><li class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="cc3m41-ek9dv8-m145ny-ccnicx" data-csa-c-slot-id="cm_cr_image_carousel_R3FL2OHJCDSRZD_71SDYjde2pL_0" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="71SDYjde2pL" data-rank="0" data-reviewid="R3FL2OHJCDSRZD" data-thumbnailurl="https://m.media-amazon.com/images/I/71SDYjde2pL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/71SDYjde2pL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/71SDYjde2pL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="1" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="g38bwt-ji70ko-wm4pw6-am3j8s" data-csa-c-slot-id="cm_cr_image_carousel_R3FL2OHJCDSRZD_41QqDMx5MVL_1" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="41QqDMx5MVL" data-rank="1" data-reviewid="R3FL2OHJCDSRZD" data-thumbnailurl="https://m.media-amazon.com/images/I/41QqDMx5MVL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/41QqDMx5MVL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/41QqDMx5MVL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="2" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="j01fe7-ipsla7-ismlq0-3d3m6z" data-csa-c-slot-id="cm_cr_image_carousel_R3FL2OHJCDSRZD_61UGSf346sL_2" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="61UGSf346sL" data-rank="2" data-reviewid="R3FL2OHJCDSRZD" data-thumbnailurl="https://m.media-amazon.com/images/I/61UGSf346sL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/61UGSf346sL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/61UGSf346sL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="3" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="x49xmb-r1ce9i-o4sayp-w3l0mx" data-csa-c-slot-id="cm_cr_image_carousel_R3FL2OHJCDSRZD_61QhoxOkNaL_3" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="61QhoxOkNaL" data-rank="3" data-reviewid="R3FL2OHJCDSRZD" data-thumbnailurl="https://m.media-amazon.com/images/I/61QhoxOkNaL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/61QhoxOkNaL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/61QhoxOkNaL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="4" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="uo9tf-nr6f93-4ag66j-eh8ile" data-csa-c-slot-id="cm_cr_image_carousel_R3IYWLQ3YLWF4U_81eR8LIwsSL_4" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="81eR8LIwsSL" data-rank="4" data-reviewid="R3IYWLQ3YLWF4U" data-thumbnailurl="https://m.media-amazon.com/images/I/81eR8LIwsSL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/81eR8LIwsSL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/81eR8LIwsSL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="5" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="62tnxb-ek92om-obtzou-cdkd5q" data-csa-c-slot-id="cm_cr_image_carousel_R1T1YG2O5ZGGF9_81a4ZsiQDCL_5" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="81a4ZsiQDCL" data-rank="5" data-reviewid="R1T1YG2O5ZGGF9" data-thumbnailurl="https://m.media-amazon.com/images/I/81a4ZsiQDCL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/81a4ZsiQDCL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/81a4ZsiQDCL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="6" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="9razwx-xfr66p-ymzve8-72rkfv" data-csa-c-slot-id="cm_cr_image_carousel_R8JHY5DIFIUPL_611rPfggCdL_6" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="611rPfggCdL" data-rank="6" data-reviewid="R8JHY5DIFIUPL" data-thumbnailurl="https://m.media-amazon.com/images/I/611rPfggCdL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/611rPfggCdL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/611rPfggCdL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="7" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="mw5y7l-9odmwc-q2j63o-o0o9jo" data-csa-c-slot-id="cm_cr_image_carousel_R8JHY5DIFIUPL_51Ft094gZBL_7" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="51Ft094gZBL" data-rank="7" data-reviewid="R8JHY5DIFIUPL" data-thumbnailurl="https://m.media-amazon.com/images/I/51Ft094gZBL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/51Ft094gZBL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/51Ft094gZBL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="8" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="v7x1jd-g7f320-hybsod-h4k6sy" data-csa-c-slot-id="cm_cr_image_carousel_R1UJGTS9GFULFX_51SS4QExOcL_8" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="51SS4QExOcL" data-rank="8" data-reviewid="R1UJGTS9GFULFX" data-thumbnailurl="https://m.media-amazon.com/images/I/51SS4QExOcL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/51SS4QExOcL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/51SS4QExOcL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="9" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="kzpkrw-6eqzb3-zb9pdj-l6s5ik" data-csa-c-slot-id="cm_cr_image_carousel_RE27HNZ7FZVIQ_61INuhVLf5L_9" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="61INuhVLf5L" data-rank="9" data-reviewid="RE27HNZ7FZVIQ" data-thumbnailurl="https://m.media-amazon.com/images/I/61INuhVLf5L._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/61INuhVLf5L.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/61INuhVLf5L._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="10" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="rss6yh-6un0rk-bgbkno-9r7obe" data-csa-c-slot-id="cm_cr_image_carousel_R1KWZXPVFLHSLU_31BGx4S6GNL_10" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="31BGx4S6GNL" data-rank="10" data-reviewid="R1KWZXPVFLHSLU" data-thumbnailurl="https://m.media-amazon.com/images/I/31BGx4S6GNL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/31BGx4S6GNL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/31BGx4S6GNL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li><li aria-posinset="11" class="a-carousel-card" role="listitem"><div class="_Y3Itb_media-thumbnail-container_2MRZY" data-asin="B00OSAGJTY" data-csa-c-id="wjjma-2x0h93-4dmsqd-wpfwtc" data-csa-c-slot-id="cm_cr_image_carousel_R18WD2FAPFC7BX_51gzC40DDZL_11" data-csa-c-type="element" data-extension="jpg" data-iskindleapp="false" data-mediatype="IMAGE" data-mix-operations="CRImageThumbnailOpsClickHandler" data-photopopoverdesktoptreatment="T1" data-photopopovermwebgatingtreatment="T1" data-physicalid="51gzC40DDZL" data-rank="11" data-reviewid="R18WD2FAPFC7BX" data-thumbnailurl="https://m.media-amazon.com/images/I/51gzC40DDZL._SY250_.jpg" data-url="https://m.media-amazon.com/images/I/51gzC40DDZL.jpg" role="button" style="width:100%;height:100%;border-radius:8px" tabindex="0"><img alt="Kundenbild" class="_Y3Itb_media-thumbnail-image_3qPWk" src="https://m.media-amazon.com/images/I/51gzC40DDZL._SY250_.jpg"/><div class="a-section _Y3Itb_media-thumbnail-overlay_1te5m"></div></div></li></ol></div></div><div class="a-carousel-col a-carousel-right"><a class="a-button a-button-image a-carousel-button a-carousel-goto-nextpage" href="#" id="a-autoid-2" tabindex="0"><span class="a-button-inner"><i class="a-icon a-icon-next"><span class="a-icon-alt">Next page</span></i></span></a></div></div></div><span class="a-end aok-hidden"></span></div></div><hr aria-hidden="true" class="a-spacing-medium a-spacing-top-base a-divider-normal"/><div class="_Y3Itb_cm_cr_image_popoversection_3iYPp" id="popovers"><div class="a-popover-preload" id="a-popover-cr-media-popover_IMAGE"><div class="a-section _Y3Itb_media-popover-container-desktop_31iCw _Y3Itb_media-popover-container_2BBbs" data-mediatype="IMAGE"><div class="_Y3Itb_desktop-skeleton-container_738lf"><div class="_Y3Itb_desktop-spinner-container_1qNHr"><div class="a-spinner-wrapper"><span class="a-spinner a-spinner-medium"></span></div></div></div><div class="_Y3Itb_media-popover-header-container_3YsaK"><button class="_Y3Itb_media-popover-see-all-container_1Lmmi" data-csa-c-id="ta3ly0-tr78by-ppkdyz-rs68ix" data-csa-c-slot-id="cm_cr_image_popover_view_image_gallery" data-csa-c-type="element" data-mediatype="IMAGE" data-mix-operations="showMediaGalleryClickHandler" data-seemore="true"><img class="_Y3Itb_media-cheveron_1eKfZ" height="20" role="presentation" src="https://m.media-amazon.com/images/S/sash//CMYhpeaIeR9vguf.svg" width="20"/><span class="a-size-base-plus a-text-bold">Alle Fotos</span></button><div class="_Y3Itb_media-popover-header-close-icon_2Hona" data-mediatype="IMAGE" data-mix-operations="closeMediaPopover"><button class="_Y3Itb_media-popover-close-button_dqW5F"><i class="a-icon a-icon-close" role="presentation"></i></button></div></div><div class="_Y3Itb_gallery-container_2pBFm"><div class="_Y3Itb_media-popover-gallery-container-grid_mLjpJ _Y3Itb_media-popover-gallery-image-grid_icawB"></div><div class="_Y3Itb_gallery-spinner_34BcK"><div class="a-spinner-wrapper"><span class="a-spinner a-spinner-medium"></span></div></div></div><div class="_Y3Itb_single-review-media-popover-container_1h9X2"><div class="_Y3Itb_modal-content-container_XXRsT" data-csa-c-id="l7fuhj-oqu482-i2c4ev-bepbvm" data-csa-c-slot-id="cm_cr_image_carousel_popover_R3FL2OHJCDSRZD_0" data-csa-c-type="widget" data-reviewbind="SingleReviewMediaBlock"><div class="_Y3Itb_media-popover-body-container_2uQe-"><div class="_Y3Itb_media-popover-media-container_3G-kc" data-mediatype="IMAGE"><button class="_Y3Itb_left-icon-container_31i2O" data-mediatype="IMAGE" data-mix-operations="leftClickHandler"><span class="_Y3Itb_cr-icon_1Y5Ec"><img aria-label="Zurück" height="24" role="img" src="https://m.media-amazon.com/images/S/sash//23pID5Mp1WTA-31.svg" width="24"/></span></button><div class="_Y3Itb_media-popover-modal-media-list-view-container_2ZyCE" data-reviewbind="MainMedia"><div class="_Y3Itb_media-popover-image-view-container_vTrQA" data-csa-c-id="kyl3d4-t2dj3e-d6ygvc-6vj1hc" data-csa-c-slot-id="cm_cr_image_carousel_popover_R3FL2OHJCDSRZD_0_71SDYjde2pL_0" data-csa-c-type="element" data-lazyimagesource="https://m.media-amazon.com/images/I/71SDYjde2pL.jpg" data-mediaid="71SDYjde2pL"><img alt="Perfekt für Amazoneinkäufe wegen den Bonuspunkten, aber beim Antragsformular aufpassen zwecks Kosten" class="_Y3Itb_media-popover-image-view_1FAQo" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"/></div></div><button class="_Y3Itb_right-icon-container_3Qopb" data-mediatype="IMAGE" data-mix-operations="rightClickHandler"><span class="_Y3Itb_cr-icon_1Y5Ec"><img aria-label="Weiter" height="24" role="img" src="https://m.media-amazon.com/images/S/sash//7D8iRtQ0DrKAF4O.svg" width="24"/></span></button> <span class="_Y3Itb_cr-action-buttons-container_3vmwq"></span></div><div class="_Y3Itb_media-popover-review-container_1dLQH"><div class="a-section _Y3Itb_cr-media-popover-sidepanel-container_1EUvC"><div class="a-section a-spacing-small _Y3Itb_cr-media-popover-sidepanel-header-section_3TxI7 _Y3Itb_cr-media-popover-sidepanel-header-section-truncated_DITiq"><div data-reviewbind="ProfileBlock"><a class="a-profile" data-a-size="small" href="javascript:void(0)"><div aria-hidden="true" class="a-profile-avatar-wrapper"><div class="a-profile-avatar"><img class="a-lazy-loaded" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif" style=""/><noscript><img/></noscript></div></div><div class="a-profile-content"><span class="a-profile-name">Amazon Customer</span></div></a></div><div class="_Y3Itb_rating-and-profile-badges-container_348ae"><i class="a-icon a-icon-star-small a-star-small-5 a-spacing-top-micro _Y3Itb_rating-block_2mVHa" data-reviewbind="Rating"><span class="a-icon-alt">5 Sterne</span></i><div class="aok-hidden" data-multiple-starts-suffix="Sterne" data-one-star-suffix="Stern" data-reviewbind="RatingAlt"></div><div class="_Y3Itb_profile-badges-container_k5lqb" data-reviewbind="ProfileBadge"></div></div><div class="_Y3Itb_cr-sidepanel-title_EX93d _Y3Itb_cr-sidepanel-truncated-title_2w0Qj" data-reviewbind="ReviewTitle">Perfekt für Amazoneinkäufe wegen den Bonuspunkten, aber beim Antragsformular aufpassen zwecks Kosten</div><div class="_Y3Itb_cr-sidepanel-text-with-gradient_3T4-j"><div class="_Y3Itb_cr-sidepanel-text_3MYCz _Y3Itb_cr-sidepanel-truncated-text_3nfmo" data-reviewbind="ReviewText">Wer schon lange bei Amazon dabei ist weiss, dass beim Bestellvorgang immer die Werbung für diese Kreditkarte mit eingeblendet wurde. Mich hatte das nie interessiert, weil ich für eine Kreditkarte und mein persönliches Nutzungsverhalten keine Jahresgegühr bezahlen möchte.Allerdings wurde die Kreditkarte nun im Rahmen der Prime-Mitgliedschaft ohne Jahresgebühr und 70 Euro Startgutschrift angeboten (Stand Oktober 2018).Ich bin ganz ehrlich, ich versuche solche Prämien immer auszunutzen, gerade auch bei Girokonten. Wenn uns die Banken schon keine Zinsen mehr groß bezahlen, dann kann man als kleiner Privatbürger eben nur so versuchen ein paar Talers zusätzlich zu bekommen.Nach genauer Durchsicht der Konditionen und Rezensionen, habe ich mich dazu entschlossen, dieses Angebot wahrzunehmen.Die Antragstellung erfolgt online über den entsprechenden Link und man gibt die gewohnten Daten, wie es auch bei einer Girokonteneröffnung etc. üblich ist, ein.Dabei ist aber auf jeden Fall große Achtsamkeit gegeben, was die Begleichung der Zahlungen angeht!Hätte ich nicht einige Rezensionen hier gelesen, wäre ich vielleicht auch auf die voreingestellte Teilzahlung von 10 Prozent und draus entstehenden Zinsen reingefallen.Viele die hier schreiben, man muss genau lesen, haben natürlich Recht, aber das Ganze ist auch wirklich ein wenig unübersichtlich dargestellt bzw. man könnte auch sagen versteckt.Ich habe Screenshoots beigetügt, aber ich werde es hier trotzdem textlich erwähnen.Die Umstellung als Vollzahler, 100 Prozent Rechnungsbegleichung, erfolgt unter dem Abschnitt:Monatlicher RechnungsausgleichDer Absatz dort heisst dann:RückzahlungsartIn dem Text daneben steht dann voreingestellt, dass man 10 Prozent (mind. 50 Euro) der Kreditkartenabrechnung bezahlt.Am Ende folgt der Satz:Weitere Rückzahlungsarten sind hier wählbar.Das Wörtchen "hier" ist fettgedruckt und wenn man das anklickt, geht ein Auswahlmenü auf, wo man dann die 100 Prozent zur vollen Rechnungsbegleichung, also ohne Zinsen, auswählen kann.Also Transparenz sieht meines Erachtens wirklich anders aus, weil den Link, unter dem kleinen Wörtchen hier so zu "verstecken", zeugt nicht von Verbraucherfreundlichkeit.Von der Logik her sollten 100 Prozent-Vollzahler als Voreinstellung gelten und nicht die kostenpflichtige Teilzahlung.Hier wird schon ein wenig versucht, mit dieser kostenlos beworbenen Kreditkarte, Gebühren zu machen.So eine versteckte Gebührenfalle als Voreinstellung zu wählen, finde ich nicht in Ordnung und sollte dringend geändert werden (Stand Oktober 2018).Nach dem Ausfüllen des Onlineantrags hat man 2 Möglichenkeiten seine Person zu identifizieren. Entweder per Video-Ident-Verfahren oder per Post-Ident-Verfahren.Ich nutze bei so einer Auswahl immer das Post-Ident-Verfahren, weil ich das am einfachsten finde.Keine Ahnung, wie hier das Video-Ident abläuft, aber ich mag es nicht per Webcam da irgendwo mein Gesicht mit Personalausweis zu zeigen. Ich ziehe deswegen das altmodische Post-Ident-Verfahren bei der Post vor.Einen entsprechenden Coupon erhält man zeitgleich per Mail und Portokosten entstehen nicht, da ein Umschlag bei der Post dann verwendet wird.Wer keine Post in der Nähe hat, wird vielleicht eher zum Video-Identverfahren greifen. Hier ist sie gleich um die Ecke, weswegen es für mich eben die einfachste Variante ist.Ich habe das Ident-Verfahren am nächsten Tag auch gleich gemacht, wobei man auch schon über Amazon mit der Karte einkaufen kann. Allerdings beträgt der Kreditkartenrahmen erst mal nur 210 Euro.Nach Abschluss des ganzen Identverfahrens ist der Verfügungsrahmen dann natürlich höher. Man kann ihn dann im Kreditkarten-Onlinebanking einsehen, denn dort ist die genaue Höhe angegeben.Man erhält per Mail auch noch ein Formular, wo man seine Steuernummer angeben muss und das per Post wegschickt werden muss. Die Empfängeradresse ist aber eine andere als für das Post-Ident-Verfahren, weshalb man das seperat verschicken muss.Allerdings kann man mit dem Steuerformular warten, denn ein paar Tage später erhielt ich Post von LBB, wo noch mal ein Coupon für das Identverfahren dabei war und ein Formular für den Lastschrifteinzug.Das Formular für den Lastschrifteinzug muss ebenfalls per Post zurückgeschickt werden und dafür liegt ein kostenfreier Rückumschlag bei.Was ich damit sagen will, das Formular für die Mitteilung der Steuernummer, was man per Mail erhält, braucht man nicht unbedingt vorher abschicken. Einfach auf die Post der LBB warten mit dem Lastschrifteinzugsformular und dem Freiumschlag, denn dort kann man dieses Steuernummerformular mit reinstecken und spart sich die 70 Cent Briefporto.Soll nur als Hinweis für die ganz Sparsamen gelten (Stand Oktober 2018).Den Zugang für's Kredikarten-Onlinebanking bekam ich 2 Wochen nach Antragstellung.Das neue Passwort was man vergibt, kann bis zu 20 Zeichen haben (Klein- und Großschreibung, erlaubte Sonderzeichen sind angegeben).Die Anmeldung erfolgt dann immer mit der Kreditkartennummer und dem Passwort.Das hätte man vielleicht besser gestalten können, z.B. mit einer anderen Loginnr., Benutzername etc., weil seine klare Kreditkartennr. als Loginname finde ich nicht so toll.Das Onlinebanking ist optisch nicht so schön gestaltet.Grauer Hintergrund und dunkelgraue Menüschrift links finde ich gauenhaft. Man kann die Auswahlpunkte kaum erkennen und es ist auch alles ziemlich klein geschrieben.Ok, ich halte mich dort nicht so viel auf wie beim Girokonto, aber grafisch gesehen geht das eigentlich gar nicht (Stand Oktober 2018).Die Abrechnungen kann man sich als pdf- oder csv-Datei herunterladen.Die optische Darstellung der Rechnung, als pdf-Datei, ist zum Glück besser als die des Onlinebankings.Die Belastungen sind übersichtlich dargestellt und auch die Punktevergabe zu den einzelnen Positionen ist aufgeführt.Die Startgutschrift von 70 Euro (Stand Oktober 2018) erfolgt mit dem ersten Einsatz der Kreditkarte. Diese wird nun mit bei der monatlichen Zahlung der Umsätze verrechnet.Ein weiterer Grund, weswegen ich mich für diese Karte entschieden habe, ist natürlich das Bonuspunktesystem.Nach dem aktuellen Stand Oktrober 2018:Für alle Einkäufe bei Amazon.de (egal ob Marketplace oder Amazon direkt):1 Euro Umsatz = 3 Punkte = 3 CentFür alle Einkäufe außerhalb von Amazon, also bei anderen Onlineshops oder bei Bezahlung mit der Kreditkarte vor Ort im Geschäft, Tankstelle etc.2 Euro Umsatz = 1 Punkt = 1 CentDie Punkte werden nach dem Einkauf bzw. sobald Amazon die Bestellung versendet und die Kreditkarte mit dem Betrag belastet wird, dem Amazon-Punktekonto gutgeschrieben und können beim nächsten Einkauf über Amazon auch eingesetzt werden. Eine entsprechende Möglichkeit wird im Bezahlvorgang dann automatisch angezeigt.Das Ganze funktioniert super und über einen längeren Zeitraum bzw. wenn man viel kauft, ist das ein schöner Bonus.Ich persönlich nutze diese Kreditkarte deshalb ausschliesslich für Einkäufe auf Amazon.de und hebe damit kein Geld ab, nutze sie nicht im Ausland etc., weshalb ich dazu keine Hinweise geben kann.Jetzt werden einige sagen: "Warum nicht, da gehen dir doch Punkte = Geld verloren?"Für alle anderen Einkäufe online oder vor Ort, nutze ich eine andere kostenlose Kreditkarte, wo ebenfalls 2 Euro Umsatz = 1 Punkt = 1 Cent bedeuten, die ich mir dort aber auf's Girokonto auszahlen lassen kann.Bis jetzt nutzte ich diese auch für Amazoneinkäufe wegen den Umsatzpunkten, aber das wäre ja nun sinnlos, da die Bepunktung mit der Prime-Kreditkarte viel höher ist.Deshalb ist diese Prime-Kreditkarte, für mich persönlich und meinen Verwendungszweck, für Einkäufe auf Amazon optimal.Ich nutze sie ausschliesslich für Amazon und habe mit der Kreditkartenabrechnung nun alle Amazoneinkäufe auf einen Blick und nicht mehr gemischt mit anderen Einkäufen.Fazit:Alles in Allem eine klare Empfehlung für Onlineeinkäufe bzw. auch bei der Bezahlung im Inland vor Ort.Die Bezahlung vor Ort erfolgt per PIN, Unterschrift oder bis 25 €, bei manchen Händlern bis 50 €, kontaktlos. Im Discounter, die Kreditkarten akzeptieren, habe ich das hier getestet und das hat problemlos mit PIN und auch kontaktlos funktioniert.Die Prime-Kreditkarte ist im Rahmen der Prime-Mitgliedschaft von der Jahresgebühr befreit und man kann Punkte = Geldgutschriften sammeln. Das lohnt sich vor allem bei Einkäufen auf Amazon.Die Punkte werden einem dann bei Amazoneinkäufen im Bezahlvorgang als Guthaben abgezogen, wenn man es entsprechend auswählt.Vorsicht ist allerdings bei der Antragstellung geboten, dass man eine monatliche 100 Prozent-Rechnungsbegleichung auswählt, damit keine versteckten Kosten entstehen.Außerdem sollte man das Preis/Leistungsverzeichnis der LBB beachten, wenn man die Kreditkarte im Ausland usw. einsetzen will.Das Kreditkarten-Onlinebanking ist optisch leider sehr schlecht, aber vielleicht wird das mal irgendwann geändert.(5 Sterne = gefällt mir sehr)Bei der Bewertung steht für mich nicht das Antragsformular mit der versteckten kostenpflichtigten Teilzahlung im Vordergrund, sondern eben der positive Nutzen der Karte als solches. Das heisst, keine Jahresgebühr für Prime-Mitglieder und das sich lohnende Bonuspunkteprogramm.(Stand des Erfahrungberichtes ist Oktober 2018)UPDATE 16.11.2018 - Neue kleine Bonusaktion für Karteninhaber:------------------------------------------------------------------------------Die Karte funktioniert nach wie vor problemlos, also diesbezüglich gibt's erst mal nichts zu erweitern. Amazon hat aber eine weitere kleine Bonusaktion für Karteninhaber gestartet.Man bekommt eine Mail mit folgendem Inhalt und wenn man den dortigen Link dann anklickt, nimmt man an der Aktion teil:"Sind Sie startbereit? Einfach Ihre Amazon-VISA-Karte zum Einkauf einstecken und damit bezahlen – egal ob im Supermarkt, an der Tankstelle oder im Restaurant. So sichern Sie sich 250 Amazon Punkte extra.Bezahlen Sie bis zum 25.12.2018 mindestens einen Einkauf (nicht im Internet) mit Ihrer Amazon-VISA Karte, und Ihnen werden Ende Januar 2019 zusätzlich 250 Amazon Punkte auf Ihr Kartenkonto gutgeschrieben.*Sozusagen ein kleiner Bonus von 250 Amazonpunkte = 2,50 € die man ohne viel Aufwand dazubekommt.Bin also nach wie vor zufrieden mit der Karte... natürlich wie oben schon beschrieben, auf mein Einsatzgebiet bezogen ;-)</div><div class="_Y3Itb_cr-sidepanel-container-gradient_1zm2j _Y3Itb_cr-sidepanel-container-gradient-truncated_3zXR9"></div></div><div class="_Y3Itb_cr-sidepanel-text-expansion-section_2guev"><a aria-expanded="false" class="_Y3Itb_cr-sidepanel-expander-see-more_1sipE" data-mediatype="IMAGE" data-mix-operations="expandTextClickHandler" href="javascript:void(0)" role="button"><span class="_Y3Itb_cr-sidepanel-expander-icon_1dF4M"><i class="a-icon a-icon-expand a-icon-mini" role="presentation"></i></span><span class="_Y3Itb_cr-sidepanel-expander-text_oEWO4"><span>Mehr</span></span></a><a aria-expanded="true" class="_Y3Itb_cr-sidepanel-expander-see-less_1Hpji" data-mediatype="IMAGE" data-mix-operations="hideTextClickHandler" href="javascript:void(0)" role="button"><span class="_Y3Itb_cr-sidepanel-expander-icon_1dF4M"><i class="a-icon a-icon-collapse a-icon-mini" role="presentation"></i></span><span class="_Y3Itb_cr-sidepanel-expander-text_oEWO4"><span>Verbergen</span></span></a></div><div class="_Y3Itb_media-popover-thumbnail-image-container_1q_4Q" data-reviewbind="ImageThumbnailsBlock"><button class="_Y3Itb_media-popover-thumbnail-image-button_1vtKQ" data-mediaid="71SDYjde2pL" data-mix-operations="thumbnailClickHandler" data-thumbidx="0"><img alt="Perfekt für Amazoneinkäufe wegen den Bonuspunkten, aber beim Antragsformular aufpassen zwecks Kosten" class="_Y3Itb_media-popover-thumbnail-image-view_3-Y40" height="80" src="https://m.media-amazon.com/images/I/71SDYjde2pL.jpg" width="80"/></button></div></div></div></div></div><span class="_Y3Itb_cr-toast-bar-message-section_16K1H"><div class="_Y3Itb_toast-bar-container_3tiY9 _Y3Itb_desktop-toast-bar-container_g-jD0" data-toast-bar-name="thankYouMessageToastBarName"><div class="_Y3Itb_toast-bar_1-6hy _Y3Itb_desktop-toast-bar_3buiB"><div class="_Y3Itb_toast-bar-text-container_1u5yP">Vielen Dank für dein Feedback.</div><button class="_Y3Itb_toast-bar-button_1yIpW" data-mix-operations="closeToastBarClickHandler" data-toast-bar-name="thankYouMessageToastBarName">Schließen</button></div></div></span><span class="_Y3Itb_cr-toast-bar-message-section_16K1H"><div class="_Y3Itb_toast-bar-container_3tiY9 _Y3Itb_desktop-toast-bar-container_g-jD0" data-toast-bar-name="errorMessageToastBarName"><div class="_Y3Itb_toast-bar_1-6hy _Y3Itb_desktop-toast-bar_3buiB"><div class="_Y3Itb_toast-bar-text-container_1u5yP">Leider ist ein Fehler aufgetreten.</div><button class="_Y3Itb_toast-bar-button_1yIpW" data-mix-operations="closeToastBarClickHandler" data-toast-bar-name="errorMessageToastBarName">Schließen</button></div></div></span></div></div><div class="_Y3Itb_toast-bar-container_3tiY9 _Y3Itb_desktop-toast-bar-container_g-jD0" data-toast-bar-name="loadPopoverErrorToastBarName"><div class="_Y3Itb_toast-bar_1-6hy _Y3Itb_desktop-toast-bar_3buiB"><div class="_Y3Itb_toast-bar-text-container_1u5yP">Leider konnten wir die Rezension nicht laden</div><button class="_Y3Itb_toast-bar-button_1yIpW" data-mix-operations="reloadMediaPopover" data-toast-bar-name="loadPopoverErrorToastBarName">Erneut versuchen</button></div></div></div></div></div></div>
+
+
+
+</div>
+<span class="cr-widget-FocalReviews" data-hook="cr-widget-FocalReviews">
+<div class="a-section a-spacing-medium"><div class="card-padding">
+<a aria-label="Spitzenrezensionen" class="a-link-normal celwidget" data-cel-widget="customer-reviews-content" data-csa-c-id="b2u7wv-l06iav-7z0d0h-bgaebg" href="#" id="customer-reviews-content"></a><ul class="a-unordered-list a-nostyle a-horizontal a-spacing-medium"><li><span class="a-list-item">
+<div class="a-section a-spacing-small" data-reftag="cm_cr_dp_d_fltrs_srt" id="cm-cr-dp-review-sort-type">
+<span class="a-declarative" data-action="reviews:filter-action:change" data-csa-c-func-deps="aui-da-reviews:filter-action:change" data-csa-c-id="c7vhl7-dac9i-z2sexx-tu8s0m" data-csa-c-type="widget" data-reviews:filter-action:change='{"filterType":"sortOrder"}'>
+<label class="aok-hidden" for="cm-cr-sort-dropdown">
+      Rezensionen sortieren nach
+    </label>
+<span class="a-dropdown-container"><select autocomplete="off" class="a-native-dropdown a-declarative" data-action="a-dropdown-select" id="cm-cr-sort-dropdown" name="" tabindex="0">
+<option data-a-css-class="cm-cr-sort-order-option" selected="" value="helpful">
+        Spitzenrezensionen
+      </option>
+<option data-a-css-class="cm-cr-sort-order-option" value="recent">
+        Neueste zuerst
+      </option>
+</select><span aria-hidden="true" class="a-button a-button-dropdown a-button-small cm-cr-dp-filter-dropdown" data-a-class="cm-cr-dp-filter-dropdown" id="a-autoid-3" style="min-width: 0%;" tabindex="-1"><span class="a-button-inner"><span aria-hidden="true" class="a-button-text a-declarative" data-action="a-dropdown-button" data-csa-c-func-deps="aui-da-a-dropdown-button" data-csa-c-id="1df5eq-off1io-1k3ia5-j0kr0t" data-csa-c-type="widget" data-csa-interaction-events="click" id="a-autoid-3-announce"><span class="a-dropdown-prompt">
+        Spitzenrezensionen
+      </span></span><i class="a-icon a-icon-dropdown"></i></span></span></span>
+</span>
+</div></span></li></ul><div class="a-section" id="cm-cr-local-reviews-title"><h3 class="a-spacing-medium a-spacing-top-large" data-hook="dp-local-reviews-header">
+
+
+
+
+
+
+
+
+
+
+  Spitzenbewertungen aus Deutschland
+</h3></div><div class="a-section a-spacing-small" id="cm-cr-dp-review-header"></div><span class="cr-translate-cta">
+</span>
+<div class="a-row"><div class="a-section a-spacing-extra-large a-spacing-top-medium a-text-center review-load-error aok-hidden"><div class="a-box a-alert a-alert-error cr-error" role="alert"><div class="a-box-inner a-alert-container"><h4 class="a-alert-heading">Derzeit tritt ein Problem beim Filtern der Rezensionen auf. Bitte versuche es später erneut.</h4><i class="a-icon a-icon-alert"></i><div class="a-alert-content"></div></div></div></div><div class="a-row a-spacing-medium aok-hidden" id="cm-cr-dp-reviews-loading-wrapper"><div class="a-spinner-wrapper cr-reviews-loading aok-hidden"><span class="a-spinner a-spinner-medium"></span></div></div><div class="a-section a-spacing-large reviews-content filterable-reviews-content celwidget" data-cel-widget="" data-csa-c-id="e2erda-qtvqwm-dq0uyw-6b060g"><div class="a-section review-views celwidget" data-cel-widget="cm-cr-dp-review-list" data-csa-c-id="g6s4w6-1knuen-dsk0m6-tdae2l" data-hook="top-customer-reviews-widget" id="cm-cr-dp-review-list"><div class="a-section review aok-relative" data-hook="review" id="R3FL2OHJCDSRZD"><div class="a-row a-spacing-none" id="R3FL2OHJCDSRZD-review-card"><div class="a-section celwidget" data-cel-widget="customer_review-R3FL2OHJCDSRZD" data-csa-c-id="wyt5ct-ra9kau-501v5g-lgkkft" id="customer_review-R3FL2OHJCDSRZD"><div class="a-row a-spacing-mini" data-hook="genome-widget"><a class="a-profile" data-a-size="small" href="/-/en/gp/profile/amzn1.account.AESLCQEOIZ4WXAADKJTWDGLN5HDQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8&amp;contextId=creditProductMedleyDesktop"><div aria-hidden="true" class="a-profile-avatar-wrapper"><div class="a-profile-avatar"><img class="a-lazy-loaded" data-src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d46a781f-24d6-447a-b71b-2d87fc13b405._CR0,0,500,500_SX48_.jpg" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"/><noscript><img src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d46a781f-24d6-447a-b71b-2d87fc13b405._CR0,0,500,500_SX48_.jpg"/></noscript></div></div><div class="a-profile-content"><span class="a-profile-name">Merel</span></div></a></div><div class="a-row"><a class="a-size-base a-link-normal review-title a-color-base review-title-content a-text-bold" data-hook="review-title" href="/-/en/gp/customer-reviews/R3FL2OHJCDSRZD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B00OSAGJTY"><i class="a-icon a-icon-star a-star-5 review-rating" data-hook="review-star-rating"><span class="a-icon-alt">5,0 von 5 Sternen</span></i><span class="a-letter-space"></span>
+<span>Perfekt für Amazoneinkäufe wegen den Bonuspunkten, aber beim Antragsformular aufpassen zwecks Kosten</span>
+</a></div><span class="a-size-base a-color-secondary review-date" data-hook="review-date">Rezension aus Deutschland vom 5. November 2018</span><div class="a-row a-spacing-mini review-data review-format-strip"></div><div class="a-row a-spacing-small review-data"><span class="a-size-base review-text" data-hook="review-body"><div class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" data-a-expander-collapsed-height="300" data-a-expander-name="review_text_read_more" style="max-height: none; height: 300px;"><div class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content" data-expanded="false" data-hook="review-collapsed" style="padding-bottom: 20px;">
+<span>Wer schon lange bei Amazon dabei ist weiss, dass beim Bestellvorgang immer die Werbung für diese Kreditkarte mit eingeblendet wurde. Mich hatte das nie interessiert, weil ich für eine Kreditkarte und mein persönliches Nutzungsverhalten keine Jahresgegühr bezahlen möchte.<br/>Allerdings wurde die Kreditkarte nun im Rahmen der Prime-Mitgliedschaft ohne Jahresgebühr und 70 Euro Startgutschrift angeboten (Stand Oktober 2018).<br/><br/>Ich bin ganz ehrlich, ich versuche solche Prämien immer auszunutzen, gerade auch bei Girokonten. Wenn uns die Banken schon keine Zinsen mehr groß bezahlen, dann kann man als kleiner Privatbürger eben nur so versuchen ein paar Talers zusätzlich zu bekommen.<br/><br/>Nach genauer Durchsicht der Konditionen und Rezensionen, habe ich mich dazu entschlossen, dieses Angebot wahrzunehmen.<br/><br/>Die Antragstellung erfolgt online über den entsprechenden Link und man gibt die gewohnten Daten, wie es auch bei einer Girokonteneröffnung etc. üblich ist, ein.<br/>Dabei ist aber auf jeden Fall große Achtsamkeit gegeben, was die Begleichung der Zahlungen angeht!<br/>Hätte ich nicht einige Rezensionen hier gelesen, wäre ich vielleicht auch auf die voreingestellte Teilzahlung von 10 Prozent und draus entstehenden Zinsen reingefallen.<br/>Viele die hier schreiben, man muss genau lesen, haben natürlich Recht, aber das Ganze ist auch wirklich ein wenig unübersichtlich dargestellt bzw. man könnte auch sagen versteckt.<br/>Ich habe Screenshoots beigetügt, aber ich werde es hier trotzdem textlich erwähnen.<br/><br/>Die Umstellung als Vollzahler, 100 Prozent Rechnungsbegleichung, erfolgt unter dem Abschnitt:<br/>Monatlicher Rechnungsausgleich<br/><br/>Der Absatz dort heisst dann:<br/>Rückzahlungsart<br/><br/>In dem Text daneben steht dann voreingestellt, dass man 10 Prozent (mind. 50 Euro) der Kreditkartenabrechnung bezahlt.<br/>Am Ende folgt der Satz:<br/>Weitere Rückzahlungsarten sind hier wählbar.<br/><br/>Das Wörtchen "hier" ist fettgedruckt und wenn man das anklickt, geht ein Auswahlmenü auf, wo man dann die 100 Prozent zur vollen Rechnungsbegleichung, also ohne Zinsen, auswählen kann.<br/><br/>Also Transparenz sieht meines Erachtens wirklich anders aus, weil den Link, unter dem kleinen Wörtchen hier so zu "verstecken", zeugt nicht von Verbraucherfreundlichkeit.<br/>Von der Logik her sollten 100 Prozent-Vollzahler als Voreinstellung gelten und nicht die kostenpflichtige Teilzahlung.<br/>Hier wird schon ein wenig versucht, mit dieser kostenlos beworbenen Kreditkarte, Gebühren zu machen.<br/><br/>So eine versteckte Gebührenfalle als Voreinstellung zu wählen, finde ich nicht in Ordnung und sollte dringend geändert werden (Stand Oktober 2018).<br/><br/>Nach dem Ausfüllen des Onlineantrags hat man 2 Möglichenkeiten seine Person zu identifizieren. Entweder per Video-Ident-Verfahren oder per Post-Ident-Verfahren.<br/>Ich nutze bei so einer Auswahl immer das Post-Ident-Verfahren, weil ich das am einfachsten finde.<br/>Keine Ahnung, wie hier das Video-Ident abläuft, aber ich mag es nicht per Webcam da irgendwo mein Gesicht mit Personalausweis zu zeigen. Ich ziehe deswegen das altmodische Post-Ident-Verfahren bei der Post vor.<br/>Einen entsprechenden Coupon erhält man zeitgleich per Mail und Portokosten entstehen nicht, da ein Umschlag bei der Post dann verwendet wird.<br/>Wer keine Post in der Nähe hat, wird vielleicht eher zum Video-Identverfahren greifen. Hier ist sie gleich um die Ecke, weswegen es für mich eben die einfachste Variante ist.<br/><br/>Ich habe das Ident-Verfahren am nächsten Tag auch gleich gemacht, wobei man auch schon über Amazon mit der Karte einkaufen kann. Allerdings beträgt der Kreditkartenrahmen erst mal nur 210 Euro.<br/>Nach Abschluss des ganzen Identverfahrens ist der Verfügungsrahmen dann natürlich höher. Man kann ihn dann im Kreditkarten-Onlinebanking einsehen, denn dort ist die genaue Höhe angegeben.<br/><br/>Man erhält per Mail auch noch ein Formular, wo man seine Steuernummer angeben muss und das per Post wegschickt werden muss. Die Empfängeradresse ist aber eine andere als für das Post-Ident-Verfahren, weshalb man das seperat verschicken muss.<br/>Allerdings kann man mit dem Steuerformular warten, denn ein paar Tage später erhielt ich Post von LBB, wo noch mal ein Coupon für das Identverfahren dabei war und ein Formular für den Lastschrifteinzug.<br/>Das Formular für den Lastschrifteinzug muss ebenfalls per Post zurückgeschickt werden und dafür liegt ein kostenfreier Rückumschlag bei.<br/>Was ich damit sagen will, das Formular für die Mitteilung der Steuernummer, was man per Mail erhält, braucht man nicht unbedingt vorher abschicken. Einfach auf die Post der LBB warten mit dem Lastschrifteinzugsformular und dem Freiumschlag, denn dort kann man dieses Steuernummerformular mit reinstecken und spart sich die 70 Cent Briefporto.<br/>Soll nur als Hinweis für die ganz Sparsamen gelten (Stand Oktober 2018).<br/><br/>Den Zugang für's Kredikarten-Onlinebanking bekam ich 2 Wochen nach Antragstellung.<br/>Das neue Passwort was man vergibt, kann bis zu 20 Zeichen haben (Klein- und Großschreibung, erlaubte Sonderzeichen sind angegeben).<br/>Die Anmeldung erfolgt dann immer mit der Kreditkartennummer und dem Passwort.<br/>Das hätte man vielleicht besser gestalten können, z.B. mit einer anderen Loginnr., Benutzername etc., weil seine klare Kreditkartennr. als Loginname finde ich nicht so toll.<br/><br/>Das Onlinebanking ist optisch nicht so schön gestaltet.<br/>Grauer Hintergrund und dunkelgraue Menüschrift links finde ich gauenhaft. Man kann die Auswahlpunkte kaum erkennen und es ist auch alles ziemlich klein geschrieben.<br/>Ok, ich halte mich dort nicht so viel auf wie beim Girokonto, aber grafisch gesehen geht das eigentlich gar nicht (Stand Oktober 2018).<br/>Die Abrechnungen kann man sich als pdf- oder csv-Datei herunterladen.<br/>Die optische Darstellung der Rechnung, als pdf-Datei, ist zum Glück besser als die des Onlinebankings.<br/>Die Belastungen sind übersichtlich dargestellt und auch die Punktevergabe zu den einzelnen Positionen ist aufgeführt.<br/><br/>Die Startgutschrift von 70 Euro (Stand Oktober 2018) erfolgt mit dem ersten Einsatz der Kreditkarte. Diese wird nun mit bei der monatlichen Zahlung der Umsätze verrechnet.<br/><br/>Ein weiterer Grund, weswegen ich mich für diese Karte entschieden habe, ist natürlich das Bonuspunktesystem.<br/>Nach dem aktuellen Stand Oktrober 2018:<br/><br/>Für alle Einkäufe bei Amazon.de (egal ob Marketplace oder Amazon direkt):<br/>1 Euro Umsatz = 3 Punkte = 3 Cent<br/><br/>Für alle Einkäufe außerhalb von Amazon, also bei anderen Onlineshops oder bei Bezahlung mit der Kreditkarte vor Ort im Geschäft, Tankstelle etc.<br/>2 Euro Umsatz = 1 Punkt = 1 Cent<br/><br/>Die Punkte werden nach dem Einkauf bzw. sobald Amazon die Bestellung versendet und die Kreditkarte mit dem Betrag belastet wird, dem Amazon-Punktekonto gutgeschrieben und können beim nächsten Einkauf über Amazon auch eingesetzt werden. Eine entsprechende Möglichkeit wird im Bezahlvorgang dann automatisch angezeigt.<br/>Das Ganze funktioniert super und über einen längeren Zeitraum bzw. wenn man viel kauft, ist das ein schöner Bonus.<br/><br/>Ich persönlich nutze diese Kreditkarte deshalb ausschliesslich für Einkäufe auf Amazon.de und hebe damit kein Geld ab, nutze sie nicht im Ausland etc., weshalb ich dazu keine Hinweise geben kann.<br/><br/>Jetzt werden einige sagen: "Warum nicht, da gehen dir doch Punkte = Geld verloren?"<br/><br/>Für alle anderen Einkäufe online oder vor Ort, nutze ich eine andere kostenlose Kreditkarte, wo ebenfalls 2 Euro Umsatz = 1 Punkt = 1 Cent bedeuten, die ich mir dort aber auf's Girokonto auszahlen lassen kann.<br/>Bis jetzt nutzte ich diese auch für Amazoneinkäufe wegen den Umsatzpunkten, aber das wäre ja nun sinnlos, da die Bepunktung mit der Prime-Kreditkarte viel höher ist.<br/>Deshalb ist diese Prime-Kreditkarte, für mich persönlich und meinen Verwendungszweck, für Einkäufe auf Amazon optimal.<br/>Ich nutze sie ausschliesslich für Amazon und habe mit der Kreditkartenabrechnung nun alle Amazoneinkäufe auf einen Blick und nicht mehr gemischt mit anderen Einkäufen.<br/><br/>Fazit:<br/>Alles in Allem eine klare Empfehlung für Onlineeinkäufe bzw. auch bei der Bezahlung im Inland vor Ort.<br/>Die Bezahlung vor Ort erfolgt per PIN, Unterschrift oder bis 25 €, bei manchen Händlern bis 50 €, kontaktlos. Im Discounter, die Kreditkarten akzeptieren, habe ich das hier getestet und das hat problemlos mit PIN und auch kontaktlos funktioniert.<br/>Die Prime-Kreditkarte ist im Rahmen der Prime-Mitgliedschaft von der Jahresgebühr befreit und man kann Punkte = Geldgutschriften sammeln. Das lohnt sich vor allem bei Einkäufen auf Amazon.<br/>Die Punkte werden einem dann bei Amazoneinkäufen im Bezahlvorgang als Guthaben abgezogen, wenn man es entsprechend auswählt.<br/>Vorsicht ist allerdings bei der Antragstellung geboten, dass man eine monatliche 100 Prozent-Rechnungsbegleichung auswählt, damit keine versteckten Kosten entstehen.<br/>Außerdem sollte man das Preis/Leistungsverzeichnis der LBB beachten, wenn man die Kreditkarte im Ausland usw. einsetzen will.<br/>Das Kreditkarten-Onlinebanking ist optisch leider sehr schlecht, aber vielleicht wird das mal irgendwann geändert.<br/><br/>(5 Sterne = gefällt mir sehr)<br/>Bei der Bewertung steht für mich nicht das Antragsformular mit der versteckten kostenpflichtigten Teilzahlung im Vordergrund, sondern eben der positive Nutzen der Karte als solches. Das heisst, keine Jahresgebühr für Prime-Mitglieder und das sich lohnende Bonuspunkteprogramm.<br/><br/>(Stand des Erfahrungberichtes ist Oktober 2018)<br/><br/>UPDATE 16.11.2018 - Neue kleine Bonusaktion für Karteninhaber:<br/>------------------------------------------------------------------------------<br/>Die Karte funktioniert nach wie vor problemlos, also diesbezüglich gibt's erst mal nichts zu erweitern. Amazon hat aber eine weitere kleine Bonusaktion für Karteninhaber gestartet.<br/>Man bekommt eine Mail mit folgendem Inhalt und wenn man den dortigen Link dann anklickt, nimmt man an der Aktion teil:<br/><br/>"Sind Sie startbereit? Einfach Ihre Amazon-VISA-Karte zum Einkauf einstecken und damit bezahlen – egal ob im Supermarkt, an der Tankstelle oder im Restaurant. So sichern Sie sich 250 Amazon Punkte extra.<br/>Bezahlen Sie bis zum 25.12.2018 mindestens einen Einkauf (nicht im Internet) mit Ihrer Amazon-VISA Karte, und Ihnen werden Ende Januar 2019 zusätzlich 250 Amazon Punkte auf Ihr Kartenkonto gutgeschrieben.*<br/><br/>Sozusagen ein kleiner Bonus von 250 Amazonpunkte = 2,50 € die man ohne viel Aufwand dazubekommt.<br/><br/>Bin also nach wie vor zufrieden mit der Karte... natürlich wie oben schon beschrieben, auf mein Einsatzgebiet bezogen ;-)</span>
+</div><div class="a-expander-header a-expander-partial-collapse-header" style="opacity: 1; display: block;"><div class="a-expander-content-fade"></div><a aria-expanded="false" aria-label="Rezension vollständig anzeigen (ein / aus)" class="a-declarative" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"Weiterlesen", "collapse_prompt":"Weniger lesen"}' data-action="a-expander-toggle" data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-id="y7le9i-gj48on-8q5bgg-tv8qsg" data-csa-c-type="widget" data-csa-interaction-events="click" data-hook="expand-collapse-read-more-less" href="javascript:void(0)" role="button"><i class="a-icon a-icon-extender-expand"></i><span class="a-expander-prompt">Weiterlesen</span></a></div></div></span></div><div class="a-popover-preload" id="a-popover-R3FL2OHJCDSRZD_gallerySection_main">
+<div class="a-section cr-lightbox-popover-container" data-hook="image-popover" id="R3FL2OHJCDSRZD_image_popover">
+<div class="cr-lightbox-image-viewer">
+<div class="cr-lightbox-main-image-container">
+<img alt="Kundenbild" class="cr-lightbox-main-image" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"/>
+</div>
+<div class="cr-lightbox-navigator-container cr-lightbox-navigator-container__back">
+<div class="cr-lightbox-navigator-button cr-lightbox-navigator-button__back">
+</div>
+</div>
+<div class="cr-lightbox-navigator-container cr-lightbox-navigator-container__next">
+<div class="cr-lightbox-navigator-button cr-lightbox-navigator-button__next">
+</div>
+</div>
+</div>
+<div class="a-section cr-lightbox-review-information">
+<div class="a-section a-spacing-mini cr-review-stars-and-title">
+<div class="a-row a-spacing-mini">
+<a class="a-profile cr-lightbox-customer-profile" data-a-size="small" href="/-/en/gp/profile/amzn1.account.AESLCQEOIZ4WXAADKJTWDGLN5HDQ/ref=cm_cr_dp_d_gw_pop?ie=UTF8&amp;contextId=creditProductMedleyDesktop"><div aria-hidden="true" class="a-profile-avatar-wrapper"><div class="a-profile-avatar"><img class="" data-src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d46a781f-24d6-447a-b71b-2d87fc13b405._CR0,0,500,500_SX48_.jpg" src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d46a781f-24d6-447a-b71b-2d87fc13b405._CR0,0,500,500_SX48_.jpg" style=""/><noscript><img src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d46a781f-24d6-447a-b71b-2d87fc13b405._CR0,0,500,500_SX48_.jpg"/></noscript></div></div><div class="a-profile-content"><span class="a-profile-name">Merel</span></div></a>
+</div>
+<i class="a-icon a-icon-star a-star-5 cr-lightbox-review-rating"><span class="a-icon-alt">5,0 von 5 Sternen</span></i>
+<span class="a-size-base cr-lightbox-review-title a-text-bold">
+                Perfekt für Amazoneinkäufe wegen den Bonuspunkten, aber beim Antragsformular aufpassen zwecks Kosten
+            </span>
+<br/>
+<span class="a-size-small a-color-secondary cr-lightbox-review-origin">
+                
+                    
+                    
+                        
+                            
+                                
+                                    Rezension aus Deutschland vom 5. November 2018
+                                
+                            
+                            
+                        
+                    
+                
+            </span>
+</div>
+<span class="a-size-base cr-lightbox-review-body">
+            Wer schon lange bei Amazon dabei ist weiss, dass beim Bestellvorgang immer die Werbung für diese Kreditkarte mit eingeblendet wurde. Mich hatte das nie interessiert, weil ich für eine Kreditkarte und mein persönliches Nutzungsverhalten keine Jahresgegühr bezahlen möchte.<br/>Allerdings wurde die Kreditkarte nun im Rahmen der Prime-Mitgliedschaft ohne Jahresgebühr und 70 Euro Startgutschrift angeboten (Stand Oktober 2018).<br/><br/>Ich bin ganz ehrlich, ich versuche solche Prämien immer auszunutzen, gerade auch bei Girokonten. Wenn uns die Banken schon keine Zinsen mehr groß bezahlen, dann kann man als kleiner Privatbürger eben nur so versuchen ein paar Talers zusätzlich zu bekommen.<br/><br/>Nach genauer Durchsicht der Konditionen und Rezensionen, habe ich mich dazu entschlossen, dieses Angebot wahrzunehmen.<br/><br/>Die Antragstellung erfolgt online über den entsprechenden Link und man gibt die gewohnten Daten, wie es auch bei einer Girokonteneröffnung etc. üblich ist, ein.<br/>Dabei ist aber auf jeden Fall große Achtsamkeit gegeben, was die Begleichung der Zahlungen angeht!<br/>Hätte ich nicht einige Rezensionen hier gelesen, wäre ich vielleicht auch auf die voreingestellte Teilzahlung von 10 Prozent und draus entstehenden Zinsen reingefallen.<br/>Viele die hier schreiben, man muss genau lesen, haben natürlich Recht, aber das Ganze ist auch wirklich ein wenig unübersichtlich dargestellt bzw. man könnte auch sagen versteckt.<br/>Ich habe Screenshoots beigetügt, aber ich werde es hier trotzdem textlich erwähnen.<br/><br/>Die Umstellung als Vollzahler, 100 Prozent Rechnungsbegleichung, erfolgt unter dem Abschnitt:<br/>Monatlicher Rechnungsausgleich<br/><br/>Der Absatz dort heisst dann:<br/>Rückzahlungsart<br/><br/>In dem Text daneben steht dann voreingestellt, dass man 10 Prozent (mind. 50 Euro) der Kreditkartenabrechnung bezahlt.<br/>Am Ende folgt der Satz:<br/>Weitere Rückzahlungsarten sind hier wählbar.<br/><br/>Das Wörtchen "hier" ist fettgedruckt und wenn man das anklickt, geht ein Auswahlmenü auf, wo man dann die 100 Prozent zur vollen Rechnungsbegleichung, also ohne Zinsen, auswählen kann.<br/><br/>Also Transparenz sieht meines Erachtens wirklich anders aus, weil den Link, unter dem kleinen Wörtchen hier so zu "verstecken", zeugt nicht von Verbraucherfreundlichkeit.<br/>Von der Logik her sollten 100 Prozent-Vollzahler als Voreinstellung gelten und nicht die kostenpflichtige Teilzahlung.<br/>Hier wird schon ein wenig versucht, mit dieser kostenlos beworbenen Kreditkarte, Gebühren zu machen.<br/><br/>So eine versteckte Gebührenfalle als Voreinstellung zu wählen, finde ich nicht in Ordnung und sollte dringend geändert werden (Stand Oktober 2018).<br/><br/>Nach dem Ausfüllen des Onlineantrags hat man 2 Möglichenkeiten seine Person zu identifizieren. Entweder per Video-Ident-Verfahren oder per Post-Ident-Verfahren.<br/>Ich nutze bei so einer Auswahl immer das Post-Ident-Verfahren, weil ich das am einfachsten finde.<br/>Keine Ahnung, wie hier das Video-Ident abläuft, aber ich mag es nicht per Webcam da irgendwo mein Gesicht mit Personalausweis zu zeigen. Ich ziehe deswegen das altmodische Post-Ident-Verfahren bei der Post vor.<br/>Einen entsprechenden Coupon erhält man zeitgleich per Mail und Portokosten entstehen nicht, da ein Umschlag bei der Post dann verwendet wird.<br/>Wer keine Post in der Nähe hat, wird vielleicht eher zum Video-Identverfahren greifen. Hier ist sie gleich um die Ecke, weswegen es für mich eben die einfachste Variante ist.<br/><br/>Ich habe das Ident-Verfahren am nächsten Tag auch gleich gemacht, wobei man auch schon über Amazon mit der Karte einkaufen kann. Allerdings beträgt der Kreditkartenrahmen erst mal nur 210 Euro.<br/>Nach Abschluss des ganzen Identverfahrens ist der Verfügungsrahmen dann natürlich höher. Man kann ihn dann im Kreditkarten-Onlinebanking einsehen, denn dort ist die genaue Höhe angegeben.<br/><br/>Man erhält per Mail auch noch ein Formular, wo man seine Steuernummer angeben muss und das per Post wegschickt werden muss. Die Empfängeradresse ist aber eine andere als für das Post-Ident-Verfahren, weshalb man das seperat verschicken muss.<br/>Allerdings kann man mit dem Steuerformular warten, denn ein paar Tage später erhielt ich Post von LBB, wo noch mal ein Coupon für das Identverfahren dabei war und ein Formular für den Lastschrifteinzug.<br/>Das Formular für den Lastschrifteinzug muss ebenfalls per Post zurückgeschickt werden und dafür liegt ein kostenfreier Rückumschlag bei.<br/>Was ich damit sagen will, das Formular für die Mitteilung der Steuernummer, was man per Mail erhält, braucht man nicht unbedingt vorher abschicken. Einfach auf die Post der LBB warten mit dem Lastschrifteinzugsformular und dem Freiumschlag, denn dort kann man dieses Steuernummerformular mit reinstecken und spart sich die 70 Cent Briefporto.<br/>Soll nur als Hinweis für die ganz Sparsamen gelten (Stand Oktober 2018).<br/><br/>Den Zugang für's Kredikarten-Onlinebanking bekam ich 2 Wochen nach Antragstellung.<br/>Das neue Passwort was man vergibt, kann bis zu 20 Zeichen haben (Klein- und Großschreibung, erlaubte Sonderzeichen sind angegeben).<br/>Die Anmeldung erfolgt dann immer mit der Kreditkartennummer und dem Passwort.<br/>Das hätte man vielleicht besser gestalten können, z.B. mit einer anderen Loginnr., Benutzername etc., weil seine klare Kreditkartennr. als Loginname finde ich nicht so toll.<br/><br/>Das Onlinebanking ist optisch nicht so schön gestaltet.<br/>Grauer Hintergrund und dunkelgraue Menüschrift links finde ich gauenhaft. Man kann die Auswahlpunkte kaum erkennen und es ist auch alles ziemlich klein geschrieben.<br/>Ok, ich halte mich dort nicht so viel auf wie beim Girokonto, aber grafisch gesehen geht das eigentlich gar nicht (Stand Oktober 2018).<br/>Die Abrechnungen kann man sich als pdf- oder csv-Datei herunterladen.<br/>Die optische Darstellung der Rechnung, als pdf-Datei, ist zum Glück besser als die des Onlinebankings.<br/>Die Belastungen sind übersichtlich dargestellt und auch die Punktevergabe zu den einzelnen Positionen ist aufgeführt.<br/><br/>Die Startgutschrift von 70 Euro (Stand Oktober 2018) erfolgt mit dem ersten Einsatz der Kreditkarte. Diese wird nun mit bei der monatlichen Zahlung der Umsätze verrechnet.<br/><br/>Ein weiterer Grund, weswegen ich mich für diese Karte entschieden habe, ist natürlich das Bonuspunktesystem.<br/>Nach dem aktuellen Stand Oktrober 2018:<br/><br/>Für alle Einkäufe bei Amazon.de (egal ob Marketplace oder Amazon direkt):<br/>1 Euro Umsatz = 3 Punkte = 3 Cent<br/><br/>Für alle Einkäufe außerhalb von Amazon, also bei anderen Onlineshops oder bei Bezahlung mit der Kreditkarte vor Ort im Geschäft, Tankstelle etc.<br/>2 Euro Umsatz = 1 Punkt = 1 Cent<br/><br/>Die Punkte werden nach dem Einkauf bzw. sobald Amazon die Bestellung versendet und die Kreditkarte mit dem Betrag belastet wird, dem Amazon-Punktekonto gutgeschrieben und können beim nächsten Einkauf über Amazon auch eingesetzt werden. Eine entsprechende Möglichkeit wird im Bezahlvorgang dann automatisch angezeigt.<br/>Das Ganze funktioniert super und über einen längeren Zeitraum bzw. wenn man viel kauft, ist das ein schöner Bonus.<br/><br/>Ich persönlich nutze diese Kreditkarte deshalb ausschliesslich für Einkäufe auf Amazon.de und hebe damit kein Geld ab, nutze sie nicht im Ausland etc., weshalb ich dazu keine Hinweise geben kann.<br/><br/>Jetzt werden einige sagen: "Warum nicht, da gehen dir doch Punkte = Geld verloren?"<br/><br/>Für alle anderen Einkäufe online oder vor Ort, nutze ich eine andere kostenlose Kreditkarte, wo ebenfalls 2 Euro Umsatz = 1 Punkt = 1 Cent bedeuten, die ich mir dort aber auf's Girokonto auszahlen lassen kann.<br/>Bis jetzt nutzte ich diese auch für Amazoneinkäufe wegen den Umsatzpunkten, aber das wäre ja nun sinnlos, da die Bepunktung mit der Prime-Kreditkarte viel höher ist.<br/>Deshalb ist diese Prime-Kreditkarte, für mich persönlich und meinen Verwendungszweck, für Einkäufe auf Amazon optimal.<br/>Ich nutze sie ausschliesslich für Amazon und habe mit der Kreditkartenabrechnung nun alle Amazoneinkäufe auf einen Blick und nicht mehr gemischt mit anderen Einkäufen.<br/><br/>Fazit:<br/>Alles in Allem eine klare Empfehlung für Onlineeinkäufe bzw. auch bei der Bezahlung im Inland vor Ort.<br/>Die Bezahlung vor Ort erfolgt per PIN, Unterschrift oder bis 25 €, bei manchen Händlern bis 50 €, kontaktlos. Im Discounter, die Kreditkarten akzeptieren, habe ich das hier getestet und das hat problemlos mit PIN und auch kontaktlos funktioniert.<br/>Die Prime-Kreditkarte ist im Rahmen der Prime-Mitgliedschaft von der Jahresgebühr befreit und man kann Punkte = Geldgutschriften sammeln. Das lohnt sich vor allem bei Einkäufen auf Amazon.<br/>Die Punkte werden einem dann bei Amazoneinkäufen im Bezahlvorgang als Guthaben abgezogen, wenn man es entsprechend auswählt.<br/>Vorsicht ist allerdings bei der Antragstellung geboten, dass man eine monatliche 100 Prozent-Rechnungsbegleichung auswählt, damit keine versteckten Kosten entstehen.<br/>Außerdem sollte man das Preis/Leistungsverzeichnis der LBB beachten, wenn man die Kreditkarte im Ausland usw. einsetzen will.<br/>Das Kreditkarten-Onlinebanking ist optisch leider sehr schlecht, aber vielleicht wird das mal irgendwann geändert.<br/><br/>(5 Sterne = gefällt mir sehr)<br/>Bei der Bewertung steht für mich nicht das Antragsformular mit der versteckten kostenpflichtigten Teilzahlung im Vordergrund, sondern eben der positive Nutzen der Karte als solches. Das heisst, keine Jahresgebühr für Prime-Mitglieder und das sich lohnende Bonuspunkteprogramm.<br/><br/>(Stand des Erfahrungberichtes ist Oktober 2018)<br/><br/>UPDATE 16.11.2018 - Neue kleine Bonusaktion für Karteninhaber:<br/>------------------------------------------------------------------------------<br/>Die Karte funktioniert nach wie vor problemlos, also diesbezüglich gibt's erst mal nichts zu erweitern. Amazon hat aber eine weitere kleine Bonusaktion für Karteninhaber gestartet.<br/>Man bekommt eine Mail mit folgendem Inhalt und wenn man den dortigen Link dann anklickt, nimmt man an der Aktion teil:<br/><br/>"Sind Sie startbereit? Einfach Ihre Amazon-VISA-Karte zum Einkauf einstecken und damit bezahlen – egal ob im Supermarkt, an der Tankstelle oder im Restaurant. So sichern Sie sich 250 Amazon Punkte extra.<br/>Bezahlen Sie bis zum 25.12.2018 mindestens einen Einkauf (nicht im Internet) mit Ihrer Amazon-VISA Karte, und Ihnen werden Ende Januar 2019 zusätzlich 250 Amazon Punkte auf Ihr Kartenkonto gutgeschrieben.*<br/><br/>Sozusagen ein kleiner Bonus von 250 Amazonpunkte = 2,50 € die man ohne viel Aufwand dazubekommt.<br/><br/>Bin also nach wie vor zufrieden mit der Karte... natürlich wie oben schon beschrieben, auf mein Einsatzgebiet bezogen ;-)
+        </span>
+<div class="a-section a-spacing-top-base">
+<span class="a-size-medium a-color-secondary">
+                Bilder in dieser Rezension
+            </span>
+<div class="a-section a-spacing-top-mini cr-lightbox-image-thumbnails">
+<img alt="Kundenbild" class="cr-lightbox-image-thumbnail" src="https://images-na.ssl-images-amazon.com/images/I/41QqDMx5MVL._SY88.jpg"/>
+<img alt="Kundenbild" class="cr-lightbox-image-thumbnail" src="https://images-na.ssl-images-amazon.com/images/I/61QhoxOkNaL._SY88.jpg"/>
+<img alt="Kundenbild" class="cr-lightbox-image-thumbnail" src="https://images-na.ssl-images-amazon.com/images/I/61UGSf346sL._SY88.jpg"/>
+<img alt="Kundenbild" class="cr-lightbox-image-thumbnail" src="https://images-na.ssl-images-amazon.com/images/I/71SDYjde2pL._SY88.jpg"/>
+</div>
+</div>
+</div>
+</div>
+
+</div><div class="a-section a-spacing-medium review-image-container" id="R3FL2OHJCDSRZD_imageSection_main"><div class="review-image-tile-section" data-reviewid="R3FL2OHJCDSRZD">
+<span class="a-declarative" data-a-modal='{"name":"R3FL2OHJCDSRZD_gallerySection_main"}' data-action="a-modal" data-csa-c-func-deps="aui-da-a-modal" data-csa-c-id="2f5rt5-smmw3t-ewvliu-czfg8q" data-csa-c-type="widget" id="R3FL2OHJCDSRZD-0"><a class="a-popover-trigger a-declarative" href="javascript:void(0)" role="button"><img alt="Kundenbild" class="review-image-tile a-lazy-loaded" data-hook="review-image-tile" data-src="https://images-na.ssl-images-amazon.com/images/I/41QqDMx5MVL._SY88.jpg" height="88" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif" width="100%"/><noscript><img alt="Kundenbild" height="88" src="https://images-na.ssl-images-amazon.com/images/I/41QqDMx5MVL._SY88.jpg" width="100%"/></noscript><i class="a-icon a-icon-popover"></i></a></span><span class="a-declarative" data-a-modal='{"name":"R3FL2OHJCDSRZD_gallerySection_main"}' data-action="a-modal" data-csa-c-func-deps="aui-da-a-modal" data-csa-c-id="ezyvrw-sd0g73-v5pruo-yrx5wr" data-csa-c-type="widget" id="R3FL2OHJCDSRZD-1"><a class="a-popover-trigger a-declarative" href="javascript:void(0)" role="button"><img alt="Kundenbild" class="review-image-tile a-lazy-loaded" data-hook="review-image-tile" data-src="https://images-na.ssl-images-amazon.com/images/I/61QhoxOkNaL._SY88.jpg" height="88" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif" width="100%"/><noscript><img alt="Kundenbild" height="88" src="https://images-na.ssl-images-amazon.com/images/I/61QhoxOkNaL._SY88.jpg" width="100%"/></noscript><i class="a-icon a-icon-popover"></i></a></span><span class="a-declarative" data-a-modal='{"name":"R3FL2OHJCDSRZD_gallerySection_main"}' data-action="a-modal" data-csa-c-func-deps="aui-da-a-modal" data-csa-c-id="yse526-17o06v-576f2u-3dhgdz" data-csa-c-type="widget" id="R3FL2OHJCDSRZD-2"><a class="a-popover-trigger a-declarative" href="javascript:void(0)" role="button"><img alt="Kundenbild" class="review-image-tile a-lazy-loaded" data-hook="review-image-tile" data-src="https://images-na.ssl-images-amazon.com/images/I/61UGSf346sL._SY88.jpg" height="88" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif" width="100%"/><noscript><img alt="Kundenbild" height="88" src="https://images-na.ssl-images-amazon.com/images/I/61UGSf346sL._SY88.jpg" width="100%"/></noscript><i class="a-icon a-icon-popover"></i></a></span><span class="a-declarative" data-a-modal='{"name":"R3FL2OHJCDSRZD_gallerySection_main"}' data-action="a-modal" data-csa-c-func-deps="aui-da-a-modal" data-csa-c-id="nz1h0v-i9ooc8-60dr0k-gez1nl" data-csa-c-type="widget" id="R3FL2OHJCDSRZD-3"><a class="a-popover-trigger a-declarative" href="javascript:void(0)" role="button"><img alt="Kundenbild" class="review-image-tile a-lazy-loaded" data-hook="review-image-tile" data-src="https://images-na.ssl-images-amazon.com/images/I/71SDYjde2pL._SY88.jpg" height="88" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif" width="100%"/><noscript><img alt="Kundenbild" height="88" src="https://images-na.ssl-images-amazon.com/images/I/71SDYjde2pL._SY88.jpg" width="100%"/></noscript><i class="a-icon a-icon-popover"></i></a></span></div>
+</div>
+<div class="a-row review-comments cr-vote-action-bar" data-hook="review-comments"><span class="cr-vote" data-hook="review-voting-widget">
+<div class="a-row a-spacing-small"><span class="a-size-base a-color-tertiary cr-vote-text" data-hook="helpful-vote-statement">876 Personen fanden diese Informationen hilfreich</span></div><!-- Components for Reactions C -->
+<div class="cr-helpful-button aok-float-left">
+<span class="a-button a-button-base" id="a-autoid-4"><span class="a-button-inner"><a class="a-button-text" data-hook="vote-helpful-button" href="https://www.amazon.de/-/en/ap/signin?openid.return_to=https%3A%2F%2Fcruise-dataproxy-prod.dub.amazon.com%2Fdp%2FB00OSAGJTY%2Fref%3Dcm_cr_dp_d_vote_lft%3Fie%3DUTF8%26csrfT%3DhOE%252FJKCkDwzXsw9rPI23PGwcshDlbodNPn2sjNmhQsDpAAAAAGZVRk4AAAAB%26reviewId%3DR3FL2OHJCDSRZD%23R3FL2OHJCDSRZD&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=deflex&amp;openid.mode=checkid_setup&amp;marketPlaceId=A1PA6795UKMFR9&amp;language=de&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0" id="a-autoid-4-announce"><div class="cr-helpful-text">
+              Nützlich</div>
+</a></span></span></div>
+</span><span class="cr-footer-line-height">
+<span><i aria-label="|" class="a-icon a-icon-text-separator" role="img"></i><span class="a-declarative" data-action="cr-popup" data-cr-popup='{"width":"580","title":"ReportAbuse","url":"/hz/reviews-render/report-review?ie=UTF8&amp;ref=cm_cr_dp_d_report&amp;csrfT=hOE%2FJKCkDwzXsw9rPI23PGwcshDlbodNPn2sjNmhQsDpAAAAAGZVRk4AAAAB&amp;reviewId=R3FL2OHJCDSRZD","height":"380"}' data-csa-c-func-deps="aui-da-cr-popup" data-csa-c-id="xpuppr-ivlm2c-7rggum-henf7m" data-csa-c-type="widget"><a class="a-size-base a-link-normal a-color-secondary report-abuse-link a-text-normal" href="/-/en/hz/reviews-render/report-review?ie=UTF8&amp;ref=cm_cr_dp_d_report&amp;csrfT=hOE%2FJKCkDwzXsw9rPI23PGwcshDlbodNPn2sjNmhQsDpAAAAAGZVRk4AAAAB&amp;reviewId=R3FL2OHJCDSRZD">Melden</a></span></span></span>
+</div></div></div></div><div class="a-section review aok-relative" data-hook="review" id="R2C1SUFJN92FTH"><div class="a-row a-spacing-none" id="R2C1SUFJN92FTH-review-card"><div class="a-section celwidget" data-cel-widget="customer_review-R2C1SUFJN92FTH" data-csa-c-id="vpjmw5-1syg6r-w2f18u-p1qgdc" id="customer_review-R2C1SUFJN92FTH"><div class="a-row a-spacing-mini" data-hook="genome-widget"><a class="a-profile" data-a-size="small" href="/-/en/gp/profile/amzn1.account.AHP3577UXP5UHPIOVLLCXSLQSQ4Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8&amp;contextId=creditProductMedleyDesktop"><div aria-hidden="true" class="a-profile-avatar-wrapper"><div class="a-profile-avatar"><img class="a-lazy-loaded" data-src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/8754e358-0450-4e91-b61c-3a9aac6fa651._CR0,0,500,500_SX48_.jpg" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"/><noscript><img src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/8754e358-0450-4e91-b61c-3a9aac6fa651._CR0,0,500,500_SX48_.jpg"/></noscript></div></div><div class="a-profile-content"><span class="a-profile-name">Volker. M</span></div></a></div><div class="a-row"><a class="a-size-base a-link-normal review-title a-color-base review-title-content a-text-bold" data-hook="review-title" href="/-/en/gp/customer-reviews/R2C1SUFJN92FTH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B00OSAGJTY"><i class="a-icon a-icon-star a-star-1 review-rating" data-hook="review-star-rating"><span class="a-icon-alt">1,0 von 5 Sternen</span></i><span class="a-letter-space"></span>
+<span>Traurige Entwicklung bei Amazon!</span>
+</a></div><span class="a-size-base a-color-secondary review-date" data-hook="review-date">Rezension aus Deutschland vom 22. November 2023</span><div class="a-row a-spacing-mini review-data review-format-strip"></div><div class="a-row a-spacing-small review-data"><span class="a-size-base review-text" data-hook="review-body"><div class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" data-a-expander-collapsed-height="300" data-a-expander-name="review_text_read_more" style="max-height: none; height: 300px;"><div class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content" data-expanded="false" data-hook="review-collapsed" style="padding-bottom: 20px;">
+<span>Ich kaufe seit 2004 sehr regelmäßig bei Amazon ein und es hat sich seit Beginn einiges verschlechtert.<br/><br/>Sehr lange Zeit hatte Amazon den besten Service den ich jemals kennengelernt hatte, man fühlte sich Sicher bei Amazon einzukaufen. Wenn etwas mit einem Artikel nicht in Ordnung war konnte man sofort ersichtlich mit wenigen Klicks und Aufwand Hilfe erhalten.<br/>Man hatte auch die Möglichkeit sich zurückrufen zu lassen und das dauerte tatsächlich bei all meinen Anfragen nur wenige Sekunden, absolut vorbildlich!<br/>Die Service-Mitarbeiter waren ausschließlich deutschsprachig und man konnte Probleme sehr schnell klären. Heute sind sie nicht mehr alle deutschsprachig, aber ich konnte sie dennoch meistens gut verstehen und sie mich auch.<br/><br/>Seit ein paar Jahren hat sich der Service aber verschlechtert, Reklamationen bei zb. einem Defekt, 30 Tage nach Kauf, bei einem "Amazon Eu" gekauften Artikel (nicht bei einem externen Händler!), möchte Amazon jetzt vom Hersteller abwickeln lassen, aber dann kann ich auch gleich in Hongkong einkaufen und bekomme es günstiger und habe dann den selben Aufwand und Ärger.<br/><br/>Innerhalb von 2 Jahren nach Kauf gab es immer einen Button in meiner Einkaufsübersicht für die "Rückgabe eines defekten Artikels", den gibt es jetzt nicht mehr. Man wird jetzt immer automatisch an den Hersteller verwiesen. Den telefonischen Kontakt von Amazon zu finden war dann sehr unübersichtlich zu sehen, aber nachdem ich ihn dann doch gefunden hatte, wurde mir immer sehr gut weitergeholfen und der Artikel ersetzt oder rückvergütet. Sehr selten hatte ich Verständigungsprobleme, aber es kam vor, war aber für mich jetzt nicht so schlimm.<br/><br/>Was mir aber überhaupt nicht gefällt ist das Amazon hier sehr gerne alle Rückgaben nach 30 Tagen auf den Hersteller abwälzen möchte und am Liebsten keine 2 Jahre Gewährleistung mehr geben.<br/>Sollte das weiter forciert werden und ich einen Artikel nicht mehr innerhalb der gesetzlichen Gewährleistungsfrist von 2 Jahren problemlos direkt bei Amazon reklamieren und umtauschen kann, werde ich die Käufe bei Amazon einstellen.<br/><br/>Die tolle Abarbeitung seitens Amazon in den ersten 2 Jahren war für mich überhaupt der wichtigste Grund bei Amazon einzukaufen (jetzt seit 21 Jahren!) und das ich eben kein kompliziertes Prozedere habe, bei einem defekten Artikel.<br/>Diese Entwicklung ist sehr bedauerlich!<br/><br/>Die Lbb Visa Karte war dann noch die perfekte Ergänzung, ich konnte die Karte ohne Probleme überall verwenden, auch im Urlaub.<br/>Die 3% Ersparnis bei jedem Einkauf, hat mich über die Jahre ca. 2000€ sparen lassen. Es ist ein einfach schönes Gefühl hin und wieder zB. ca. 100 - 200€ angespartes Guthaben zu verwenden ;)<br/><br/>Das gibt es dann ja jetzt mit Abschaffung der Karte nicht mehr und die Alternative Karte die jetzt angeboten wird hat eine höhere Jahresgebühr, weniger Vergütungsprozente und scheinbar, was man so an Erfahrungen im www. sehen kann Probleme das sie sehr oft im Alltag nicht angenommen wird.<br/>Auch der Service erscheint sehr fragwürdig laut diesen Erfahrungen.<br/>Diese Karte kommt für mich absolut nicht in Frage, also sehe ich mich nach einer Alternative um.<br/><br/>Aufgrund dessen das der Service nachgelassen hat, war ein guter Grund dennoch bei Amazon einzukaufen die Lbb Karte mit ihren 3%, da es die dann bald auch nicht mehr gibt werde ich wohl weniger bei Amazon einkaufen.<br/><br/>Die Entwicklung ist sehr traurig da ich es noch ganz anders kenne.</span>
+</div><div class="a-expander-header a-expander-partial-collapse-header" style="opacity: 1; display: block;"><div class="a-expander-content-fade"></div><a aria-expanded="false" aria-label="Rezension vollständig anzeigen (ein / aus)" class="a-declarative" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"Weiterlesen", "collapse_prompt":"Weniger lesen"}' data-action="a-expander-toggle" data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-id="9f3com-a4u1dl-kiq8h4-n2kmf0" data-csa-c-type="widget" data-csa-interaction-events="click" data-hook="expand-collapse-read-more-less" href="javascript:void(0)" role="button"><i class="a-icon a-icon-extender-expand"></i><span class="a-expander-prompt">Weiterlesen</span></a></div></div></span></div><div class="a-row review-comments cr-vote-action-bar" data-hook="review-comments"><span class="cr-vote" data-hook="review-voting-widget">
+<div class="a-row a-spacing-small"><span class="a-size-base a-color-tertiary cr-vote-text" data-hook="helpful-vote-statement">159 Personen fanden diese Informationen hilfreich</span></div><!-- Components for Reactions C -->
+<div class="cr-helpful-button aok-float-left">
+<span class="a-button a-button-base" id="a-autoid-5"><span class="a-button-inner"><a class="a-button-text" data-hook="vote-helpful-button" href="https://www.amazon.de/-/en/ap/signin?openid.return_to=https%3A%2F%2Fcruise-dataproxy-prod.dub.amazon.com%2Fdp%2FB00OSAGJTY%2Fref%3Dcm_cr_dp_d_vote_lft%3Fie%3DUTF8%26csrfT%3DhJNo9Z%252Bai4AL8v%252F0k3OdnmFVWwldLYrgcCMTeY65UGRhAAAAAGZVRk4AAAAB%26reviewId%3DR2C1SUFJN92FTH%23R2C1SUFJN92FTH&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=deflex&amp;openid.mode=checkid_setup&amp;marketPlaceId=A1PA6795UKMFR9&amp;language=de&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0" id="a-autoid-5-announce"><div class="cr-helpful-text">
+              Nützlich</div>
+</a></span></span></div>
+</span><span class="cr-footer-line-height">
+<span><i aria-label="|" class="a-icon a-icon-text-separator" role="img"></i><span class="a-declarative" data-action="cr-popup" data-cr-popup='{"width":"580","title":"ReportAbuse","url":"/hz/reviews-render/report-review?ie=UTF8&amp;ref=cm_cr_dp_d_report&amp;csrfT=hJNo9Z%2Bai4AL8v%2F0k3OdnmFVWwldLYrgcCMTeY65UGRhAAAAAGZVRk4AAAAB&amp;reviewId=R2C1SUFJN92FTH","height":"380"}' data-csa-c-func-deps="aui-da-cr-popup" data-csa-c-id="bvwiap-cz5b9t-yccfsx-h3wncg" data-csa-c-type="widget"><a class="a-size-base a-link-normal a-color-secondary report-abuse-link a-text-normal" href="/-/en/hz/reviews-render/report-review?ie=UTF8&amp;ref=cm_cr_dp_d_report&amp;csrfT=hJNo9Z%2Bai4AL8v%2F0k3OdnmFVWwldLYrgcCMTeY65UGRhAAAAAGZVRk4AAAAB&amp;reviewId=R2C1SUFJN92FTH">Melden</a></span></span></span>
+</div></div></div></div><div class="a-section review aok-relative" data-hook="review" id="RCRTBQ4ICJVJS"><div class="a-row a-spacing-none" id="RCRTBQ4ICJVJS-review-card"><div class="a-section celwidget" data-cel-widget="customer_review-RCRTBQ4ICJVJS" data-csa-c-id="b5qqkd-pu780w-s1gmcf-zdm3ci" id="customer_review-RCRTBQ4ICJVJS"><div class="a-row a-spacing-mini" data-hook="genome-widget"><a class="a-profile" data-a-size="small" href="/-/en/gp/profile/amzn1.account.AE3RAOMRIDQW7XXQPYLTIA23UKKA/ref=cm_cr_dp_d_gw_tr?ie=UTF8&amp;contextId=creditProductMedleyDesktop"><div aria-hidden="true" class="a-profile-avatar-wrapper"><div class="a-profile-avatar"><img class="a-lazy-loaded" data-src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"/><noscript><img src="https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png"/></noscript></div></div><div class="a-profile-content"><span class="a-profile-name">STORNO</span></div></a></div><div class="a-row"><a class="a-size-base a-link-normal review-title a-color-base review-title-content a-text-bold" data-hook="review-title" href="/-/en/gp/customer-reviews/RCRTBQ4ICJVJS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&amp;ASIN=B00OSAGJTY"><i class="a-icon a-icon-star a-star-5 review-rating" data-hook="review-star-rating"><span class="a-icon-alt">5,0 von 5 Sternen</span></i><span class="a-letter-space"></span>
+<span>**Es war eine ausgezeichnete Kreditkarte – doch wann kommt der Nachfolger?**</span>
+</a></div><span class="a-size-base a-color-secondary review-date" data-hook="review-date">Rezension aus Deutschland vom 23. Mai 2024</span><div class="a-row a-spacing-mini review-data review-format-strip"></div><div class="a-row a-spacing-small review-data"><span class="a-size-base review-text" data-hook="review-body"><div class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" data-a-expander-collapsed-height="300" data-a-expander-name="review_text_read_more" style="max-height: none; height: 300px;"><div class="a-expander-content reviewText review-text-content a-expander-partial-collapse-content" data-expanded="false" data-hook="review-collapsed" style="padding-bottom: 20px;">
+<span>Die Amazon Kreditkarte hat mich von Anfang an überzeugt. Die Vorteile sind vielfältig: attraktive Cashback-Angebote, keine Jahresgebühr im ersten Jahr und eine sehr benutzerfreundliche App, um alle Transaktionen im Blick zu behalten. Besonders praktisch finde ich die Möglichkeit, bei Amazon und Partnern Bonuspunkte zu sammeln, die sich schnell zu lohnenswerten Prämien summieren.<br/><br/>Allerdings finde ich es sehr schade, dass noch kein Nachfolger dieser tollen Karte in Sicht ist. Viele Kunden, mich eingeschlossen, warten gespannt auf eine neue Version mit möglicherweise noch besseren Konditionen und zusätzlichen Funktionen. Es ist wirklich enttäuschend, dass es so lange dauert, bis ein Nachfolger auf den Markt kommt.<br/><br/>Wann dürfen wir endlich mit einer neuen Amazon Kreditkarte rechnen? Es wäre großartig, wenn Amazon uns bald mit einer innovativen Nachfolgekarte überraschen würde!<br/><br/>---<br/><br/>Ich freue mich darauf, hoffentlich bald Neuigkeiten zu hören!</span>
+</div><div class="a-expander-header a-expander-partial-collapse-header" style="opacity: 1; display: block;"><div class="a-expander-content-fade"></div><a aria-expanded="false" aria-label="Rezension vollständig anzeigen (ein / aus)" class="a-declarative" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"Weiterlesen", "collapse_prompt":"Weniger lesen"}' data-action="a-expander-toggle" data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-id="kyvhuj-k7tn5v-cd0uxu-wfbhal" data-csa-c-type="widget" data-csa-interaction-events="click" data-hook="expand-collapse-read-more-less" href="javascript:void(0)" role="button"><i class="a-icon a-icon-extender-expand"></i><span class="a-expander-prompt">Weiterlesen</span></a></div></div></span></div><div class="a-row review-comments cr-vote-action-bar" data-hook="review-comments"><span class="cr-vote" data-hook="review-voting-widget">
+<div class="a-row a-spacing-small"><span class="a-size-base a-color-tertiary cr-vote-text" data-hook="helpful-vote-statement">2 Personen fanden diese Informationen hilfreich</span></div><!-- Components for Reactions C -->
+<div class="cr-helpful-button aok-float-left">
+<span class="a-button a-button-base" id="a-autoid-6"><span class="a-button-inner"><a class="a-button-text" data-hook="vote-helpful-button" href="https://www.amazon.de/-/en/ap/signin?openid.return_to=https%3A%2F%2Fcruise-dataproxy-prod.dub.amazon.com%2Fdp%2FB00OSAGJTY%2Fref%3Dcm_cr_dp_d_vote_lft%3Fie%3DUTF8%26csrfT%3DhPgOZS6CEX%252FuWr0I2N4hAn0rM1woQgXxkGh6fjFQhLdJAAAAAGZVRk4AAAAB%26reviewId%3DRCRTBQ4ICJVJS%23RCRTBQ4ICJVJS&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=deflex&amp;openid.mode=checkid_setup&amp;marketPlaceId=A1PA6795UKMFR9&amp;language=de&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0" id="a-autoid-6-announce"><div class="cr-helpful-text">
+              Nützlich</div>
+</a></span></span></div>
+</span><span class="cr-footer-line-height">
+<span><i aria-label="|" class="a-icon a-icon-text-separator" role="img"></i><span class="a-declarative" data-action="cr-popup" data-cr-popup='{"width":"580","title":"ReportAbuse","url":"/hz/reviews-render/report-review?ie=UTF8&amp;ref=cm_cr_dp_d_report&amp;csrfT=hPgOZS6CEX%2FuWr0I2N4hAn0rM1woQgXxkGh6fjFQhLdJAAAAAGZVRk4AAAAB&amp;reviewId=RCRTBQ4ICJVJS","height":"380"}' data-csa-c-func-deps="aui-da-cr-popup" data-csa-c-id="ahswpd-dbfm6b-wu55h6-enqmsc" data-csa-c-type="widget"><a class="a-size-base a-link-normal a-color-secondary report-abuse-link a-text-normal" href="/-/en/hz/reviews-render/report-review?ie=UTF8&amp;ref=cm_cr_dp_d_report&amp;csrfT=hPgOZS6CEX%2FuWr0I2N4hAn0rM1woQgXxkGh6fjFQhLdJAAAAAGZVRk4AAAAB&amp;reviewId=RCRTBQ4ICJVJS">Melden</a></span></span></span>
+</div></div></div></div></div></div></div><div class="a-section" data-hook="reviews-medley-footer" id="reviews-medley-footer"><div class="a-row"></div><div class="a-row a-spacing-medium"><hr aria-hidden="true" class="a-spacing-base a-divider-normal"/><a class="a-link-emphasis a-text-bold" data-hook="see-all-reviews-link-foot" href="/-/en/amazon-visa-karte/product-reviews/B00OSAGJTY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&amp;reviewerType=all_reviews">Weitere Rezensionen ansehen</a></div></div></div>
+</div></span>
+<span class="cr-widget-DesktopGlobalReviews" data-hook="cr-widget-DesktopGlobalReviews"></span>
+</div></div></div></div></div></div></div></div>
+</div>
+</div>
+<div class="a-section aok-hidden">
+<div class="a-section a-spacing-none">
+<div class="a-section a-spacing-none">
+<div class="a-section a-spacing-base"><div class="a-section a-spacing-mini" id="cruise-average-customer-reviews"><span class="creditProductDesktopAcrB00OSAGJTY"><span class="a-declarative" data-a-popover='{"max-width":"700","closeButton":"false","position":"triggerBottom","allowLinkDefault":"1","url":"/review/widgets/average-customer-review/popover/ref=acr_creditproductdesktopacr_popover?ie=UTF8&amp;asin=B00OSAGJTY&amp;contextId=creditProductDesktopAcr"}' data-action="a-popover" data-csa-c-func-deps="aui-da-a-popover" data-csa-c-id="ghi3ud-rpyvh6-3hj8z-y6bewi" data-csa-c-type="widget"><a class="a-popover-trigger a-declarative" href="javascript:void(0)" role="button"><i class="a-icon a-icon-star a-star-3-5"><span class="a-icon-alt">3,3 von 5 Sternen</span></i><i class="a-icon a-icon-popover"></i></a></span><span class="a-letter-space"></span><span class="a-size-small"><a class="a-link-normal" href="/-/en/product-reviews/B00OSAGJTY/ref=acr_creditproductdesktopacr_text?ie=UTF8&amp;showViewpoints=1">28.361 Sternebewertungen</a></span></span></div><hr aria-hidden="true" class="a-divider-normal"/></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="a-section a-padding-base">
+</div>
+<!--&&&Portal&Delimiter&&&--><!-- sp:end-feature:host-atf -->
+<!-- sp:feature:nav-btf -->
+<!-- NAVYAAN BTF START -->
+
+
+
+<!-- NAVYAAN BTF END -->
+<!-- sp:end-feature:nav-btf -->
+<!-- sp:feature:host-btf -->
+<!-- sp:end-feature:host-btf -->
+<!-- sp:feature:aui-preload -->
+<!-- sp:end-feature:aui-preload -->
+<!-- sp:feature:nav-footer -->
+<!-- NAVYAAN FOOTER START -->
+<!-- WITH MOZART -->
+<div class="navLeftFooter nav-sprite-v1" id="navFooter">
+<a aria-label="Back to top" href="javascript:void(0)" id="navBackToTop">
+<div class="navFooterBackToTop">
+<span class="navFooterBackToTopText">
+    Back to top
+  </span>
+</div>
+</a>
+<div class="navFooterVerticalColumn navAccessibility" role="presentation">
+<div class="navFooterVerticalRow navAccessibility" style="display: table-row;">
+<div class="navFooterLinkCol navAccessibility">
+<div aria-level="6" class="navFooterColHead" role="heading">Get to Know Us</div>
+<ul>
+<li class="nav_first">
+<a class="nav_a" href="/-/en/gp/browse.html?node=202588011&amp;ref_=footer_careers">Careers</a>
+</li>
+<li>
+<a class="nav_a" href="https://amazon-presse.de/">Press Releases</a>
+</li>
+<li>
+<a class="nav_a" href="https://www.aboutamazon.de/?utm_source=gateway&amp;utm_medium=footer">About us</a>
+</li>
+<li>
+<a class="nav_a" href="https://blog.aboutamazon.de/">Blog</a>
+</li>
+<li>
+<a class="nav_a" href="https://www.aboutamazon.de/logistikzentren/">Amazon Logistikblog</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/browse.html?node=505050&amp;ref_=footer_nav_legal">Imprint</a>
+</li>
+<li class="nav_last">
+<a class="nav_a" href="https://www.amazon.science">Amazon Science</a>
+</li>
+</ul>
+</div>
+<div class="navFooterColSpacerInner navAccessibility"></div>
+<div class="navFooterLinkCol navAccessibility">
+<div aria-level="6" class="navFooterColHead" role="heading">Make Money with Us</div>
+<ul>
+<li class="nav_first">
+<a class="nav_a" href="https://services.amazon.de/sell.html?ld=AZDESOAFooter&amp;ref_=sdde_soa">Sell on Amazon</a>
+</li>
+<li>
+<a class="nav_a" href="https://sell.amazon.de/programme/b2b-verkaufen">Sell on Amazon Business</a>
+</li>
+<li>
+<a class="nav_a" href="https://services.amazon.de/handmade.htm?ld=AZDEHNDFooter">Sell on Amazon Handmade</a>
+</li>
+<li>
+<a class="nav_a" href="https://partnernet.amazon.de">Associates Programme</a>
+</li>
+<li>
+<a class="nav_a" href="https://services.amazon.de/programme/versand-durch-amazon/merkmale-und-vorteile/?ld=AZDEFBAFooter">Fulfilment by Amazon</a>
+</li>
+<li>
+<a class="nav_a" href="https://services.amazon.de/programme/primedurchverkaeufer/funktionen-und-vorteile.html/?ld=AZDESFPFooter">Seller Fulfilled Prime</a>
+</li>
+<li>
+<a class="nav_a" href="https://advertising.amazon.de/products-self-serve?ref_=ext_amzn_ftr">Advertise Your Products</a>
+</li>
+<li>
+<a class="nav_a" href="https://kdp.amazon.com/?language=de_DE">Independently Publish with Us</a>
+</li>
+<li>
+<a class="nav_a" href="https://pay.amazon.com/de?ld=AWREDEAPAFooter">Amazon Pay</a>
+</li>
+<li>
+<a class="nav_a" href="https://www.amazon.de/-/en/b?node=11498162031">Host an Amazon Hub</a>
+</li>
+<li class="nav_last nav_a_carat">
+<span aria-hidden="true" class="nav_a_carat">›</span><a class="nav_a" href="/-/en/b/?node=17751873031">See More Make Money with Us</a>
+</li>
+</ul>
+</div>
+<div class="navFooterColSpacerInner navAccessibility"></div>
+<div class="navFooterLinkCol navAccessibility">
+<div aria-level="6" class="navFooterColHead" role="heading">Amazon Payment Methods</div>
+<ul>
+<li class="nav_first">
+<a class="nav_a" href="/-/en/dp/B00OSAGJTY?ref_=footer_cbcc">Amazon.de Visa Card</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/browse.html?node=15426871031&amp;ref_=footer_swp">Shop with points</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/browse.html?node=459632031&amp;ref_=footer_moneystore">Credit Card</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/browse.html?node=1571256031&amp;ref_=footer_giftcards">Gift Cards</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/browse.html?node=16263741031&amp;ref_=footer_rechnung">Monthly Invoice</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=504928&amp;ref_=footer_bankeinzug">SEPA Direct Debit</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=200219670&amp;ref_=footer_tfx">Amazon Currency Converter</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/gc/create?ref_=footer_topup_de">Top Up Your Account</a>
+</li>
+<li class="nav_last">
+<a class="nav_a" href="/-/en/gp/browse.html?node=13847036031&amp;ref_=footer_purchase_code">Top Up Your Account in Store</a>
+</li>
+</ul>
+</div>
+<div class="navFooterColSpacerInner navAccessibility"></div>
+<div class="navFooterLinkCol navAccessibility">
+<div aria-level="6" class="navFooterColHead" role="heading">Let Us Help You</div>
+<ul>
+<li class="nav_first">
+<a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=GDFU3JS5AL6SYHRD&amp;ref_=footer_covid">COVID-19 and Amazon</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/css/order-history?ref_=footer_hp_ss_comp_tmp">Track Packages or View Orders</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=504938&amp;ref_=footer_shiprates">Delivery Rates &amp; Policies</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/css/returns/homepage.html?ref_=footer_hy_f_4">Returns &amp; Replacements</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=201819410&amp;ref_=footer_disposal">Recycling (including disposal of electrical and electronic equipment)</a>
+</li>
+<li>
+<a class="nav_a" href="/hz/mycd/myx?ref_=footer_myk">Manage Your Content and Devices</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/browse.html?node=4951330031&amp;ref_=footer_mobapp">Amazon Mobile App</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/BIT/ref=footer_bit_v2_e0002?bitCampaignCode=e0002">Amazon Assistant</a>
+</li>
+<li>
+<a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=504874&amp;ref_=footer_gw_m_b_cs">Customer Service</a>
+</li>
+<li>
+<a class="nav_a" href="https://www.vodafone.de/einfache-kuendigung.html">Cancel Vodafone contracts</a>
+</li>
+<li class="nav_last">
+<a class="nav_a" href="https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GUUVBZ8WGVFP8R8X&amp;ref_=nav_foot_accessibility">Accessibility</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="nav-footer-line"></div>
+<div class="navFooterLine navFooterLinkLine navFooterPadItemLine">
+<span>
+<div class="navFooterLine navFooterLogoLine">
+<a aria-label="Amazon Germany home" href="/-/en/ref=footer_logo">
+<div class="nav-logo-base nav-sprite"></div>
+</a>
+</div>
+</span>
+<span class="icp-container-desktop"><div class="navFooterLine">
+
+<a aria-label="Choose a language for shopping." class="icp-button" href="/-/en/customer-preferences/edit?ie=UTF8&amp;preferencesReturnUrl=%2F-%2Fen%2Fdp%2FB00OSAGJTY%3Fref_%3Dfooter_cbcc&amp;ref_=footer_lang" id="icp-touch-link-language">
+<div class="icp-nav-globe-img-2 icp-button-globe-2"></div><span class="icp-color-base">English</span><span class="nav-arrow icp-up-down-arrow"></span>
+</a>
+
+<a aria-label="Choose a country/region for shopping." class="icp-button" href="/-/en/customer-preferences/country?ie=UTF8&amp;preferencesReturnUrl=%2F-%2Fen%2Fdp%2FB00OSAGJTY%3Fref_%3Dfooter_cbcc&amp;ref_=footer_icp_cp" id="icp-touch-link-country">
+<span class="icp-flag-3 icp-flag-3-de"></span><span class="icp-color-base">Germany</span>
+</a>
+</div></span>
+</div>
+<div aria-label="More on Amazon" class="navFooterLine navFooterLinkLine navFooterDescLine">
+<table cellspacing="0" class="navFooterMoreOnAmazon" summary="More on Amazon">
+<tbody><tr>
+<td class="navFooterDescItem"><a class="nav_a" href="https://advertising.amazon.de/?ref=footer_advtsing_2_de">Amazon Advertising<br/><span class="navFooterDescText">Find, attract and<br/>engage customers</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="https://music.amazon.de?ref=dm_aff_amz_de">Amazon Music<br/><span class="navFooterDescText">Stream millions<br/>of songs</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="https://www.abebooks.de">AbeBooks<br/><span class="navFooterDescText">Books, art<br/>&amp; collectables</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="https://aws.amazon.com/de/?sc_channel=el&amp;sc_campaign=deamazonfooter&amp;sc_publisher=de_amazon&amp;sc_medium=footer&amp;sc_content=&amp;sc_category=AWS_cloud_computing&amp;TRK=EL_de_amazon_footer">Amazon Web Services<br/><span class="navFooterDescText">Scalable Cloud<br/>Computing Services</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="https://www.audible.de">Audible<br/><span class="navFooterDescText">Download Audiobooks</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="https://www.imdb.com/">IMDb<br/><span class="navFooterDescText">Movies, TV<br/>&amp; Celebrities</span></a></td></tr>
+<tr><td> </td></tr>
+<tr>
+<td class="navFooterDescItem"><a class="nav_a" href="https://kdp.amazon.com/de_DE/">Kindle Direct Publishing<br/><span class="navFooterDescText">Indie Digital &amp; Print Publishing<br/>Made Easy</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="https://www.shopbop.com/de/welcome">Shopbop<br/><span class="navFooterDescText">Designer<br/>Fashion Brands</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="/-/en/gp/browse.html?node=3581963031&amp;ref_=footer_wrhsdls">Amazon Warehouse<br/><span class="navFooterDescText">Deep Discounts<br/>Open-Box Products</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="https://www.zvab.com/index.do?ref=amazon&amp;utm_medium=referral&amp;utm_source=amazon.de">ZVAB<br/><span class="navFooterDescText">Centralized Directory<br/>of Antiquarian Books</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a class="nav_a" href="/-/en/gp/browse.html?node=14154536031&amp;ref_=nav_footer_business">Amazon Business<br/><span class="navFooterDescText">Pay by Invoice. PO Numbers.<br/>For Business.</span></a></td><td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"> </td>
+</tr>
+</tbody></table>
+</div>
+<div class="navFooterLine navFooterLinkLine navFooterPadItemLine navFooterCopyright">
+<ul><li class="nav_first"><a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=201909000&amp;ref_=footer_cou" id="">Conditions of Use &amp; Sale</a> </li><li><a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=201909010&amp;ref_=footer_privacy" id="">Privacy Notice</a> </li><li><a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=202024860&amp;ref_=footer_impressum" id="">Imprint</a> </li><li><a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=201890250&amp;ref_=footer_cookies_notice" id="">Cookies Notice</a> </li><li class="nav_last"><a class="nav_a" href="/-/en/gp/help/customer/display.html?nodeId=201909150&amp;ref_=footer_Interest_Based_Ads_Notice" id="">Interest-Based Ads Notice</a> </li></ul><span>© 1996-2024, Amazon.com, Inc. or its affiliates</span>
+</div>
+</div>
+<div aria-hidden="true" id="sis_pixel_r2" style="height:1px; position: absolute; left: -1000000px; top: -1000000px;"><iframe frameborder="0" height="1" id="DAsis" marginheight="0" marginwidth="0" sandbox="" scrolling="no" src="//aax-eu.amazon-adsystem.com/s/iu3?d=amazon.de&amp;slot=navFooter&amp;old_oo=0&amp;ts=1716890376921&amp;s=Af15yP00btyPBzSS4PLkAqG7QulasXgOIDu0FXZwUrRZ&amp;gdpr_consent=CP_UzEAP_UzEAF4ABCENAbEgAAAAAAAAABagAAQAAAAgAAFAoAMAAQfQCQAYAAg-gOgAwABB9AlABgACD6BSADAAEH0AwAGAAIPoCgAMAAQfQGAAYAAg-gQAAwABB9AQAPABAACQAFQANYAwgDEAGYAOYAgABSgDVAJaAVkArwBwgFhg.YAAAAAAAAAA&amp;gdpr_consent_avl=CP_UzEAP_UzEAF4ABCENfr-gAAAAAAAAABagAAQAAAAgAAAA&amp;cb=1716890376921" tabindex="-1" width="1"></iframe></div>
+<!-- NAVYAAN FOOTER END -->
+<!-- sp:end-feature:nav-footer -->
+<!-- sp:feature:configured-sitewide-assets -->
+
+<!-- sp:end-feature:configured-sitewide-assets -->
+<!-- sp:feature:customer-behavior-js -->
+
+
+
+<!-- sp:end-feature:customer-behavior-js -->
+<!-- sp:feature:cookie-consent-js-body -->
+
+<!-- sp:end-feature:cookie-consent-js-body -->
+<!-- sp:feature:csm:body-close -->
+<div id="be" style="display:none;visibility:hidden;"><form action="get" name="ue_backdetect"><input name="ue_back" type="hidden" value="2"/></form>
+
+</div>
+<noscript>
+<img alt="" height="1" src="//fls-eu.amazon.de/1/batch/1/OP/A1PA6795UKMFR9:261-8106289-0452551:SDBANSPW7VVZFFD14531$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DSDBANSPW7VVZFFD14531:0" style="display:none;visibility:hidden;" width="1">
+</img></noscript>
+
+<!-- sp:end-feature:csm:body-close -->
+</div>
+<iframe name="__tcfapiLocator" src="about:blank" style="display: none;"></iframe><div id="a-popover-root" style="z-index:-1;position:absolute;"></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Does this page contains user specific information? Answer only with yes or no.

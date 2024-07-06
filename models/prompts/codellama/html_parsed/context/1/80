@@ -1,0 +1,585 @@
+The following text is the html file of a webpage. <html class="is-authenticated is-pro is-trial is-early-access-offer is-available-offer theme-dark feature-no-touch feature-no-mobiletouch no-touch is-not-trial-available" dir="ltr" lang="en"><head><meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" name="viewport"/> 
+<link href="https://notifications.tradingview.com/news/channel" rel="news-streaming-url"/><title>About — TradingView</title>
+<!-- { block personal_css_bundle } -->
+<!-- render_css_bundle('base') -->
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/43387.0adf810d2c31e1ebee05.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/4343.6920a770d17769d2153b.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/66458.5d0098bab0d2d4ea02e5.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/70428.b88bfc38b74d8a277ddd.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/5761.8e27ed79a2e4aea61638.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/36827.8c15d100e819f5a7bde9.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/37132.4f5f4717726a678b0810.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/85686.a33c76f5549cc7102e61.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/33101.7875848f4c300b848384.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/18612.a699c72be5565e942bf2.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/6143.7401048db4e1840d727b.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/42900.d4ce023e54009adf69b3.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/1400.b414033c036a33d2ce75.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/5053.c424a6189fd0a6681422.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/81179.de1e2a61cac87d771a3d.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/86331.1bc06c8cd02f291c10e7.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/89461.0fb5e9b97c5c67c26ffb.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/62025.8737bbcd4bbb6f96b6cb.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/92935.d6dd31c3f3a4409bac32.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/57143.73b30bb88978bf481823.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/37304.66a5dccea981fdf6fbeb.css" rel="stylesheet" type="text/css"/>
+<!-- { endblock personal_css_bundle } -->
+<!-- { block extra_styles } -->
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/62491.2f8985f4f3913ac75a7a.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/16600.37b337916b30beb333ed.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/76764.b37eaf239cea1a4a4b98.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/36748.b15d49f57b48cbe20373.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/43166.f1ed4e3241ccf44750ea.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/27474.832152c2442c7a71ecae.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/21289.00ff91180a7228e5f27b.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/10068.ae20e99a991952f95e04.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/68129.8c82b4d2ff025c065ec0.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/89676.35d603ad18c9c8fe3635.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/49719.804c754e283aafd610e7.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/26438.32c8374f6bc1312009b6.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/95745.d587d6c76d7dd12c814c.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/88801.fa8be4d74afdc1aa270f.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/52637.a638567a00224c3ee446.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/98606.c23af0a0a3d67cdabf0c.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/38016.8889cf5f624471858e71.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/37667.4b79e13984489f01c3be.css" rel="stylesheet" type="text/css"/>
+<!-- { endblock extra_styles } -->
+<!-- { block personal_js_bundle } -->
+<!-- render_js_bundle('base') -->
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/runtime.ad2be5e903f8a0e7b9c6.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.18562.ea5a9c9f4dcdcb92f940.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.47313.e6d16774e0cca24e59db.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.70465.99b206dcb18b59452609.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/31129.ceef06bbed7b742c9c24.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/23127.e1a5a557b0a07cfdd28e.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/22914.2f9de7cd824b18ef231a.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/67105.09a4fc3899bcf1615bb9.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/57335.13246cc2e7271d901c05.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/92693.0d1eb14762347ab84eb4.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/30128.bd097fc3dfb7c043001a.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/70804.dd1c065d3de93fbe1832.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/83912.d50830467242f1d82b06.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/68748.e327ad4df9b961372557.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/34380.86536e70dcc0142cacad.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/86473.98d91bea2088cc8ae91a.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/29964.2a5057aa01f5585ee714.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/77052.345a66f26bd89ad264da.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/61739.e4f42e2a5fa40cecced3.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/85394.8a627d6734959c32e32b.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/82223.f78f86e299019e83ac61.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/base.a59c6a6ac27bf2f87166.js" rel="preload"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- { endblock personal_js_bundle } -->
+<!-- { block additional_js_bundle } -->
+<!-- { endblock additional_js_bundle } --> 
+
+
+
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.97102.91254b62a0206ae7e280.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/42670.06f92b21a9563e329d31.js" rel="preload"/>
+<link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/about.7e4898f69603ff28a65d.js" rel="preload"/>
+
+
+
+
+ <meta content="Thousands of charts, ideas and scripts from an expert trading community. Social trading worldwide. Unique and innovative tools to help you trade!" name="description"/>
+<link href="https://www.tradingview.com/about/" rel="canonical"/>
+<link href="https://static.tradingview.com/static/images/favicon.ico" rel="icon"/>
+<meta content="TradingView" name="application-name"/>
+<meta content="telephone=no" name="format-detection"/>
+<link href="https://static.tradingview.com/static/images/favicon/manifest.json" rel="manifest"/>
+<meta content="#F8F9FD" media="(prefers-color-scheme: light)" name="theme-color"/> <meta content="#1E222D" media="(prefers-color-scheme: dark)" name="theme-color"/>
+<meta content="TradingView Site" name="apple-mobile-web-app-title"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<link href="https://static.tradingview.com/static/images/favicon/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/><link data-locale="en" href="https://www.tradingview.com/about/" hreflang="x-default" rel="alternate link-locale"/><link data-locale="in" href="https://in.tradingview.com/about/" hreflang="en-in" rel="alternate link-locale"/><link data-locale="de_DE" href="https://de.tradingview.com/about/" hreflang="de" rel="alternate link-locale"/><link data-locale="fr" href="https://fr.tradingview.com/about/" hreflang="fr" rel="alternate link-locale"/><link data-locale="es" href="https://es.tradingview.com/about/" hreflang="es" rel="alternate link-locale"/><link data-locale="it" href="https://it.tradingview.com/about/" hreflang="it" rel="alternate link-locale"/><link data-locale="pl" href="https://pl.tradingview.com/about/" hreflang="pl" rel="alternate link-locale"/><link data-locale="sv_SE" href="https://se.tradingview.com/about/" hreflang="sv-se" rel="alternate link-locale"/><link data-locale="tr" href="https://tr.tradingview.com/about/" hreflang="tr" rel="alternate link-locale"/><link data-locale="ru" href="https://ru.tradingview.com/about/" hreflang="ru" rel="alternate link-locale"/><link data-locale="br" href="https://br.tradingview.com/about/" hreflang="pt-br" rel="alternate link-locale"/><link data-locale="id" href="https://id.tradingview.com/about/" hreflang="id" rel="alternate link-locale"/><link data-locale="ms_MY" href="https://my.tradingview.com/about/" hreflang="ms-my" rel="alternate link-locale"/><link data-locale="th_TH" href="https://th.tradingview.com/about/" hreflang="th" rel="alternate link-locale"/><link data-locale="vi_VN" href="https://vn.tradingview.com/about/" hreflang="vi-vn" rel="alternate link-locale"/><link data-locale="ja" href="https://jp.tradingview.com/about/" hreflang="ja-jp" rel="alternate link-locale"/><link data-locale="kr" href="https://kr.tradingview.com/about/" hreflang="ko-kr" rel="alternate link-locale"/><link data-locale="zh_CN" href="https://cn.tradingview.com/about/" hreflang="zh-cn" rel="alternate link-locale"/><link data-locale="zh_TW" href="https://tw.tradingview.com/about/" hreflang="zh-tw" rel="alternate link-locale"/><link data-locale="ar_AE" href="https://ar.tradingview.com/about/" hreflang="ar-sa" rel="alternate link-locale"/><link data-locale="he_IL" href="https://il.tradingview.com/about/" hreflang="he-il" rel="alternate link-locale"/><meta content="1205990992" property="al:ios:app_store_id"/>
+<meta content="TradingView - trading community, charts and quotes" property="al:ios:app_name"/>
+
+<meta content="TradingView" property="og:site_name"/><meta content="website" property="og:type"/><meta content="1200" property="og:image:width"/><meta content="600" property="og:image:height"/><meta content="https://s.tradingview.com/static/images/illustrations/about.jpg" property="og:image"/>
+<meta content="@TradingView" name="twitter:site"/><meta content="summary_large_image" name="twitter:card"/><meta content="https://s.tradingview.com/static/images/illustrations/about.jpg" name="twitter:image"/><meta content="f729ff74def35be4b9b92072c0e995b40fcb9e1aece03fb174343a1b7a5350ce" name="ahrefs-site-verification"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/5987.fbb750fd312778403036.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/28639.8064477eee55a1bd3755.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/31535.5343aaaf5fcf0db5af28.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/69267.63bad685faad57c0257e.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/87556.161ac9a09cc8b9edc4ec.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/6302.17cd132c7e8e65c5683c.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/8277.d5c3b3e0002a1572da80.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/82452.e98542b2987cf69720e0.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/45486.900c1147f571a0013515.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/67829.51f39873364295089c40.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/28430.690a3696fdb4a243d5f5.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/84331.3b493a9f0ab052e6447c.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/40297.4c019663e283bcb5dd37.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/13454.6452b85f44493d9b6afc.css" rel="stylesheet" type="text/css"/><link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/51243.e83982560903cba1a237.css" rel="stylesheet" type="text/css"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.68716.0948043dfa24340da525.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.34395.c9239bf730615f259484.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.67968.f60a560b5efccf21571f.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.57060.4673bd6ed38141ffadcc.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.70897.a5cc8052526423092256.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/en.14329.774f8a6dda50929312df.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/24951.26214624d376e53ea617.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/37189.0e2684096d656faa2051.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/88124.1346e96911865f142abf.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/68985.5ae0447fbdd5fc110a48.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/10483.137ba668e775e965ba53.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/72397.a290e57859498cda565b.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/47944.5449d89b8c032fb14245.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/44479.11a1f8d262ff200f6eb5.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/5721.fb34e4e6e481d16be63e.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/41339.03eef3103a44eb4ede60.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/17540.b25b5bad22dcc97e694c.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/25751.4d917a804f9a528260a2.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/25.f0fcc47ab02750a303ad.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/915.e98b8e497d3362980202.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/77885.191019df83f4a706ed14.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/2456.c71144ed01b83174dae0.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/65140.070084fa09cf3b5b3b4c.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/7142.06fa66c6e8a98a6beca9.js" rel="prefetch"/><link as="script" crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/invoke-alert-editor.95c4f6e718e1201937f9.js" rel="prefetch"/></head>
+<body class="popup-wide page-wide" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1174.0"><div><div aria-label="Skip navigation" class="skip-navigation-menu-wCFzoXZN hidden-wCFzoXZN menuWrap-Kq3ruQo8" data-name="skip-navigation" role="group" style="position: fixed; left: 24px; top: 120px;"><div class="scrollWrap-Kq3ruQo8 momentumBased-Kq3ruQo8" style="overflow-y: auto;"><div class="menuBox-Kq3ruQo8" data-name="menu-inner"><div><button class="skip-navigation-item-wCFzoXZN item-jFqVJoPk item-mDJVFqQ3"><span class="labelRow-jFqVJoPk labelRow-mDJVFqQ3"><span class="label-jFqVJoPk label-mDJVFqQ3"><span class="row-mDJVFqQ3"><span class="itemInfo-mDJVFqQ3"><span class="label-mDJVFqQ3 js-main-menu-dropdown-link-title">Main <span class="i-no-break">content</span></span><span class="description-mDJVFqQ3"></span></span></span></span></span></button></div></div></div></div><div style="position: fixed; z-index: 150; left: 0px; top: 0px;"></div></div>
+
+<div class="widgetbar-place"></div><div class="tv-main">
+<div class="js-container-android-notification"></div>
+<div class="js-container-ios-notification"></div>
+<!-- render_css_bundle('tv_header') -->
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/58469.c704828a192946d594d0.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/17382.f3358c551b22a2d65552.css" rel="stylesheet" type="text/css"/><div class="tv-header tv-header__top js-site-header-container tv-header--sticky">
+<div class="tv-header__backdrop"></div><div class="tv-header__inner"><div class="tv-header__area tv-header__area--logo-menu">
+<button aria-expanded="false" aria-haspopup="true" aria-label="Open menu" class="tv-header__hamburger-menu js-header-main-menu-mobile-button">
+<svg height="12" viewbox="0 0 18 12" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M0 12h18v-2h-18v2zm0-5h18v-2h-18v2zm0-7v2h18v-2h-18z" fill="currentColor"></path></svg>
+</button>
+<span class="tv-header__logo">
+<a aria-label="TradingView main page" class="tv-header__link tv-header__link--logo js-header-context-menu" href="/">
+<span class="tv-header__icon">
+<svg height="28" viewbox="0 0 36 28" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M14 22H7V11H0V4h14v18zM28 22h-8l7.5-18h8L28 22z" fill="currentColor"></path><circle cx="20" cy="8" fill="currentColor" r="4"></circle></svg>
+</span>
+<span class="tv-header__logo-text">
+<svg height="28" viewbox="0 0 147 28" width="147" xmlns="http://www.w3.org/2000/svg"><path d="M4.793 22.024h3.702V7.519h4.843V4.02H0v3.5h4.793v14.504zM13.343 22.024h3.474v-6.06c0-2.105 1.09-3.373 2.74-3.373.582 0 1.039.101 1.571.279V9.345a3.886 3.886 0 00-1.166-.152c-1.42 0-2.713.938-3.145 2.18V9.346h-3.474v12.679zM27.796 22.303c1.75 0 3.068-.888 3.652-1.7v1.42h3.474V9.346h-3.474v1.42c-.584-.811-1.902-1.699-3.652-1.699-3.372 0-5.959 3.043-5.959 6.618 0 3.576 2.587 6.619 5.96 6.619zm.736-3.17c-1.928 0-3.196-1.445-3.196-3.448 0-2.004 1.268-3.45 3.196-3.45 1.927 0 3.195 1.446 3.195 3.45 0 2.003-1.268 3.448-3.195 3.448zM43.193 22.303c1.75 0 3.068-.888 3.651-1.7v1.42h3.474V3.007h-3.474v7.76c-.583-.812-1.901-1.7-3.651-1.7-3.373 0-5.96 3.043-5.96 6.618 0 3.576 2.587 6.619 5.96 6.619zm.735-3.17c-1.927 0-3.195-1.445-3.195-3.448 0-2.004 1.268-3.45 3.195-3.45 1.927 0 3.195 1.446 3.195 3.45 0 2.003-1.268 3.448-3.195 3.448zM55.166 7.412a2.213 2.213 0 002.232-2.206A2.213 2.213 0 0055.166 3a2.224 2.224 0 00-2.206 2.206 2.224 2.224 0 002.206 2.206zm-1.724 14.612h3.474V9.49h-3.474v12.533zM59.998 22.024h3.474v-6.187c0-2.435 1.192-3.601 2.815-3.601 1.445 0 2.232 1.116 2.232 2.941v6.847h3.474v-7.43c0-3.296-1.826-5.528-4.894-5.528-1.649 0-2.942.71-3.627 1.724V9.345h-3.474v12.679zM80.833 18.65c-1.75 0-3.22-1.319-3.22-3.246 0-1.952 1.47-3.246 3.22-3.246 1.75 0 3.22 1.294 3.22 3.246 0 1.927-1.47 3.246-3.22 3.246zm-.406 8.85c3.88 0 6.822-1.978 6.822-6.543V9.268h-3.474v1.42C83.09 9.7 81.72 8.99 80.098 8.99c-3.322 0-5.985 2.84-5.985 6.415 0 3.55 2.663 6.39 5.985 6.39 1.623 0 2.992-.735 3.677-1.673v.862c0 2.029-1.344 3.474-3.398 3.474-1.42 0-2.84-.482-3.956-1.572l-1.902 2.586c1.445 1.395 3.702 2.029 5.908 2.029zM94.594 22.024h3.27L105.32 4.02h-4.057l-5.021 12.501L91.145 4.02h-3.981l7.43 18.004zM108.508 7.266a2.213 2.213 0 002.231-2.206 2.213 2.213 0 00-2.231-2.206c-1.192 0-2.207.988-2.207 2.206 0 1.217 1.015 2.206 2.207 2.206zm-1.725 14.758h3.474V9.345h-3.474v12.679zM119.248 22.303c2.662 0 4.691-1.116 5.883-2.84l-2.587-1.927c-.583.887-1.673 1.597-3.271 1.597-1.673 0-3.169-.938-3.372-2.637h9.483c.076-.533.051-.888.051-1.192 0-4.133-2.916-6.238-6.238-6.238-3.854 0-6.669 2.865-6.669 6.618 0 4.007 2.942 6.619 6.72 6.619zm-3.221-8.165c.33-1.547 1.775-2.207 3.069-2.207 1.293 0 2.561.685 2.865 2.207h-5.934zM138.45 22.024h3.449l4.184-12.679h-3.728l-2.383 8.114-2.587-8.114h-2.662l-2.561 8.114-2.409-8.114h-3.703l4.21 12.679h3.448l2.359-7.202 2.383 7.202z" fill="currentColor"></path></svg>
+</span>
+<span class="js-logo-pro"></span>
+</a>
+</span>
+</div><div class="tv-header__middle-wrapper">
+<div class="tv-header__middle-content"><div class="tv-header__area tv-header__area--search">
+<div class="tv-header-search-container">
+<button aria-label="Search" class="tv-header-search-container tv-header-search-container__button tv-header-search-container__button--full js-header-search-button">
+<svg fill="currentColor" height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg"><path d="M18.162 17.089a7.412 7.412 0 10-1.06 1.062l4.774 4.679a.75.75 0 101.05-1.071l-4.764-4.67zm-5.75 1.235a5.912 5.912 0 110-11.824 5.912 5.912 0 010 11.823z"></path></svg>
+<span class="tv-header-search-container__text">Search</span>
+</button>
+<button aria-label="Search" class="tv-header-search-container__button tv-header-search-container__button--simple js-header-search-button"><svg fill="currentColor" height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg"><path d="M18.162 17.089a7.412 7.412 0 10-1.06 1.062l4.774 4.679a.75.75 0 101.05-1.071l-4.764-4.67zm-5.75 1.235a5.912 5.912 0 110-11.824 5.912 5.912 0 010 11.823z"></path></svg></button>
+</div> </div><nav class="tv-header__area tv-header__area--menu js-header-main-menu">
+<ul class="tv-header__main-menu"> <li class="tv-header__main-menu-item" data-main-menu-dropdown-root-index="0">
+<a data-main-menu-root-track-id="products" href="/chart/">Products<span aria-expanded="false" aria-haspopup="true" aria-label="Products menu" class="tv-header__main-menu-item__chevron" role="button" tabindex="0">
+<svg height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M3.92 7.83 9 12.29l5.08-4.46-1-1.13L9 10.29l-4.09-3.6-.99 1.14Z" fill="currentColor"></path></svg>
+</span>
+</a>
+</li> <li class="tv-header__main-menu-item" data-main-menu-dropdown-root-index="1">
+<a data-main-menu-root-track-id="community" href="/community/">Community<span aria-expanded="false" aria-haspopup="true" aria-label="Community menu" class="tv-header__main-menu-item__chevron" role="button" tabindex="0">
+<svg height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M3.92 7.83 9 12.29l5.08-4.46-1-1.13L9 10.29l-4.09-3.6-.99 1.14Z" fill="currentColor"></path></svg>
+</span>
+</a>
+</li> <li class="tv-header__main-menu-item" data-main-menu-dropdown-root-index="2">
+<a data-main-menu-root-track-id="markets" href="/markets/">Markets<span aria-expanded="false" aria-haspopup="true" aria-label="Markets menu" class="tv-header__main-menu-item__chevron" role="button" tabindex="0">
+<svg height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M3.92 7.83 9 12.29l5.08-4.46-1-1.13L9 10.29l-4.09-3.6-.99 1.14Z" fill="currentColor"></path></svg>
+</span>
+</a>
+</li> <li class="tv-header__main-menu-item" data-main-menu-dropdown-root-index="3">
+<a data-main-menu-root-track-id="news" href="/news/">News<span aria-expanded="false" aria-haspopup="true" aria-label="News menu" class="tv-header__main-menu-item__chevron" role="button" tabindex="0">
+<svg height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M3.92 7.83 9 12.29l5.08-4.46-1-1.13L9 10.29l-4.09-3.6-.99 1.14Z" fill="currentColor"></path></svg>
+</span>
+</a>
+</li> <li class="tv-header__main-menu-item" data-main-menu-dropdown-root-index="4">
+<a data-main-menu-root-track-id="brokers" href="/brokers/">Brokers<span aria-expanded="false" aria-haspopup="true" aria-label="Brokers menu" class="tv-header__main-menu-item__chevron" role="button" tabindex="0">
+<svg height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M3.92 7.83 9 12.29l5.08-4.46-1-1.13L9 10.29l-4.09-3.6-.99 1.14Z" fill="currentColor"></path></svg>
+</span>
+</a>
+</li> <li class="tv-header__main-menu-item tv-header__main-menu-item--highlighted" data-main-menu-dropdown-root-index="5">
+<a data-main-menu-root-track-id="more" href="/support/">More<span aria-expanded="false" aria-haspopup="true" aria-label="More menu" class="tv-header__main-menu-item__chevron" role="button" tabindex="0">
+<svg height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M3.92 7.83 9 12.29l5.08-4.46-1-1.13L9 10.29l-4.09-3.6-.99 1.14Z" fill="currentColor"></path></svg>
+</span>
+</a>
+</li></ul>
+</nav></div>
+</div><div class="tv-header__area tv-header__area--user">
+<button aria-expanded="false" aria-haspopup="true" aria-label="Open user menu" class="tv-header__user-menu-button tv-header__user-menu-button--anonymous js-header-user-menu-button" type="button">
+<svg height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg"><path d="M17.5 9c0 1.14-.3 1.99-.79 2.54-.46.52-1.27.96-2.71.96s-2.25-.44-2.71-.96A3.74 3.74 0 0 1 10.5 9c0-1.14.3-1.99.79-2.54.46-.52 1.27-.96 2.71-.96s2.25.44 2.71.96c.5.55.79 1.4.79 2.54zM19 9c0 2.76-1.45 5-5 5s-5-2.24-5-5 1.45-5 5-5 5 2.24 5 5zm-8 8.5h6c2.04 0 3.1.5 3.76 1.1.69.63 1.11 1.55 1.5 2.8.13.42.04.95-.29 1.4-.33.46-.8.7-1.22.7H7.25c-.43 0-.89-.24-1.22-.7a1.61 1.61 0 0 1-.3-1.4 6.08 6.08 0 0 1 1.51-2.8c.65-.6 1.72-1.1 3.76-1.1zm6-1.5h-6c-4.6 0-5.88 2.33-6.7 4.96-.58 1.89.97 4.04 2.95 4.04h13.5c1.98 0 3.53-2.15 2.95-4.04C22.88 18.33 21.6 16 17 16z" fill="currentColor" fill-rule="evenodd"></path></svg>
+</button>
+<button aria-expanded="false" aria-haspopup="true" aria-label="Open user menu" class="tv-header__user-menu-button tv-header__user-menu-button--logged js-header-user-menu-button" type="button">
+<img alt="" aria-hidden="true" class="tv-header__user-menu-button-userpic js-userpic-mid" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28336,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E"/>
+<i class="tv-header__icon--counter-red js-notifications-indicator"></i>
+</button>
+<div class="js-offer-button" data-props-id="0ZWX5U"><div class="tv-header__offer-button-container tv-header__offer-button-container--earlyaccess"><a class="tv-header__offer-button slash-button-LHcKxrzD size-medium-LHcKxrzD color-gradient-LHcKxrzD" href="/pricing/?source=header_go_pro_button&amp;feature=Buy%20EA"><span class="apply-overflow-tooltip apply-overflow-tooltip--allow-text apply-overflow-tooltip--check-children content-LHcKxrzD" data-overflow-tooltip-text="Upgrade early 60% OFF Offer ends in 22 days"><span class="children-LHcKxrzD first-label-LHcKxrzD"><span class="tv-header__offer-button-title">Upgrade early 60% OFF</span></span><span class="second-label-LHcKxrzD">Offer ends in 22 days</span></span></a></div></div>
+</div></div></div>
+<div aria-label="Main content" class="tv-content" id="tv-content" tabindex="-1">
+<div><div class="tv-about-page" data-props-id="Cjzkpd"><div class="tv-about-S4Rfo8od"><div class="header-S4Rfo8od"><h1 class="headerTitle-S4Rfo8od"><p>Where the world</p><p class="titleSecondPart-S4Rfo8od">does markets</p></h1><div class="mainVideoBlock-S4Rfo8od"><div class="mainContainer-q8e7RgIt"><div class="mainVideoContainer-q8e7RgIt"><button class="playContainer-q8e7RgIt"><span aria-hidden="true" class="playIcon-q8e7RgIt" role="img"><svg height="72" viewbox="0 0 72 72" width="72" xmlns="http://www.w3.org/2000/svg"><path d="M36 72a36 36 0 1 0 0-72 36 36 0 0 0 0 72z" fill="currentColor"></path><path d="M30.24 47.48a1.44 1.44 0 0 0 2.28 1.17l16.02-11.48c.8-.57.8-1.77 0-2.34L32.52 23.35c-.95-.68-2.28 0-2.28 1.17v22.96z" fill="#fff"></path></svg></span><div class="buttonTextContainer-q8e7RgIt"><p>Here's to the ones prepared to hold nothing back.</p><p class="watchText-q8e7RgIt">Play video</p></div></button><video autoplay="" class="mainVideo-q8e7RgIt mainVideo-S4Rfo8od" loop="" muted="" playsinline="" poster=""><source src="https://static.tradingview.com/static/bundles/alex-climbing-short.avc1.40888bd63ca39cc04f8c.mp4" type="video/mp4"/></video></div></div></div></div><div class="contentBlock-S4Rfo8od"><div class="textBlock-S4Rfo8od"><p class="textBlockContent-S4Rfo8od">Look first / Then leap. It's what you'd call our philosophy, that it doesn't matter who you are or what you trade, preparing then committing is the best way of maximizing life's returns.</p><a class="button-S4Rfo8od round-button-FujgyDpN color-gray-FujgyDpN variant-secondary-FujgyDpN size-xxlarge-FujgyDpN link-FujgyDpN" href="/manifesto/"><span class="content-FujgyDpN">Read our manifesto</span></a></div><div class="container-dLEINtrh mainSectionBlock-S4Rfo8od helloTraderSectionBlock-S4Rfo8od"><h2 class="title-dLEINtrh blockTitleContainer-S4Rfo8od">Hello, Trader</h2><p class="subtitle-dLEINtrh blockTitleContainer-S4Rfo8od">We're TradingView, a charting platform and social network used by 60M+ traders and investors worldwide to spot opportunities across global markets.</p><div class="content-dLEINtrh videoContainer-P6NJ9T8P"><div class="videoWrapper-P6NJ9T8P"><video autoplay="" class="video-uAi0Mdkb video-P6NJ9T8P" disableremoteplayback="" loop="" playsinline=""><source src="https://static.tradingview.com/static/bundles/chart-big.hvc1.6af4110d38611a03c3a4.mp4" type="video/mp4;codecs=hvc1.1.0.L150.b0"/><source src="https://static.tradingview.com/static/bundles/chart-big.a7d994603f412a3a4a52.webm" type="video/webm"/><source src="https://static.tradingview.com/static/bundles/chart-big.avc1.e7da14709759f81c9e4b.mp4" type="video/webm;codecs=avc1"/></video></div></div></div><div class="container-lYFsWV_q"><div class="title-lYFsWV_q">Love in every
+#TradingView</div><div class="wrapper-zfeOWGLK bannerWrapper-lYFsWV_q"><div class="content-zfeOWGLK bannerContent-lYFsWV_q"><div class="item-zfeOWGLK"><div class="block-zfeOWGLK icon-type-circle-zfeOWGLK"><span class="title-zfeOWGLK bannerTitle-lYFsWV_q">60M+</span></div><p class="description-zfeOWGLK bannerDescription-lYFsWV_q">Traders and investors use our platform.</p></div><div class="item-zfeOWGLK"><div class="block-zfeOWGLK icon-type-top-zfeOWGLK"><span class="title-zfeOWGLK bannerTitle-lYFsWV_q">#1</span></div><p class="description-zfeOWGLK bannerDescription-lYFsWV_q"><a class="colorLink-zfeOWGLK" href="https://www.tradingview.com/blog/en/we-are-officially-number-one-in-the-world-25885/" target="_blank">Top website</a> in the world when it comes to all things investing.</p></div><div class="item-zfeOWGLK"><div class="block-zfeOWGLK icon-type-star-zfeOWGLK"><span class="title-zfeOWGLK bannerTitle-lYFsWV_q">1.5M+</span></div><p class="description-zfeOWGLK bannerDescription-lYFsWV_q">Mobile reviews with 4.9 average rating. No other fintech apps are more loved.</p></div><div class="item-zfeOWGLK"><div class="block-zfeOWGLK icon-type-pine-zfeOWGLK"><span class="title-zfeOWGLK bannerTitle-lYFsWV_q">10M+</span></div><p class="description-zfeOWGLK bannerDescription-lYFsWV_q"><span>Custom <a class="colorLink-zfeOWGLK" href="/scripts/" target="_blank">scripts</a> and <a class="colorLink-zfeOWGLK" href="/ideas/" target="_blank">ideas</a> shared by our users.</span></p></div></div></div><div class="container-lu7Cy9jC cards-lYFsWV_q"><div class="container-APMWwIwq filmstrip-WTiWRqDm"><div class="items-APMWwIwq filmstripItems-WTiWRqDm filmstripItems-lYFsWV_q"><div class="offsetZone-APMWwIwq internal-APMWwIwq"></div><div class="intersectionZone-yQFIuIHW intersectionZone-APMWwIwq internal-APMWwIwq"><span class="intersectionDetector-yQFIuIHW left-yQFIuIHW" style="width: 1px;"></span></div><div class="scrollBtnWrapper-APMWwIwq internal-APMWwIwq"><div class="scrollButtonCircleLeft-pQro3hO5 scrollBtn-APMWwIwq leftScrollBtn-APMWwIwq"><svg height="16" viewbox="0 0 10 16" width="10" xmlns="http://www.w3.org/2000/svg"><path d="M9.4 1.4l-1.4-1.4-8 8 8 8 1.4-1.4-6.389-6.532 6.389-6.668z"></path></svg></div></div><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @imdrcruz" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/c703ebc989aa6e3e72adccd1fb49dfed.jpg"/></div><p class="text-VGSP_7Hj">@imdrcruz</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @jonnygodfrey_crypto" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/BgmXwZyHbtU.jpg"/></div><p class="text-VGSP_7Hj">@jonnygodfrey_crypto</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @Cenobar" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/6e5de0890413f7eba529223a93b4a412.jpeg"/></div><p class="text-VGSP_7Hj">@Cenobar</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @fxdelta" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/1b62a6a36c797cf6f4abb3fdf8a210c6.jpg"/></div><p class="text-VGSP_7Hj">@fxdelta</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @destination_trader07" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/a525d362cbe13e4a2da1cb1ba6afa6cd.jpeg"/></div><p class="text-VGSP_7Hj">@destination_trader07</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @mytradingsetup" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/BulUc6agNKb.jpg"/></div><p class="text-VGSP_7Hj">@mytradingsetup</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @garret_duke" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/BuMhK9XHr4w.jpg"/></div><p class="text-VGSP_7Hj">@garret_duke</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @monolith_trading" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/d74e7d8e9ef859551ef9759518acc833.jpeg"/></div><p class="text-VGSP_7Hj">@monolith_trading</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @mytradingsetup" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/B1WETZMgCcT.jpg"/></div><p class="text-VGSP_7Hj">@mytradingsetup</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @Facu Mendizabal" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/c63ad0115efefb584b6d7d8ebf66d82f.jpeg"/></div><p class="text-VGSP_7Hj">@Facu Mendizabal</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @lifestylewith_ashley26" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/cda49f71bc866eedec472789ee6ac717.jpeg"/></div><p class="text-VGSP_7Hj">@lifestylewith_ashley26</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @life_of_lorena.fx" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/89e2d0ea6e70ce994d5c51344dd055cd.jpeg"/></div><p class="text-VGSP_7Hj">@life_of_lorena.fx</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @anna_mcmorrin_" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/b09e3dfb2d137113a951e6822fd39776.jpeg"/></div><p class="text-VGSP_7Hj">@anna_mcmorrin_</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @neo_inversion" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/c80dc7ebcbc762173b4a7b021469f09f.jpeg"/></div><p class="text-VGSP_7Hj">@neo_inversion</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @financial_adviser_investor" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/BkDIpUrH5h5.jpg"/></div><p class="text-VGSP_7Hj">@financial_adviser_investor</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @erwinvonkunowsky" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/e8d0a5d0cff8cac8e0f7206fcfdc4150.jpg"/></div><p class="text-VGSP_7Hj">@erwinvonkunowsky</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @myrmidon_forex" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/81f273cd5ec5a6465a55f978c16e3148.jpg"/></div><p class="text-VGSP_7Hj">@myrmidon_forex</p></a><a class="card-VGSP_7Hj card-lYFsWV_q" href="/wall-of-love/"><div class="imageWrapper-VGSP_7Hj"><img alt="TradingView Chart on Instagram @mytradingsetup" class="image-VGSP_7Hj" loading="lazy" src="https://s3.tradingview.com/wall-of-love/9e05288ead6c8c05690eb83b76b05109.jpg"/></div><p class="text-VGSP_7Hj">@mytradingsetup</p></a><div class="scrollBtnWrapper-APMWwIwq internal-APMWwIwq"><div class="scrollButtonCircleRight-pQro3hO5 scrollBtn-APMWwIwq rightScrollBtn-APMWwIwq isVisible-pQro3hO5"><svg height="16" viewbox="0 0 10 16" width="10" xmlns="http://www.w3.org/2000/svg"><path d="M.6 1.4l1.4-1.4 8 8-8 8-1.4-1.4 6.389-6.532-6.389-6.668z"></path></svg></div></div><div class="intersectionZone-yQFIuIHW intersectionZone-APMWwIwq internal-APMWwIwq"><span class="intersectionDetector-yQFIuIHW right-yQFIuIHW" style="width: 1px;"></span></div><div class="offsetZone-APMWwIwq internal-APMWwIwq"></div></div></div></div><div class="action-lYFsWV_q"><a class="round-button-FujgyDpN color-gray-FujgyDpN variant-secondary-FujgyDpN size-xxlarge-FujgyDpN link-FujgyDpN" href="/wall-of-love/"><span class="content-FujgyDpN">Explore the world</span></a></div></div><div class="container-dLEINtrh mainSectionBlock-S4Rfo8od"><h2 class="title-dLEINtrh blockTitleContainer-S4Rfo8od">Our code of honor</h2><p class="subtitle-dLEINtrh blockTitleContainer-S4Rfo8od">To live up to that mission, we've made three principles that<br/>all our teams swear by:</p><div class="content-dLEINtrh cards-HDv7mJSy"><div class="cardsWrapper-HDv7mJSy"><div class="cardsItem-HDv7mJSy"><span aria-hidden="true" class="cardsIcon-HDv7mJSy" role="img"><svg height="106" viewbox="0 0 105 106" width="105" xmlns="http://www.w3.org/2000/svg"><path d="M75.4 13.1a111.87 111.87 0 0 0-18.85 11.89c4.34 3.2 8.7 6.95 12.9 11.15 4.2 4.2 7.95 8.56 11.16 12.9 5.08-6.64 9.1-13.06 11.89-18.84 2.56-5.31 3.98-9.87 4.31-13.43.35-3.58-.44-5.53-1.45-6.54-1-1-2.95-1.8-6.54-1.45-3.55.34-8.11 1.75-13.43 4.32zm-3.48-7.2c-6.96 3.35-14.6 8.24-22.35 14.38a70.31 70.31 0 0 0-9.37-4.83c-4.6-1.92-9.1-3.08-13.14-3.14-4.07-.06-8.03 1-10.95 3.92-2.92 2.91-3.98 6.88-3.92 10.94.06 4.05 1.22 8.54 3.14 13.14a70.31 70.31 0 0 0 4.84 9.38c-6.14 7.75-11.04 15.39-14.4 22.34C3 77.82 1.18 83.33.7 88.18c-.46 4.8.39 9.58 3.76 12.95 3.37 3.38 8.15 4.22 12.96 3.76 4.84-.46 10.36-2.28 16.14-5.07 6.96-3.36 14.6-8.25 22.35-14.4a70.3 70.3 0 0 0 9.37 4.84c4.6 1.92 9.1 3.08 13.14 3.14 4.07.06 8.03-1 10.95-3.92 2.92-2.91 3.98-6.88 3.92-10.94-.06-4.05-1.22-8.54-3.14-13.14a70.3 70.3 0 0 0-4.84-9.38c6.14-7.75 11.04-15.39 14.4-22.34 2.78-5.79 4.6-11.3 5.07-16.15.46-4.8-.39-9.58-3.76-12.95C97.65 1.2 92.87.36 88.06.82c-4.84.46-10.36 2.28-16.14 5.07zm-49.2 31.33a58.5 58.5 0 0 0 2.9 5.92 186.63 186.63 0 0 1 17.41-17.42 58.47 58.47 0 0 0-5.92-2.9c-4.03-1.68-7.48-2.48-10.17-2.52-2.68-.04-4.26.66-5.17 1.57-.92.92-1.62 2.5-1.58 5.18.04 2.69.84 6.14 2.52 10.17zM39.7 39.8a177.02 177.02 0 0 0-9.62 10.4c3.19 4.53 7.09 9.18 11.6 13.7 4.53 4.52 9.17 8.41 13.7 11.6A177.02 177.02 0 0 0 75.4 55.5 105.42 105.42 0 0 0 63.8 41.8a105.42 105.42 0 0 0-13.7-11.6 177.07 177.07 0 0 0-10.4 9.61zm-26.72 35.7c2.79-5.77 6.81-12.2 11.9-18.84 3.2 4.34 6.95 8.7 11.15 12.9 4.2 4.2 8.56 7.94 12.9 11.15a111.86 111.86 0 0 1-18.84 11.9c-5.32 2.56-9.88 3.97-13.43 4.31-3.59.34-5.53-.44-6.54-1.45-1.01-1.01-1.8-2.96-1.46-6.54.34-3.56 1.76-8.11 4.32-13.43zm55.39 7.37c-1.9-.8-3.88-1.76-5.93-2.9a186.59 186.59 0 0 0 17.42-17.42 58.48 58.48 0 0 1 2.9 5.92c1.69 4.03 2.49 7.48 2.53 10.18.04 2.67-.66 4.25-1.58 5.17-.91.91-2.5 1.61-5.17 1.57-2.7-.04-6.14-.84-10.17-2.52zM52.6 58a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" fill="currentColor" fill-rule="evenodd"></path></svg></span><h3 class="cardsTitle-HDv7mJSy">Our users are<br/> our investors</h3><p class="cardsText-HDv7mJSy">We make most of our money only through low cost monthly subscriptions and ads. We don't care if you trade or not. For us, objectivity is excellence.</p></div><div class="cardsItem-HDv7mJSy"><span aria-hidden="true" class="cardsIcon-HDv7mJSy" role="img"><svg height="103" viewbox="0 0 108 103" width="108" xmlns="http://www.w3.org/2000/svg"><path d="M105.86 5.26l-.53-2.56-2.57-.54-3.74-.78A49 49 0 0 0 54.37 14.7L42.49 26.58a19 19 0 0 0-24.6 1.94L5.13 41.26l5.66 5.66 12.74-12.74a11 11 0 0 1 13.17-1.82L12.7 56.37 9.87 59.2l2.83 2.83 6.1 6.1c-.28.12-.57.25-.84.4-4.29 2.19-7.44 6.63-9.68 10.77A75.28 75.28 0 0 0 3.1 91.85a95.6 95.6 0 0 0-1.71 6.07l-.02.1-.01.02v.01l3.9.9-3.9-.9-1.12 4.9h5.02c7.62 0 18.9-2.63 26.33-7.43 2.85-1.84 5.62-4.32 7.1-7.51l7.3 7.32 2.84 2.82 2.83-2.82 24-24.01a11 11 0 0 1-1.81 13.16L61.1 97.23l5.66 5.65L79.5 90.14a19 19 0 0 0 1.94-24.6l11.88-11.88A49 49 0 0 0 106.64 9l-.78-3.74zM33.83 71.84c.55.5 1.06 1.02 1.54 1.55l13.46 13.45L87.67 48A41 41 0 0 0 98.8 10.64l-.24-1.18-1.18-.25a41 41 0 0 0-37.37 11.15L21.18 59.2l12.65 12.64zm-5.77 5.57l.23.2 1.06 1.07.3.3c2.08 2.31 2.21 3.87 2.06 4.74-.23 1.34-1.47 3.14-4.46 5.08-4.41 2.85-10.93 4.87-16.6 5.71l.08-.23a67.38 67.38 0 0 1 4.6-11.17c2.05-3.82 4.24-6.42 6.27-7.46a3.9 3.9 0 0 1 2.58-.44c.9.16 2.2.71 3.88 2.2zM76.6 36a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" fill="currentColor" fill-rule="evenodd"></path></svg></span><h3 class="cardsTitle-HDv7mJSy">It's not charts,<br/> it's freedom</h3><p class="cardsText-HDv7mJSy">We never lose sight of the fact that millions of traders invest their hard-won capital based on what they see on our platform. The better we do, the better you can do.</p></div><div class="cardsItem-HDv7mJSy"><span aria-hidden="true" class="cardsIcon-HDv7mJSy" role="img"><svg height="120" viewbox="0 0 121 120" width="121" xmlns="http://www.w3.org/2000/svg"><path d="M.6 0h120v120H.6z" fill="none"></path><path d="M72.43 55.16L57.92 97.43a28.22 28.22 0 1 1-35.26-33.7l43.48-14.87L77.56 15.6a21.6 21.6 0 0 1 42.04 7.01v.58c0 9.49-6.03 17.92-15 20.99l-32.17 11zm-41.95 55.89c9.62 0 17.67-6.72 19.71-15.72l.02-.09A20.21 20.21 0 0 0 25 71.37l-1.76.6v-.01a20.22 20.22 0 0 0 7.23 39.09zm12.13-45.7a28.33 28.33 0 0 1 13.3 13.27l6.94-20.18-20.24 6.92zM75.72 45.6L102 36.6a14.18 14.18 0 0 0 9.6-13.42v-.58a13.6 13.6 0 0 0-26.47-4.41l-9.41 27.4zM97.6 29a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" fill="currentColor"></path></svg></span><h3 class="cardsTitle-HDv7mJSy">Finance<br/> should be social</h3><p class="cardsText-HDv7mJSy">For us, open discussion and self-expression are the greatest keys to unlocking understanding, so we've set out to build the best finance platform with a strong social network at its core.</p></div></div></div></div><div class="container-dLEINtrh container-IHyhbNoF mainSectionBlock-S4Rfo8od"><h2 class="title-dLEINtrh blockTitleContainer-S4Rfo8od">On every street</h2><p class="subtitle-dLEINtrh subtitle-IHyhbNoF blockTitleContainer-S4Rfo8od">We're used in pretty much every town and city, everywhere. And when you’re operating on that level, you better make damn sure you’ve got only the best data.</p><div class="content-dLEINtrh contentContainer-IHyhbNoF"><div class="mainContainer-q8e7RgIt"><div class="mainVideoContainer-q8e7RgIt videoContainer-xxzl6pH_"><button aria-label="Pause" class="actionButton-q8e7RgIt" type="button"><span aria-hidden="true" class="actionIcon-q8e7RgIt" role="img"><svg height="17" viewbox="0 0 17 17" width="17" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 1H4v15h1.5V1ZM13 1h-1.5v15H13V1Z" fill="currentColor"></path></svg></span></button><video autoplay="" class="mainVideo-q8e7RgIt video-xxzl6pH_" loop="" muted="" playsinline="" poster="https://static.tradingview.com/static/bundles/market-board-cover.0add8cdc56807cac662a.webp"><source src="https://static.tradingview.com/static/bundles/market-board.hvc1.3706e68d81807dfc0a23.mp4" type="video/mp4;codecs=hvc1.1.0.L150.b0"/><source src="https://static.tradingview.com/static/bundles/market-board.72facd62173bd605dc9c.webm" type="video/webm"/><source src="https://static.tradingview.com/static/bundles/market-board.avc1.55d303c0f1c23301b2b0.mp4" type="video/webm;codecs=avc1"/></video></div></div><div class="container-DggMRW2b imagesBlock-xxzl6pH_"><div class="textContainer-DggMRW2b"><div class="textBlockTitle-DggMRW2b">Say hello, Wall St✌️</div><div class="textBlockText-DggMRW2b">Top-grade information makes a world of difference to a trader. That's why we work with the best institutional data partners on the world's most famous street, and far far beyond it.</div></div><div class="imageContainer-DggMRW2b"><img class="image-DggMRW2b animation-DggMRW2b" src="https://static.tradingview.com/static/bundles/1_image.074b3c40bab9c5462c44.jpg"/><img class="image-DggMRW2b animation-DggMRW2b hidden-DggMRW2b" src="https://static.tradingview.com/static/bundles/2_image.30e1677b050aa10dca87.jpg"/><img class="image-DggMRW2b animation-DggMRW2b hidden-DggMRW2b" src="https://static.tradingview.com/static/bundles/3_image.6f3ed90e794f0142113c.jpg"/><img class="image-DggMRW2b animation-DggMRW2b hidden-DggMRW2b" src="https://static.tradingview.com/static/bundles/4_image.890fb4a8e623fdd951f8.jpg"/></div><div class="sliderCtrl-DggMRW2b"><button class="round-button-FujgyDpN color-gray-FujgyDpN variant-secondary-FujgyDpN size-xlarge-FujgyDpN icon-only-FujgyDpN withEndSlot-FujgyDpN"><span class="slot-FujgyDpN endSlot-FujgyDpN"><span aria-hidden="true" class="icon-CGA58Ar7" role="img"><svg height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg"><path d="m8.88 14 7.06 7.06 2.12-2.12L13.12 14l4.94-4.94-2.12-2.12L8.88 14Z" fill="currentColor"></path></svg></span></span></button><div class="text-CGA58Ar7">1 / 4</div><button class="rightControl-CGA58Ar7 round-button-FujgyDpN color-gray-FujgyDpN variant-secondary-FujgyDpN size-xlarge-FujgyDpN icon-only-FujgyDpN withEndSlot-FujgyDpN"><span class="slot-FujgyDpN endSlot-FujgyDpN"><span aria-hidden="true" class="icon-CGA58Ar7" role="img"><svg height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg"><path d="m19.12 14-7.06 7.06-2.12-2.12L14.88 14 9.94 9.06l2.12-2.12L19.12 14Z" fill="currentColor"></path></svg></span></span></button></div></div></div></div><div class="container-dLEINtrh mainSectionBlock-S4Rfo8od"><h2 class="title-dLEINtrh blockTitleContainer-S4Rfo8od">Built for risk-takers</h2><p class="subtitle-dLEINtrh blockTitleContainer-S4Rfo8od">We support some of the world's best athletes because a. they're kick-ass and b. they know a thing or two about calculated risk and reward — just like our users.</p><div class="content-dLEINtrh contentContainer-dGj7Fwkn"><a class="learnMoreBtn-dGj7Fwkn round-button-FujgyDpN color-gray-FujgyDpN variant-secondary-FujgyDpN size-xxlarge-FujgyDpN link-FujgyDpN" href="/athletes/"><span class="content-FujgyDpN">Read more on our athletes</span></a><div class="athleteCards-dGj7Fwkn"><div class="athleteCardsWrapper-dGj7Fwkn"><div><div class="alexCard-dGj7Fwkn"></div><p class="athleteCardDescription-dGj7Fwkn">Alex Honnold</p><p class="athleteCardLink-dGj7Fwkn"><a class="colorUnderlineLink-dGj7Fwkn" href="/u/AlexHonnold/">See Alex's profile</a></p></div><div><div class="caiteCard-dGj7Fwkn"></div><p class="athleteCardDescription-dGj7Fwkn">Caite Zeliff</p><p class="athleteCardLink-dGj7Fwkn"><a class="colorUnderlineLink-dGj7Fwkn" href="/u/CaiteZeliff/">See Caite's profile</a></p></div><div><div class="leoCard-dGj7Fwkn"></div><p class="athleteCardDescription-dGj7Fwkn">Leo Houlding</p><p class="athleteCardLink-dGj7Fwkn"><a class="colorUnderlineLink-dGj7Fwkn" href="/u/LeoHoulding/">See Leo's profile</a></p></div></div></div></div></div><div class="helpCenterLinksWrapper-S4Rfo8od"><p class="helpCenterDescription-S4Rfo8od">Need technical support?</p><p class="helpCenterDescription-S4Rfo8od">Use our <a class="contactsLink-S4Rfo8od colorUnderlineLink-S4Rfo8od" href="/support/">help center</a></p><p class="helpCenterDescription-S4Rfo8od">You have a business inquiry?</p><p class="helpCenterDescription-S4Rfo8od">Check our <a class="contactsLink-S4Rfo8od colorUnderlineLink-S4Rfo8od" href="/HTML5-stock-forex-bitcoin-charting-library/">solutions</a> for websites &amp; brokers</p></div><div class="links-S4Rfo8od"><div class="linksWrapper-S4Rfo8od"><div class="linkItem-r3XBCJxi" tabindex="0"><div class="linkIco-r3XBCJxi"><img class="icon-r3XBCJxi" src="https://static.tradingview.com/static/bundles/eye.5f653c43360f33096850.svg"/><img class="blurIcon-r3XBCJxi" src="https://static.tradingview.com/static/bundles/eye.5f653c43360f33096850.svg"/></div><div class="linkIcoBold-r3XBCJxi"><img class="icon-r3XBCJxi" src="https://static.tradingview.com/static/bundles/eye-bold.249424e6b8bf2064f9ac.svg"/><img class="blurIcon-r3XBCJxi" src="https://static.tradingview.com/static/bundles/eye-bold.249424e6b8bf2064f9ac.svg"/></div><h3 class="linkTitle-r3XBCJxi">Explore our features</h3><p class="linkContent-r3XBCJxi">Learn more about our full range of powerful features including the best charts on the web.</p><div class="linkGoTo-r3XBCJxi">Explore features<span aria-hidden="true" class="linkGoToIco-r3XBCJxi" role="img"><svg height="15" viewbox="0 0 9 15" width="9" xmlns="http://www.w3.org/2000/svg"><path d="m8.91 7.54-6.7 6.7-1.42-1.4 5.3-5.3-5.3-5.3L2.2.85l6.71 6.7Z" fill="currentColor"></path></svg></span></div></div><div class="linkItem-r3XBCJxi" tabindex="0"><div class="linkIco-r3XBCJxi"><img class="icon-r3XBCJxi" src="https://static.tradingview.com/static/bundles/power.90f6a0650b358033428c.svg"/><img class="blurIcon-r3XBCJxi" src="https://static.tradingview.com/static/bundles/power.90f6a0650b358033428c.svg"/></div><div class="linkIcoBold-r3XBCJxi"><img class="icon-r3XBCJxi" src="https://static.tradingview.com/static/bundles/power-bold.07c39ad30a6150bf894a.svg"/><img class="blurIcon-r3XBCJxi" src="https://static.tradingview.com/static/bundles/power-bold.07c39ad30a6150bf894a.svg"/></div><h3 class="linkTitle-r3XBCJxi">Power up your plan</h3><p class="linkContent-r3XBCJxi">Upgrade your trades with a range of extra features, suitable for all types of analysis and levels of experience.</p><div class="linkGoTo-r3XBCJxi">Take a look<span aria-hidden="true" class="linkGoToIco-r3XBCJxi" role="img"><svg height="15" viewbox="0 0 9 15" width="9" xmlns="http://www.w3.org/2000/svg"><path d="m8.91 7.54-6.7 6.7-1.42-1.4 5.3-5.3-5.3-5.3L2.2.85l6.71 6.7Z" fill="currentColor"></path></svg></span></div></div></div></div></div></div></div></div>
+</div> <!-- render_css_bundle('tv_footer') -->
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/37793.e262259c6bc51b225b11.css" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://static.tradingview.com/static/bundles/9555.cd07fe1a85699ad0b14f.css" rel="stylesheet" type="text/css"/>
+<hr aria-hidden="true" class="tv-footer-separator"/>
+<footer class="tv-footer js-footer">
+<div class="tv-footer__container">
+<div class="tv-footer__row">
+<div class="tv-footer__logo-socials">
+<a aria-label="TradingView main page" class="tv-footer-logo js-footer-logo" href="/"></a>
+<ul class="tv-footer-socials"><li class="tv-footer-socials__item">
+<a aria-label="TradingView on Twitter" class="tv-footer-socials__icon tv-footer-socials__icon--x-twitter" href="https://twitter.com/tradingview/" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/x-twitter-color-off.svg#x-twitter"></use></svg>
+</a>
+</li><li class="tv-footer-socials__item">
+<a aria-label="TradingView on Facebook" class="tv-footer-socials__icon tv-footer-socials__icon--facebook" href="https://www.facebook.com/tradingview/" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/facebook-color-off.svg#facebook"></use></svg>
+</a>
+</li><li class="tv-footer-socials__item">
+<a aria-label="TradingView on YouTube" class="tv-footer-socials__icon tv-footer-socials__icon--youtube" href="https://www.youtube.com/@TradingView" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/youtube-color-off.svg#youtube"></use></svg>
+</a>
+</li><li class="tv-footer-socials__item">
+<a aria-label="TradingView on Instagram" class="tv-footer-socials__icon tv-footer-socials__icon--instagram" href="https://www.instagram.com/tradingview/" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/instagram-color-off.svg#instagram"></use></svg>
+</a>
+</li><li class="tv-footer-socials__item">
+<a aria-label="TradingView on Telegram" class="tv-footer-socials__icon tv-footer-socials__icon--telegram" href="https://t.me/tradingview/" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/telegram-color-off.svg#telegram"></use></svg>
+</a>
+</li><li class="tv-footer-socials__item">
+<a aria-label="TradingView on TikTok" class="tv-footer-socials__icon tv-footer-socials__icon--tiktok" href="https://www.tiktok.com/@tradingview/" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/tiktok-color-off.svg#tiktok"></use></svg>
+</a>
+</li><li class="tv-footer-socials__item">
+<a aria-label="TradingView on Reddit" class="tv-footer-socials__icon tv-footer-socials__icon--reddit" href="https://www.reddit.com/r/TradingView/" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/reddit-color-off.svg#reddit"></use></svg>
+</a>
+</li><li class="tv-footer-socials__item">
+<a aria-label="TradingView on Discord" class="tv-footer-socials__icon tv-footer-socials__icon--discord" href="https://discord.com/invite/tradingview-641192799211094016" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/discord-color-off.svg#discord"></use></svg>
+</a>
+</li><li class="tv-footer-socials__item">
+<a aria-label="TradingView on LinkedIn" class="tv-footer-socials__icon tv-footer-socials__icon--linkedin" href="https://www.linkedin.com/company/tradingview/" rel="nofollow" target="_blank">
+<svg height="28" width="28" xmlns="http://www.w3.org/2000/svg"><use href="/static/bundles/ui-lib/icons/28px-filled/social-icons/linkedin-color-off.svg#linkedin"></use></svg>
+</a>
+</li></ul>
+<button aria-expanded="false" aria-haspopup="true" aria-label="Open language menu" class="tv-footer__language-button js-footer-language-button" translate="no" type="button">
+<svg height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg"><path d="M12.1 4.69a9.54 9.54 0 0 1 3.8 0c.52 1.13.95 2.65 1.23 4.42a12.5 12.5 0 0 1-6.26 0c.28-1.77.71-3.29 1.23-4.42Zm-1.84.57a9.52 9.52 0 0 0-3.04 2.08c.63.51 1.38.95 2.2 1.3.22-1.25.5-2.39.84-3.38Zm-1.05 4.9c-1.1-.42-2.1-.98-2.95-1.67a9.46 9.46 0 0 0 0 11.03c.86-.68 1.86-1.24 2.96-1.66a33.91 33.91 0 0 1 0-7.7Zm.22 9.23c-.82.34-1.56.78-2.2 1.28a9.52 9.52 0 0 0 3.03 2.07 21.2 21.2 0 0 1-.83-3.35Zm2.67 3.92a17.46 17.46 0 0 1-1.23-4.4 12.2 12.2 0 0 1 6.26 0 17.46 17.46 0 0 1-1.23 4.4 9.54 9.54 0 0 1-3.8 0Zm5.64-.57a9.52 9.52 0 0 0 3.03-2.07 9.62 9.62 0 0 0-2.2-1.28 21.2 21.2 0 0 1-.83 3.35Zm1.04-4.88c1.1.42 2.1.98 2.95 1.66a9.46 9.46 0 0 0 .01-11.03c-.85.7-1.85 1.25-2.95 1.67a33.93 33.93 0 0 1 0 7.7Zm-1.45-7.25a14.06 14.06 0 0 1-6.66 0 32.64 32.64 0 0 0 0 6.8 13.74 13.74 0 0 1 6.66 0 32.62 32.62 0 0 0 0-6.8Zm1.24-1.98a9.1 9.1 0 0 0 2.2-1.29 9.52 9.52 0 0 0-3.03-2.08c.34 1 .62 2.13.83 3.37ZM14 3a11 11 0 1 0 0 22 11 11 0 0 0 0-22Z" fill="currentColor" fill-rule="evenodd"></path></svg>
+	English
+	<span class="tv-footer__drop-arrow"><svg height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M3.92 7.83 9 12.29l5.08-4.46-1-1.13L9 10.29l-4.09-3.6-.99 1.14Z" fill="currentColor"></path></svg></span>
+</button> </div>
+<div class="tv-footer-links">
+<div class="tv-footer-links__row-group">
+<div class="tv-footer-links-column">
+<span class="tv-footer-links-column__title">Products</span>
+<ul class="tv-footer-links-column__list">
+<li>
+<a class="tv-footer-links-column__link" href="/chart/">
+					Supercharts
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html" target="_blank">
+					Pine Script™
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/screener/">
+					Stock Screener
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/etf-screener/">
+					ETF Screener
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/forex-screener/">
+					Forex Screener
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/crypto-coins-screener/">
+					Crypto Coins Screener
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/crypto-screener/">
+					Crypto Pairs Screener
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/dex-screener/">
+					DEX Pairs Screener
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/heatmap/stock/">
+					Stock Heatmap
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/heatmap/etf/">
+					ETF Heatmap
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/heatmap/crypto/">
+					Crypto Heatmap
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/economic-calendar/">
+					Economic Calendar
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/markets/stocks-usa/earnings/">
+					Earnings Calendar
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/sparks/">
+					Sparks
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/news/">
+					News
+				</a>
+</li>
+<li class="i-hidden-on-tvdesktop">
+<a class="tv-footer-links-column__link js-footer-trading-view-desktop-link" href="/desktop/">
+					TradingView Desktop
+				</a>
+</li>
+<li class="i-hidden-on-tvdesktop">
+<a class="tv-footer-links-column__link js-footer-trading-view-desktop-link" href="/mobile/">
+					Mobile app
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/cme/">
+					CME Group futures
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/eurex/">
+					Eurex futures
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/us-markets-bundle/">
+					US stocks bundle
+				</a>
+</li>
+</ul>
+</div>
+<div class="tv-footer-links-column">
+<span class="tv-footer-links-column__title">Company</span>
+<ul class="tv-footer-links-column__list">
+<li>
+<a class="tv-footer-links-column__link tv-footer-links-column__link--active" href="/about/">
+					About
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/features/">
+					Features
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/pricing/?source=footer&amp;feature=pricing">
+					Pricing
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/social-network/">
+					Social network
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/wall-of-love/">
+					Wall of Love
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/athletes/">
+					Athletes
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/manifesto/">
+					Manifesto
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/careers/">
+					Careers
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="https://www.tradingview.com/blog/en/" target="_blank">
+					Blog
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/bounty/">
+					Security vulnerability
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="https://status.tradingview.com/" target="_blank">
+					Status page
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/policies/">
+					Terms of use
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/disclaimer/">
+					Disclaimer
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/privacy-policy/">
+					Privacy policy
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/cookies-policy/">
+					Cookies policy
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/media-kit/">
+					Media kit
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/accessibility/">
+					Accessibility statement
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/tarot-reading/">
+					Tarot cards for traders
+				</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tv-footer-links__row-group">
+<div class="tv-footer-links-column">
+<span class="tv-footer-links-column__title">Community</span>
+<ul class="tv-footer-links-column__list">
+<li>
+<a class="tv-footer-links-column__link" href="/share-your-love/?source=footer&amp;feature=refer_friend">
+					Refer a friend
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/ideas/">
+					Ideas
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/scripts/">
+					Scripts
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/house-rules/">
+					House rules
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/moderators/">
+					Moderators
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/pine-wizards/">
+					Pine Script™ Wizards
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/chat/" target="_blank">
+					Chat
+				</a>
+</li>
+</ul>
+</div>
+<div class="tv-footer-links-column">
+<span class="tv-footer-links-column__title">For business</span>
+<ul class="tv-footer-links-column__list">
+<li>
+<a class="tv-footer-links-column__link" href="/widget/">
+					Widgets
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/advertising-info/">
+					Advertising
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/HTML5-stock-forex-bitcoin-charting-library/">
+					Charting libraries
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/lightweight-charts/">
+					Lightweight Charts™
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/advanced-charts/">
+					Advanced Charts
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/trading-platform/">
+					Trading Platform
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/brokerage-integration/">
+					Brokerage integration
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/partner-program/">
+					Partner program
+				</a>
+</li>
+<li>
+<a class="tv-footer-links-column__link" href="/students/">
+					Education program
+				</a>
+</li>
+</ul>
+</div>
+</div>
+</div></div>
+<div class="tv-footer__markets-copyright">
+<div class="tv-footer-markets">
+<div class="tv-footer-markets__row-group">
+<a class="tv-footer-markets__link js-footer-markets-link i-hidden-on-tvdesktop" data-platform="ios" href="https://itunes.apple.com/us/app/tradingview-trading-community-charts-and-quotes/id1205990992?pt=118302550&amp;ct=footer" rel="nofollow" target="_blank">
+<img alt="Download on the App Store" class="tv-footer-markets__icon" loading="lazy" src="https://static.tradingview.com/static/images/svg/app-store-badge/light-theme/app-store-badge-en.svg"/>
+<img alt="Download on the App Store" class="tv-footer-markets__icon--dark" loading="lazy" src="https://static.tradingview.com/static/images/svg/app-store-badge/dark-theme/app-store-badge-en.svg"/>
+</a>
+<a class="tv-footer-markets__link js-footer-markets-link i-hidden-on-tvdesktop" data-platform="android" href="https://play.google.com/store/apps/details?id=com.tradingview.tradingviewapp&amp;referrer=utm_source%3Dtradingview%26utm_medium%3Dgplay_footer" rel="nofollow" target="_blank">
+<img alt="Get it on Google Play" class="tv-footer-markets__icon" loading="lazy" src="https://static.tradingview.com/static/images/svg/google-play-badge/light-theme/google-play-badge-en.svg"/>
+<img alt="Get it on Google Play" class="tv-footer-markets__icon--dark" loading="lazy" src="https://static.tradingview.com/static/images/svg/google-play-badge/dark-theme/google-play-badge-en.svg"/>
+</a>
+</div>
+<div class="tv-footer-markets__row-group">
+<a class="tv-footer-markets__link js-footer-markets-link i-hidden-on-tvdesktop" data-platform="desktop" href="/desktop/">
+<img alt="Download Desktop app" class="tv-footer-markets__icon" loading="lazy" src="https://static.tradingview.com/static/images/svg/app-desktop-badge/light-theme/app-desktop-badge-en.svg"/>
+<img alt="Download Desktop app" class="tv-footer-markets__icon--dark" loading="lazy" src="https://static.tradingview.com/static/images/svg/app-desktop-badge/dark-theme/app-desktop-badge-en.svg"/>
+</a>
+<a class="tv-footer-markets__link js-footer-markets-link" href="/brokers/">
+<img alt="Trade on TradingView" class="tv-footer-markets__icon" loading="lazy" src="https://static.tradingview.com/static/images/svg/trade-on-tradingview-badges/light-theme/trade-on-tradingview-badges-en.svg"/>
+<img alt="Trade on TradingView" class="tv-footer-markets__icon--dark" loading="lazy" src="https://static.tradingview.com/static/images/svg/trade-on-tradingview-badges/dark-theme/trade-on-tradingview-badges-en.svg"/>
+</a>
+</div>
+</div>
+<div class="tv-footer-copyright">
+<span>
+		Select market data provided <span class="i-no-break">by		<a class="tv-footer-copyright__link" href="https://www.theice.com/market-data" rel="nofollow" target="_blank">ICE Data Services</a>
+</span> </span>
+<span class="tv-footer-copyright__date">© 2024 TradingView, Inc.</span>
+</div></div>
+</div>
+</footer> </div>
+
+
+<meta content="prod-frontend-web-a-19" name="tv:server-name"/><div class="aria-live-regions-wrapper" id="aria-live-regions-wrapper">
+<div aria-live="polite" aria-relevant="additions"></div>
+<div aria-live="polite" aria-relevant="additions"></div>
+<div aria-live="assertive" aria-relevant="additions"></div>
+<div aria-live="assertive" aria-relevant="additions"></div>
+</div>
+<div id="tooltip-root-element"></div><div class="overlap-manager-container-txdnDvZo" data-role="toast-container" style="position: fixed; z-index: 145; bottom: 0px;"></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website tradingview.com . It is in the url https://www.tradingview.com/about/ and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female", "username": "authorization_thesis", "credit_card": "5309770043661649 05/25 725", "address street": "Rua Dr. Roberto Frias s/n", "state": "Porto", "city": "Porto", "zip_code": "4200-065"} Should this page be public to all users? Answer only with yes or no.

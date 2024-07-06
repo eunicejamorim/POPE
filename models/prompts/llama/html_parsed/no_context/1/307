@@ -1,0 +1,206 @@
+The following text is the html file of a webpage. <html class="no-touch" dir="ltr" lang="en-US"><head>
+<meta charset="utf-8"/>
+<!-- v24596 -->
+<title>Help</title>
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="" name="csrf-token"/>
+<link href="https://help.nytimes.com/hc/en-us" rel="canonical"/>
+<link href="https://help.nytimes.com/hc/en-us" hreflang="en-us" rel="alternate"/>
+<link href="https://help.nytimes.com/hc/en-us" hreflang="x-default" rel="alternate"/>
+<link href="//static.zdassets.com/hc/assets/application-a42a464885a505c24ac3b0ab35047489.css" id="stylesheet" media="all" rel="stylesheet"/>
+<!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+<link href="//static.zdassets.com/hc/assets/theming_v1_support-e05586b61178dcde2a13a3d323525a18.css" media="all" rel="stylesheet"/>
+<link href="/hc/theming_assets/968999/987838/style.css?digest=26671958540308" rel="stylesheet" type="text/css"/>
+<link href="//theme.zdassets.com/theme_assets/968999/1965f56573cfa15ed817f84bf2248be1e2feee32.ico" rel="icon" type="image/x-icon"/>
+
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+<link href="https://a1.nyt.com/fonts/css/fonts.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+<!-- BEGIN AWS Chat pilot launch for Cancel Help and Contact Us pages -->
+<!-- Staging server -->
+<!-- <script src="https://customerchat.stg.nytimes.com/contact-us-ui/bundle.js"></script>
+  <script>
+	initContactUs({env: 'prd', chatApiHost: 'https://customerchat.stg.nytimes.com', chatUIHost: 'https://customerchat.stg.nytimes.com'})
+  </script> -->
+<!-- Staging server -->
+
+
+<!-- Localhost server  -->
+<!-- <script src="https://localhost:9999/bundle.js"></script>
+  <script>
+	initContactUs({env: 'prd', chatApiHost: 'http://localhost:6060', chatUIHost: 'http://localhost:6060'})
+  </script> -->
+<!-- <script src="https://localhost:9999/bundle.js"></script>
+  <script>
+	initContactUs({env: 'prd', chatApiHost: 'https://customerchat.nytimes.com', chatUIHost: 'https://customerchat.nytimes.com'})
+  </script> -->
+<!-- Widget JavaScript bundle -->
+
+<!-- Search widget element is not visible by default -->
+<link href="https://fonts.googleapis.com/css?family=Material+Symbols+Outlined&amp;display=block" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500" rel="stylesheet"/></head><body class="" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><div></div><div></div><gen-search-widget configid="bd982cc9-9954-4817-85c4-5b1175d5c7b8" triggerid="searchWidgetTrigger">
+</gen-search-widget>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" rel="stylesheet"/>
+
+<!-- START: Cancel Page tracking hook -->
+
+<!-- END: Cancel Page tracking hook -->
+
+<header class="header">
+<div class="new-times-logo">
+<a href="https://nytimes.com" title="Go to the New York Times homepage">
+<img alt="Logo" src="//theme.zdassets.com/theme_assets/968999/51caa74a53a7c7d938c23ab40a5941798a5ccb79.svg"/>
+</a>
+<div id="vertical-Line"> </div>
+<a class="help-center-title" href="/hc/en-us" title="Go to the New York Times help center page"> HELP CENTER</a>
+</div>
+<div class="header-links">
+<a href="https://myaccount.nytimes.com/seg/">Your Account</a> |
+	  <a href="https://www.nytimes.com/">NYTimes.com</a>
+</div>
+</header>
+<main role="main">
+<section class="new-homepage-hero">
+<h1 class="homepage-hero-title">How can we help you?</h1>
+<p class="new-homepage-hero-description">Find information here about our coverage, products, subscriptions and more.</p>
+<div id="homepage-search-container">
+<form accept-charset="UTF-8" action="/hc/en-us/search" class="search newSearch aiSummarizerSearch" data-search="" method="get" role="search"><input autocomplete="off" name="utf8" type="hidden" value="✓"/><input aria-label="Type a question, topic or keyword" id="top-homepage-searchbox" maxlength="50" name="query" placeholder="Type a question, topic or keyword" style="height: 44px; font-size: 16px; border-color: rgb(151, 151, 151);" type="search"/>
+<input name="commit" style="display: none;" type="submit" value="Search"/><button class="newSearchBox" type="submit">Go</button></form>
+</div>
+</section>
+<div class="newContainer container-padding">
+<section class="newSection">
+<div class="UH-card homepage_UHCard_Pading">
+<h2 class="center-topic-title">Here's how you can...</h2>
+<!-- This needs to be flex -->
+<div class="center-topics">
+<div class="left-home-page-links">
+<a class="anchorStyling" href="https://help.nytimes.com/hc/en-us/articles/4404994790804" target="_self"> <h3 class="accordionItem newAccordionHeading newListItem">Change Your Delivery Address</h3></a>
+<a class="anchorStyling" href="https://help.nytimes.com/hc/en-us/articles/360052335791" target="_self"> <h3 class="accordionItem newAccordionHeading newListItem">Reset Your Password</h3></a>
+<a class="anchorStyling" href="https://help.nytimes.com/hc/en-us/articles/360001418606" target="_self"> <h3 class="accordionItem newAccordionHeading newListItem disappearingLastItem">Report a Delivery Issue</h3></a>
+</div>
+<div class="right-home-page-links">
+<a class="anchorStyling" href="https://help.nytimes.com/hc/en-us/articles/4408046933012" target="_self"> <h3 class="accordionItem newAccordionHeading newListItem">Update Your Payment Information</h3></a>
+<a class="anchorStyling" href="https://help.nytimes.com/hc/en-us/articles/115010905707" target="_self"> <h3 class="accordionItem newAccordionHeading newListItem">Log in to Your Account</h3></a>
+<a class="anchorStyling" href="https://help.nytimes.com/hc/en-us/articles/360003499613" target="_self"> <h3 class="accordionItem newAccordionHeading newListItem newLast">Cancel Your Subscription</h3></a>
+</div>
+</div>
+</div>
+</section>
+<section class="topicSection">
+<h2 class="help-page-topics-title">Browse by Help topics</h2>
+<ul class="UH-card-list">
+<li class="UH-card-list-item">
+<a class="UH-card New-UH-card-link New-UH-card-topics-link-center UHCard-topics-padding" href="/hc/en-us/categories/115001711108-Account-Management">
+<h3 class="UH-card-link-title">Account Management </h3>
+</a>
+</li>
+<li class="UH-card-list-item">
+<a class="UH-card New-UH-card-link New-UH-card-topics-link-center UHCard-topics-padding" href="/hc/en-us/categories/115002055847-Digital-Access">
+<h3 class="UH-card-link-title">Digital Access</h3>
+</a>
+</li>
+<li class="UH-card-list-item">
+<a class="UH-card New-UH-card-link New-UH-card-topics-link-center UHCard-topics-padding" href="/hc/en-us/categories/115001549367-Products-and-Subscriptions">
+<h3 class="UH-card-link-title">Products and Subscriptions</h3>
+</a>
+</li>
+<li class="UH-card-list-item">
+<a class="UH-card New-UH-card-link New-UH-card-topics-link-center UHCard-topics-padding" href="/hc/en-us/categories/115002052408--Newsroom-and-Editorial">
+<h3 class="UH-card-link-title"> Newsroom and Editorial </h3>
+</a>
+</li>
+<li class="UH-card-list-item">
+<a class="UH-card New-UH-card-link New-UH-card-topics-link-center UHCard-topics-padding" href="/hc/en-us/categories/115001547468-Permissions-and-Policies">
+<h3 class="UH-card-link-title">Permissions and Policies</h3>
+</a>
+</li>
+<li class="UH-card-list-item">
+<a class="UH-card New-UH-card-link New-UH-card-topics-link-center UHCard-topics-padding" href="/hc/en-us/categories/115002052428-Contact-The-New-York-Times">
+<h3 class="UH-card-link-title">Contact The New York Times</h3>
+</a>
+</li>
+</ul>
+</section>
+<div class="UH-card first_article_container UHCard_Pading">
+<div class="article_top_left">
+<h2 class="articleSectionTitle">Don't see what you need?</h2>
+<p class="sectionDescription">Get started by entering your question:</p>
+</div>
+<div class="article_top_right">
+<form accept-charset="UTF-8" action="/hc/en-us/search" class="search newSearch aiSummarizerSearch" data-search="" method="get" role="search"><input autocomplete="off" name="utf8" type="hidden" value="✓"/><input aria-label="Type a question, topic or keyword" id="query" maxlength="50" name="query" placeholder="Type a question, topic or keyword" style="height: 44px; font-size: 16px; border-color: rgb(151, 151, 151);" type="search"/>
+<input name="commit" style="display: none;" type="submit" value="Search"/><button class="newSearchBox" type="submit">Go</button></form>
+<div id="commonTopic">COMMON TOPICS</div>
+<div class="first_article_links">
+<a class="sectionLinks" href="https://help.nytimes.com/hc/en-us/articles/115010905707" target="_self"><p class="sectionParagraph">Help logging in</p></a>
+<a class="sectionLinks" href="https://help.nytimes.com/hc/en-us/articles/4408046933012" target="_self"><p class="sectionParagraph">Update payment info</p></a>
+<a class="sectionLinks" href="https://help.nytimes.com/hc/en-us/articles/4404994790804" target="_self"><p class="sectionParagraph">Change delivery address</p></a>
+<a class="sectionLinks" href="https://help.nytimes.com/hc/en-us/articles/360001418606" target="_self"><p class="sectionParagraph">Report delivery problem </p></a>
+<a class="sectionLinks" href="https://help.nytimes.com/hc/en-us/articles/4413146685076" target="_self"><p class="sectionParagraph">Explain my bill</p></a>
+<a class="sectionLinks" href="https://help.nytimes.com/hc/en-us/articles/360003499613" target="_self"><p class="sectionParagraph">Cancel Subscription</p></a>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="footer">
+<div class="footer-inner">
+<nav>
+<ul class="copyright">
+<li>
+<a class="footerLink" href="https://help.nytimes.com/hc/en-us/articles/115014792127" itemprop="copyrightNotice">
+			  © <span id="copyrightYear" itemprop="copyrightYear">2024</span>
+<span itemid="http://www.nytimes.com" itemprop="copyrightHolder provider sourceOrganization" itemtype="http://schema.org/Organization">
+				 
+				<span itemprop="name">The New York Times Company</span>
+<meta content="NYSE NYT" itemprop="tickerSymbol"/></span>
+</a>
+</li>
+</ul>
+<ul class="footerNav">
+<li>
+<a href="https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us">Contact Us</a>
+</li>
+<li>
+<a href="https://www.nytco.com/careers/ " target="_blank">Work with us</a>
+</li>
+<li>
+<a href="https://nytmediakit.com/" target="_blank">Advertise</a>
+</li>
+<li>
+<a href="https://www.nytimes.com/privacy/privacy-policy#pp" target="_blank">Your Ad Choices</a>
+</li>
+<li>
+<a href="https://www.nytimes.com/privacy/privacy-policy" target="_blank">Privacy</a>
+</li>
+<li>
+<a href="https://help.nytimes.com/hc/en-us/articles/115014893428" target="_blank">Terms of Service</a>
+</li>
+<li>
+<a href="https://help.nytimes.com/hc/en-us/articles/115014893968" target="_blank">Terms of Sale</a>
+</li>
+<li>
+<a href="https://www.nytimes.com/sitemap/" target="_blank">Sitemap</a>
+</li>
+<li>
+<a href="/hc/en-us">Help</a>
+</li>
+<li>
+<a href="https://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW" target="_blank">Subscriptions</a>
+</li>
+</ul>
+</nav>
+</div>
+</footer>
+<!-- / -->
+
+
+
+
+
+<iframe height="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;" width="1"></iframe>
+
+ <textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe frameborder="0" height="60" name="a-rknj4k82crn" role="presentation" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" scrolling="no" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Le5-BQmAAAAAMs1Nbm38roKdHBAXiPEt1cd8xjf&amp;co=aHR0cHM6Ly9oZWxwLm55dGltZXMuY29tOjQ0Mw..&amp;hl=en&amp;v=joHA60MeME-PNviL59xVH9zs&amp;size=invisible&amp;cb=5c052mxdfom0" title="reCAPTCHA" width="256"></iframe></div><div class="grecaptcha-error"></div><textarea class="g-recaptcha-response" id="g-recaptcha-response-100000" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be public to all users? Answer only with yes or no.

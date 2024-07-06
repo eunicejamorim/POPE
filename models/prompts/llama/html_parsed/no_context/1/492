@@ -1,0 +1,566 @@
+The following text is the html file of a webpage. <html class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths yui3-js-enabled" lang="en-GB"><head><meta class="foundation-mq-small"/><meta class="foundation-mq-small-only"/><meta class="foundation-mq-medium"/><meta class="foundation-mq-medium-only"/><meta class="foundation-mq-large"/><meta class="foundation-mq-large-only"/><meta class="foundation-mq-xlarge"/><meta class="foundation-mq-xlarge-only"/><meta class="foundation-mq-xxlarge"/><meta class="foundation-data-attribute-namespace"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Elsevier" name="author"/>
+<meta content="07F3B1BE4722E46C4C133E84B660C733" name="msvalidate.01"/>
+<meta content="INDEX,FOLLOW,NOARCHIVE,NOODP,NOYDIR" name="robots"/>
+<meta content="Find FAQs that will quickly help to answer your questions aboutScienceDirect Support Center" name="description"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/euf/assets/themes/base/images/favicons/apple_touch_icon_180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/euf/assets/themes/base/images/favicons/favicon_192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/euf/assets/themes/base/images/favicons/favicon_160x160.png" rel="icon" sizes="160x160" type="image/png"/>
+<link href="/euf/assets/themes/base/images/favicons/favicon_96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/euf/assets/themes/base/images/favicons/favicon_16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/euf/assets/themes/base/images/favicons/favicon_32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<title>Home - ScienceDirect Support Center</title>
+<!--[if lt IE 9]><script src="/euf/core/static/html5.js"></script><![endif]-->
+<link href="/ci/browserSearch/desc/https%3A%2F%2Fservice.elsevier.com%2Fapp%2Fanswers%2Flist%2Fkw%2F%7BsearchTerms%7D/Home+Search/Home+Search/%2Feuf%2Fassets%2Fimages%2Ficons%2Ffavicon_browserSearchPlugin.ico" rel="search" title="Home Search" type="application/opensearchdescription+xml"/>
+
+<base href="https://service.elsevier.com/euf/generated/optimized/1717059983/themes/elsevier/"/>
+<link href="/euf/generated/optimized/1717059983/templates/elsevier.themes.elsevier.SITE.css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+<meta class="foundation-mq-topbar"/></head>
+<body class="yui-skin-sam yui3-skin-sam supporthub" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" id="yui_3_18_1_6_1717353533236_6"><div></div><p style="display:inline"><input id="rn_VirtualBufferUpdateTrigger" name="rn_VirtualBufferUpdateTrigger" type="hidden" value="1"/></p>
+<div class="rn_SkipLinks" id="rn_SkipLinks_5">
+<a class="accessibility-skip" data-skip="search" href="/app/home/supporthub/sciencedirect/#siteSearch">Skip to search</a>
+<a class="accessibility-skip" data-skip="content" href="/app/home/supporthub/sciencedirect/#mainContent">Skip to main content</a>
+</div>
+<div class="off-canvas-wrap" data-offcanvas="">
+<div class="inner-wrap push-row-first">
+<header class="gh-reduce-v-space" id="gh-cnt">
+<div class="u-flex-center-ver u-position-relative gh-sides-padding" id="gh-main-cnt">
+<a class="u-flex-center-ver" href="/app/home/supporthub/sciencedirect/" id="gh-branding">
+<img alt="Elsevier Logo" class="gh-logo" src="../base/header/tree.svg"/>
+<img alt="Product Wordmark" class="gh-wordmark" src="../base/header/sciencedirect_wordmark.svg"/>
+<!--            <div class="site-title">-->
+<!--                <span class="sh">Support Center</span>-->
+<!--            </div>-->
+</a>
+<div class="u-flex-center-ver" id="gh-nav-cnt">
+<nav aria-label="links" class="gh-nav gh-nav-links gh-nav-h">
+<ul class="gh-nav-list u-list-reset">
+<li class="gh-nav-item gh-move-to-spine">
+<a class="anchor button-link-primary gh-nav-action anchor-external-link" data-location="headerProductLink" href="https://www.sciencedirect.com/" target="_blank">
+<span class="anchor-text">
+                                    Visit ScienceDirect                                </span>
+</a>
+</li>
+<li class="gh-nav-item gh-has-dd gh-move-to-spine" data-location="globalHeaderHolder">
+<div class="gh-ppvr" id="rn_GlobalHeader_6_GlobalHeaderLanguageDiv">
+<div class="gh-ppvr-trigger">
+<button aria-expanded="false" class="button-link button-medium button-link-primary gh-nav-action" data-aa-button="menu:language-switch" id="rn_GlobalHeader_6_GlobalHeaderLanguageSwitch" role="button" tabindex="0" type="button">
+<span class="icon-gizmo-internet language-switch-globe"></span>
+<span class="button-link-text" data-location="currentLanguage">
+<span>Language | English</span>
+<span class="icon-gizmo-navigate-down language-switch-arrow"></span>
+</span>
+</button>
+</div>
+<div class="gh-ppvr-cnt gh-ppvr-right">
+<div class="gh-ppvr-arrow-cnt">
+<div class="gh-ppvr-arrow gh-arrow-right">
+<div class="u-position-relative">
+<div class="gh-ppvr-arrow-fill"></div>
+</div>
+</div>
+</div>
+<div class="gh-ppvr-cnt-inner">
+<ul class="gh-dd-nav">
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_en_GB" data-aa-region="aa-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/en_GB/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="headerLanguageItem_en_GB">
+                English            </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_ko_KR" data-aa-region="aa-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/ko_KR/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="headerLanguageItem_ko_KR">
+                한국어            </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_ja_JP" data-aa-region="aa-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/ja_JP/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="headerLanguageItem_ja_JP">
+                日本語            </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_zh_CN" data-aa-region="aa-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/zh_CN/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="headerLanguageItem_zh_CN">
+                简体中文            </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+<div class="gh-profile-container gh-move-to-spine header-account-link" data-location="accountAccessButton">
+<a class="button-link button-medium gh-nav-action" data-aa-name="Sign In | Register" data-aa-region="aa-sso-header-link" href="/cc/auth/signin?redirect=%2Fapp%2Fhome%2Fsupporthub%2Fsciencedirect%2F" id="gh-cta-btn">
+<span class="identity-link-text">Sign in | Register</span>
+</a>
+<span class="icon-gizmo-person identity-icon"></span>
+</div>
+<div class="" data-location="spineIconContainer" id="gh-mobile-menu">
+<div class="gh-hamburger u-fill-grey7 u-margin-left-m">
+<button aria-expanded="false" aria-label="Toggle mobile menu" class="button-link button-medium u-flex-center-ver button-link-primary" data-location="closedSpineIcon" type="button">
+<svg aria-hidden="true" class="gh-hamburger-svg-el gh-hamburger-closed" height="18" role="img" width="40">
+<path d="M0 14h40v2H0zm0-7h40v2H0zm0-7h40v2H0z"></path>
+</svg>
+</button>
+</div>
+<div class="u-overlay u-display-none" id="gh-overlay" role="button" tabindex="-1"></div>
+<div aria-label="Mobile menu" class="" id="gh-drawer" role="navigation">
+<header class="u-padding-s-xs text-s" id="gh-drawer-header">
+<div class="gh-hamburger u-margin-left-s">
+<button aria-expanded="true" aria-label="Toggle mobile menu" class="button-link button-medium u-flex-center-ver button-link-primary" type="button">
+<svg aria-hidden="true" class="gh-hamburger-open" height="20" role="img" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+<rect height="25.91" transform="translate(9.86 -4.29) rotate(45)" width="1.97" x="9.01" y="-2.95"></rect>
+<rect height="25.91" transform="translate(24 9.86) rotate(135)" width="1.97" x="9.01" y="-2.95"></rect>
+</svg>
+</button>
+</div>
+<div class="gh-dh-opt">
+<div>
+<div class="gh-dh-actions" data-location="accountAccessLinksNew">
+<a class="button-link button-medium button-link-secondary" data-aa-name="Sign In | Register" data-aa-region="aa-sso-spine-link" href="/cc/auth/signin?redirect=%2Fapp%2Fhome%2Fsupporthub%2Fsciencedirect%2F" type="button">
+<span class="button-link-text">
+                                        Sign in | Register                                    </span>
+</a>
+</div>
+</div>
+</div>
+</header>
+<div id="gh-mob-inst-cnt">
+</div>
+<nav aria-label="links" class="gh-nav gh-nav-links gh-nav-v">
+<ul class="gh-nav-list u-list-reset">
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action anchor-external-link" data-location="spineProductLink" href="https://www.sciencedirect.com/" target="_blank">
+<span class="anchor-text">
+                                        Visit ScienceDirect                                    </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-location="spineWhatsNew" href="/app/whats_new/supporthub/sciencedirect/">
+<span class="anchor-text">
+                                        New and updated FAQs                                    </span>
+</a>
+</li>
+<li class="gh-nav-item gh-has-dd">
+<h2 class="u-clr-grey4 u-margin-bottom-s gh-lbl">Language</h2>
+<ul class="gh-dd-nav u-margin-bottom-m">
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_en_GB" data-aa-region="aa-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/en_GB/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="spineLanguageItem_en_GB">
+                English            </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_ko_KR" data-aa-region="aa-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/ko_KR/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="spineLanguageItem_ko_KR">
+                한국어            </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_ja_JP" data-aa-region="aa-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/ja_JP/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="spineLanguageItem_ja_JP">
+                日本語            </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_zh_CN" data-aa-region="aa-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/zh_CN/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="spineLanguageItem_zh_CN">
+                简体中文            </span>
+</a>
+</li>
+</ul>
+</li>
+<li class="gh-nav-item">
+<h2 class="u-clr-grey4 u-margin-bottom-s gh-lbl">Categories</h2>
+<div class="rn_LeftNavigation-spine" id="rn_LeftNavigation_9">
+<nav class="spinecatlist" id="secondary-nav-spine">
+<ul class="not-enum side-nav-spine gh-dd-nav">
+<li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_1spine" href="/app/answers/list/c/10542/supporthub/sciencedirect/"><span class="anchor-text">Orders &amp; Renewals</span></a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_2spine" href="/app/answers/list/c/10543/supporthub/sciencedirect/"><span class="anchor-text">Access</span></a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_3spine" href="/app/answers/list/c/10544/supporthub/sciencedirect/"><span class="anchor-text">Onboarding</span></a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_4spine" href="/app/answers/list/c/10545/supporthub/sciencedirect/"><span class="anchor-text">Training</span></a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_5spine" href="/app/answers/list/c/10546/supporthub/sciencedirect/"><span class="anchor-text">Using the product</span></a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_6spine" href="/app/answers/list/c/10547/supporthub/sciencedirect/"><span class="anchor-text">Content</span></a></li> </ul>
+</nav>
+</div>
+</li>
+<li class="gh-nav-item">
+<h2 class="u-clr-grey4 u-margin-bottom-s gh-lbl">Contact Us</h2>
+<ul class="gh-dd-nav u-margin-bottom-m">
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" href="/app/contact/supporthub/sciencedirect/">
+<span class="anchor-text" data-location="spineContactOption_email">
+                                                    Email                                                </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" href="/app/phone/supporthub/sciencedirect/">
+<span class="anchor-text" data-location="spineContactOption_phone">
+                                                    Phone                                                </span>
+</a>
+</li>
+<li class="gh-nav-item">
+<a class="anchor button-link-primary gh-nav-action" data-location="leftNavContact_myinfo_Spine" href="/app/myinfo/supporthub/sciencedirect/">
+<span class="anchor-text">
+                                                    My Info                                                </span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="u-flex-center-ver gh-sides-padding gh-move-to-spine" id="gh-sub-header"></div>
+</header>
+<div class="gh-sides-padding">
+<h2>
+<a data-location="supportHubTitle" href="/app/home/supporthub/sciencedirect/" id="gh-site-title">
+            ScienceDirect Support Center        </a>
+</h2>
+</div>
+<div class="rn_UserInfoDialog rn_Hidden" id="rn_UserInfoDialog_10">
+<div id="rn_UserInfoDialog_10_UserInfoContent">
+<div id="rn_UserInfoDialog_10_UserInfoErrorMessage"></div>
+<p class="rn_UserInfoDescription" id="rn_UserInfoDialog_10_UserInfoDescription">To post social content, you must have a display name. The page will refresh upon submission. Any pending input will be lost.</p>
+<form id="rn_UserInfoDialog_10_UserInfoForm" onsubmit="return false;">
+<label class="rn_Label" for="rn_UserInfoDialog_10_DisplayName" id="rn_UserInfoDialog_10_DisplayName_Label">Display Name                <span aria-label="Required" class="rn_Required">
+    *</span> </label>
+<input autocapitalize="off" autocorrect="off" id="rn_UserInfoDialog_10_DisplayName" maxlength="80" name="CommunityUser.DisplayName" type="text"/>
+</form>
+</div>
+</div>
+<div class="row" id="rn_ContentLanguageSwitch_11">
+<div>
+<div class="row contentLanguageSwitchButton">
+<button aria-expanded="false" class="button-link button-medium button-link-primary gh-nav-action" data-aa-button="menu:content-language-switch" id="rn_ContentLanguageSwitch_11_ContentLanguageSwitch" role="button" tabindex="0" type="button">
+<span class="icon-gizmo-internet language-switch-globe"></span>
+<span class="button-link-text" data-location="currentLanguage">
+<span>Current Language | English</span>
+<span class="icon-gizmo-navigate-down language-switch-arrow" id="rn_ContentLanguageSwitch_11_Arrow"></span>
+</span>
+</button>
+</div>
+<div class="row justify-content-center contentLanguages rn_Hidden" id="rn_ContentLanguageSwitch_11_ContentLanguages">
+<div class="columns medium-8 medium-offset-2">
+<div class="row">
+<div class="contentLanguageItem columns medium-4">
+<a class="anchor button-link-primary gh-nav-action active" data-aa-name="LanguageItem_en_GB" data-aa-region="aa-content-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/en_GB/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="LanguageItem_en_GB">
+                                    English                                </span>
+</a>
+</div>
+<div class="contentLanguageItem columns medium-4">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_ko_KR" data-aa-region="aa-content-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/ko_KR/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="LanguageItem_ko_KR">
+                                    한국어                                </span>
+</a>
+</div>
+<div class="contentLanguageItem columns medium-4">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_ja_JP" data-aa-region="aa-content-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/ja_JP/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="LanguageItem_ja_JP">
+                                    日本語                                </span>
+</a>
+</div>
+<div class="contentLanguageItem columns medium-4 end">
+<a class="anchor button-link-primary gh-nav-action" data-aa-name="LanguageItem_zh_CN" data-aa-region="aa-content-language-switch" href="/app/home/supporthub/sciencedirect/#" onclick="location.href='/cc/Localisation/redirect/locale/zh_CN/pg/home/supporthub/sciencedirect/';">
+<span class="anchor-text" data-location="LanguageItem_zh_CN">
+                                    简体中文                                </span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-form-search standout">
+<div class="row">
+<div class="columns medium-9 medium-offset-3" id="siteSearch">
+<div class="rn_Search" id="rn_Search_13">
+<form class="search" id="rn_Search_13_SearchForm">
+<input id="rn_Search_13_SearchProduct" name="p" type="hidden" value="0"/>
+<div class="row">
+<div class="medium-5 large-4 columns">
+<label class="sr-only" for="rn_Search_13_SearchCategory-button" id="rn_Search_13_SearchCategory_label">
+                    Category                </label>
+<select aria-label="search scope" id="rn_Search_13_SearchCategory" name="c" style="display: none;" title="Category">
+<option value="0">
+                        All Topics                    </option>
+<option value="10542">
+                        Orders &amp; Renewals                    </option>
+<option value="10543">
+                        Access                    </option>
+<option value="10544">
+                        Onboarding                    </option>
+<option value="10545">
+                        Training                    </option>
+<option value="10546">
+                        Using the product                    </option>
+<option value="10547">
+                        Content                    </option>
+</select><span aria-autocomplete="list" aria-expanded="false" aria-haspopup="true" aria-label="Search Category List" aria-owns="rn_Search_13_SearchCategory-menu" class="ui-selectmenu-button ui-widget ui-state-default ui-corner-all" id="rn_Search_13_SearchCategory-button" role="combobox" style="width: 100%;" tabindex="0"><span class="ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">
+                        All Topics                    </span></span>
+</div>
+<div class="medium-7 large-8 columns">
+<input aria-label="Search" data-location="searchBar" id="rn_Search_13_SearchField" name="kw" placeholder="Search" type="search" value=""/>
+<button aria-label="Submit Search" class="search-button" data-location="searchButton" id="rn_Search_13_Submit" type="submit">
+<span class="icon-gizmo-search"></span>
+</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div> <!-- row -->
+</div>
+<div class="clearfix"></div>
+<main class="maincontent" id="mainContent" role="main">
+<!-- navigation -->
+<div class="row">
+<div class="leftRnCol columns medium-3">
+<div class="rn_LeftNavigation" id="rn_LeftNavigation_16">
+<nav id="secondary-nav">
+<ul class="not-enum side-nav">
+<li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_1" href="/app/answers/list/c/10542/supporthub/sciencedirect/">Orders &amp; Renewals</a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_2" href="/app/answers/list/c/10543/supporthub/sciencedirect/">Access</a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_3" href="/app/answers/list/c/10544/supporthub/sciencedirect/">Onboarding</a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_4" href="/app/answers/list/c/10545/supporthub/sciencedirect/">Training</a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_5" href="/app/answers/list/c/10546/supporthub/sciencedirect/">Using the product</a></li><li class="gh-nav-item"><a class="anchor gh-nav-action" data-location="categoryList_6" href="/app/answers/list/c/10547/supporthub/sciencedirect/">Content</a></li> <hr/>
+<li data-location="whatsNewPage">
+<a class="anchor gh-nav-action" href="/app/whats_new/supporthub/sciencedirect/">
+                                    New and updated FAQs                                </a>
+</li>
+</ul>
+</nav>
+</div>
+<div id="filters">
+<div class="rn_RoleFilterCheckboxes" id="rn_RoleFilterCheckboxes_17">
+<fieldset>
+<div class="rn_RoleFilterHeader">
+<legend>
+<h4>Role:</h4>
+</legend>
+</div>
+<div class="left-div-checkboxes">
+<input checked="" class="js-roles-checkbox" id="RoleFilterCheckboxes_17_Any/All" name="rn_RoleFilterCheckboxes_17" type="radio" value="10959"/>
+<label class="c-label" data-location="roleCheckbox_1" for="RoleFilterCheckboxes_17_Any/All">
+                    Any/All                </label>
+</div>
+<div class="left-div-checkboxes">
+<input class="js-roles-checkbox" id="RoleFilterCheckboxes_17_Administrator/Librarian" name="rn_RoleFilterCheckboxes_17" type="radio" value="12339"/>
+<label class="c-label" data-location="roleCheckbox_2" for="RoleFilterCheckboxes_17_Administrator/Librarian">
+                    Administrator/Librarian                </label>
+</div>
+<div class="left-div-checkboxes">
+<input class="js-roles-checkbox" id="RoleFilterCheckboxes_17_Researcher" name="rn_RoleFilterCheckboxes_17" type="radio" value="12334"/>
+<label class="c-label" data-location="roleCheckbox_3" for="RoleFilterCheckboxes_17_Researcher">
+                    Researcher                </label>
+</div>
+</fieldset>
+</div>
+</div>
+</div>
+<div class="columns medium-9 border">
+<!-- widgets -->
+<div class="row">
+<div class="columns large-12">
+<div class="rn_TopNewsItems" id="rn_TopNewsItems_19">
+<h2>News</h2>
+<article>
+                No news items available            </article>
+</div>
+</div>
+<div class="columns large-12">
+</div>
+<div class="columns large-12">
+<div class="rn_TopAnswersExtended rn_TopAnswers" id="rn_TopAnswersExtended_21">
+<h2>
+            Top 10 FAQs        </h2>
+<article>
+<ol>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/34316/supporthub/sciencedirect/p/10959/">
+                    How do I publish my article with Elsevier?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/9831/supporthub/sciencedirect/p/10959/">
+                    What are the technical requirements for ScienceDirect?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/25974/supporthub/sciencedirect/p/10959/">
+                    How do I use the advanced search?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/19286/supporthub/sciencedirect/p/10959/">
+                    How do I open and view supplementary material and data?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/28037/supporthub/sciencedirect/p/10959/">
+                    How does id.elsevier.com use cookies?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/21591/supporthub/sciencedirect/p/10959/">
+                    How do I create an Elsevier account?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/35539/supporthub/sciencedirect/p/10959/">
+                    How do I view research data?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/9832/supporthub/sciencedirect/p/10959/">
+                    How do I set up and manage my alerts?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/10538/supporthub/sciencedirect/p/10959/">
+                    How do I download articles and chapters?               </a>
+</span>
+</li>
+<li>
+<span class="rn_Title">
+<a href="/app/answers/detail/a_id/27955/supporthub/sciencedirect/p/10959/">
+                    What types of articles are available in ScienceDirect?               </a>
+</span>
+</li>
+</ol>
+<a class="cta-tertiary" data-location="topAnswersViewMore_10959" href="/app/answers/list/supporthub/sciencedirect/p/10959/">
+            View more        </a>
+</article>
+</div>
+</div>
+</div> <!-- row -->
+</div> <!-- 9 column -->
+</div>
+<section class="standout">
+<div class="row">
+<div class="columns medium-9 medium-offset-3">
+<div>
+<div class="rn_MainContactTypes rn_MainContactContainer" id="rn_MainContactTypes_22">
+<div class="rn_MainContactRow" data-location="mainContactOptionRow" id="rn_MainContactTypes_22_MainContactRow">
+<p>For further assistance:</p>
+<div class="row" data-equalizer="contactPanel">
+<div class="email">
+<div class="rn_MainContactTileContainer columns medium-3 small-6 large-2 end">
+<a aria-haspopup="true" class="panel" data-aa-name="email" data-aa-region="aa-contact-options" data-equalizer-watch="contactPanel" data-location="mainContactOption_email" href="/app/contact/supporthub/sciencedirect/" onclick="" style="height: 155px;" title="We aim to respond within 24 hours">
+<span class="icon-gizmo-email"></span><br/>
+                                Email                                                            </a>
+</div>
+</div>
+<div class="chat">
+<div class="rn_MainContactTileContainer columns medium-3 small-6 large-2 end">
+<a aria-haspopup="true" class="panel optionNotActive" data-aa-name="chat" data-aa-region="aa-contact-options" data-equalizer-watch="contactPanel" data-location="mainContactOption_chat" href="/app/chat/chat_launch/supporthub/sciencedirect/" onclick="" style="height: 155px;" title="Chat with us">
+<span class="icon-gizmo-chat"></span><br/>
+                                Chat                                                                    <small class="closedMessage">
+                                        Open in  5  Hours                                    </small>
+</a>
+</div>
+</div>
+<div class="phone">
+<div class="rn_MainContactTileContainer columns medium-3 small-6 large-2 end">
+<a aria-haspopup="true" class="panel" data-aa-name="phone" data-aa-region="aa-contact-options" data-equalizer-watch="contactPanel" data-location="mainContactOption_phone" href="/app/phone/supporthub/sciencedirect/" onclick="" style="height: 155px;" title="Call our support by phone">
+<span class="icon-gizmo-phone"></span><br/>
+                                Phone                                                            </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="footer-main">
+<div class="row expand">
+<div class="medium-12 columns">
+<a class="els-footer-elsevier" href="http://www.elsevier.com/" rel="nofollow" target="_blank">
+<span aria-label="Elsevier" class="ccs-icon svg-wordmark-non-solus">
+<span class="svg-text">Elsevier</span>
+</span>
+</a>
+<div class="footer-content">
+<p class="footer-links">
+<a data-location="termsAndConditions" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions"> Terms and Conditions </a> <a data-location="privacy" href="https://www.elsevier.com/legal/privacy-policy"> Privacy Policy </a> <button class="ot-sdk-show-settings">Cookie Settings</button>
+</p>
+<p>
+                            Copyright ©2024 Elsevier, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.                        </p>
+</div>
+<a class="els-footer-relx" href="http://www.relx.com/" rel="nofollow" target="_blank">
+<span aria-label="RELX Group" class="ccs-icon svg-wordmark-relx-group" data-location="relx">
+<span class="svg-text">RELX Group</span>
+</span>
+</a>
+</div>
+</div>
+</footer>
+</div><!-- .inner-wrap -->
+</div><!-- .off-canvas-wrap -->
+<!-- vendor scripts -->
+
+
+
+
+
+
+
+
+
+
+<div id="lightbox-overlay"></div><div id="lightbox"><div id="lightbox-inner"><img alt="lightbox image placeholder" id="lightbox-image"/><span class="spinner"></span></div></div>
+<!-- Adobe Analytics -->
+
+<!-- End Adobe Analytics -->
+
+<div class="" id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div>
+
+
+
+<iframe role="presentation" src="javascript:false" style="position: absolute; width: 0px; height: 0px; border: 0px;" title="Action Capture"></iframe>
+<div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="rn_Search_13_SearchCategory-button" class="ui-menu ui-widget ui-widget-content ui-corner-bottom" id="rn_Search_13_SearchCategory-menu" role="listbox" tabindex="0"></ul></div><div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div><div aria-label="Cookie banner" class="otFlat bottom ot-wo-title ot-buttons-fw" id="onetrust-banner-sdk" role="region" tabindex="0"><div aria-describedby="onetrust-policy-text" aria-label="Privacy" role="alertdialog"><div class="ot-sdk-container"><div class="ot-sdk-row"><div class="ot-sdk-eight ot-sdk-columns" id="onetrust-group-container"><div class="banner_logo"></div><div id="onetrust-policy"><div id="onetrust-policy-text">We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see our<a aria-label=", opens in a new tab" href="https://www.elsevier.com/legal/cookienotice" rel="noopener" target="_blank">Cookie Policy</a></div></div></div><div class="ot-sdk-three ot-sdk-columns" id="onetrust-button-group-parent"><div id="onetrust-button-group"><button class="cookie-setting-link" id="onetrust-pc-btn-handler">Cookie Settings</button> <button id="onetrust-accept-btn-handler">Accept all cookies</button></div></div></div></div><!-- Close Button --><div id="onetrust-close-btn-container"></div><!-- Close Button END--></div></div><div aria-label="Preference center" class="otPcCenter ot-hide ot-fade-in" id="onetrust-pc-sdk" lang="en" role="region"><div aria-describedby="ot-pc-desc" aria-label="Cookie Preference Center" aria-modal="true" role="alertdialog" style="height: 100%;"><!-- Close Button --><div class="ot-pc-header"><!-- Logo Tag --><div aria-label="Company Logo" class="ot-pc-logo" role="img"><img alt="Company Logo" src="https://cdn.cookielaw.org/logos/static/ot_company_logo.png"/></div></div><!-- Close Button --><div class="ot-pc-scrollbar" id="ot-pc-content"><div class="ot-optout-signal ot-hide"><div class="ot-optout-icon"><svg xmlns="http://www.w3.org/2000/svg"><path class="ot-floating-button__svg-fill" d="M14.588 0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" fill-rule="evenodd"></path></svg></div><span></span></div><h2 id="ot-pc-title">Cookie Preference Center</h2><div id="ot-pc-desc">We use cookies which are necessary to make our site work. We may also use additional cookies to analyse, improve and personalise our content and your digital experience. For more information, see our <a href="https://www.elsevier.com/legal/cookienotice" target="_blank">Cookie Policy</a> and the list of <a href="https://support.google.com/admanager/answer/9012903" target="_blank">Google Ad-Tech Vendors</a>.
+<br/>
+<br/>
+You may choose not to allow some types of cookies. However, blocking some types may impact your experience of our site and the services we are able to offer. See the different category headings below to find out more or change your settings.
+
+
+</div><button id="accept-recommended-btn-handler">Allow all</button><section class="ot-sdk-row ot-cat-grp"><h3 id="ot-category-title"> Manage Consent Preferences</h3><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="1"><button aria-controls="ot-desc-id-1" aria-expanded="false" aria-labelledby="ot-header-id-1 ot-status-id-1" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-1">Strictly Necessary Cookies</h4><div class="ot-always-active" id="ot-status-id-1">Always active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-1">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+<br/><br/></p><div class="ot-hlst-cntr"><button aria-label="Cookie Details List" class="ot-link-btn category-host-list-handler" data-parent-id="1">Cookie Details List‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="2"><button aria-controls="ot-desc-id-2" aria-expanded="false" aria-labelledby="ot-header-id-2 ot-status-id-2" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-2">Performance Cookies</h4><div class="ot-tgl"><input aria-labelledby="ot-header-id-2" class="category-switch-handler" data-optanongroupid="2" id="ot-group-id-2" name="ot-group-id-2" role="switch" type="checkbox"/> <label class="ot-switch" for="ot-group-id-2"><span aria-checked="false" aria-label="Performance Cookies" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Performance Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-2">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.</p><div class="ot-hlst-cntr"><button aria-label="Cookie Details List" class="ot-link-btn category-host-list-handler" data-parent-id="2">Cookie Details List‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="4"><button aria-controls="ot-desc-id-4" aria-expanded="false" aria-labelledby="ot-header-id-4 ot-status-id-4" ot-accordion="true"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-4">Targeting Cookies</h4><div class="ot-tgl"><input aria-labelledby="ot-header-id-4" class="category-switch-handler" data-optanongroupid="4" id="ot-group-id-4" name="ot-group-id-4" role="switch" type="checkbox"/> <label class="ot-switch" for="ot-group-id-4"><span aria-checked="false" aria-label="Targeting Cookies" class="ot-switch-nob" role="switch"></span> <span class="ot-label-txt">Targeting Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-4">These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising.</p><div class="ot-hlst-cntr"><button aria-label="Cookie Details List" class="ot-link-btn category-host-list-handler" data-parent-id="4">Cookie Details List‎</button></div></div></div><!-- Groups sections starts --><!-- Group section ends --><!-- Accordion Group section starts --><!-- Accordion Group section ends --></section></div><section class="ot-hide ot-hosts-ui ot-pc-scrollbar" id="ot-pc-lst"><div id="ot-pc-hdr"><div id="ot-lst-title"><button aria-label="Back" class="ot-link-btn back-btn-handler"><svg id="ot-back-arw" viewbox="0 0 444.531 444.531" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Back Button</title><g><path d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
+                    l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
+                    c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
+                    s18.795-3.521,25.834-10.564l21.409-21.412c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978
+                    L213.13,222.409z" fill="#656565"></path></g></svg></button><h3>Cookie List</h3></div><div class="ot-lst-subhdr"><div class="ot-search-cntr"><p class="ot-scrn-rdr" role="status"></p><input aria-label="Cookie list search" id="vendor-search-handler" name="vendor-search-handler" placeholder="Search…" type="text"/> <svg aria-hidden="true" viewbox="0 -30 110 110" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Search Icon</title><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23
+            s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+            c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+            s-17-7.626-17-17S14.61,6,23.984,6z" fill="#2e3644"></path></svg></div><div class="ot-fltr-cntr"><button aria-haspopup="true" aria-label="Filter" id="filter-btn-handler"><svg aria-hidden="true" role="presentation" viewbox="0 0 402.577 402.577" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><title>Filter Icon</title><g><path d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
+      c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
+      c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
+      C402.765,25.895,404.093,19.231,400.858,11.427z" fill="#fff"></path></g></svg></button></div><div id="ot-anchor"></div><section id="ot-fltr-modal"><div id="ot-fltr-cnt"><button id="clear-filters-handler">Clear</button><div class="ot-fltr-scrlcnt ot-pc-scrollbar"><div class="ot-fltr-opts"><div class="ot-fltr-opt"><div class="ot-chkbox"><input class="category-filter-handler" id="chkbox-id" type="checkbox"/> <label for="chkbox-id"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div><div class="ot-fltr-btns"><button id="filter-apply-handler">Apply</button> <button id="filter-cancel-handler">Cancel</button></div></div></div></section></div></div><section class="ot-host-cnt ot-pc-scrollbar" id="ot-lst-cnt"><div id="ot-sel-blk"><div class="ot-sel-all"><div class="ot-sel-all-hdr"><span class="ot-consent-hdr">Consent</span> <span class="ot-li-hdr">Leg.Interest</span></div><div class="ot-sel-all-chkbox"><div class="ot-chkbox" id="ot-selall-hostcntr"><input id="select-all-hosts-groups-handler" type="checkbox"/> <label for="select-all-hosts-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-vencntr"><input id="select-all-vendor-groups-handler" type="checkbox"/> <label for="select-all-vendor-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-licntr"><input id="select-all-vendor-leg-handler" type="checkbox"/> <label for="select-all-vendor-leg-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div></div><div class="ot-sdk-row"><div class="ot-sdk-column"><ul id="ot-host-lst"></ul></div></div></section></section><div class="ot-pc-footer ot-pc-scrollbar"><div class="ot-btn-container"> <button class="save-preference-btn-handler onetrust-close-btn-handler">Confirm my choices</button></div><!-- Footer logo --><div class="ot-pc-footer-logo"><a aria-label="Powered by OneTrust Opens in a new Tab" href="https://www.onetrust.com/products/cookie-consent/" rel="noopener noreferrer" target="_blank"><img alt="Powered by Onetrust" src="https://cdn.cookielaw.org/logos/static/powered_by_logo.svg" title="Powered by OneTrust Opens in a new Tab"/></a></div></div><!-- Cookie subgroup container --><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element --><!-- Checkbox HTML --><!-- plus minus--><!-- Arrow SVG element --><!-- Accordion basic element --><span aria-atomic="true" aria-live="polite" class="ot-scrn-rdr"></span><!-- Vendor Service container and item template --></div><iframe aria-hidden="true" class="ot-text-resize" sandbox="allow-same-origin" style="position: absolute; top: -50000px; width: 100em;" title="onetrust-text-resize"></iframe></div></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be public to all users? Answer only with yes or no.

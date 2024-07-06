@@ -1,0 +1,687 @@
+The following text is the html file of a webpage. <html class="js no-touch" lang="en-US" style="--scrollbar-width: 15px;"><head>
+<!--
+            88
+            88
+            88
+ ,adPPYba,  88,dPPYba,   ,adPPYYba,  8b       d8
+a8P_____88  88P'    "8a  ""     `Y8  `8b     d8'
+8PP"""""""  88       d8  ,adPPPPP88   `8b   d8'
+"8b,   ,aa  88b,   ,a8"  88,    ,88    `8b,d8'
+ `"Ybbd8"'  8Y"Ybbd8"'   `"8bbdP"Y8      Y88'
+                                         d8'
+                                        d8'
+
+Kickstart your career @ https://jobs.ebayinc.com
+-->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="We connect millions of buyers and sellers around the world, empowering people and creating economic opportunity for all." name="description"/>
+<title>Our Company - eBay Inc.</title>
+<base href="https://www.ebayinc.com/"/>
+<link href="https://static.ebayinc.com/static/assets/Uploads/Banners/Our-Company-Ambient-Desktop.jpg" rel="prefetch"/>
+<meta content="https://static.ebayinc.com/static/assets/Uploads/Banners/_resampled/ScaleWidthWyIyMDAiXQ/Our-Company-Ambient-Desktop.jpg" name="thumbnail"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="We connect millions of buyers and sellers around the world, empowering people and creating economic opportunity for all." name="twitter:description"/>
+<meta content="https://static.ebayinc.com/static/assets/Uploads/Banners/_resampled/FillWzg2MCw0MzBd/Our-Company-Ambient-Desktop.jpg" name="twitter:image"/>
+<meta content="@eBayNewsroom" name="twitter:site"/>
+<meta content="Our Company - eBay Inc." name="twitter:title"/>
+<meta content="We connect millions of buyers and sellers around the world, empowering people and creating economic opportunity for all." property="og:description"/>
+<meta content="https://static.ebayinc.com/static/assets/Uploads/Banners/_resampled/ScaleWidthWyIxMDI0Il0/Our-Company-Ambient-Desktop.jpg" property="og:image"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="eBay Inc." property="og:site_name"/>
+<meta content="Our Company - eBay Inc." property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.ebayinc.com/company/" property="og:url"/>
+<link href="https://www.ebayinc.com/company/" rel="canonical"/>
+<link crossorigin="" href="//static.ebayinc.com" rel="preconnect"/>
+<link href="//static.ebayinc.com" rel="dns-prefetch"/>
+<link crossorigin="" href="//ajax.googleapis.com" rel="preconnect"/>
+<link href="//ajax.googleapis.com" rel="dns-prefetch"/>
+<link crossorigin="" href="//www.googletagmanager.com" rel="preconnect"/>
+<link href="//www.googletagmanager.com" rel="dns-prefetch"/>
+<link crossorigin="" href="//www.google-analytics.com" rel="preconnect"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<link crossorigin="" href="//player.vimeo.com" rel="preconnect"/>
+<link href="//player.vimeo.com" rel="dns-prefetch"/>
+<link as="font" crossorigin="" href="https://static.ebayinc.com/static/theme/fonts/helvetica-neue/thin/4ff9f3fa-9221-4fc5-97e6-93572b6efa24.woff2?v=33c0b27" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://static.ebayinc.com/static/theme/fonts/helvetica-neue/light/5a13f7d1-b615-418e-bc3a-525001b9a671.woff2?v=33c0b27" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://static.ebayinc.com/static/theme/fonts/helvetica-neue/regular/b0868b4c-234e-47d3-bc59-41ab9de3c0db.woff2?v=33c0b27" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://static.ebayinc.com/static/theme/fonts/helvetica-neue/medium/3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2?v=33c0b27" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://static.ebayinc.com/static/theme/fonts/helvetica-neue/bold/3b303641-706e-4221-94c4-4fb491f4f8ef.woff2?v=33c0b27" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://static.ebayinc.com/static/theme/fonts/market-sans/MarketSans-Regular-WebS.woff2?v=33c0b27" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://static.ebayinc.com/static/theme/fonts/market-sans/MarketSans-Bold-WebS.woff2?v=33c0b27" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://static.ebayinc.com/static/theme/fonts/build/ebi-icons.woff2?v=33c0b27" rel="preload" type="font/woff2"/>
+<link href="https://www.ebayinc.com/stories/news/rss/" rel="alternate" title="eBay Newsroom" type="application/rss+xml"/>
+<link href="https://static.ebayinc.com/static/theme/css/main.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/themes.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+
+
+
+<link href="https://static.ebayinc.com/static/theme/css/csv2/intro-blurb.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/csv2/sb.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/csv2/full-width-media.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/special/micrographic.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/csv2/mg.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/csv2/gt.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/csv2/image-grid-v2.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/csv2/feat-stories.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+<link href="https://static.ebayinc.com/static/theme/css/csv2/cta.css?v=33c0b27" rel="stylesheet" type="text/css"/>
+</head>
+<body class="our-company layout-large" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1174.0">
+<noscript><iframe gtm-n57m22r""="" height="0" src="https://www.googletagmanager.com/ns.html?id=" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<a class="aria-only" href="/company/#main-content" id="skip-to-main">Skip to main content</a>
+<header class="main-header js-header">
+<div class="sticky-wrap" id="sticky-wrap-sticky-el-0" style="min-height:80px"><div class="main-header-top js-header-top clear has-subnav sticky-scroll-up stick-to-top">
+<a class="header-logo mobile" href="https://www.ebayinc.com/">
+<img alt="Home" src="https://static.ebayinc.com/static/theme/images/logo.svg?v=33c0b27" title="eBay Inc. Home Page"/>
+</a>
+<button aria-controls="main-nav-menu" aria-label="Menu" class="hamburger js-hamburger hamburger--3dx mobile" type="button">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button>
+<div class="main-header-page-subtitle mobile">Company Information</div>
+<div class="inner">
+<div class="main-nav-overlay js-nav-overlay"></div>
+<div class="main-nav-menu js-nav-menu instant" id="main-nav-menu">
+<nav aria-label="Site" class="header-nav js-header-nav" role="navigation">
+<ul class="header-nav-top">
+<li class="desktop">
+<a class="header-logo" href="https://www.ebayinc.com/">
+<img alt="Home" src="https://static.ebayinc.com/static/theme/images/logo.svg?v=33c0b27" title="eBay Inc. Home Page"/>
+</a>
+</li>
+<li aria-owns="subnav-company" class="l1 js-l1 current first has-children" data-id="6">
+<a aria-current="page" class="js-l1-link" href="https://www.ebayinc.com/company/">Company</a>
+<ul class="js-mobile-subnav" id="#subnav-company">
+<li class="l2 js-l2 current">
+<a aria-current="page" class="js-l2-link" href="https://www.ebayinc.com/company/">Overview</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/our-leaders/">Our Leaders</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/our-history/">Our History</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/our-purpose-in-action/">Our Purpose in Action</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/sustainable-commerce/">Sustainable Commerce</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/diversity-equity-inclusion/">Diversity, Equity, &amp; Inclusion</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/government-relations/">Government Relations</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/privacy-center/">Privacy Center</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/policies-downloads/">Reports &amp; Policies</a>
+</li>
+</ul>
+</li>
+<li aria-owns="subnav-stories" class="l1 js-l1 link has-children" data-id="523">
+<a class="js-l1-link" href="https://www.ebayinc.com/stories/news/">Stories</a>
+<ul class="js-mobile-subnav" id="#subnav-stories">
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/stories/news/">Our News</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/stories/press-room/">Press Room</a>
+</li>
+</ul>
+</li>
+<li aria-owns="subnav-impact" class="l1 js-l1 link has-children" data-id="17">
+<a class="js-l1-link" href="https://www.ebayinc.com/impact/">Impact</a>
+<ul class="js-mobile-subnav" id="#subnav-impact">
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/">Overview</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/economic-opportunity/">Economic Opportunity</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/sustainable-commerce/">Sustainable Commerce</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/culture-and-workforce/">Culture &amp; Workforce</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/trusted-marketplace/">Trusted Marketplace</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/goals-progress/">Goals &amp; Progress</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/ebay-for-charity/">eBay for Charity</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/ebay-foundation/">eBay Foundation</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/policies-downloads/">Policies &amp; Downloads</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/seller-showcase/">Seller Showcase</a>
+</li>
+</ul>
+</li>
+<li aria-owns="subnav-innovation" class="l1 js-l1 link has-children" data-id="9062">
+<a class="js-l1-link" href="https://innovation.ebayinc.com/">Innovation</a>
+<ul class="js-mobile-subnav" id="#subnav-innovation">
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://innovation.ebayinc.com/">Overview</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://innovation.ebayinc.com/tech/features/">Stories</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://innovation.ebayinc.com/events/">Events</a>
+</li>
+</ul>
+</li>
+<li aria-owns="subnav-investors" class="l1 js-l1 link has-children" data-id="16">
+<a class="js-l1-link" href="https://investors.ebayinc.com/">Investors</a>
+<ul class="js-mobile-subnav" id="#subnav-investors">
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/overview/default.aspx">Overview</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/fast-facts/default.aspx">Fast Facts</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/stock-information/default.aspx">Stock Information</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/investor-news/default.aspx">Investor News</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/events/default.aspx">Events</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/financial-information/financial-summary/default.aspx">Financial Information</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/corporate-governance/governance-documents/default.aspx">Corporate Governance</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/esg-investors/default.aspx">ESG Investors</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://investors.ebayinc.com/contact-us-and-resources/faq/default.aspx?">Resources &amp; Contact</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/investor-day/">Investor Day</a>
+</li>
+</ul>
+</li>
+<li aria-owns="subnav-jobs" class="l1 js-l1 link has-children" data-id="8679">
+<a class="js-l1-link" href="https://jobs.ebayinc.com/us/en">Careers</a>
+<ul class="js-mobile-subnav" id="#subnav-jobs">
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en">Overview</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/how-we-work">How We Work</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/jobs-by-location">Jobs by Location</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/jobs-by-category">Jobs by Category</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/our-culture">Our Culture</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/our-benefits">Our Benefits</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/emerging-talent">Emerging Talent</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/recommended-jobs">Recommended Jobs</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/talent-privacy-notice">Talent Privacy Notice</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/jobcart">Saved Jobs</a>
+</li>
+<li class="l2 js-l2 link">
+<a class="js-l2-link" href="https://jobs.ebayinc.com/us/en/search-results">Search Jobs</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div aria-label="Quick Links" class="secondary-navigation js-secondary-navigation mobile" role="list">
+<span class="js-secondary footer-only" role="listitem"><a class="js-secondary-link" href="https://www.ebay.com">eBay.com</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/stories/press-room/">Press Room</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/company/follow-us/">Follow Us</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/company/contact-us/">Contact Us</a></span>
+</div>
+<form action="https://www.ebayinc.com/search/" aria-label="Search Site" class="main-search-mobile mobile js-site-search-form" method="get" role="search">
+<input class="js-site-search-input" maxlength="128" name="query" placeholder="Search eBayInc.com" type="text"/>
+<button class="js-site-search-submit" type="submit">Search Website</button>
+</form>
+<div aria-label="Quick Links" class="secondary-navigation js-secondary-navigation desktop" role="list">
+<span class="js-secondary footer-only" role="listitem"><a class="js-secondary-link" href="https://www.ebay.com">eBay.com</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/stories/press-room/">Press Room</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/company/follow-us/">Follow Us</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/company/contact-us/">Contact Us</a></span>
+</div>
+<form action="https://www.ebayinc.com/search/" aria-label="Search Site" class="main-search-desktop desktop js-site-search-form js-site-search-desktop" method="get" role="search">
+<input aria-label="Type your search now and press enter or press escape to close." class="js-site-search-input" maxlength="128" name="query" placeholder="Search eBayInc.com" tabindex="-1" type="text"/>
+<button class="js-site-search-submit" type="submit">Search Website</button>
+</form>
+</div>
+</div>
+</div></div>
+<nav aria-label="Section" class="sub-navigation desktop js-desktop-subnav" data-l1-id="6" role="navigation">
+<div class="inner">
+<ul>
+<li class="js-l2 current">
+<a aria-current="page" class="js-l2-link" href="https://www.ebayinc.com/company/">Overview</a>
+</li>
+<li class="js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/our-leaders/">Our Leaders</a>
+</li>
+<li class="js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/our-history/">Our History</a>
+</li>
+<li class="js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/our-purpose-in-action/">Our Purpose in Action</a>
+</li>
+<li class="js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/sustainable-commerce/">Sustainable Commerce</a>
+</li>
+<li class="js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/diversity-equity-inclusion/">Diversity, Equity, &amp; Inclusion</a>
+</li>
+<li class="js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/government-relations/">Government Relations</a>
+</li>
+<li class="js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/company/privacy-center/">Privacy Center</a>
+</li>
+<li class="js-l2 link">
+<a class="js-l2-link" href="https://www.ebayinc.com/impact/policies-downloads/">Reports &amp; Policies</a>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div aria-label="Main Content" class="main-content" id="main-content" tabindex="0">
+<div class="banner-container" role="banner">
+<div class="banner-themed bt1 l2 animate">
+<div class="text">
+<div class="lines">
+<h1 class="line1">Our Company</h1>
+</div>
+</div>
+<div class="box box1"></div>
+<div class="cluster">
+<div class="box box2"></div>
+<div class="stack">
+<div class="box box3"></div>
+<div class="box box4"></div>
+</div>
+</div>
+<div class="ttl"></div>
+</div>
+<div class="banner-hero js-banner-hero banner-hero--video" data-video="https://player.vimeo.com/external/389123523.hd.mp4?s=59807ffb60cce6ce7e81a36e376a0276ab1bcfa0&amp;profile_id=175">
+<div class="hero-image">
+<picture class="re__pic"><source media="(max-width: 480px)" srcset="https://static.ebayinc.com/static/assets/Uploads/Banners/_resampled/FillWzQ4MCwzMjBd/Our-Company-Mobile-768x512.jpg"/><source media="(min-width: 768px)" srcset="https://static.ebayinc.com/static/assets/Uploads/Banners/_resampled/FillWzkwMCwzMjNd/Our-Company-Ambient-Desktop.jpg"/><source media="(min-width: 481px)" srcset="https://static.ebayinc.com/static/assets/Uploads/Banners/Our-Company-Mobile-768x512.jpg"/><img alt="" class="re__img" height="323" src="https://static.ebayinc.com/static/assets/Uploads/Banners/_resampled/FillWzkwMCwzMjNd/Our-Company-Ambient-Desktop.jpg" width="900"/></picture>
+</div><video autoplay="" loop=""><source src="https://player.vimeo.com/external/389123523.hd.mp4?s=59807ffb60cce6ce7e81a36e376a0276ab1bcfa0&amp;profile_id=175" type="video/mp4"/></video>
+</div>
+</div>
+<main class="inner">
+<section class="content-section cs-type-intro clear" data-ga-cs-title="We connect people and build communities to create economic opportunity for all." data-ga-cs-type="Intro Blurb" data-v1id="1095" data-v2id="620">
+<h2 class="outer-heading">
+					
+					We connect people and build communities to create economic opportunity for all.
+				</h2>
+<div class="paragraph-large-outer">
+<p>At eBay, we create pathways to connect millions of sellers and buyers in more than 190 markets around the world. Our technology empowers our customers, providing everyone the opportunity to grow and thrive — no matter who they are or where they are in the world. And the ripple effect of our work creates waves of change for our customers, our company, our communities and our planet.</p>
+</div>
+</section>
+<section class="content-section cs-type-sb cs-breakout-mobile layout3 clear" data-ga-cs-title="For Buyers and Sellers" data-ga-cs-type="Stacked Blinds" data-v1id="1096" data-v2id="621">
+<div class="container round-corners round-corners--desktop-only">
+<div class="tlc clear">
+<section class="has-link white-bg no-theme round-corners round-corners--desktop-only">
+<div class="col media">
+<div class="large-image-wrapper round-corners--medium">
+<picture class="re__pic"><img alt="" class="re__img" height="414" src="https://static.ebayinc.com/static/assets/Uploads/Content/SB/_resampled/FillWzczNiw0MTRd/Shine2019-ElijahMcCloskey-HighRes-162.jpg" width="736"/></picture>
+</div>
+</div>
+<div class="col content">
+<div class="pane visible outer-container">
+<a class="button link button-right" href="/impact/economic-opportunity/">Learn more</a>
+<div class="pane-item outer-content">
+<h2>
+<span class="eyebrow">For Sellers</span>
+		
+		Reach new customers &amp; grow your business
+	</h2>
+<div class="cms-content"><p>We offer sellers the ability to grow a business with little barrier to entry regardless of size, background or geographic location. We never compete with our sellers. We win when our sellers succeed.</p></div>
+</div>
+</div>
+</div>
+</section>
+<section class="has-link white-bg no-theme round-corners round-corners--desktop-only">
+<div class="col media">
+<div class="large-image-wrapper round-corners--medium">
+<picture class="re__pic"><img alt="" class="re__img" height="422" src="https://static.ebayinc.com/static/assets/Uploads/Content/SB/_resampled/FillWzc1MCw0MjJd/our-company-buyer-photo.jpg" width="750"/></picture>
+</div>
+</div>
+<div class="col content">
+<div class="pane visible outer-container">
+<a class="button link button-right" href="https://pages.ebay.com/why-ebay/">Learn more</a>
+<div class="pane-item outer-content">
+<h2>
+<span class="eyebrow">For Buyers</span>
+		
+		Explore vast inventory &amp; unique selection
+	</h2>
+<div class="cms-content"><p>Buyers who shop on the ebay.com marketplace and its localized counterparts, as well as the eBay mobile apps, enjoy a highly personalized experience with an unparalleled selection at great value.</p></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+<section class="content-section cs-type-fwm clear" data-ga-cs-title="Our Purpose in Action" data-ga-cs-type="Full-Width Media" data-v1id="1928" data-v2id="1318">
+<h2 class="outer-heading">
+					
+					Our Purpose in Action
+				</h2>
+<div class="paragraph-large-outer">
+<p>Our marketplace uplifts and <a href="/company/our-purpose-in-action/">brings people together</a>.</p>
+</div>
+<div class="round-corners">
+<div class="js-video-embed video-embed"><div class="video-embed__bg"><div class="load-ind gray" title="Loading, please wait..."><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div><div class="rect4"></div><div class="rect5"></div></div></div><a class="video-embed__facade" data-iframe-url="https://player.vimeo.com/video/810280707?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autoplay=1" data-placeholder="" data-video-id="810280707" href="https://vimeo.com/810280707" rel="noopener" target="_blank" title="Click to play video."><span class="video-embed__play"></span><picture class="re__pic"><img alt="" class="re__img" height="1080" src="https://static.ebayinc.com/static/assets/Uploads/Video/Thumbs/810280707.jpg?v=5" width="1920"/></picture></a></div>
+</div>
+</section>
+<section class="content-section cs-type-mg clear" data-ga-cs-title="Global Scale &amp; Reach" data-ga-cs-type="Micrographics" data-v1id="1097" data-v2id="622">
+<div class="cs-type-mg__wrap round-corners">
+<h2 class="outer-heading">
+			
+			
+			Global Scale &amp; Reach
+		</h2>
+<div class="cs-type-mg__flex">
+<div class="cs-type-mg__item">
+<div class="micrographic" data-precision="0" data-stop="100" data-value="2" style="--micrographic-ring-color: var(--teal5);">
+<div class="micrographic__wrap">
+<div class="micrographic__value">
+<span class="micrographic__val">2</span><span class="micrographic__sign">B</span>
+</div>
+</div>
+<canvas height="156" width="156"></canvas></div>
+<div class="cs-type-mg__ext">Approximate number of live listings</div>
+</div>
+<div class="cs-type-mg__item">
+<div class="micrographic" data-precision="0" data-stop="100" data-value="132" style="--micrographic-ring-color: var(--teal5);">
+<div class="micrographic__wrap">
+<div class="micrographic__value">
+<span class="micrographic__val">132</span><span class="micrographic__sign">M</span>
+</div>
+</div>
+<canvas height="156" width="156"></canvas></div>
+<div class="cs-type-mg__ext">Active buyers worldwide</div>
+</div>
+<div class="cs-type-mg__item">
+<div class="micrographic" data-precision="0" data-stop="100" data-value="190" style="--micrographic-ring-color: var(--teal5);">
+<div class="micrographic__wrap">
+<div class="micrographic__value">
+<span class="micrographic__val">190</span><span class="micrographic__sign">+</span>
+</div>
+</div>
+<canvas height="156" width="156"></canvas></div>
+<div class="cs-type-mg__ext">Markets around the world</div>
+</div>
+</div>
+</div>
+</section>
+<section class="content-section cs-type-gt cs-breakout-mobile" data-ga-cs-title="Our Leaders" data-ga-cs-type="Graphic Text Blocks" data-v1id="1098" data-v2id="623">
+<div class="container">
+<section class="theme2 has-theme full has-media round-corners round-corners--desktop-only">
+<div class="media image">
+<picture class="re__pic"><source media="(min-width: 481px) and (min-resolution: 144dpi), (min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.5)" srcset="https://static.ebayinc.com/static/assets/Uploads/Content/_resampled/ScaleWidthWzEzMDBd/Jamie-Iannone-090920-1600x900.jpg"/><source media="(min-width: 481px)" srcset="https://static.ebayinc.com/static/assets/Uploads/Content/_resampled/ScaleWidthWzY1MF0/Jamie-Iannone-090920-1600x900.jpg"/><img alt="" class="re__img cover" height="366" src="https://static.ebayinc.com/static/assets/Uploads/Content/_resampled/ScaleWidthWyI2NTAiXQ/Jamie-Iannone-090920-1600x900.jpg" width="650"/></picture>
+</div>
+<div class="text">
+<h2>Our Leaders</h2>
+<p>Meet the leaders at eBay who are shaping the vision for our company and driving the future of ecommerce.</p>
+<div class="text-link">
+<a class="button" href="/company/our-leaders/">Learn more</a>
+</div>
+</div>
+</section>
+</div>
+</section>
+<section class="content-section cs-type-gt cs-breakout-mobile" data-ga-cs-title="Tech, Impact, Culture" data-ga-cs-type="Graphic Text Blocks" data-v1id="1099" data-v2id="624">
+<div class="container">
+<section class="theme13 has-theme half round-corners round-corners--desktop-only">
+<h2>Technology</h2>
+<p>eBay creates inspiring ecommerce experiences for our buyers, sellers and developers. Embracing innovation has been a cornerstone of our growth and customer loyalty for more than 25 years – encompassing technologies such as AI, computer vision, natural language processing and machine translation.</p>
+<div class="text-link">
+<a class="button" href="https://innovation.ebayinc.com/tech/">Learn more</a>
+</div>
+</section>
+<section class="theme17 has-theme half round-corners round-corners--desktop-only">
+<h2>Impact</h2>
+<p>Every day, people build businesses on eBay. Nonprofit organizations raise vital funds. Entrepreneurs gain new skills and access to new markets where they can turn their dreams and ideas into business success.</p>
+<div class="text-link">
+<a class="button" href="/impact/">Learn more</a>
+</div>
+</section>
+</div>
+</section>
+<section class="content-section cs-type-intro clear" data-ga-cs-title="Awards &amp; Recognition" data-ga-cs-type="Intro Blurb" data-v1id="1100" data-v2id="625">
+<h2 class="outer-heading">
+					
+					Awards &amp; Recognition
+				</h2>
+<div class="paragraph-large-outer">
+<p>From creating a workplace environment where employees can be their authentic selves, to being a responsible business with a commitment to the community – we're breaking down barriers and helping to foster opportunity for all.</p>
+</div>
+</section>
+<section class="content-section cs-type-ig columns-4 image-layout clear" data-ga-cs-title="Awards &amp; Recognition" data-ga-cs-type="Image Grid (v2)" data-v1id="1743" data-v2id="1147">
+<div class="grid round-corners">
+<div class="item">
+<div class="image" style="">
+<picture class="re__pic"><img alt="" class="re__img" height="501" src="https://static.ebayinc.com/static/assets/Uploads/Content/ImageGrid/Awards-Recognition-061522-Responsible-Business.jpg" width="539"/></picture>
+</div>
+</div>
+<div class="item">
+<div class="image" style="">
+<picture class="re__pic"><img alt="" class="re__img" height="501" src="https://static.ebayinc.com/static/assets/Uploads/Content/ImageGrid/Awards-Recognition-061522-Best-Places-for-Dads.jpg" width="539"/></picture>
+</div>
+</div>
+<div class="item">
+<div class="image" style="">
+<picture class="re__pic"><img alt="" class="re__img" height="501" src="https://static.ebayinc.com/static/assets/Uploads/Content/ImageGrid/Awards-Recognition-050123-SP-Global.jpg" width="539"/></picture>
+</div>
+</div>
+<div class="item">
+<div class="image" style="">
+<picture class="re__pic"><img alt="" class="re__img" height="501" src="https://static.ebayinc.com/static/assets/Uploads/Content/ImageGrid/Awards-Recognition-061522-CDP-Climate-Survey.jpg" width="539"/></picture>
+</div>
+</div>
+<div class="item">
+<div class="image" style="">
+<picture class="re__pic"><img alt="" class="re__img" height="501" src="https://static.ebayinc.com/static/assets/Uploads/Content/ImageGrid/Awards-Recognition-061522-Best-Places-to-Work.jpg" width="539"/></picture>
+</div>
+</div>
+<div class="item">
+<div class="image" style="">
+<picture class="re__pic"><img alt="" class="re__img" height="501" src="https://static.ebayinc.com/static/assets/Uploads/Content/ImageGrid/Awards-Recognition-061522-LGBTQ-Workplace-Equality.jpg" width="539"/></picture>
+</div>
+</div>
+<div class="item">
+<div class="image" style="">
+<picture class="re__pic"><img alt="" class="re__img" height="501" src="https://static.ebayinc.com/static/assets/Uploads/Content/ImageGrid/Awards-Recognition-061522-Most-Responsible-Companies.jpg" width="539"/></picture>
+</div>
+</div>
+<div class="item">
+<div class="image" style="">
+<picture class="re__pic"><img alt="" class="re__img" height="501" src="https://static.ebayinc.com/static/assets/Uploads/Content/ImageGrid/Awards-Recognition-061522-Corporate-Philanthropy-Award.jpg" width="539"/></picture>
+</div>
+</div>
+</div>
+</section>
+<section class="content-section cs-type-stories has-link clear" data-ga-cs-title="Latest Company News" data-ga-cs-type="Featured Stories" data-v1id="209" data-v2id="268">
+<h2 class="outer-heading">
+					
+					Latest Company News
+				</h2>
+<div class="featured-internal-articles">
+<div class="article-listing grid">
+<div class="article-wrapper internal-article round-corners" data-id="9350">
+<a aria-label="Article: This Seller Grew His Tech Business Almost 10x in Three Years" class="article-link block-level-link has-media" data-ga-title="Article: This Seller Grew His Tech Business Almost 10x in Three Years" href="/stories/news/this-seller-grew-his-tech-business-almost-10x-in-three-years/">
+<div class="internal-article-media">
+<picture class="re__pic"><img alt="" class="re__img" height="404" src="https://static.ebayinc.com/static/assets/Uploads/Stories/Articles/_resampled/FillWzcxOCw0MDRd/240516-Seller-spotlight-AndrewHavens-v1-inc-16x9-A-hero.jpg" width="718"/></picture>
+</div>
+<div class="article-content">
+<div class="date-tag clear">
+<time aria-label="May 23, 2024" class="article-date" datetime="2024-05-23" role="contentinfo"><span aria-hidden="true">May 23, 2024</span></time>
+<span class="primary-attrib">Sellers</span>
+</div>
+<h3 class="article-title internal">
+		
+		This Seller Grew His Tech Business Almost 10x in Three Years
+		
+	</h3>
+<div class="article-intro">
+<p>Andrew Havens, an Up &amp; Running grantee, shares how he scaled his scientific tech business on eBay.</p>
+<div aria-label="Nicole Grant Kriege, eBay News Team" class="article-subtitle">Nicole Grant Kriege, eBay News Team</div>
+</div>
+</div>
+<span class="icon right"></span>
+</a>
+<div class="hover-icons left"><share-icons facebook="https://ebayinc.to/44U0caa" link="https://ebayinc.to/4dSOMaA" linkedin="https://ebayinc.to/3ULuCXs" title="This Seller Grew His Tech Business Almost 10x in Three Years" twitter="https://ebayinc.to/44Qp8iS"><svelte-retag><div class="share-icons svelte-djhf6w"><a class="ebi-icons--twitter svelte-vp2z5t" data-ga-title="Share on Twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Febayinc.to%2F44Qp8iS&amp;text=This%20Seller%20Grew%20His%20Tech%20Business%20Almost%2010x%20in%20Three%20Years" rel="noopener nofollow" target="_blank" title="Share on Twitter"><span class="svelte-vp2z5t">Share on Twitter</span></a> <a class="ebi-icons--linkedin svelte-vp2z5t" data-ga-title="Share on LinkedIn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Febayinc.to%2F3ULuCXs" rel="noopener nofollow" target="_blank" title="Share on LinkedIn"><span class="svelte-vp2z5t">Share on LinkedIn</span></a> <a class="ebi-icons--facebook svelte-vp2z5t" data-ga-title="Share on Facebook" href="https://www.facebook.com/dialog/share?app_id=1641882702691765&amp;display=popup&amp;href=https%3A%2F%2Febayinc.to%2F44U0caa&amp;redirect_uri=https%3A%2F%2Fwww.ebayinc.com%2Ffacebook-share-thank-you%2F" rel="noopener nofollow" target="_blank" title="Share on Facebook"><span class="svelte-vp2z5t">Share on Facebook</span></a> <span class="tooltip-HJj7QW svelte-1y24edq"><span class="slot-3ENCrA svelte-1y24edq"><a class="ebi-icons--link-chain svelte-vp2z5t" data-ga-title="Copy link to clipboard" href="https://ebayinc.to/4dSOMaA" rel="noopener nofollow" target="_blank" title="Copy link to clipboard"><span class="svelte-vp2z5t">Copy link to clipboard</span></a></span> <span class="text-1lAWSa svelte-1y24edq top-14co0z" role="tooltip" style="color: #fff; transition-duration: 150ms; --tooltip-background: rgba(0,0,0,0.85)">Copied!</span></span></div></svelte-retag></share-icons></div>
+</div>
+<div class="article-wrapper internal-article round-corners" data-id="9348">
+<a aria-label="Article: eBay’s Inaugural “Recommerce Day” Celebrates Pre-Loved Shopping" class="article-link block-level-link has-media" data-ga-title="Article: eBay’s Inaugural “Recommerce Day” Celebrates Pre-Loved Shopping" href="/stories/news/ebays-inaugural-recommerce-day-celebrates-pre-loved-shopping/">
+<div class="internal-article-media">
+<picture class="re__pic"><img alt="" class="re__img" height="404" src="https://static.ebayinc.com/static/assets/Uploads/Stories/Articles/_resampled/FillWzcxOCw0MDRd/240514-Recommerce-report-promo-v1-inc-1600x900-B.jpg" width="718"/></picture>
+</div>
+<div class="article-content">
+<div class="date-tag clear">
+<time aria-label="May 21, 2024" class="article-date" datetime="2024-05-21" role="contentinfo"><span aria-hidden="true">May 21, 2024</span></time>
+<span class="primary-attrib">Recommerce</span>
+</div>
+<h3 class="article-title internal">
+		
+		eBay’s Inaugural “Recommerce Day” Celebrates Pre-Loved Shopping
+		
+	</h3>
+<div class="article-intro">
+<p>Actress and sustainability advocate Alicia Silverstone helps launch our 2024 Recommerce Report </p>
+<div aria-label="eBay News Team " class="article-subtitle">eBay News Team </div>
+</div>
+</div>
+<span class="icon right"></span>
+</a>
+<div class="hover-icons left"><share-icons facebook="https://ebayinc.to/44PfnkN" link="https://ebayinc.to/3UOa2FY" linkedin="https://ebayinc.to/3yuK0jC" title="eBay’s Inaugural “Recommerce Day” Celebrates Pre-Loved Shopping" twitter="https://ebayinc.to/44Sq2Lx"><svelte-retag><div class="share-icons svelte-djhf6w"><a class="ebi-icons--twitter svelte-vp2z5t" data-ga-title="Share on Twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Febayinc.to%2F44Sq2Lx&amp;text=eBay%E2%80%99s%20Inaugural%20%E2%80%9CRecommerce%20Day%E2%80%9D%20Celebrates%20Pre-Loved%20Shopping" rel="noopener nofollow" target="_blank" title="Share on Twitter"><span class="svelte-vp2z5t">Share on Twitter</span></a> <a class="ebi-icons--linkedin svelte-vp2z5t" data-ga-title="Share on LinkedIn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Febayinc.to%2F3yuK0jC" rel="noopener nofollow" target="_blank" title="Share on LinkedIn"><span class="svelte-vp2z5t">Share on LinkedIn</span></a> <a class="ebi-icons--facebook svelte-vp2z5t" data-ga-title="Share on Facebook" href="https://www.facebook.com/dialog/share?app_id=1641882702691765&amp;display=popup&amp;href=https%3A%2F%2Febayinc.to%2F44PfnkN&amp;redirect_uri=https%3A%2F%2Fwww.ebayinc.com%2Ffacebook-share-thank-you%2F" rel="noopener nofollow" target="_blank" title="Share on Facebook"><span class="svelte-vp2z5t">Share on Facebook</span></a> <span class="tooltip-HJj7QW svelte-1y24edq"><span class="slot-3ENCrA svelte-1y24edq"><a class="ebi-icons--link-chain svelte-vp2z5t" data-ga-title="Copy link to clipboard" href="https://ebayinc.to/3UOa2FY" rel="noopener nofollow" target="_blank" title="Copy link to clipboard"><span class="svelte-vp2z5t">Copy link to clipboard</span></a></span> <span class="text-1lAWSa svelte-1y24edq top-14co0z" role="tooltip" style="color: #fff; transition-duration: 150ms; --tooltip-background: rgba(0,0,0,0.85)">Copied!</span></span></div></svelte-retag></share-icons></div>
+</div>
+<div class="article-wrapper internal-article round-corners" data-id="9343">
+<a aria-label="Article: Collectors and eBay Transactions Close, Summer Launch Expected for Integrated, End-to-End Hobby Experience " class="article-link block-level-link has-media" data-ga-title="Article: Collectors and eBay Transactions Close, Summer Launch Expected for Integrated, End-to-End Hobby Experience " href="/stories/news/ollectors-and-ebay-transactions-close-summer-launch-expected-for-integrated-end-to-end-hobby-experience/">
+<div class="internal-article-media">
+<picture class="re__pic"><img alt="" class="re__img" height="404" src="https://static.ebayinc.com/static/assets/Uploads/Stories/Articles/_resampled/FillWzcxOCw0MDRd/ebay-hq-inc-12.jpg" width="718"/></picture>
+</div>
+<div class="article-content">
+<div class="date-tag clear">
+<time aria-label="May 16, 2024" class="article-date" datetime="2024-05-16" role="contentinfo"><span aria-hidden="true">May 16, 2024</span></time>
+<span class="primary-attrib">eBay</span>
+</div>
+<h3 class="article-title internal">
+		
+		Collectors and eBay Transactions Close, Summer Launch Expected for Integrated, End-to-End Hobby Experience 
+		
+	</h3>
+<div class="article-intro">
+<p>PSA and eBay partnership introduces new, customer-focused vault experience with streamlined grading, storing and selling of trading cards </p>
+<div aria-label="Press Release" class="article-subtitle">Press Release</div>
+</div>
+</div>
+<span class="icon right"></span>
+</a>
+<div class="hover-icons left"><share-icons facebook="https://ebayinc.to/4bFK7XF" link="https://ebayinc.to/3ykdsIN" linkedin="https://ebayinc.to/3QKTjSE" title="Collectors and eBay Transactions Close, Summer Launch Expected for Integrated, End-to-End Hobby Experience " twitter="https://ebayinc.to/3yrprog"><svelte-retag><div class="share-icons svelte-djhf6w"><a class="ebi-icons--twitter svelte-vp2z5t" data-ga-title="Share on Twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Febayinc.to%2F3yrprog&amp;text=Collectors%20and%20eBay%20Transactions%20Close%2C%20Summer%20Launch%20Expected%20for%20Integrated%2C%20End-to-End%20Hobby%20Experience%20" rel="noopener nofollow" target="_blank" title="Share on Twitter"><span class="svelte-vp2z5t">Share on Twitter</span></a> <a class="ebi-icons--linkedin svelte-vp2z5t" data-ga-title="Share on LinkedIn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Febayinc.to%2F3QKTjSE" rel="noopener nofollow" target="_blank" title="Share on LinkedIn"><span class="svelte-vp2z5t">Share on LinkedIn</span></a> <a class="ebi-icons--facebook svelte-vp2z5t" data-ga-title="Share on Facebook" href="https://www.facebook.com/dialog/share?app_id=1641882702691765&amp;display=popup&amp;href=https%3A%2F%2Febayinc.to%2F4bFK7XF&amp;redirect_uri=https%3A%2F%2Fwww.ebayinc.com%2Ffacebook-share-thank-you%2F" rel="noopener nofollow" target="_blank" title="Share on Facebook"><span class="svelte-vp2z5t">Share on Facebook</span></a> <span class="tooltip-HJj7QW svelte-1y24edq"><span class="slot-3ENCrA svelte-1y24edq"><a class="ebi-icons--link-chain svelte-vp2z5t" data-ga-title="Copy link to clipboard" href="https://ebayinc.to/3ykdsIN" rel="noopener nofollow" target="_blank" title="Copy link to clipboard"><span class="svelte-vp2z5t">Copy link to clipboard</span></a></span> <span class="text-1lAWSa svelte-1y24edq top-14co0z" role="tooltip" style="color: #fff; transition-duration: 150ms; --tooltip-background: rgba(0,0,0,0.85)">Copied!</span></span></div></svelte-retag></share-icons></div>
+</div>
+</div>
+<a class="button" href="/stories/news/">View more</a>
+</div>
+</section>
+<section class="content-section cs-type-cta cs-breakout theme2 has-theme clear" data-ga-cs-title="Financials &amp; Business Metrics" data-ga-cs-type="CTA Block" data-v1id="1102" data-v2id="627">
+<div class="cta-content-container center">
+<h2 class="outer-heading">
+<span class="dash"></span>
+<span class="text">Financials &amp; Business Metrics</span>
+<span class="dash"></span>
+</h2>
+<div class="buttons single">
+<a class="button-flat solid animated cta-arrow" href="https://investors.ebayinc.com/fast-facts/default.aspx">Learn more</a>
+</div>
+</div>
+</section>
+</main>
+</div>
+<footer class="main-footer">
+<div class="inner">
+<div aria-label="Quick Links" class="secondary-navigation js-secondary-navigation mobile" role="list">
+<span class="js-secondary footer-only" role="listitem"><a class="js-secondary-link" href="https://www.ebay.com">eBay.com</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/stories/press-room/">Press Room</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/company/follow-us/">Follow Us</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/company/contact-us/">Contact Us</a></span>
+</div>
+<div class="footer-nav">
+<img alt="eBay Logo" class="footer-logo" height="30" src="https://static.ebayinc.com/static/theme/images/logo.svg?v=33c0b27" width="75"/>
+<ul aria-label="Site Navigation">
+<li class="link"><a aria-current="page" href="https://www.ebayinc.com/">Home</a></li>
+<li class="link"><a href="https://www.ebayinc.com/company/">Company</a></li>
+<li class="link"><a href="https://www.ebayinc.com/stories/news/">Stories</a></li>
+<li class="link"><a href="https://www.ebayinc.com/impact/">Impact</a></li>
+<li class="link"><a href="https://innovation.ebayinc.com/">Innovation</a></li>
+<li class="link"><a href="https://investors.ebayinc.com/">Investors</a></li>
+<li class="link"><a href="https://jobs.ebayinc.com/us/en">Careers</a></li>
+</ul>
+</div>
+<div class="footer-copyright">
+<span class="notranslate">Copyright © 1995-2024 eBay Inc.</span>
+<span>All Rights Reserved.</span>
+<span class="tertiary-navigation">
+<a class="" href="https://www.ebayinc.com/terms-of-use/">Terms of Use</a>
+<span aria-hidden="true">|</span>
+<a class="" href="https://www.ebayinc.com/company/privacy-center/">Privacy</a>
+<span aria-hidden="true">|</span>
+<a class="" href="https://www.ebayinc.com/accessibility/">Accessibility</a>
+<span aria-hidden="true">|</span>
+<a class="" href="https://www.ebayinc.com/stories/press-room/#assets-settlements">Settlements</a>
+</span>
+</div>
+<div aria-label="Quick Links" class="secondary-navigation js-secondary-navigation desktop" role="list">
+<span class="js-secondary footer-only" role="listitem"><a class="js-secondary-link" href="https://www.ebay.com">eBay.com</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/stories/press-room/">Press Room</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/company/follow-us/">Follow Us</a></span>
+<span class="js-secondary" role="listitem"><a class="js-secondary-link" href="https://www.ebayinc.com/company/contact-us/">Contact Us</a></span>
+</div>
+</div>
+</footer>
+
+
+
+<img src="//www.ebayinc.com/company/ebi.gif" style="position: absolute; top: 0px;"/>
+
+<noscript>
+<img alt="" height="1" src="https://px.ads.linkedin.com/collect/?pid=3677196&amp;fmt=gif" style="display:none;" width="1">
+</img></noscript>
+
+<a class="back-to-top aria-only" href="/company/#skip-to-main">Back to Top</a>
+<noscript><img src="https://www.ebayinc.com/akam/13/pixel_83fa87?a=dD02ZTVkZjA1OTcwNGE1NzkwMmNiMmY4Nzg4MWY3ZjkxOTg0MjUxZDVmJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;"/></noscript>
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration><div id="detach-button-host" style="--opera-video-toolbar-button-color-contrasting: hsla(0, 0%, 100%, 1); top: 283px; left: 894px;"></div><div class="hidden" id="qr-host" style="--opera-video-toolbar-button-color-contrasting: hsla(0, 0%, 100%, 1);"></div></html> The page is part of the website ebay.com . It is in the url https://www.ebayinc.com/company/ and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female"} Should this page be private to a certain user? Answer only with yes or no.

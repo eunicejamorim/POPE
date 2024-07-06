@@ -1,0 +1,522 @@
+The following text is the html file of a webpage. <html class="no-touch" dir="ltr" lang="en"><head>
+<title>Sign in to your account</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" name="viewport"/>
+<meta content="no-cache" http-equiv="Pragma"/>
+<meta content="-1" http-equiv="Expires"/>
+<link crossorigin="" href="https://aadcdn.msftauth.net" rel="preconnect"/>
+<meta content="on" http-equiv="x-dns-prefetch-control"/>
+<link href="//aadcdn.msftauth.net" rel="dns-prefetch"/>
+<link href="//aadcdn.msauth.net" rel="dns-prefetch"/>
+<meta content="ConvergedSignIn" name="PageID"/>
+<meta content="" name="SiteID"/>
+<meta content="1033" name="ReqLC"/>
+<meta content="en-US" name="LocLC"/>
+<meta content="telephone=no" name="format-detection"/>
+<noscript>
+<meta content="0; URL=https://login.microsoftonline.com/jsdisabled" http-equiv="Refresh">
+</meta></noscript>
+<meta content="none" name="robots"/>
+
+
+
+<link href="https://login.live.com/Me.htm?v=3" rel="prefetch"/>
+<link href="https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico" rel="shortcut icon"/>
+
+<link crossorigin="anonymous" data-loader="cdn" href="https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_9oft0ybq1qhuafkqh5wryq2.css" rel="stylesheet"/>
+
+
+</head>
+<body class="cb remove-segoe-ui-symbol" data-bind="defineGlobals: ServerData, bodyCssClass" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" style="display: block;">
+
+<div><!-- -->
+<!-- -->
+<div data-bind="if: activeDialog"></div>
+<form action="/common/login" autocomplete="off" class="provide-min-height" data-bind="visible: !isLoginPageHidden(), autoSubmit: forceSubmit, attr: { action: postUrl }, ariaHidden: !!activeDialog(), css: { 'provide-min-height': svr.fUseMinHeight }" id="i0281" method="post" name="f1" novalidate="novalidate" spellcheck="false" target="_top">
+<!-- ko withProperties: { '$loginPage': $data } -->
+<div class="login-paginated-page" data-bind="component: { name: 'master-page',
+        publicMethods: masterPageMethods,
+        params: {
+            serverData: svr,
+            showButtons: svr.fShowButtons,
+            showFooterLinks: true,
+            useWizardBehavior: svr.fUseWizardBehavior,
+            handleWizardButtons: false,
+            password: password,
+            hideFromAria: ariaHidden },
+        event: {
+            footerAgreementClick: footer_agreementClick } }"><!-- -->
+<!-- ko ifnot: useLayoutTemplates --><!-- /ko -->
+<!-- ko if: useLayoutTemplates -->
+<!-- ko withProperties: { '$page': $parent } -->
+<!-- ko if: isLightboxTemplate() -->
+<div class="provide-min-height" data-bind="component: { name: 'lightbox-template', params: { serverData: svr, showHeader: $page.showHeader(), headerLogo: $page.headerLogo() } }, css: { 'provide-min-height': svr.fUseMinHeight }" id="lightboxTemplateContainer"><!-- -->
+<div data-bind="css: { 'provide-min-height': svr.fUsePlaywrightMinHeight },
+    component: { name: 'background-image-control',
+        publicMethods: $page.backgroundControlMethods,
+        event: { load: $page.backgroundImageControl_onLoad } }" id="lightboxBackgroundContainer"><div class="background-image-holder" data-bind="css: { app: isAppBranding }, style: { background: backgroundStyle }" role="presentation">
+<!-- ko if: smallImageUrl --><!-- /ko -->
+<!-- ko if: backgroundImageUrl -->
+<div aria-label="Organization background image" class="background-image ext-background-image" data-bind="backgroundImage: backgroundImageUrl(), externalCss: { 'background-image': true }, ariaLabel: str['STR_Background_Image_AltText']" id="backgroundImage" role="img" style='background-image: url("https://aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/2_11d9e3bcdfede9ce5ce5ace2d129f1c4.svg");'></div>
+<!-- ko if: useImageMask --><!-- /ko -->
+<!-- /ko -->
+</div></div>
+<!-- ko if: svr.iBannerEnvironment --><!-- /ko -->
+<!-- ko withProperties: { '$masterPageContext': $parentContext } -->
+<div class="outer" data-bind="css: { 'app': $page.backgroundLogoUrl }">
+<!-- ko if: showHeader --><!-- /ko -->
+<div class="template-section main-section">
+<div class="middle ext-middle" data-bind="externalCss: { 'middle': true }">
+<div class="full-height" data-bind="component: { name: 'content-control', params: { serverData: svr, isVerticalSplitTemplate: $page.isVerticalSplitTemplate(), hasHeader: showHeader } }"><!-- -->
+<!-- ko withProperties: { '$content': $data } -->
+<div class="flex-column">
+<!-- ko if: $page.paginationControlHelper.showBackgroundLogoHolder --><!-- /ko -->
+<!-- ko if: $page.paginationControlHelper.showPageLevelTitleControl --><!-- /ko -->
+<div class="win-scroll">
+<div class="sign-in-box ext-sign-in-box fade-in-lightbox has-popup" data-bind="
+            animationEnd: $page.paginationControlHelper.animationEnd,
+            externalCss: { 'sign-in-box': true },
+            css: {
+                'inner':  $content.isVerticalSplitTemplate,
+                'vertical-split-content': $content.isVerticalSplitTemplate,
+                'app': $page.backgroundLogoUrl,
+                'wide': $page.paginationControlHelper.useWiderWidth,
+                'fade-in-lightbox': $page.fadeInLightBox,
+                'has-popup': $page.showFedCredAndNewSession &amp;&amp; ($page.showFedCredButtons() || $page.newSession()),
+                'transparent-lightbox': $page.backgroundControlMethods() &amp;&amp; $page.backgroundControlMethods().useTransparentLightBox,
+                'lightbox-bottom-margin-debug': $page.showDebugDetails,
+                'has-header': $content.hasHeader }" id="lightbox">
+<!-- ko template: { nodes: $masterPageContext.$componentTemplateNodes, data: $page } -->
+<!-- ko if: svr.fShowCookieBanner --><!-- /ko -->
+<div class="lightbox-cover" data-bind="css: { 'disable-lightbox': svr.fAllowGrayOutLightBox &amp;&amp; showLightboxProgress() }"></div>
+<!-- ko if: showLightboxProgress --><!-- /ko -->
+<!-- ko if: loadBannerLogo -->
+<div data-bind="component: { name: 'logo-control',
+            params: {
+                isChinaDc: svr.fIsChinaDc,
+                bannerLogoUrl: bannerLogoUrl() } }"><!-- -->
+<!-- ko if: bannerLogoUrl --><!-- /ko -->
+<!-- ko if: !bannerLogoUrl && !isChinaDc && !isCiamUserFlowUx -->
+<!-- ko component: 'accessible-image-control' --><!-- ko if: (isHighContrastBlackTheme || hasDarkBackground || svr.fHasBackgroundColor) && !isHighContrastWhiteTheme --><!-- /ko -->
+<!-- ko if: (isHighContrastWhiteTheme || (!hasDarkBackground && !svr.fHasBackgroundColor)) && !isHighContrastBlackTheme -->
+<!-- ko template: { nodes: [darkImageNode], data: $parent } --><img alt="Microsoft" class="logo" data-bind="imgSrc, attr: { alt: str['MOBILE_STR_Footer_Microsoft'] }" pngsrc="https://aadcdn.msftauth.net/shared/1.0/content/images/microsoft_logo_ea19b2112f4dfd8e90b4505ef7dcb4f9.png" role="img" src="https://aadcdn.msftauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg" svgsrc="https://aadcdn.msftauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg"/><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+<!-- /ko -->
+<!-- ko if: !bannerLogoUrl && isCiamUserFlowUx && bannerLogoText --><!-- /ko --></div>
+<!-- /ko -->
+<!-- ko if: svr.strLWADisclaimerMsg && paginationControlHelper.showLwaDisclaimer() --><!-- /ko -->
+<!-- ko if: asyncInitReady -->
+<div data-bind="component: { name: 'pagination-control',
+            publicMethods: paginationControlMethods,
+            params: {
+                enableCssAnimation: svr.fEnableCssAnimation,
+                disableAnimationIfAnimationEndUnsupported: svr.fDisableAnimationIfAnimationEndUnsupported,
+                initialViewId: initialViewId,
+                currentViewId: currentViewId,
+                initialSharedData: initialSharedData,
+                initialError: $loginPage.getServerError() },
+            event: {
+                cancel: paginationControl_onCancel,
+                load: paginationControlHelper.onLoad,
+                unload: paginationControlHelper.onUnload,
+                loadView: view_onLoadView,
+                showView: view_onShow,
+                setLightBoxFadeIn: view_onSetLightBoxFadeIn,
+                animationStateChange: paginationControl_onAnimationStateChange } }" role="main"><!-- -->
+<div class="" data-bind="css: { 'zero-opacity': hidePaginatedView() }">
+<!-- ko if: showIdentityBanner() && (sharedData.displayName || svr.sPOST_Username) --><!-- /ko -->
+<div class="pagination-view animate slide-in-next" data-bind="css: {
+        'has-identity-banner': showIdentityBanner() &amp;&amp; (sharedData.displayName || svr.sPOST_Username),
+        'zero-opacity': hidePaginatedView.hideSubView(),
+        'animate': animate(),
+        'slide-out-next': animate.isSlideOutNext(),
+        'slide-in-next': animate.isSlideInNext(),
+        'slide-out-back': animate.isSlideOutBack(),
+        'slide-in-back': animate.isSlideInBack() }">
+<!-- ko foreach: views -->
+<!-- ko if: $parent.currentViewIndex() === $index() -->
+<!-- ko template: { nodes: [$data], data: $parent } --><div data-bind="pageViewComponent: { name: 'login-paginated-username-view',
+                params: {
+                    serverData: svr,
+                    serverError: initialError,
+                    isInitialView: isInitialState,
+                    displayName: sharedData.displayName,
+                    otherIdpRedirectUrl: sharedData.otherIdpRedirectUrl,
+                    prefillNames: $loginPage.prefillNames,
+                    flowToken: sharedData.flowToken,
+                    availableSignupCreds: sharedData.availableSignupCreds,
+                    customStrings: $loginPage.customStrings(),
+                    isCustomizationFailure: $loginPage.isCustomStringsLoadFailure(), 
+                    userIdLabel: $loginPage.userIdLabel,
+                    cantAccessYourAccountText: $loginPage.cantAccessYourAccountText,
+                    hideAccountResetCredentials: $loginPage.hideAccountResetCredentials,
+                    accessRecoveryLink: $loginPage.accessRecoveryLink,
+                    boilerPlateText: $loginPage.boilerPlateText },
+                event: {
+                    restoreIsRecoveryAttemptPost: $loginPage.view_onRestoreIsRecoveryAttemptPost,
+                    redirect: $loginPage.view_onRedirect,
+                    updateDFPUrl: $loginPage.view_onUpdateDFPUrl,
+                    setPendingRequest: $loginPage.view_onSetPendingRequest,
+                    registerDialog: $loginPage.view_onRegisterDialog,
+                    unregisterDialog: $loginPage.view_onUnregisterDialog,
+                    showDialog: $loginPage.view_onShowDialog,
+                    updateAvailableCredsWithoutUsername: $loginPage.view_onUpdateAvailableCreds,
+                    agreementClick: $loginPage.footer_agreementClick } }" data-showfedcredbutton="true" data-viewid="1"><!-- -->
+<!-- ko if: svr.fAllowLoginTextCustomizations -->
+<div data-bind="component: { name: 'header-control',
+    params: {
+        serverData: svr,
+        title: customTitle() || str['WF_STR_HeaderDefault_Title'],
+        headerDescription: customDescription() } }"><div>
+<div class="row title ext-title" data-bind="externalCss: { 'title': true }" id="loginHeader">
+<div aria-level="1" data-bind="text: title" role="heading">Sign in</div>
+<!-- ko if: isSubtitleVisible --><!-- /ko -->
+</div>
+<!-- ko if: headerDescription --><!-- /ko -->
+</div></div>
+<!-- /ko -->
+<!-- ko ifnot: svr.fAllowLoginTextCustomizations --><!-- /ko -->
+<!-- ko if: pageDescription && !svr.fHideLoginDesc --><!-- /ko -->
+<div class="row">
+<div aria-live="assertive" role="alert">
+<!-- ko if: usernameTextbox.error --><!-- /ko -->
+</div>
+<div class="form-group col-md-24">
+<!-- ko if: prefillNames().length > 1 --><!-- /ko -->
+<!-- ko ifnot: prefillNames().length > 1 -->
+<div class="placeholderContainer" data-bind="component: { name: 'placeholder-textbox-field',
+            publicMethods: usernameTextbox.placeholderTextboxMethods,
+            params: {
+                serverData: svr,
+                hintText: svr.fEnableLivePreview ? userIdLabel : tenantBranding.unsafe_userIdLabel || str['STR_SSSU_Username_Hint'] || str['CT_PWD_STR_Email_Example'],
+                hintCss: 'placeholder' + (!svr.fAllowPhoneSignIn ? ' ltr_override' : '') },
+            event: {
+                updateFocus: usernameTextbox.textbox_onUpdateFocus } }"><!-- ko withProperties: { '$placeholderText': placeholderText } -->
+<!-- ko template: { nodes: $componentTemplateNodes, data: $parent } -->
+<input aria-describedby="loginHeader usernameError" aria-label="Enter your email, phone, or Skype." aria-required="true" autocomplete="username" class="form-control ltr_override input ext-input text-box ext-text-box" data-bind="
+                    attr: { lang: svr.fApplyAsciiRegexOnInput ? null : 'en',
+                            autocomplete: svr.fIsUpdatedAutocompleteEnabled ? 'username' : null },
+                    externalCss: {
+                        'input': true,
+                        'text-box': true,
+                        'has-error': usernameTextbox.error },
+                    ariaLabel: tenantBranding.unsafe_userIdLabel || str['CT_PWD_STR_Username_AriaLabel'],
+                    ariaDescribedBy: 'loginHeader' + (pageDescription &amp;&amp; !svr.fHideLoginDesc ? ' loginDescription usernameError' : ' usernameError'),
+                    textInput: usernameTextbox.value,
+                    hasFocusEx: usernameTextbox.focused,
+                    placeholder: $placeholderText" data-report-attached="1" data-report-event="Signin_Email_Phone_Skype" data-report-trigger="click" data-report-value="Email_Phone_Skype_Entry" id="i0116" maxlength="113" name="loginfmt" placeholder="Email, phone, or Skype" type="email"/>
+<!-- ko if: svr.fIsUpdatedAutocompleteEnabled -->
+<input aria-hidden="true" class="moveOffScreen" data-bind="moveOffScreen, textInput: passwordBrowserPrefill" id="i0118" name="passwd" tabindex="-1" type="password"/>
+<!-- /ko -->
+<!-- ko ifnot: svr.fIsUpdatedAutocompleteEnabled --><!-- /ko -->
+<!-- /ko -->
+<!-- /ko -->
+<!-- ko ifnot: usePlaceholderAttribute --><!-- /ko --></div>
+<!-- /ko -->
+</div>
+</div>
+<div class="position-buttons password-reset-links-container ext-password-reset-links-container" data-bind="css: { 'position-buttons': !tenantBranding.BoilerPlateText &amp;&amp; !boilerPlateText }, externalCss: { 'password-reset-links-container': true }">
+<div class="row">
+<div class="col-md-24">
+<div class="text-13">
+<!-- ko if: svr.fCBShowSignUp && !svr.fDoIfExists && !svr.fCheckProofForAliases -->
+<!-- ko if: svr.fIsSelfServiceSignupUxEnabled --><!-- /ko -->
+<!-- ko ifnot: svr.fIsSelfServiceSignupUxEnabled -->
+<div class="form-group" data-bind="
+                    htmlWithBindings: html['WF_STR_SignUpLink_Text'],
+                    childBindings: {
+                        'signup': {
+                            href: svr.urlSignUp || '#',
+                            ariaLabel: svr.urlSignUp ? str['WF_STR_SignupLink_AriaLabel_Text'] : str['WF_STR_SignupLink_AriaLabel_Generic_Text'],
+                            click: signup_onClick } }">No account? <a aria-label="Create a Microsoft account" href="https://login.live.com/oauth20_authorize.srf?client_id=d7b530a4-7680-4c23-a8bf-c52c121d2e87&amp;scope=User.Read+openid+profile+offline_access&amp;redirect_uri=https%3a%2f%2fwww.msn.com%2fstaticsb%2fstatics%2flatest%2f0%2fauth%2fauth-redirect.html&amp;response_type=code&amp;state=eyJpZCI6IjcwMGYwNWI5LWQ2ZjEtNDgxZC04ZTA0LTVkY2FkNjU3N2VmYiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d%7c%257B%2522appType%2522%253A%2522views%2522%252C%2522authRedirJsVer%2522%253A%25222.16%2522%252C%2522buildVersion%2522%253A%252220240530.614%2522%252C%2522msalJsVer%2522%253A%25222.18.0%2522%252C%2522returnUrl%2522%253A%2522https%253A%252F%252Fwww.msn.com%252Fen-us%252Fchannel%252Ftopic%252FEntertainment%252Ftp-Y_414a7c40-a373-4025-b4ce-e9502e9e17ed%253Focid%253Dhpmsn%2526cvid%253D30cfcb396c7a4cfc963557a1ddc1ec24%2526ei%253D24%2522%257D&amp;response_mode=fragment&amp;nonce=6b4b6348-c6c2-455c-abf4-161bc829ff77&amp;code_challenge=rT-TurobuknAaFjCLhzDKWCgOXPadatx0e3jkHYhNGE&amp;code_challenge_method=S256&amp;x-client-SKU=msal.js.browser&amp;x-client-Ver=2.18.0&amp;uaid=6aca68e90b78493a8980db1ff458b4ff&amp;msproxy=1&amp;issuer=mso&amp;tenant=common&amp;ui_locales=en-US&amp;client_info=1&amp;signup=1&amp;lw=1&amp;fl=easi2&amp;epct=PAQABDgEAAADnfolhJpSnRYB1SVj-Hgd87VpkCiNpRs4X0yL7ZcVPdZ2ZlQTJl6ZT8OQrD00JFN6xK1venw2bIz2Tkmg1JPtY7My928eXWsjbh0Dby5az03D1i2vXmAWw2ryAzUatf_amfJb4BNNHDlBxblirwC1Lak1HlXS4kAzEpscIhMxGHcQZq8NQge59oq0EHzqBH-s8oqT33tkTszBsiFoWyIiBfxIsXdPHBbU-yLy2NIUiySAA&amp;jshs=0" id="signup">Create one!</a></div>
+<!-- /ko -->
+<!-- /ko -->
+<!-- ko ifnot: hideCantAccessYourAccount -->
+<div class="form-group">
+<a data-bind="
+                        text: svr.fEnableLivePreview ? cantAccessYourAccountText : unsafe_cantAccessYourAccountText,
+                        click: accessRecoveryLink ? null : cantAccessAccount_onClick,
+                        attr: { target: accessRecoveryLink &amp;&amp; '_blank' },
+                        href: accessRecoveryLink || '#'" href="#" id="cantAccessAccount" name="cannotAccessAccount">Can’t access your account?</a>
+</div>
+<!-- /ko -->
+<!-- ko if: showFidoLinkInline && hasFido() && (availableCredsWithoutUsername().length >= 2 || svr.fShowForgotUsernameLink || isOfflineAccountVisible) --><!-- /ko -->
+<!-- ko if: svr.fEnableShowPickerCredObservable -->
+<!-- ko if: showCredPicker() --><!-- /ko -->
+<!-- /ko -->
+<!-- ko ifnot: svr.fEnableShowPickerCredObservable --><!-- /ko -->
+<!-- ko if: svr.urlSkipZtd --><!-- /ko -->
+</div>
+</div>
+</div>
+</div>
+<!-- ko if: svr.fShowLegalMessagingInline --><!-- /ko -->
+<div class="win-button-pin-bottom" data-bind="css : { 'boilerplate-button-bottom': tenantBranding.BoilerPlateText || boilerPlateText }">
+<div class="row" data-bind="css: { 'move-buttons': tenantBranding.BoilerPlateText || boilerPlateText }">
+<div data-bind="component: { name: 'footer-buttons-field',
+            params: {
+                serverData: svr,
+                isPrimaryButtonEnabled: !isRequestPending(),
+                isPrimaryButtonVisible: svr.fShowButtons,
+                isSecondaryButtonEnabled: true,
+                isSecondaryButtonVisible: svr.fShowButtons &amp;&amp; isSecondaryButtonVisible(),
+                secondaryButtonText: secondaryButtonText() },
+            event: {
+                primaryButtonClick: primaryButton_onClick,
+                secondaryButtonClick: secondaryButton_onClick } }"><div class="col-xs-24 no-padding-left-right button-container button-field-container ext-button-field-container" data-bind="
+    visible: isPrimaryButtonVisible() || isSecondaryButtonVisible(),
+    css: { 'no-margin-bottom': removeBottomMargin },
+    externalCss: { 'button-field-container': true }">
+<!-- ko if: isSecondaryButtonVisible -->
+<div class="inline-block button-item ext-button-item" data-bind="css: { 'inline-block': true }, externalCss: { 'button-item': true }">
+<input class="win-button button-secondary button ext-button secondary ext-secondary" data-bind="
+            attr: { 'id': secondaryButtonId || 'idBtn_Back' },
+            externalCss: {
+                'button': true,
+                'secondary': true },
+            value: secondaryButtonText() || str['CT_HRD_STR_Splitter_Back'],
+            ariaDescribedBy: secondaryButtonDescribedBy,
+            hasFocus: focusOnSecondaryButton,
+            click: secondaryButton_onClick,
+            clickBubble: !svr.fEnableLivePreview,
+            enable: isSecondaryButtonEnabled" id="idBtn_Back" type="button" value="Back"/>
+</div>
+<!-- /ko -->
+<div class="inline-block button-item ext-button-item" data-bind="css: { 'inline-block': isPrimaryButtonVisible }, externalCss: { 'button-item': true }">
+<!-- type="submit" is needed in-addition to 'type' in primaryButtonAttributes observable to support IE8 -->
+<input class="win-button button_primary high-contrast-overrides button ext-button primary ext-primary" data-bind="
+                attr: primaryButtonAttributes,
+                css: { 'high-contrast-overrides': svr.fUseHighContrastOverrides },
+                externalCss: {
+                    'button': true,
+                    'primary': true },
+                value: primaryButtonText() || str['CT_PWD_STR_SignIn_Button_Next'],
+                hasFocus: focusOnPrimaryButton,
+                click: svr.fEnableLivePreview ?  function() { } : primaryButton_onClick,
+                clickBubble: !svr.fEnableLivePreview,
+                enable: isPrimaryButtonEnabled,
+                visible: isPrimaryButtonVisible,
+                preventTabbing: primaryButtonPreventTabbing" data-report-attached="1" data-report-event="Signin_Submit" data-report-trigger="click" data-report-value="Submit" id="idSIButton9" type="submit" value="Next"/>
+</div>
+</div></div>
+</div>
+</div>
+<!-- ko if: tenantBranding.BoilerPlateText || boilerPlateText --><!-- /ko --></div><!-- /ko -->
+<!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- ko if: $parent.currentViewIndex() === $index() --><!-- /ko -->
+<!-- /ko -->
+</div>
+</div></div>
+<!-- /ko -->
+<input data-bind="value: postedLoginStateViewId" name="ps" type="hidden" value=""/>
+<input data-bind="value: postedLoginStateViewRNGCDefaultType" name="psRNGCDefaultType" type="hidden" value=""/>
+<input data-bind="value: postedLoginStateViewRNGCEntropy" name="psRNGCEntropy" type="hidden" value=""/>
+<input data-bind="value: postedLoginStateViewRNGCSLK" name="psRNGCSLK" type="hidden" value=""/>
+<!-- ko if: svr.sCanaryTokenName && !svr.fSkipRenderingNewCanaryToken -->
+<input data-bind="attr: { name: svr.sCanaryTokenName }, value: svr.canary" name="canary" type="hidden" value="6DHOKkzSOWgCTAmjXSxAjH0OrUtWyvHqJmdWLZLq5EE=9:1:CANARY:+gMfo0tf51/s18wonX5ZIlyRyABsICoKIlUc+4Vd9nQ="/>
+<!-- /ko -->
+<!-- ko if: !svr.sCanaryTokenName || svr.fSkipRenderingNewCanaryToken --><!-- /ko -->
+<input data-bind="value: ctx" name="ctx" type="hidden" value="rQQIARAArVM7bCNFGPbGOROM7hIdEqKCFDEgwq5nZ1-2pRSOH_E6jk1yfjen2dlZ7673dbvrOI4oKKFBVyFEhehIdQKE0BWIOgW6EoEoKCguBULoipOugFmfYpBoGa2--f6db__9__lmshnI8QUOvJ2GHCjt6IomCQCJrCIXACtiKLCooBksliDmIa9DUlDC29mtx-alffZSSf3w_Z9ffzL8-q8LpmbGcRCV8vn5fM65kcdh381HMYotHGnXJO-gmERxHuTRLDaXwIZEt0KCY86MXedbhnnEMBdrO7ImarIgFlgsY8iKkoRZpBkiy8u8hguwaBiK8tPaZqdMU8AE_NA6J1drtyLi0GR3Ecb-zIv_XNswQjRxiRd_mv4hTRbNYFxRZdXG86OD0bw9UKXW4BiO7Vrcrk7OxhUgjrtl0Or2pyNYn7btntCGfXdkqZHq8o5-ULM6XmShgQTGw6Y5Ek4CDUo9Mtx3VNu3sNufomHTGQnHljEEe-_llP0chCgIuouAUJYTyhRPLTKPkghWklVa_UmyCc2oT8KViPoirzTazHJ0uhpZvvePAkARULs4mRdXSjdCzn8SUYNXgpDEs9Drhc5KsHRuSev0-Zd_NCIeO6Ol1rGJPI_Qb-qxH1iYzjUvJmGMLC_Z3OR9wI7uiryIFCwCFgmKwIoASqwmYsKSogQgKRJeIXpOqPvYolPVDOiPclDGp8tQANjAmlCUsYJESouyIEkK4nUd8wRD2qNMLKqDy26V6kV6BzwfApvgc8DX7Hp8mc7QXlzfu0y_2YtIyJ0QpG_7AfEsfTsIfcNyyLZvGI7lkeTckCj6Mc08Wmeu1l_ZWNu6_WpqO_XWGyBd2tjIbqWS6Ok68_kNegtc5rfpNw-_O_rCfC3_-GabubyRl6uNzuH0_E5nMKl0y649vHNWthugE_biweK0ca_p6oPWuHVPqtX2iiX-foa5n3n5MrOZ2MbZEaeF_pzW-EeG-eCF1MMX_59b9UmWucjuhl22Owt9bTb1yqhuV1rmefVwUJl0hu8iHcVngAj2tDEy2we1B1nm-5upp7d-_fjZR1_98tnvjavNd3YnR4YPYkPi8xFfmPveUBqrzuJkUd6P1Ip_qDo9vCv29aJ3vPdgK_U30"/>
+<input data-bind="value: svr.sessionId" name="hpgrequestid" type="hidden" value="6be5016d-bab6-4dbe-a968-1e2fe90d4e01"/>
+<input data-bind="attr: { name: svr.sFTName }, value: flowToken" id="i0327" name="flowToken" type="hidden" value="AQABIQEAAADnfolhJpSnRYB1SVj-Hgd8rcvN2HgVJZQIaX0F4Y_VjKSgkhKYfGWuC4hkol2t8XFkW7ByZLVmI0TBIp5owO29POhJZmoP89Cduskk6OKx6WbM4Sqra4qtDlHp_ZFKy1Rs6mBxJzYSQeljZV0U44Nw6CrgrW9GSlWt4IL6r_nJsgGyPKCg8Fxgoxh1bVT4VPFvB8v3qmHqKY69tHxIwlWYe33DSMUYLNEo0ySPkiFKkfRNr7pxTSx_0LkzUc6cixIR6MS6CEWHtSUiaw9aPN1BlVK0OLCzvPBX6TzhzeEkE3wpXpBI9REkvmzN4q3ExxM3RoPQhx2_PPNS6qO3px5FuLofPHYRaI-xcI3FyW1LFSgunhgdOYUfdP1l4lP3CztJLrCDUbjwsoLSCqTSqfitiLn8eT7ARSm37ur4tZPeA4YEw0UZ9Rg8pVpkAFq0UzFyTfIy-bnrWD1w1OWvQd27YJ66F_g_ZPjMOIlgb0kX2T5BtJ3CJUKf5HxeMYYV1MV03frqpmdPefBvrnUSUQ9_p1fKsW3_KojcDQgHCa30xiAA"/>
+<input data-bind="value: svr.sRandomBlob" name="PPSX" type="hidden" value=""/>
+<input name="NewUser" type="hidden" value="1"/>
+<input data-bind="value: svr.sFoundMSAs" name="FoundMSAs" type="hidden" value=""/>
+<input data-bind="value: svr.fPOST_ForceSignin ? 1 : 0" name="fspost" type="hidden" value="0"/>
+<input data-bind="value: wasLearnMoreShown() ? 1 : 0" name="i21" type="hidden" value="0"/>
+<input data-bind="value: svr.fShowCookieBanner ? 1 : 0" name="CookieDisclosure" type="hidden" value="0"/>
+<input data-bind="value: isFidoSupported() ? 1 : 0" name="IsFidoSupported" type="hidden" value="0"/>
+<input data-bind="value: isSignupPost() ? 1 : 0" name="isSignupPost" type="hidden" value="0"/>
+<!-- ko ifnot: svr.fShouldSupportTargetCredentialForRecovery --><!-- /ko -->
+<!-- ko if: svr.fEnableDFPIntegration -->
+<input data-bind="value: dfpResult()" name="DfpArtifact" type="hidden" value=""/>
+<!-- /ko -->
+<!-- ko if: svr.fShouldSupportTargetCredentialForRecovery && targetCredentialForRecovery() --><!-- /ko -->
+<div data-bind="component: { name: 'instrumentation-control',
+            publicMethods: instrumentationMethods,
+            params: { serverData: svr } }">
+<input data-bind="value: timeOnPage" name="i19" type="hidden" value=""/></div>
+<!-- /ko -->
+</div>
+<!-- ko if: $page.showFedCredAndNewSession -->
+<!-- ko ifnot: svr.fUsePromotedFedCredTypesArray --><!-- /ko -->
+<!-- ko if: svr.fUsePromotedFedCredTypesArray -->
+<!-- ko if: $page.showFedCredButtons -->
+<div data-bind="component: { name: 'fed-cred-buttons-control',
+            params: {
+                serverData: svr,
+                fedCredOptions: $page.otherSigninOptions },
+            event: {
+                fedCredButtonClick: $page.otherSigninOptionsButton_onClick } }"><!-- -->
+<!-- ko withProperties: { '$fedCredButtonsControl': $data } -->
+<div class="promoted-fed-cred-box ext-promoted-fed-cred-box" data-bind="css: { 'app': $page.backgroundLogoUrl }, externalCss: { 'promoted-fed-cred-box': true }">
+<div class="promoted-fed-cred-content" data-bind="css: {
+        'animate': $page.useCssAnimations &amp;&amp; $page.animate(),
+        'slide-out-next': $page.animate.isSlideOutNext,
+        'slide-in-next': $page.animate.isSlideInNext,
+        'slide-out-back': $page.animate.isSlideOutBack,
+        'slide-in-back': $page.animate.isSlideInBack,
+        'app': $page.backgroundLogoUrl }">
+<!-- ko ifnot: svr.fIsQrCodePinSupported -->
+<!-- ko foreach: $fedCredButtonsControl.fedCredOptions -->
+<div class="row tile">
+<div aria-label="Sign-in options" class="table" data-bind="
+                css: { 'list-item': svr.fSupportWindowsStyles },
+                pressEnter: $fedCredButtonsControl.fedCredButton_onClick,
+                click: $fedCredButtonsControl.fedCredButton_onClick,
+                ariaLabel: $data.text" role="button" tabindex="0">
+<div class="table-row">
+<div class="table-cell tile-img medium">
+<!-- ko component: 'accessible-image-control' --><!-- ko if: (isHighContrastBlackTheme || hasDarkBackground || svr.fHasBackgroundColor) && !isHighContrastWhiteTheme --><!-- /ko -->
+<!-- ko if: (isHighContrastWhiteTheme || (!hasDarkBackground && !svr.fHasBackgroundColor)) && !isHighContrastBlackTheme -->
+<!-- ko template: { nodes: [darkImageNode], data: $parent } --><img class="tile-img medium" data-bind="addEventHandlers, attr: { src: $data.darkIconUrl }" role="presentation" src="https://aadcdn.msftauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg"/><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+</div>
+<div class="table-cell text-left content" data-bind="css: { 'content': !svr.fSupportWindowsStyles }">
+<div data-bind="
+                            text: $data.text,
+                            attr: { 'data-test-id': $data.testId }" data-test-id="signinOptions">Sign-in options</div>
+</div>
+</div>
+</div>
+</div>
+<!-- /ko -->
+<!-- /ko -->
+<!-- ko if: svr.fIsQrCodePinSupported --><!-- /ko -->
+</div>
+</div>
+<!-- /ko --></div>
+<!-- /ko -->
+<!-- ko if: $page.showSignupFedCredButtons --><!-- /ko -->
+<!-- /ko -->
+<!-- ko if: svr.fIsQrCodePinSupported --><!-- /ko -->
+<!-- ko if: $page.newSession --><!-- /ko -->
+<!-- /ko -->
+<!-- ko if: $page.showDebugDetails --><!-- /ko -->
+</div>
+</div>
+<!-- /ko --></div>
+</div>
+</div>
+<!-- ko if: $page.paginationControlHelper.showFooterControl -->
+<div class="footer ext-footer" data-bind="
+        externalCss: {
+            'footer': true,
+            'has-background': !$page.useDefaultBackground() &amp;&amp; $page.showFooter(),
+            'background-always-visible': $page.backgroundLogoUrl }" id="footer" role="contentinfo">
+<div data-bind="component: { name: 'footer-control',
+            publicMethods: $page.footerMethods,
+            params: {
+                serverData: svr,
+                useDefaultBackground: $page.useDefaultBackground(),
+                hasDarkBackground: $page.backgroundLogoUrl(),
+                showLinks: true,
+                showFooter: $page.showFooter(),
+                hideTOU: $page.hideTOU(),
+                termsText: $page.termsText(),
+                termsLink: $page.termsLink(),
+                hidePrivacy: $page.hidePrivacy(),
+                privacyText: $page.privacyText(),
+                privacyLink: $page.privacyLink() },
+            event: {
+                agreementClick: $page.footer_agreementClick,
+                showDebugDetails: $page.toggleDebugDetails_onClick } }"><!-- ko if: !hideFooter && (showLinks || impressumLink || showIcpLicense) -->
+<div class="footerNode text-secondary footer-links ext-footer-links" data-bind="externalCss: { 'footer-links': true }" id="footerLinks">
+<!-- ko if: showFooter -->
+<!-- ko if: !hideTOU -->
+<a class="footer-content ext-footer-content footer-item ext-footer-item" data-bind="
+            text: termsText,
+            href: termsLink,
+            click: termsLink_onClick,
+            externalCss: {
+                'footer-content': true,
+                'footer-item': true,
+                'has-background': !useDefaultBackground,
+                'background-always-visible': hasDarkBackground }" href="https://www.microsoft.com/en-US/servicesagreement/" id="ftrTerms">Terms of use</a>
+<!-- /ko -->
+<!-- ko if: !hidePrivacy -->
+<a class="footer-content ext-footer-content footer-item ext-footer-item" data-bind="
+            text: privacyText,
+            href: privacyLink,
+            click: privacyLink_onClick,
+            externalCss: {
+                'footer-content': true,
+                'footer-item': true,
+                'has-background': !useDefaultBackground,
+                'background-always-visible': hasDarkBackground }" href="https://privacy.microsoft.com/en-US/privacystatement" id="ftrPrivacy">Privacy &amp; cookies</a>
+<!-- /ko -->
+<!-- ko if: impressumLink --><!-- /ko -->
+<!-- ko if: a11yConformeLink --><!-- /ko -->
+<!-- ko if: showIcpLicense --><!-- /ko -->
+<!-- /ko -->
+<!-- Set attr binding before hasFocusEx to prevent Narrator from losing focus -->
+<a aria-expanded="false" aria-label="Click here for troubleshooting information" class="footer-content ext-footer-content footer-item ext-footer-item debug-item ext-debug-item" data-bind="
+        click: moreInfo_onClick,
+        ariaLabel: str['CT_STR_More_Options_Ellipsis_AriaLabel'],
+        attr: { 'aria-expanded': showDebugDetails().toString() },
+        hasFocusEx: focusMoreInfo(),
+        externalCss: {
+            'footer-content': true,
+            'footer-item': true,
+            'debug-item': true,
+            'has-background': !useDefaultBackground,
+            'background-always-visible': hasDarkBackground }" href="#" id="moreOptions" role="button">...</a>
+</div>
+<!-- /ko -->
+<!-- ko if: svr.fShowLegalMessagingInline && showLinks --><!-- /ko --></div>
+</div>
+<!-- /ko -->
+</div>
+<!-- /ko --></div>
+<!-- /ko -->
+<!-- ko if: isVerticalSplitTemplate() && isTemplateLoaded() --><!-- /ko -->
+<!-- /ko -->
+<!-- /ko --></div>
+<!-- /ko -->
+</form>
+<form aria-hidden="true" data-bind="postRedirectForm: postRedirect" method="POST" target="_top"></form>
+<!-- ko if: svr.urlCBPartnerPreload --><!-- /ko -->
+<!-- ko if: svr.fEnableDFPIntegration && dfpUrl() --><!-- /ko --></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website msn.com . It is in the url https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=d7b530a4-7680-4c23-a8bf-c52c121d2e87&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fwww.msn.com%2Fstaticsb%2Fstatics%2Flatest%2F0%2Fauth%2Fauth-redirect.html&client-request-id=6aca68e9-0b78-493a-8980-db1ff458b4ff&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.18.0&x-client-OS=&x-client-CPU=&client_info=1&code_challenge=KS53a9zWaBZo4lFuxavwAnNvJ4gFlyJ1e_5lFvoQXe0&code_challenge_method=S256&prompt=select_account&nonce=6b4b6348-c6c2-455c-abf4-161bc829ff77&state=eyJpZCI6IjcwMGYwNWI5LWQ2ZjEtNDgxZC04ZTA0LTVkY2FkNjU3N2VmYiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C%257B%2522appType%2522%253A%2522views%2522%252C%2522authRedirJsVer%2522%253A%25222.16%2522%252C%2522buildVersion%2522%253A%252220240530.614%2522%252C%2522msalJsVer%2522%253A%25222.18.0%2522%252C%2522returnUrl%2522%253A%2522https%253A%252F%252Fwww.msn.com%252Fen-us%252Fchannel%252Ftopic%252FEntertainment%252Ftp-Y_414a7c40-a373-4025-b4ce-e9502e9e17ed%253Focid%253Dhpmsn%2526cvid%253D30cfcb396c7a4cfc963557a1ddc1ec24%2526ei%253D24%2522%257D&edge_suppress_profile_switch=1 and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "password": "***", "birthday": "01-01-1970", "gender": "female", "region": "Porto", "name": "Jane Doe"} Should this page be public to all users? Answer only with yes or no.

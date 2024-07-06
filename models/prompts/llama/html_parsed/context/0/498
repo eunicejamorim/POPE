@@ -1,0 +1,297 @@
+The following text is the html file of a webpage. <html class="no-touch" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="IE=10,11" http-equiv="X-UA-Compatible"/>
+<title>Elsevier Account Settings</title>
+<link href="assets/css/elsevier/IDP-globalsignin.min.css" rel="stylesheet"/>
+<link href="assets/fonts/gizmo/ss-gizmo.css" rel="stylesheet"/>
+<link href="assets/images/elsevier/mstile-144x144.png" rel="shortcut icon" type="image/png"/>
+<!-- OneTrust Cookies Consent Notice start for id.elsevier.com -->
+
+
+<!-- OneTrust Cookies Consent Notice end for id.elsevier.com -->
+
+
+
+
+
+</head>
+<body class="els-footer-noImage" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0">
+<a class="accessibility-link-skip" href="#maincontent" title="Skip to content">Skip to content</a>
+<header aria-label="Header area" class="els-account-header-main">
+<img alt="Elsevier" class="els-settings-logo" src="assets/images/elsevier/elsevier-logo.svg"/>
+<div class="els-account-name" data-label="Page Heading" id="els-account-name">
+<h1>
+			Elsevier account
+		</h1>
+</div>
+<span class="els-settings-header-right">
+<div class="headerLink" id="accountSettings" tabindex="0">
+<a class="els-headerLink" href="#">Account settings </a>
+</div>
+<div class="headerLink" id="privacySettings" tabindex="0">
+<a class="els-headerLink" href="https://privacy.elsevier.com/your-privacy">Privacy settings 
+						<span class="privacyLink-icon" id="privacyLink-icon">↗</span></a>
+</div>
+<div class="headerLinkIcon" id="Help" tabindex="0">
+<a alt="" aria-label="Help page opens in new window" class="els-help" href="https://service.elsevier.com/app/home/supporthub/elsevieraccess/" rel="noopener noreferrer" target="_blank"></a></div>
+<div class="els-profile-link els-profile-initials" id="els-profile-initials" tabindex="0">JD</div>
+<div class="els-settings-header-popup">
+<div class="els-header-popup"></div>
+<div class="els-profile-info">
+<div class="els-account-info">
+<i class="els-profile-icon ss-user"></i>
+<p class="els-display-profile-info">Jane Doe</p>
+<p class="els-display-profile-info">authorization.thesis@gmail.com</p>
+</div>
+<div class="els-spine-signout" tabindex="0">
+<i class="els-signout-icon ss-logout"></i> <a class="els-signout" href="logout">Sign out</a>
+</div>
+</div>
+</div>
+</span>
+<a class="els-spine-icon closed-spine" href="#"></a>
+<div class="els-spine-right">
+<div class="els-settings-right">
+<div class="els-account-info">
+<span class="els-profile-link els-profile-initials" id="els-profile-initials-right">JD</span>
+<span><p class="els-display-profile-info">Jane Doe</p>
+<p class="els-display-profile-info">authorization.thesis@gmail.com</p></span>
+<a class="els-spine-icon-open" href="#"></a>
+</div>
+<ul class="els-settings-right-list">
+<li class="els-settings-right-list-items"><a class="els-href active-link" href="#">Account settings </a></li>
+<li class="els-settings-right-list-items"><a class="els-href" href="https://privacy.elsevier.com/your-privacy" target="_blank">Privacy settings <span class="privacyLink-icon" id="privacyLink-icon_list"> ↗</span></a></li>
+<li class="els-settings-right-list-items">
+<a aria-label="Help page opens in new window" class="els-href" href="https://service.elsevier.com/app/home/supporthub/elsevieraccess/" noopener="" noreferrer"="" target="_blank rel="><span alt="Help" class="Help" id=" Help">Help ↗</span></a></li>
+<li class="els-settings-right-list-items"><a class="els-href" href="logout">Sign out</a></li>
+</ul>
+</div>
+</div>
+<noscript>
+
+<ul class="els-settings-nojs">
+<li class="els-display-profile-info">Jane Doe</li>
+<li class="els-display-profile-info">authorization.thesis@gmail.com</li>
+<li><a class="els-signout" href="logout">Sign out</a></li>
+</ul>
+</noscript>
+</header>
+<nav aria-label="Important info">
+<div id="bannerId">
+<p class="els-banner-content">
+			Any changes made here will update your account details and settings of all other Elsevier products such as Mendeley and ScienceDirect. If you have any account-settings feedback, please <a class="tryAgain" href="https://survey.alchemer.eu/s3/90675578/Account-Settings-Feedback-Form" id="accountSettingsFeedback" target="_blank">contact us</a>.
+		</p>
+</div>
+</nav>
+<div class="els-white">
+<nav class="els-settings-left">
+<ul class="els-settings-left-list">
+<li class="els-settings-left-list-items active"><a class="els-href active-link" href="#sign-in-details">Sign in details</a></li>
+<li class="els-settings-left-list-items"><a class="els-href" href="#basic-info">Account information</a></li>
+<li class="els-settings-left-list-items"><a class="els-href" href="#communications">Marketing preferences</a></li>
+</ul>
+</nav>
+<div class="els-client-login">
+<form action="backToProduct" class="els-client-to-settings" name="">
+<button class="els-back" id="backToClient" name="" type="submit">
+<span class="ss-navigateleft els-client-left"></span><span class="els-back-to-client">Back to ScienceDirect </span>
+</button>
+</form>
+</div>
+<div class="els-settings-main">
+<section class="container-fluid-borderless">
+<main id="maincontent">
+<h2 class="els-account-flow" id="sign-in-details">
+					Sign in details
+				</h2>
+<p class="els-account-flow-message">
+							You can add multiple emails to your account and use any of the emails below to sign in to Elsevier.
+						</p>
+<div class="els-show-settings">
+<!-- start: primary email -->
+<div class="form-row-disabled">
+<label for="primaryEmail" id="primaryEmailLabel">Primary email</label>
+<form action="changeEmail" id="change-primaryEmail" method="post">
+<div class="disableddiv">
+<p class="disabled" id="primaryEmail">authorization.thesis@gmail.com</p>
+<span class="els-edit-icon">
+<button aria-label="Change primary email" class="ss-write" name="change-primaryEmail" type="submit" value="editEmail"></button>
+</span>
+</div>
+</form>
+</div>
+<!-- end: primary email -->
+<div class="form-row-disabled">
+<label for="" id="secondaryEmailLabel">Other sign in emails</label>
+<form action="addSecondaryEmail" id="add-secondaryEmail" method="post">
+<div class="disableddiv nodata">
+<button class="nodataBtn nodataBtn-secondary-Email" name="add-secondaryEmail" type="submit">
+<span class="ss-plus"></span><span class="els-changed-info">Add new email
+											</span></button>
+</div>
+</form>
+</div>
+<!-- start: password block full -->
+<!-- start: password exists -->
+<div class="form-row-disabled password">
+<label for="password" id="passwordlabel">Password</label>
+<form action="changePassword" id="change-pwd" method="post">
+<div class="disableddiv">
+<input class="disabled" disabled="" id="password" name="" type="password" value="password"/> <span class="els-edit-icon">
+<button aria-label="Change password" class="ss-write" name="change-pwd" type="submit" value="editPwd"></button>
+</span>
+</div>
+</form>
+</div>
+<!-- end: password block full -->
+</div>
+<h2 class="els-account-flow" id="basic-info">
+					Account information
+				</h2>
+<p class="els-account-flow-message">
+					Please make sure all the information is correct and up to date.
+				</p>
+<div class="els-show-settings">
+<!-- start: name block full -->
+<div class="form-row-disabled">
+<label for="fullname" id="fullnameLabel">Name</label>
+<form action="changeAccountName" id="change-name" method="post">
+<div class="disableddiv">
+<p class="disabled" id="fullname">Jane Doe</p>
+<span class="els-edit-icon">
+<button aria-label="Change name" class="ss-write" name="change-name" type="submit"></button>
+</span>
+</div>
+</form>
+</div>
+<!-- end: name block full -->
+<!-- start: display name block full -->
+<!-- start: display name exists -->
+<div class="form-row-disabled">
+<label for="displayName" id="displayNameLabel">Display name</label>
+<form action="changeAccountName" id="change-displayName" method="post">
+<div class="disableddiv">
+<p class="disabled" id="displayName">Jane Doe</p>
+<span class="els-edit-icon"><button aria-label="Change display name" class="ss-write" name="change-displayName" type="submit"></button></span>
+</div>
+</form>
+</div>
+<!-- end: display name exists
+						start: no display name -->
+<!-- end: no display name -->
+<!-- end: display name block full -->
+<!-- start: job title block full -->
+<!-- As per ID-12554 commented jobTitle block-->
+<div class="form-row-disabled">
+<label for="" id="jobTitleLabel">Job title</label>
+<form action="professionalExperience" id="add-jobTitle" method="post">
+<div class="disableddiv nodata">
+<button class="nodataBtn" name="add-jobTitle" type="submit">
+<span class="ss-plus"></span><span class="els-changed-info">Add job title</span>
+</button>
+</div>
+</form>
+</div>
+<!-- end: job title block full -->
+<!-- start: academic status or role block full -->
+<!-- As per ID-12554 commented academicStatus block-->
+<div class="form-row-disabled">
+<label for="" id="academicStatusLabel">Role</label>
+<form action="professionalExperience" id="add-academicStatus" method="post">
+<div class="disableddiv nodata">
+<button class="nodataBtn" name="add-academicStatus" type="submit">
+<span class="ss-plus"></span><span class="els-changed-info">Add role</span>
+</button>
+</div>
+</form>
+</div>
+<!-- end: academic status or role block full -->
+<!-- start: discipline block full -->
+<!-- As per ID-12554 commented discipline block-->
+<div class="form-row-disabled">
+<label for="" id="disciplineLabel">Discipline</label>
+<form action="professionalExperience" id="add-discipline" method="post">
+<div class="disableddiv nodata">
+<button class="nodataBtn" name="add-discipline" type="submit">
+<span class="ss-plus"></span><span class="els-changed-info">Add discipline</span>
+</button>
+</div>
+</form>
+</div>
+<!-- end: discipline block full -->
+<!-- start: organization block full -->
+<div class="form-row-disabled">
+<label for="organization" id="organizationLabel">Organization</label>
+<form action="professionalExperience" id="add-organization" method="post">
+<div class="disableddiv nodata">
+<button class="nodataBtn" name="add-organization" type="submit">
+<span class="ss-plus"></span><span class="els-changed-info">Add organization</span>
+</button>
+</div>
+</form>
+</div>
+<!-- end: organization block full -->
+<!-- start: address block full -->
+<!-- As per ID-12554 commented address block-->
+<div class="form-row-disabled">
+<label for="" id="addressLabel">Address</label>
+<form action="address" id="add-address" method="post">
+<div class="disableddiv nodata">
+<button class="nodataBtn" name="add-address" type="submit">
+<span class="ss-plus"></span><span class="els-changed-info">Address</span>
+</button>
+</div>
+</form>
+</div>
+<!-- end: address block full -->
+<!-- start: phoneNumber block full, show only if phone number exists -->
+<!-- end:  phoneNumber block full -->
+</div>
+<h2 class="els-account-flow" id="communications">
+					Marketing preferences
+				</h2>
+<div>
+<label for="rememberme" id="rememberMe"> <span class="els-mktnPrefTxt">Elsevier may send you information about relevant products and events. Visit our Marketing Preference Center to decide whether you wish to receive such messages or not.</span>
+</label>
+<div class="els-mktnPref">
+<button aria-label="Go to Marketing Preferences Center" class="els-mktnPrefSubBtn btn-border" id="els-mktnPrefBtn" name="MarketingPreferencesCenter" onclick="window.open('https://prefcentre.marketing-np.tio.systems/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEwMzIxMjU2LCJpc0FkbWluIjpmYWxzZSwiaWF0IjoxNzE3MzUzODc4LCJleHAiOjE3MjI1Mzc4Nzh9.ks4MY4uw9TY2rrUSHs-iPyIASx8SxssFvODMtNILHlg/preferences/all','_blank')" role="link" type="submit">
+									  Marketing Preference Center ↗
+								</button>
+</div>
+</div>
+</main>
+</section>
+</div>
+</div>
+<div class="modal" id="dialog-message"></div>
+<footer class="els-footer">
+<div class="els-footer-logo">
+<a class="els-footer-non-solus" href="http://www.elsevier.com/" target="_blank" title="Go to Elsevier Homepage"><img alt="Elsevier" src="assets/images/elsevier/Non_Solus_Logo.svg"/></a>
+<a class="els-footer-elsevier-letter" href="http://www.elsevier.com/" target="_blank" title="Go to Elsevier Homepage"><img alt="Elsevier" src="assets/images/elsevier/ELS_Letter_Logo.svg"/></a>
+</div>
+<div class="els-document-links">
+<div class="els-footer-copyright">
+                    Copyright © 2024 Elsevier, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+        </div>
+<div class="els-document-link-row links-row">
+<ul class="els-footer-links u-margin-xs-bottom" style="list-style:none">
+<li> <a class="anchor els-document-link" href="https://www.elsevier.com/about" target="_blank"><span class="anchor-text">About Elsevier</span></a></li>
+<li> <a class="anchor els-document-link" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" target="_blank">
+<span class="anchor-text">Terms and conditions </span></a></li>
+<li> <a class="anchor els-document-link" href="https://www.elsevier.com/legal/privacy-policy" target="_blank">
+<span class="anchor-text">Privacy policy </span></a></li>
+<li> <a class="anchor els-document-link" href="https://service.elsevier.com/app/home/supporthub/elsevieraccess/"><span class="anchor-text">Help</span></a></li>
+</ul></div>
+<div class="els-document-link-row cookies-row">
+            We use cookies to help provide and enhance our service. By continuing you agree to the <a class="els-document-link cookie anchor" href="https://service.elsevier.com/app/answers/detail/a_id/28037/supporthub/elsevieraccess/p/15095/" target="_blank"><span class="cookies"><strong>use of cookies</strong></span></a>. 
+        </div>
+</div>
+<div class="els-footer-reed-logo">
+<a class="relx-logo-e" href="http://www.reedelsevier.com/" target="_blank" title="Go to RELX Group Homepage"><img alt="RELXGroup" src="assets/images/elsevier/Relx_Logo_E.svg"/></a>
+<a class="relx-logo-letter" href="http://www.reedelsevier.com/" target="_blank" title="Go to RELX Group Homepage"><img alt="RELXGroup" src="assets/images/elsevier/Relx_Logo_Letter.svg"/></a>
+</div>
+</footer>
+
+
+<div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website sciencedirect.com . It is in the url https://id.elsevier.com/settings/redirect?code=2EYX8dG3m03iZGUsvrjBYQmGfjAB05usGUpp3_fU and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "password": "***"} Should this page be private to a certain user? Answer only with yes or no.

@@ -1,0 +1,269 @@
+The following text is the html file of a webpage. <html class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" dir="ltr" lang="en" style=""><head>
+<meta charset="utf-8"/>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0" name="viewport"/>
+<title>Why This Ad? | Yahoo</title>
+<meta content="" name="description"/>
+<meta content="" name="keywords"/>
+<link href="https://s.yimg.com/rz/l/favicon.ico" rel="apple-touch-icon" sizes="180x180"/>
+<link href="https://s.yimg.com/rz/l/favicon.ico" rel="icon" sizes="32x32" type="image/png"/>
+<link href="https://s.yimg.com/rz/l/favicon.ico" rel="icon" sizes="16x16" type="image/png"/>
+<!--<link rel="manifest" href="/js/manifest.json">-->
+<link color="#000000" href="https://s.yimg.com/ge/toc/assets/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#ffffff" name="theme-color"/>
+<link href="https://s.yimg.com/zz/combo?cv/apiv2/ys/ga/css/h_f_v1.min.css&amp;cv/apiv2/ys/ga/css/l_n_v1.min.css&amp;cv/apiv2/ys/ga/css/m_n_v1.min.css&amp;cv/apiv2/ys/ga/css/g_v1.1.min.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/zz/combo?cv/apiv2/ys/lyc/css/y_p_v1.min.css&amp;cv/apiv2/ys/lyc/css/p_p_e_v1.03.min.css" rel="stylesheet"/>
+
+<!--if lt IE 9
+    script(src='https://s.yimg.com/ge/toc/ass/js/3.7.3/html5shiv.js')
+    script(src='https://s.yimg.com/ge/toc/ass/js/1.4.2/respond.min.js')
+    -->
+
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0" data-nodeid="12180" style="cursor: pointer;">
+<header class="site-header" id="site-header">
+<div class="sticky-content">
+<div class="container">
+<a class="logo" href="https://www.yahooinc.com/"><img alt="Yahoo logo" class="full" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/yahoo_logo_purple.svg" title="Yahoo"/><img alt="Yahoo logo" class="short" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/yahoo_logo_purple.svg" title="Yahoo"/></a>
+<nav class="site-nav" role="navigation">
+<button aria-hidden="true" class="btn-menu disable-hover"><span class="burger"><span></span></span></button>
+</nav>
+</div>
+</div>
+</header>
+<div aria-hidden="true" class="page-menu" id="page-menu">
+<div class="container">
+<nav role="navigation">
+<button class="circle btn-close disable-hover"><i class="times"></i></button>
+<ul class="menu-primary" id="menu-primary-navigation">
+<li class="menu-item timing-delay-1">
+<div class="line-wrap">
+<a href="/us/en/yahoo/terms/otos/index.html">Terms</a>
+</div>
+</li><li class="menu-item menu-parent timing-delay-2">
+<div class="line-wrap">
+<span>Privacy Center</span>
+</div>
+<div class="menu-submenu">
+<button class="btn-back disable-hover"><i class="chevron-left"></i>Back</button>
+<ul class="menu-nodes">
+<li class="timing-delay-1">
+<div class="line-wrap">
+<a href="/us/en/yahoo/privacy/index.html">Privacy Center</a>
+</div>
+</li>
+<li class="timing-delay-2">
+<a href="/us/en/yahoo/privacy/topics/index.html">Topics</a>
+</li>
+<li class="timing-delay-3">
+<a href="/us/en/yahoo/privacy/products/index.html">Products</a>
+</li>
+<li class="timing-delay-4">
+<a href="/us/en/yahoo/privacy/topics/thirdparties/index.html">Third Parties</a>
+</li>
+<li class="menu-item menu-subParent menu-item_mobile timing-delay-5"> <div class="line-wrap">
+<span>State Privacy Rights</span>
+</div>
+<div class="menu-submenu">
+<button class="btn-return disable-hover"><i class="chevron-left"></i>Back</button>
+<ul class="menu-nodes">
+<li class="timing-delay-1">
+<div class="line-wrap">
+<h4>State Privacy Rights</h4>
+</div>
+</li>
+<li class="timing-delay-2"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=CA">California</a></li>
+<li class="timing-delay-3"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=CO">Colorado</a></li>
+<li class="timing-delay-4"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=CT">Connecticut</a></li>
+<li class="timing-delay-5"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=UT">Utah</a></li>
+<li class="timing-delay-6"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=VA">Virginia</a></li>
+<li class="timing-delay-7"><a class="grandChild" href="/us/en/yahoo/privacy/states/washington/mhmd/index.html">Washington</a></li>
+</ul>
+</div>
+</li>
+<li class="timing-delay-7">
+<a href="/us/en/yahoo/privacy/dashboard/index.html">Dashboard &amp; Controls</a>
+</li>
+<li class="timing-delay-8">
+<a href="/us/en/yahoo/privacy/adinfo/index.html">Relevant Advertising</a>
+</li>
+</ul>
+</div>
+</li><li class="menu-item menu-parent timing-delay-3">
+<div class="line-wrap">
+<span>Intellectual Property</span>
+</div>
+<div class="menu-submenu">
+<button class="btn-back disable-hover"><i class="chevron-left"></i>Back</button>
+<ul class="menu-nodes">
+<li class="timing-delay-1">
+<div class="line-wrap">
+<a href="/us/en/yahoo/ip/index.html">Intellectual Property</a>
+</div>
+</li>
+<li class="timing-delay-2">
+<a href="/us/en/yahoo/ip/counterfeits/index.html">Counterfeit Goods</a>
+</li>
+<li class="timing-delay-3">
+<a href="/us/en/yahoo/ip/counter-notification/index.html">Counter Notice Process</a>
+</li>
+<li class="timing-delay-4">
+<a href="/us/en/yahoo/ip/recidivism/index.html">Repeat Infringer Policy</a>
+</li>
+<li class="timing-delay-5">
+<a href="https://policies.yahoo.com/us/en/yahoo/ip/trademarklist/index.html">Trademarks</a>
+</li>
+</ul>
+</div>
+</li><li class="menu-item timing-delay-4">
+<div class="line-wrap">
+<a href="/us/en/yahoo/permissions/requests/index.html">Permissions</a>
+</div>
+</li><li class="menu-item timing-delay-5">
+<div class="line-wrap">
+<a href="https://www.yahooinc.com/accessibility/captioning/">Closed Captioning</a>
+</div>
+</li><li class="menu-item timing-delay-6">
+<div class="line-wrap">
+<a href="/us/en/yahoo/guidelines/index.html">Community Guidelines</a>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="with-sidebar with-no-mobile-padding">
+<div class="container" id="outer-wrapper">
+<div class="grid">
+<aside class="sidebar col-12 col-3-small col-3-medium" id="site-sidebar" role="region">
+<div class="sidebar-navigation">
+<div class="page-navigation" id="page-navigation">
+<div class="container">
+<nav role="navigation">
+<ul class="menu-secondary" id="menu-secondary-navigation">
+<li class="menu-item">
+<a href="/us/en/yahoo/terms/otos/index.html">Terms</a>
+</li><li class="menu-item">
+<a aria-controls="Privacy Center" aria-expanded="true" class="active open" href="/us/en/yahoo/privacy/index.html" style="border-bottom: none;">Privacy Center</a>
+<div aria-labelledby="Privacy Center" class="menu-submenu" id="Privacy Center">
+<ul class="menu-nodes">
+<li class="timing-delay-1">
+<a href="/us/en/yahoo/privacy/topics/index.html">Topics</a>
+</li>
+<li class="timing-delay-2">
+<a href="/us/en/yahoo/privacy/products/index.html">Products</a>
+</li>
+<li class="timing-delay-3">
+<a href="/us/en/yahoo/privacy/topics/thirdparties/index.html">Third Parties</a>
+</li>
+<li class="menu-item menu-item_desktop timing-delay-5"> <a aria-controls="State Privacy Rights" aria-expanded="false" class="accordion" href="">State Privacy Rights</a>
+<div aria-labelledby="State Privacy Rights" class="menu-submenu" id="State Privacy Rights">
+<ul class="menu-nodes">
+<li class="timing-delay-1"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=CA">California</a></li>
+<li class="timing-delay-2"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=CO">Colorado</a></li>
+<li class="timing-delay-3"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=CT">Connecticut</a></li>
+<li class="timing-delay-4"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=UT">Utah</a></li>
+<li class="timing-delay-5"><a class="grandChild" href="https://guce.yahoo.com/state-controls?locale=en-US&amp;state=VA">Virginia</a></li>
+<li class="timing-delay-6"><a class="grandChild" href="/us/en/yahoo/privacy/states/washington/mhmd/index.html">Washington</a></li>
+</ul>
+</div>
+</li>
+<li class="timing-delay-6">
+<a href="/us/en/yahoo/privacy/dashboard/index.html">Dashboard &amp; Controls</a>
+</li>
+<li class="timing-delay-7">
+<a class="active" href="/us/en/yahoo/privacy/adinfo/index.html">Relevant Advertising</a>
+</li>
+</ul>
+</div>
+</li><li class="menu-item">
+<a aria-controls="Intellectual Property" aria-expanded="false" href="/us/en/yahoo/ip/index.html">Intellectual Property</a>
+<div aria-labelledby="Intellectual Property" class="menu-submenu" id="Intellectual Property">
+<ul class="menu-nodes">
+<li class="timing-delay-1">
+<a href="/us/en/yahoo/ip/counterfeits/index.html">Counterfeit Goods</a>
+</li>
+<li class="timing-delay-2">
+<a href="/us/en/yahoo/ip/counter-notification/index.html">Counter Notice Process</a>
+</li>
+<li class="timing-delay-3">
+<a href="/us/en/yahoo/ip/recidivism/index.html">Repeat Infringer Policy</a>
+</li>
+<li class="timing-delay-4">
+<a href="https://policies.yahoo.com/us/en/yahoo/ip/trademarklist/index.html">Trademarks</a>
+</li>
+</ul>
+</div>
+</li><li class="menu-item">
+<a href="/us/en/yahoo/permissions/requests/index.html">Permissions</a>
+</li><li class="menu-item">
+<a href="https://www.yahooinc.com/accessibility/captioning/">Closed Captioning</a>
+</li><li class="menu-item">
+<a href="/us/en/yahoo/guidelines/index.html">Community Guidelines</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</aside>
+<main class="col-12 privacyArticle col-9-medium col-9-small" id="site-main">
+<section class="no-top-margin full-width-mobile">
+<div class="container">
+<div class="grid">
+<div class="grid-item col-10-small content-container entry__content">
+<h1>Why This Ad?</h1>
+<h4 style="color:Black;"><strong>For Consumers</strong></h4>
+<ul><li>The sites and apps you use work with online advertising companies to provide you with advertising that is as relevant and useful as possible. Personalization may be informed by various factors such as the content of the site or app you are using, information you provide, historical searches you conduct, what your friends or contacts recommend to you, apps on your device, or based on your other interests. Read about <a href="/us/en/yahoo/privacy/topics/adserving/index.html">Yahoo's privacy and advertising practices</a> to learn more about how Yahoo selects the ads you see.</li>
+<li>See <a href="/us/en/yahoo/privacy/advertising/index.html">How Advertising Works</a> for more information about how we use your data to provide personalised advertising and for more information on your choices and controls.</li>
+</ul><h4 style="color:Black;"><strong>Who placed this ad? </strong></h4>
+<ul><li>This ad was served by <a href="https://advertising.yahoo.com/">Yahoo </a> or one of <a href="/us/en/yahoo/privacy/topics/thirdparties/index.html">Yahoo's advertising partners</a>.</li>
+</ul><h4 style="color:Black;"><strong>Why was this ad served?</strong></h4>
+<ul><li>Certain factors like your activity, <a href="/us/en/yahoo/privacy/products/searchservices/index.html">searches</a>, demographic data, apps on your device, and location information may be used to select the ads you see.</li>
+</ul><h4 style="color:Black;"><strong>What choices do I have?</strong></h4>
+<ul><li><a href="/us/en/yahoo/privacy/dashboard/index.html">Manage</a> interest-based advertising categories, or opt-out of all categories, from Yahoo.</li>
+<li>View our other <a href="/us/en/yahoo/privacy/dashboard/index.html">privacy controls</a>.</li>
+<li>Visit the <a href="https://thenai.org/about-online-advertising/">Network Advertising Initiative</a> (US) and the Digital Advertising Alliance <img alt="Ad Choices" height="13" src="https://lh4.googleusercontent.com/gPBfgKvIFe2wJ1t_B7MdavHjT7K2-Ohil7DSiB0ZsVtjd-CxjfcwG-XJ9Y-cCVmkwBsBlK7aaUT5-TkA3EV7-4PfkwLMCxd3aSs8NltxOfWQslWmmVjN3_dnY2O6x7nQN49WruVH" width="13"/> - <a href="https://www.aboutads.info/consumers/">DAA</a> (US), <a href="https://www.youronlinechoices.com/">EDAA</a> (EU), <a href="http://youradchoices.ca/understanding-online-advertising">DAAC</a> (Canada), ADAA (<a data-saferedirecturl="https://www.google.com/url?q=https://www.youronlinechoices.com.au/&amp;source=gmail&amp;ust=1551375879461000&amp;usg=AFQjCNHi-dSiNMpqzdLSmeuQ1qeusousrg" href="https://www.youronlinechoices.com.au/" target="_blank">AU</a>/<a data-saferedirecturl="https://www.google.com/url?q=https://www.youronlinechoices.co.nz/&amp;source=gmail&amp;ust=1551375879461000&amp;usg=AFQjCNFjihhNmEHfEE5bviUcG2u-auRNVA" href="https://www.youronlinechoices.co.nz/" target="_blank">NZ</a>) to see your opt-out choices from other participating companies.</li>
+<li>Explore other <a href="https://thenai.org/opt-out/">controls and tools</a> to help set and maintain your privacy choices.</li>
+<li>If you are using Safari or a browser enabled with Intelligent Tracking Protection (ITP) or similar cookie-blocking technology, if you wish to opt out of receiving personalized ads, you will need to do so directly via the <a href="/us/en/yahoo/privacy/dashboard/index.html">Yahoo Privacy Center</a>.</li>
+<li>While Yahoo does not share personally identifiable information with third parties for advertising purposes, if you have provided your email address to third parties in another context, you may be able to opt-out of further use of your data by exercising the Network Advertising Initiative’s Audience Matched Advertising opt-out control at <a href="https://optout.networkadvertising.org/?c=1" rel="nofollow noopener" target="_blank" title="Follow link">optout.networkadvertising.org</a>.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</main>
+</div>
+</div>
+</div>
+<!-- Rapid implementation start -->
+
+
+<!-- Rapid implementation end -->
+
+
+
+
+
+
+
+
+<div class="gridder hidden">
+<div class="container">
+<div class="grid grid-gutters">
+<span class="grid-item col-1-gridder">1</span>
+<span class="grid-item col-1-gridder">2</span>
+<span class="grid-item col-1-gridder">3</span>
+<span class="grid-item col-1-gridder">4</span>
+<span class="grid-item col-1-gridder">5</span>
+<span class="grid-item col-1-gridder">6</span>
+<span class="grid-item col-1-gridder">7</span>
+<span class="grid-item col-1-gridder">8</span>
+<span class="grid-item col-1-gridder">9</span>
+<span class="grid-item col-1-gridder">10</span>
+<span class="grid-item col-1-gridder">11</span>
+<span class="grid-item col-1-gridder">12</span>
+</div>
+</div>
+</div>
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website yahoo.com . It is in the url https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female", "birthyear": "1970"} Should this page be private to a certain user? Answer only with yes or no.

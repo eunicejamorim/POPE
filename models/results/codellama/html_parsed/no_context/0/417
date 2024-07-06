@@ -1,0 +1,1 @@
+{'model': 'codellama', 'created_at': '2024-06-07T22:42:31.009956597Z', 'message': {'role': 'assistant', 'content': 'No, the page should not be private to a certain user.'}, 'done_reason': 'stop', 'done': True, 'total_duration': 7608870641, 'load_duration': 6692362, 'prompt_eval_count': 1425, 'prompt_eval_duration': 5433640000, 'eval_count': 14, 'eval_duration': 1847591000}

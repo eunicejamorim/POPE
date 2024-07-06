@@ -1,0 +1,190 @@
+The following text is the html file of a webpage. <html class="a-ws a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition a-ember no-touch" data-19ax5a9jf="dingo" data-aui-build-date="3.23.1-2024-02-27"><head>
+
+
+<!-- 4ai6qgbm2obzn1z63lsy7qpbsmf9waw7i99sq0eang -->
+<meta charset="utf-8"/>
+<title dir="ltr">Amazon Sign In</title>
+
+<link href="https://images-eu.ssl-images-amazon.com/images/I/61FHWUKEhjL._RC|11Fd9tJOdtL.css,11tfezETfFL.css,31Q3id-QR0L.css,31U9HrBLKmL.css_.css?AUIClients/AmazonUI#gb.not-trident" rel="stylesheet"/>
+<link href="https://images-eu.ssl-images-amazon.com/images/I/01SdjaY0ZsL._RC|31jdWD+JB+L.css,513wQu4ouSL.css_.css?AUIClients/AuthenticationPortalAssets" rel="stylesheet"/>
+<link href="https://images-eu.ssl-images-amazon.com/images/I/21EtarfodyL.css?AUIClients/CVFAssets" rel="stylesheet"/>
+
+</head><body class="auth-no-skin ap-locale-en_GB a-m-us a-aui_72554-c a-aui_accordion_a11y_role_354025-c a-aui_killswitch_csa_logger_372963-c a-aui_pci_risk_banner_210084-c a-aui_preload_261698-c a-aui_rel_noreferrer_noopener_309527-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c a-meter-animate" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1174.0"><div id="siege-weblab-t1"></div>
+
+
+
+
+
+
+<div id="a-page">
+<div class="a-section a-padding-medium auth-workflow">
+<div class="a-section a-spacing-none auth-navbar">
+<div class="a-section a-spacing-medium a-text-center">
+<a class="a-link-nav-icon" href="/ref=ap_frn_logo">
+<i aria-label="Amazon" class="a-icon a-icon-logo" role="img"></i>
+<i class="a-icon a-icon-domain-de a-icon-domain" role="presentation"></i>
+</a>
+</div>
+</div>
+<div class="a-section" id="authportal-center-section">
+<div class="a-section" id="authportal-main-section">
+<div class="a-section a-spacing-base auth-pagelet-container">
+<div aria-atomic="true" aria-live="polite" class="a-box a-alert a-alert-warning" id="auth-cookie-warning-message"><div class="a-box-inner a-alert-container"><h4 class="a-alert-heading">Please Enable Cookies to Continue</h4><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+<p>
+<a class="a-link-normal" href="/gp/help/customer/display.html/ref=ap_cookie_error_help?">
+</a>
+</p>
+</div></div></div>
+</div>
+<div class="a-section auth-pagelet-container">
+<!-- Set cross domain sso variables to be used for making Ajax calls to central Identity domain -->
+<!-- Set cross domain sso variables to be used for making Ajax calls to central Identity domain -->
+<!-- show a warning modal dialog when the third party account is connected with Amazon -->
+<div class="a-box a-alert a-alert-error aok-hidden" id="passkey-error-alert" role="alert"><div class="a-box-inner a-alert-container"><h4 class="a-alert-heading">Passkey error</h4><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+<p id="passkey-client-error-message">
+    Something went wrong. Please sign-in another way or follow any instructions provided by your device.
+  </p>
+<p class="aok-hidden" id="passkey-generic-server-error-message">
+    Sorry, your passkey isn't working. There might be a problem with the server. Sign in with your password or try your passkey again later.
+  </p>
+<p class="aok-hidden" id="passkey-server-error-message"></p>
+</div></div></div>
+<div class="a-section a-spacing-base">
+<div class="a-section">
+<form action="https://www.amazon.de/ap/signin" class="auth-validate-form auth-real-time-validation a-spacing-none" data-fwcim-id="7e2Xz1nx" method="post" name="signIn" novalidate="">
+<input name="appActionToken" type="hidden" value="Mxwtwzjinfr1pICBEgj2B27OwuNoUj3D"/><input name="appAction" type="hidden" value="SIGNIN_PWD_COLLECT"/>
+<input name="subPageType" type="hidden" value="SignInClaimCollect"/>
+<input name="openid.return_to" type="hidden" value="ape:aHR0cHM6Ly93d3cuYW1hem9uLmRlLz9yZWZfPW5hdl9zaWduaW4="/>
+<input name="prevRID" type="hidden" value="ape:NzlRVllZVFRIUzZNVzhCNk4wWVc="/>
+<input name="workflowState" type="hidden" value="eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.X0x7WSpOtZXlm4U2Ve2EelrJIddS6_SC8nJm03n0qzO9FjoXHKCuDQ.UQq2k_-SmLXYcyy1.-MevpPpqU4joNlayZTAk-3ne8dIk3YC8orEQ4dCTEQOU9jgs4_1nwooGfZgDA4qx3TJPGvP7cGIjZ89QmhrBGhOq7rsxcny8IXF556ySNB6oDBFsbNc7pryd1oBNqKMA-AYX7ppgEnAxcSwqgSj24vqgpGSR4q15qceekPMPo6yAu9H3PW-4ygGhVT2qEtCXDcKWR-jK9z18Le8uDJhDvFKpSqYwKeEACVSU3n9ZJ3ZJ7OZu464mP1C68BvTLp6Dhf8dzkWqBIhPPPirI-tO9c1TfHphqSwYBVMVJGnE_5ZzF4tJMtoT1SrCOYTBKe8bszov5Gc.s5Wyfk0OK78izjWCmGO-Mw"/>
+<div class="a-section">
+<div class="a-box"><div class="a-box-inner a-padding-extra-large">
+<h1 class="a-spacing-small">
+            Sign in
+          </h1>
+<!-- optional subheading element -->
+<div class="a-row a-spacing-base">
+<label class="a-form-label" for="ap_email">
+              Email or mobile phone number
+            </label>
+<input aria-describedby="Enter your e-mail address or mobile phone number" aria-required="true" class="a-input-text a-span12 auth-autofocus auth-required-field" id="ap_email" maxlength="128" name="email" tabindex="1" type="email"/>
+<input aria-required="true" class="a-input-text hide" id="ap-credential-autofill-hint" maxlength="1024" name="password" type="password"/>
+<div class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message a-spacing-top-mini" id="auth-email-missing-alert" role="alert"><div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+  Enter your email address or mobile phone number
+</div></div></div>
+<div class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message a-spacing-top-mini" id="auth-email-invalid-claim-alert" role="alert"><div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+  Enter a valid email address or phone number
+</div></div></div>
+</div>
+<input name="create" type="hidden" value="0"/>
+<div class="a-section">
+<span class="a-button a-button-span12 a-button-primary" id="continue"><span class="a-button-inner"><input aria-labelledby="continue-announce" class="a-button-input" id="continue" tabindex="5" type="submit"/><span aria-hidden="true" class="a-button-text" id="continue-announce">
+              Continue
+            </span></span></span>
+<div class="a-row a-spacing-top-medium a-size-small" id="legalTextRow">
+  By continuing, you agree to Amazon's <a href="/gp/help/customer/display.html/ref=ap_signin_notification_condition_of_use?ie=UTF8&amp;nodeId=505048">Conditions of Use &amp; Sale</a>. Please see our <a href="/gp/help/customer/display.html/ref=ap_signin_notification_privacy_notice?ie=UTF8&amp;nodeId=3312401">Privacy Notice</a>, our <a href="/gp/help/customer/display.html/?nodeId=201890250">Cookies Notice</a> and our <a href="/gp/help/customer/display.html?nodeId=201909150">Interest-Based Ads Notice</a>.
+</div>
+
+
+</div>
+<div class="a-section">
+<div class="a-row a-expander-container a-expander-inline-container">
+<a aria-expanded="false" class="a-expander-header a-declarative a-expander-inline-header a-link-expander" data-a-expander-toggle='{"allowLinkDefault":true, "expand_prompt":"", "collapse_prompt":""}' data-action="a-expander-toggle" data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-id="h9lmov-6aj2m5-sa8fx6-526xfo" data-csa-c-type="widget" data-csa-interaction-events="click" href="javascript:void(0)" role="button"><i class="a-icon a-icon-expand"></i><span class="a-expander-prompt">
+      Need help?
+    </span></a>
+<ul class="a-unordered-list a-nostyle a-vertical">
+<li><span class="a-list-item">
+<div aria-expanded="false" class="a-expander-content a-expander-inline-content a-expander-inner" style="display:none">
+<a class="a-link-normal" href="https://www.amazon.de/ap/forgotpassword?showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;language=en&amp;pageId=deflex&amp;openid.return_to=https%3A%2F%2Fwww.amazon.de%2F%3Fref_%3Dnav_signin&amp;prevRID=79QVYYTTHS6MW8B6N0YW&amp;openid.assoc_handle=deflex&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=&amp;failedSignInCount=0&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0" id="auth-fpp-link-bottom">
+  Forgot Password
+</a>
+</div>
+</span></li>
+<li><span class="a-list-item">
+<div aria-expanded="false" class="a-expander-content a-expander-inline-content a-expander-inner" style="display:none">
+<a class="a-link-normal" href="/gp/help/customer/account-issues/ref=ap_login_with_otp_claim_collection?ie=UTF8" id="ap-other-signin-issues-link">
+            Other issues with Sign-In
+          </a>
+</div>
+</span></li>
+</ul>
+</div>
+</div>
+<div class="a-section" id="ab-signin-link-section">
+<hr aria-hidden="true" class="a-divider-normal"/>
+<div class="a-section a-spacing-micro">
+<span class="a-text-bold">
+            Buying for work?
+        </span>
+</div>
+<a class="a-link-normal" href="https://www.amazon.de/business/register/welcome?ref_=ab_reg_signin" id="ab-sign-in-ingress-link">
+<span>
+            Shop on Amazon Business
+        </span>
+</a>
+</div>
+</div></div>
+</div>
+<input name="metadata1" type="hidden" value="ECdITeCs:dm+qn2B80rxvEuDekTz6iyjDDh0sFwr9GAgq1Z9Sf2elY+w6WKITkVqjtgDc/elALcARI6eUEqFSIqzPEuMjSECLJiLu/YWaPvLSK7XPuCq1A32xpHxxcz33cydjEEN6oM9A8Z49xoL1B3syu0oZvd8PS6OqHMVgygcWeOBz5EEd+zPDn9r2LBYFFtcu0NhHOkg2szDa3BOh7Rt9MgeZD9lEoFRZtuSsJs37JQmPF5ZD5m7RLmta7Fs45mSvcbXzBSn+I8wcGS4d1+XtW3pS7mN/FWpc3j/sNkGGFml5k560m2BNacGm9en7GS2RKU9ixOPCi7OURkxA5k5qhRprr/ZwiLyRdX7oCOgMSXb+IoRsO58o0/eaP/jfwlbjXYJ3P8oaD3K0zGvCU8f8ri037C8sN9VY305AFDygl4vXWlFsdWn0Hoi5bxLR10MargLWWU09zADOdVSoxDlaSg1GaZgYZ8WX4UUEfzD99vX6bTbywfKPgiAkiMdh1XJeus61QFKkBfUGkxt/aKYBjtfIgZdHB1s352l9Rqv1Giwt1Vriskr3R5udXE20WZySYViToV69PE14KTeBiCjLsrzV61evogBjNCGWHU0qnPZG/u61z36Dh7QQUF534aD4wJHsPlW6xQub9flVumwcJI/fRHOlnU9MK1v3G9FFsdbt1TiuIcd5x7yQJYxocQB8O7cpZajQuZdHLFmfHrbVb6I01vwCoUaUSH7w2ike5hUqDjXuf/wlKxZmti1rc5a/GWG8RK1rxuTaEhqf9WDRWnuCvHiNLjbTn9F0CRc/yLfSg48t/GYfeAPD54TVnOR+9EQo4HYHjklQaTm2YLhkRYnJw6VYoMAi0sk/wdh3B3W789TX+YbyMmaeDgwa6Gmxy3t+uCxNscDop3Fa9NAeO/HQ35IavXV+pxxF/HfAIi/maiM4vHvxmaEFSJVVz3cSTk7nuZaSMMaZwoHI8OTisfuH5NJpMwDNetDtorbE8Ny5HvvP/Dy6tpQRDeXLMlUAKVLBA3VZJwUvB4DVngZZ4pnuyZc0Q9gqBxocQ1FlAVgEJe4PYYDLJ/HbA3IA7YGlITEHZx2whjXSHR9Ouj0J3QiRqzcQ3qBfmVAAIgDDpJSUOqipDp/dV7JGkMkq5+LArdCsC6Rnb8o5bVGpncNbFoFiSuoasWEXm2tZrnWo8gqt3s+wW6Z8xfC45B6A9DoWxbZB/jG2hHjoO+WL7KkGwTPyA1bQ/Ne1iiQKsXIDs8WHlQAxg0plgEFYMTCpbH/KOz87rMK3l4/En/Hftd1rd74bY7NDpk7HGKbYu5MsQkAoKr3pLodYeEyaG7QMuyRMDvnlbISpIhgDGg78ELJxROok45lJNdNndVnyZcNtfmbh/BpL3TWqHxy/QPoN/flWZz+nRqDpT8zEJmi4YGPVggTdLqwTg6wxMUCgCQ2BHpFbSlruDyTa+c12cK4sq/VzT38WrJuDt5oYBZ/x/Q6FokWf2FMLvAdFL4+dIF/XleuxnKJHZVlNzDQnvgWh1tOEOnZHQaRoZsclVXM/LJ56a0Qsx8prfMkqNu9PEIfQbJT1Q/KFdrbBQZ9HFj7HRljknDlbareS2uNDAlQtRipaIKZ8HFnzPG6y7U14jTZXOoAR30qojjogHGVdO71mBb6lcUnDIF/6KxWSwz9mWBaYRz+9oJZYdXWrYR2Cs7d2MaZdc+6cuXLnjdhHcyo51SD8P1R0atUA4cVvjGU6pD3IaKLl9Sr4jAUa/dbBvCQ2zJCFr4tGQMzA6AhObGEpSrjpkPqQZYf1R1q+QUQmwtxzpqjS1n0epmz59RkW4Oe+fvayhkupc5RALKzESmrLl66/mN98ffoOMYTal6pl70SbblMjpjdrs9Vyi9va2r2h1fJ9FyaQMs7xB6YDElOVXbVgwNpuNWVMuYtT7QX/El6vILxzEXRWe4M1NT/FEkzXFX+458NPsIWM2yFYGSClh1k2gaAevQRz6o0sOokrEAbqqEQmSdz81oLIAJHe6+cGtw1n0wCPMBbwbxzRSfLEEj8/fqTJjPz95H1AW0jzTM2kZVGPTrh0TScROG3YgOMARdkQLf+GMOsWr9t8lsQUktF/H4/9A6eH9a9NUev2outFNYziU45K62ZAydb82FTnl4Q2OCRKEkQSb6M1+4NRjFOZqRe907EM537C1UTBGYvHAMeDyzzmm8aeypf8lMIKPrbtwootkGCAmuHEr75XmVJmLD9Zi136RjB9u216CMMVtpTvBhjr9fYgjiNH76Bb95AYmFp0qqwnB5PqTYY9Fka301zMuZvyHNIGie5HCBDnsXFYkezSHRJrukaPr8al25fdPgSy37FHyn8PLRizIvmFEs+/rcDUYVudOmOJWtUbWGoSV58BbL4kdZm7evtnaMNkoxkBT5HlNfaoZ9G+S8MbzDNaMVIgOZ7xODj29XnUASdJS4PMQ8YpGtLu31hy0d5IGS+/pHtxmDgyK5fVUDpfwIy4kmo7NwA5knSqEkn0m93tnfLhBfolUCD7fa13HvKcajx2mvmVcdmc7Iq1wNO9N+EtR7oBI2Ua9a+ew+97tPWtPaxaX2VzhK/s0tBBOW1YTa6x9cGaxJlE8jZn/MRNeoNxAfQFikDjwKWTZVlpOlsHChCa2kh7YE5543lh+zkx97CATAKV8CZjziQ42ttX/+jZEKeF7g4Y05G/VC1zfZbql2rf+f9zxIBHeffLq4vl0w1FN9iWJq+zhLVNEdD9XWrKKff8Wi3fm6IMTHHcVrwL/Y8PGloZvJ6huo+6cmm77tTApYvR6AOECM5e1fQNYsMavpidzBFju0YmmwvUU7omrqcKMzWrTP4F45HluUT1sLfnlNXmwAStI3dQLF7T+quLYdMeVuE3XZ/B0kbzROST0iE6Owqt0zbZc/ZhMPAAfHP4pJeHtWrrMTcFOLEZ9jtbPZQovAyOyZUBFCJWCpwAEzYqs8ERaEdjUPaRAhp7PFphCAVBC6x30QkeVnE/RzZuiEw+5vtP+6NvousYbsz+Rk+FyVQbRfajtc7OSkJOHpxEdXD0TJiFsmpvla6SbWXqAmfyhAJtN4AB1wyKPuNeMZWaj2Xq4uoln7U+KZK/WtAk0Sz13fHxEtnLstMUz3g7Q6s3mHAzlDbSaU1vBi10Tt8U/csHzpnEEHILNrCRwHYWO//i3Q/ZloTfLHPwbg6swsN5o4wmvyGFPKhRqWwSBAY/bJ8xT+spbGVrzHkSf++acbjl8nMnuvsGvtpkepDr4HsVZsk58KlLLF8wCz8aMBAlMF88ojd1RtVjpUTets6upiL52u9PW9vqOOvqKlcuPfx4ii99XzW6ABsuZVhQeJwreGK4q7tHEdyFCKXFrHyGv7aQCYX8tfFkbmpuSdZaEdgfNTzA98tW7fBkji7+FyHXQWnDHK0B0yQVX2eRZu37YH30ADnE/fwS78Op5PBD6K6hNNExTwFOo519s9yncT8mwP7RHIM+9aMsR1T18erH5IGiuIiv1TWF6S+k8fb6y1f587rADTK309UckVTSWhyJ1qxBrBUxMyt0pweRxu36l7PEGqWC1cMlAvH3WSw7KP/QmWuYlfj0nJQ1zNX/J2vq+ryxqOJ1cONOT199q9FPKER7sSYnBroSA+vknzXKPJH50vjPALz3RqMMcb77QC11SIEjn8QuKIg0bpYiT+ufmO8wIXhVRf/pPYi3MziO4lF6zRoRj2T8zj1paL7WWMzKCID800tYtl7RTJl8ulFoku6Ls0CXBOR9PBqN9bpqW0ywE2X+FORY15+qi8x3xFiscOSGrR3h7OsAqe9IlrHw6jrFWFChI0puNqwbixT6iq/9yAiDhAMvVL4P+FoDqnd7LCxTkWEmjuUTPQVroOTadX7JrwpES4k4J3wXn7lQ5zkXsSjBJs7cw0wcQHj8QnXBrjFjf9kBAmmYHij9rVa98j1187lewNu30g6jnO9NDzAnLSsfu9I5T/OgSycW0WLP3NJiSYiNDDg8oxfMrJv6ii1IFw1Z3Py3IWXnzREFmrVBolZvxx6TvALHv1rmqCI66e5aPRmqQZR7+fcDyeg6OMxDDmNQ0VCI1Bnv7zRVYog2gWoVkjJHk3m8mGOG1lWdYNVLt4jSdklYlHn+TG3a0a5x5Nnjpadk1KgeBmoJC+VdEwY5xPQLXBbaSD5P4BZ4pseR0QkW34knjU9YPlu/ZsruffwqhJsTv469JiXmf8X+inCXLyNQaWTgua8tG58swvKLBfMYPR7JEwaBEDd1W3fnS096dUH3P0JzvzggLZ2csbN2BQ/+rtDfbSnVutzAv1Hg5rtBZx66V8k2jU0nxsEOqfzZbCENDvfTpL61sI3033NMgFGZxhNy4RMH/Qvk/eQMlfKTIbC1ijNk5lKA/UDdN0x3/wG4AXN7lXQ5+U+ZjVuHNM6rvgH8KIGJXB30NLeuHx5hdXyDLmPvUnF2PTEFVZt4umJnm2pLr5cWG/7TnQ6+NIm0hwDxBJXWxx3REMQJwEYzFqtTgGmBwAviDj9pP0Ce2Z4MjBZZJ7NX1UQn+SvuDBrum4pHzhVUXX85egH/3uQAKUWctBEKr+mXSj8wKQojGgqxRDQtDD06PMksWJxN1m5AWQK3ATn6ECPzydc7rlOio6Tu3GhFj8KcKfM/B4cZWiQGOUrdA9qmS1zQnTz2JtLo4JKnVOnmckE7aBCpq+e+2x5yPlrcsR6jiVDqNBprIi+5LmMXZAgT4dsAhtlf6neGFxGsDkYoQoG/aRATvou/bVUxSB+mQ5Lcq7S35YOXXI4LEk5AQCfWoXS1QcDGhDcA5ga2qr9GcWJtr+Z5qufc8VLPyLeKv0HwOIiSmOvukYapxqfKHMQ6aMNNl6YhROnW6/y9Z0riaNMoIObGfTNKUi45R0v7hlgt8Cpg0kfrvSnlHHMToNTGV7deF4COdc24Pblq3NmTKjyVK727rnTnQ4kyA0yLuh1y4qd/T/t+OyHNMRjkSRWvh/SudE1JXC5bO/GhGky/jPlfgsTuxmtBDmTY/5eLrvCnMnhUK/etwzl/h5waikrCxYDuE/bAHa05OzIq+53aOzcGbSgi3bMmfEKW3Tv+kb+ZWHBGeoibCHi1E8+c4yL+EbkVIsPWCELh+Xa7BBDkio5nB8Ebr2WN+NiiFPYnf50Hi/d+TC+V90bRyTwnb4LT7X9YgNaJx880nghaVSqR5IrFKI2ndgD/j08SlHHqhdF+2kYlugyft6YcYwbpEAwqPJjWZ4nN+eCvHj3NLOyGhX+gtFeJv2ZMSZgk35o8LpIZlWBmGCLvCLhJ0eAkHiNHpH1N5qYrinvs4drMyaLhY/YyoHTxJcBWKlLqJV1Ah9tR1swGu9414vPTZJFz20d37eIqG4yjh/Z5DdkVOyX1/lpiGMLECKitVBK95cgswAVdixJUOdIjcvxG1IThQtFamS2LAUFZ0Wv8FcuVRioUcMqcUk0yyNYv5SRj1gBha60i+rvYxqXdZN6Diel6QkVhh4E0EE6O/AK4bZIzSHv/zlpt0jTEYb57PfxSQ+pKY5M0nwZNUrN64BQPB00SJ8zpKAK8P141IH1VEMye4kmjJqVF0F7hViA7pWA/qNrbRlMi1eG4N/0tX7WXnsDJbw2+VG0kKzDqJ9HilNFA2fLeoTqKwN3IZII+4UYxYoGJYGER9lOEqMxCNt2Q+6DmxF22gJ0MAUMyW0XDQJmT7dfXwhE3DdWrpHC4VXOq7nz65bPRjZg45p1zNP8RCCDrKIgq0uUNGtSV0LjspyhWz4uz2fLZ/bnPijydQDsLzV2JFDs0yrRro2D4Ym/S5dVtxD/PutoSsoiLTx2KmeErDImaPgdZIma+7NRigr9q68AkbQkLaahme+nkJmwnTQM4rKsvLfRrf2FF4BA+X2ATckvMCPmeTZLV9ctfDhNo9zpq8MAlcH75/a4YqC2jsWSeB6k+RmEf96a1w8dE1HU0RU3dEEFV/f2hN0l1rYMNELnAgaSVaCboCEWpa+stbHDSZRWYEOOTCN1uoM252YuYu/T52dJuiiIcYqSC54lyEM/8kdKgx/HJkJ9peTgxwm9wLYiE1XCHhn6ZQtYIoDfKdjBRzSqtXyvVufT4iDCyyP7x+kCaiyj5E0O8/JSM919y5BijPKPn/pClHsAmQiDugsUNBGmAEINA/J8EoU4KMsHIzsJWgU0AWde3o2NU12r4gFW1FQJNqLExi/lZC6M7bWHKwlAngyi65GKFRGI4j7NeR9XIZik4v8sOHSODuPy75RjzbUnggnwTp4xE9HUEInHxa6DZAXww/BPYZ45W0FU8jS95oGd9ZndIFmc7H8sMt4xJtBaUF2MRmMrrVWS8woAhr4uCy3VVMAPVHu8IfSZQrd8lLeWl3NGdUHMnYAqVL4h25JaYx80yGQKYl0cJN01RkfKJrBTyGuqWLf+Vm3eExTFnk3BbG19GXczTAc9SXbpUAcXCuwkML8bTW/GzKFKjoewDvgOQ9L17pYgntVL+BGOG6rDE2LEWcJtpN0TwSCJBkU3Jm45Zk5LL+1SNKJJFKe9two6vrLuU6Yhw0TqwRaWCjayak7f2IV78hgEb3wv71CyU721sh1LLJYa19VirsZ3Fea+u8h5SeI/dXWtBJ2AtroSKabGqL+Z664yJ4VJuaDoaW8SKETqzrkNvC9LF1dJsK0sKKvVlQudJ+2OdPRwN02aNP/bt6B5yQHER8uJTGUCe3jgkLGLag4qu/5TFZJtuVHPvNlx+LhixayM573gpj4kChmN4SWzPNe3rFgBfmAycA7q5Mpdol9Ln6TLksRtsvdzoV7U33hhcvaBILYbuYMdgSggHm5E7AW3uCoA0Np1ysFcj+n2hod4I8dZzmTkN6D3hiHQp0veh7PpIr7aCfWB8at2LWS8/K7JqdbcPVmD80/w0MUSWbQdjf+pckvzENkkiiH12m0NuC4f+pV+BGR22bZ+2m+48gsFdlUL5p9xDBNhyRxA1MBFLyMzQmgjSsVHRH0m4E6JUV9MMy5TScRZMBIf02pgBuX6HuhEXeg1gJIGlXa54G16GAMFw8UWEkspkPitXrv7NCOhUKylR4QvnKD+02g9yY8aK145pM1psThVEgaII4Ale2z6GYMJU9D91/9PGpt6uYpe9AuzBN1hBchwqteUlewQoGLn6JzoaFDH3kmIpvkLkiB1/w2/Y1l6cqXG5SqsGdy1SbOniGhHQg6+dezSbE5k/En82/sBJ2k58ZKiaMnlADyHJZ3rNOKPqkumeJv/tf1EDLw/JHfqu50KQ00FLBMjdDNp8UV2K6A9+ce0qxFFyvRCtPrCz5xtHKZKLWCMNn13moERxOTddUFdKf6n6ptPcAPdEFEE/T1931pdkNCKw8NzxBGryif1cTl8zhAH4/p0yiHkiy9NveInM90I0wq2KlFIN/hw3lXTnuU6utmdCzZDQNmANeYwkFtqbLQFQvlXR/FOnRpZeTO5blA33bud4qivn4dX5pbS5IQOhM3SQTzPwNWk4pmFYoapZhXVqbWa59b+U7/EXv5zuR6+DSm1ktQh0P6MLUP3LIgzJo3aRLbucYrdZU1YlY0b7VXFHbyE3rWl7bDMnOWXsHU0w+gZg7RG3/+XX6Xbc0qLkaWVDZVGqdUivWnJDCZ8Jq5NOke6i0KIvs5ENEOdBnbrgWpeVEDO/qRaTxdMLwY4ACwqu7iTwNUDihfwudtd13jJu+0HXyVxpU4OYhIS5kQdUI6zgK6igCgy/Oyu9vijyAxKprjsHXzuoZm20KyCCUBkhTFw5SdIiLPy+nOKYM1NK6mJ1J1cHpYD6FTGBrcteJbeJXuW5kDLsOP9J7uVnWTRnOzs+gDDVdWUFOFXla8HfA3OGC2Z8spZHKTfCPxh06PMBptRbmyQ4e4iElA7FKxs4NZg2HLwxAibQbh49aBMFIS+VY0fpGmqMX0D193aof9A5IiVTQX4I8FreLKbcfcY7HgxQwwLFj0Qg5x/eIlfEn7MvXrSCge/veNMiX1GTpjHdarkXydzORPWBZ0BZduBxTUlYMUPmO33tM5PIVTYDfahF6W6EDkxuwRP+hkPOrPwfdmVKaocXnEK19zBL0HGHsTLBLqnCvkdvjc7vtc1RZf6cMtxUvxLHvnTw8u3m/jAcqxi0BdOy1/UR3PYVDhCBTL61c4dsRez4x9Bb7A7bT9LNSKfUbtdT1cBaHRj5mQkFvDJpDM3k3T97+TSCBx7+clu1QNuXMSAcBJ6bngGJrXdYDTzCLYFbb5AihnZmsJaOGhBCHVj7y33YlTm9lY89bvATjWMY1HZGqNeZDkrJaRPVydeIIXzxBXicYV2whMqRfN/cl7z0xcwdLof4uF93LGmmx1YeHpIYrng1pQmBm1+NzVE4L2X3Mxz4MKgD275mlgvFmkriVB62rCbmrlgeF2xST7VPPvZEJuNKWM4r2jPiT5gEMLI8qw/Q1sYIJDECwMy1cXaAZNYcJI+SlO38w5DbqT+pPYbgFOk9xDWcS+soeA3yQ7SCTUah2x0msx2QsoZP3PubAp7ZeW92ojIcj/Uxzj4hCNVW4TnyjLNYDfw+5MCXd0L4fjikhyYhna4bqQj7kWk6VXiQa2SxUh59dzmVomnu33dfJgQyNCBUHcPAys5PgDpmXokrXxfuQ/QZdTgwlfwSf9ZIUIU0XYd953r6zk/KH4mPMOw3jNgJJFRtNOjuiz9mUPPopBAFywVhaNvMn4TbMZFp5VdAqOHm6/48PGxtDhJc+jQXlA+5uCgyGqBtUqABA2B6KpYciCxKr3MsfPUdKiPmH83QnJ3M4pfxoA3ql+kp1hWrRo8doPz7cMFYXkVAYpFkRx4heUEqA8qNAzmVB5rsDjH4BXeiycJM6xbZsyIdxcfc0fQh0XGSR61Mccy9VH9tffw1un5hRp+ploim0BcJLLoeFBDpzLi9kp7JrZxnCH7HxAxYrvjZyFbMoPBWGK9YC9f7S25zPbMhSmUYguGfooByUxXKiWPQscyQ3usQqngMUlm2WoQBd0u40RJbZOhTI5VQ6Y6Hni/0AZ1JVbcBk9DO++vVJFDJhpsedG+hYO7IensWn3M="/><input name="aaToken" type="hidden" value='{"uniqueValidationId":"3b87f762-df34-404c-b013-20bc7fa046c3"}'/></form>
+</div>
+<div class="a-divider a-divider-break"><h5 aria-level="5">New to Amazon?</h5></div>
+<span class="a-button a-button-span12 a-button-base" id="auth-create-account-link"><span class="a-button-inner"><a class="a-button-text" href="https://www.amazon.de/ap/register?showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;language=en&amp;pageId=deflex&amp;openid.return_to=https%3A%2F%2Fwww.amazon.de%2F%3Fref_%3Dnav_signin&amp;prevRID=79QVYYTTHS6MW8B6N0YW&amp;openid.assoc_handle=deflex&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=&amp;failedSignInCount=0&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0" id="createAccountSubmit">
+          Create your Amazon account
+        </a></span></span>
+</div>
+</div>
+</div>
+</div>
+<div id="right-2">
+</div>
+<div class="a-section a-spacing-top-extra-large auth-footer">
+<div class="a-divider a-divider-section"><div class="a-divider-inner"></div></div>
+<div class="a-section a-spacing-small a-text-center a-size-mini">
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/gp/help/customer/display.html/ref=ap_desktop_footer_cou?ie=UTF8&amp;nodeId=505048" rel="noopener" target="_blank">
+      Conditions of Use
+    </a>
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&amp;nodeId=3312401" rel="noopener" target="_blank">
+      Privacy Notice
+    </a>
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/help" rel="noopener" target="_blank">
+      Help
+    </a>
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/gp/help/customer/display.html/ref=ap_footer_imprint?ie=UTF8&amp;nodeId=202024860" rel="noopener" target="_blank">
+      Legal Notice
+    </a>
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/gp/help/customer/display.html/?nodeId=201890250" rel="noopener" target="_blank">
+      Cookies Notice
+    </a>
+<span class="auth-footer-seperator"></span>
+<a class="a-link-normal" href="/gp/help/customer/display.html/?nodeId=201909150" rel="noopener" target="_blank">
+      Interest-Based Ads Notice
+    </a>
+<span class="auth-footer-seperator"></span>
+</div>
+<div class="a-section a-spacing-none a-text-center">
+<span class="a-size-mini a-color-secondary">
+  © 1996-2024, Amazon.com, Inc. or its affiliates
+</span>
+</div>
+</div>
+</div>
+<div class="auth-external-javascript" data-external-javascripts="" id="auth-external-javascript">
+</div>
+
+
+<!--ACICSetup-->
+
+<!-- cache slot rendered -->
+</div><div id="be" style="display:none;visibility:hidden;"><form action="get" name="ue_backdetect"><input name="ue_back" type="hidden" value="2"/></form>
+
+</div>
+<noscript>
+<img alt="" height="1" src="//fls-eu.amazon.com/1/batch/1/OP/A1PA6795UKMFR9:261-8106289-0452551:79QVYYTTHS6MW8B6N0YW$uedata=s:%2Fap%2Fuedata%3Fnoscript%26id%3D79QVYYTTHS6MW8B6N0YW:0" style="display:none;visibility:hidden;" width="1"/>
+</noscript>
+
+<div id="a-popover-root" style="z-index:-1;position:absolute;"></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be public to all users? Answer only with yes or no.

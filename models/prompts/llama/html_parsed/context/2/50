@@ -1,0 +1,1823 @@
+The following text is the html file of a webpage. <html class="no-touch wt-html-no-scroll" lang="en-US" style="--vh: 4.54px;" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
+
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="en-PT" http-equiv="content-language"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="nosearch" name="pinterest"/>
+<meta content="3:1716886880:FuYvwJfy429rorRAJ64kcwDwyXIR:0c9ac3b2c3266f056da66e28dc5f33370a327de331489e43c6dd87bc23ad170a" name="csrf_nonce"/>
+<meta content="3:1716886880:vW3gs0xVCUTXbRlv3iljAHmKk09N:09d7601b1feb3fb4cbf601a19612f9353281362e0c4715280965457f88e55b17" name="uaid_nonce"/>
+<meta content="89186614300" property="fb:app_id"/>
+<meta content="/ac/sasquatch/css/" name="css_dist_path"/>
+<meta content="202405271716849956" name="dist"/>
+
+<link href="https://www.etsy.com/dac/site-chrome/components/components.67a6407c4b63e9,site-chrome/header/header.60801f8c36db47,__modules__MiniCart__src__/Overlay/OverlayView.60801f8c36db47,__modules__CategoryNav__src__/Views/ButtonMenu/Menu.8d961c48ba074a,__modules__CategoryNav__src__/Views/DropdownMenu/Menu.60801f8c36db47,site-chrome/footer/footer.60801f8c36db47,gdpr/settings-overlay.60801f8c36db47.css?variant=sasquatch" rel="stylesheet" type="text/css"/>
+<link href="https://www.etsy.com/dac/vesta_homepage/vesta_homepage.60801f8c36db47,vesta_homepage/consistent_spacing.60801f8c36db47,homepage/_modules/spacing.60801f8c36db47,contentful.b1c6bd381ce780,vesta_homepage/view/etsy-everyday.60801f8c36db47,web-toolkit-v2/modules/skeleton_ui/skeleton_ui.60801f8c36db47,homepage/_modules/common/simple-header.60801f8c36db47,homepage/_modules/contained-card.60801f8c36db47,web-toolkit-v2/modules/cards/cards.60801f8c36db47,vesta_homepage/view/what-is-etsy.60801f8c36db47,impact/homepage/what-is-etsy/community-impact.60801f8c36db47,web-toolkit-v2/modules/forms/checkboxes.60801f8c36db47,web-toolkit-v2/modules/action_groups/action_groups.60801f8c36db47,favorites/collection/list.60801f8c36db47,favorites/collection/row.60801f8c36db47,favorites/adaptive-height-desktop.60801f8c36db47.css?variant=sasquatch" rel="stylesheet" type="text/css"/>
+<title>Etsy Portugal - Shop for handmade, vintage, custom, and unique gifts for everyone</title>
+<meta content="Shop Etsy Portugal. Find handmade gifts, vintage &amp; on-trend clothes, unique jewelry, and more." name="description"/>
+
+<meta content="Etsy Portugal - Shop for handmade, vintage, custom, and unique gifts for everyone" property="og:title"/>
+<meta content="Shop Etsy Portugal. Find handmade gifts, vintage &amp; on-trend clothes, unique jewelry, and more." property="og:description"/>
+<meta content="http://www.etsy.com/" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="Etsy" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@Etsy" name="twitter:site"/>
+<link crossorigin="anonymous" href="//i.etsystatic.com" rel="preconnect"/><link href="//i.etsystatic.com" rel="dns-prefetch"/>
+<link href="https://www.etsy.com/" rel="canonical"/>
+<link href="https://www.etsy.com/" hreflang="en" rel="alternate"/><link href="https://www.etsy.com/fi-en/" hreflang="en-FI" rel="alternate"/><link href="https://www.etsy.com/au/" hreflang="en-AU" rel="alternate"/><link href="https://www.etsy.com/ca/" hreflang="en-CA" rel="alternate"/><link href="https://www.etsy.com/dk-en/" hreflang="en-DK" rel="alternate"/><link href="https://www.etsy.com/hk-en/" hreflang="en-HK" rel="alternate"/><link href="https://www.etsy.com/ie/" hreflang="en-IE" rel="alternate"/><link href="https://www.etsy.com/il-en/" hreflang="en-IL" rel="alternate"/><link href="https://www.etsy.com/in-en/" hreflang="en-IN" rel="alternate"/><link href="https://www.etsy.com/nz/" hreflang="en-NZ" rel="alternate"/><link href="https://www.etsy.com/no-en/" hreflang="en-NO" rel="alternate"/><link href="https://www.etsy.com/se-en/" hreflang="en-SE" rel="alternate"/><link href="https://www.etsy.com/sg-en/" hreflang="en-SG" rel="alternate"/><link href="https://www.etsy.com/uk/" hreflang="en-GB" rel="alternate"/><link href="https://www.etsy.com/de/" hreflang="de" rel="alternate"/><link href="https://www.etsy.com/at/" hreflang="de-AT" rel="alternate"/><link href="https://www.etsy.com/ch/" hreflang="de-CH" rel="alternate"/><link href="https://www.etsy.com/fr/" hreflang="fr" rel="alternate"/><link href="https://www.etsy.com/ca-fr/" hreflang="fr-CA" rel="alternate"/><link href="https://www.etsy.com/nl/" hreflang="nl" rel="alternate"/><link href="https://www.etsy.com/be/" hreflang="nl-BE" rel="alternate"/><link href="https://www.etsy.com/it/" hreflang="it" rel="alternate"/><link href="https://www.etsy.com/es/" hreflang="es" rel="alternate"/><link href="https://www.etsy.com/mx/" hreflang="es-MX" rel="alternate"/><link href="https://www.etsy.com/jp/" hreflang="ja" rel="alternate"/><link href="https://www.etsy.com/pl/" hreflang="pl" rel="alternate"/><link href="https://www.etsy.com/pt/" hreflang="pt" rel="alternate"/><link href="https://www.etsy.com/" hreflang="x-default" rel="alternate"/>
+
+<link href="/favicon.ico" rel="shortcut icon"/><link href="/images/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/><link href="/images/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/><link href="/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><link color="rgb(241, 100, 30)" href="/images/safari-pinned-tab.svg" rel="mask-icon"/><link href="/site.webmanifest" rel="manifest"/>
+<meta content="Etsy" name="apple-mobile-web-app-title"/><meta content="Etsy" name="application-name"/><meta content="#F1641E" name="msapplication-TileColor"/><meta content="rgb(255, 255, 255)" name="theme-color"/>
+<link href="/osdd.php" rel="search" title="Etsy" type="application/opensearchdescription+xml"/>
+<meta content="A4oIpR6f5aUXFRMbL6t6qaMk4lrHWxcV3DcrzORsA9sEsIk1FBRMFzzhfMNLuUpokZH40FV8s7iiXtt/729v8A4AAACFeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiQXR0cmlidXRpb25SZXBvcnRpbmdDcm9zc0FwcFdlYiIsImV4cGlyeSI6MTcxNDUyMTU5OSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/></head>
+<body class="ui-toolkit transitional-wide etsy-has-it-design is-responsive no-touch en-US EUR PT bg-white guest wt-focus-visible wt-body-no-scroll" data-currency="EUR" data-gr-ext-installed="" data-hover-none="true" data-language="en-US" data-mobile-viewport-height="true" data-new-gr-c-s-check-loaded="14.1174.0" data-region="PT" data-visual-focus-state="true" style="padding-right: 14px; top: 0px;">
+
+
+<div data-above-header="">
+</div>
+<div data-menu-ui="menubar" data-selector="header-cat-nav-wrapper">
+<div aria-hidden="true" class="gnav-header global-nav v2-toolkit-gnav-header wt-z-index-6 wt-bg-white wt-position-relative" data-as-extras="{&amp;quot;expt&amp;quot;:&amp;quot;off&amp;quot;,&amp;quot;lang&amp;quot;:&amp;quot;en-US&amp;quot;,&amp;quot;extras&amp;quot;:[]}" data-as-personalized="1" data-as-version="10_12672349415_19" data-cheact="1" data-count-ajax="" data-gnav-header="" data-show-gift-card-cta-in-as="1" data-show-suggested-searches-in-as="" id="gnav-header">
+<header class="global-enhancements-header wt-display-flex-xs wt-justify-content-space-between wt-align-items-center wt-width-full wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-lg-6 wt-pr-lg-6 wt-bb-xs wt-bb-lg-none gnav-header-inner wt-pt-lg-2" id="gnav-header-inner" role="banner">
+
+<div class="wt-pb-xs-1 wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1" data-header-logo-container="">
+<a elementtiming="ux-global-nav" href="/?ref=lgo">
+<span class="wt-screen-reader-only">Etsy</span>
+<span class="etsy-icon wt-display-block wt-fill-orange wt-nudge-r-3 wt-nudge-t-1 logo-dimensions" id="logo"><svg aria-hidden="true" focusable="false" viewbox="0 0 48 24" xmlns="http://www.w3.org/2000/svg"><path d="M6.547,3.125v6.008c0,0,2.117,0,3.25-0.086c0.891-0.156,1.055-0.242,1.219-1.133l0.328-1.305h0.969l-0.164,2.852 l0.086,2.922h-0.977l-0.242-1.141c-0.242-0.812-0.57-0.977-1.219-1.055c-0.812-0.086-3.25-0.086-3.25-0.086v5.039 c0,0.969,0.492,1.383,1.625,1.383h3.414c1.055,0,2.109-0.086,2.766-1.625l0.883-1.953h0.82c-0.086,0.406-0.492,3.984-0.57,4.789 c0,0-3.086-0.078-4.383-0.078H5.25l-3.492,0.078v-0.883l1.133-0.25c0.82-0.164,1.062-0.406,1.062-1.055 c0,0,0.086-2.195,0.086-5.852c0-3.648-0.086-5.844-0.086-5.844c0-0.727-0.242-0.891-1.062-1.055L1.758,2.555V1.664l3.414,0.07h6.5 c1.297,0,3.484-0.234,3.484-0.234s-0.078,1.375-0.164,4.625h-0.891l-0.328-1.141c-0.32-1.461-0.805-2.188-1.703-2.188H6.961 C6.547,2.797,6.547,2.875,6.547,3.125z M19.703,3.766h0.977V7.18l3.336-0.164l-0.164,1.547l-3.25-0.25v6.016 c0,1.703,0.57,2.359,1.547,2.359c0.883,0,1.539-0.492,1.781-0.898l0.484,0.57c-0.484,1.133-1.859,1.703-3.164,1.703 c-1.617,0-2.93-0.969-2.93-2.836V8.398h-1.938V7.586C18.008,7.422,19.219,6.445,19.703,3.766z M26.695,14.242l0.648,1.547 c0.242,0.648,0.812,1.305,2.109,1.305c1.383,0,1.953-0.734,1.953-1.625c0-2.766-5.445-1.953-5.445-5.688c0-2.109,1.703-3.094,3.898-3.094c0.977,0,2.438,0.164,3.172,0.492c-0.164,0.812-0.25,1.867-0.25,2.68l-0.805,0.078l-0.57-1.625 c-0.164-0.398-0.82-0.727-1.625-0.727c-0.977,0-1.953,0.406-1.953,1.461c0,2.516,5.609,1.953,5.609,5.688c0,2.117-1.867,3.25-4.148,3.25c-1.703,0-3.414-0.656-3.414-0.656c0.164-0.969,0.086-2.023,0-3.086H26.695z M33.031,22.039 c0.242-0.891,0.406-2.023,0.57-3.086l0.891-0.078l0.328,1.703c0.078,0.406,0.32,0.734,0.969,0.734c1.055,0,2.438-0.648,3.742-2.922 c-0.578-1.383-2.281-5.844-3.828-9.258c-0.406-0.898-0.484-0.977-1.047-1.141l-0.414-0.156v-0.82l2.445,0.086l3-0.164V7.75 l-0.734,0.164c-0.57,0.078-0.805,0.398-0.805,0.727c0,0.086,0,0.164,0.078,0.328c0.156,0.492,1.461,4.141,2.438,6.578c0.805-1.703,2.352-5.523,2.594-6.172c0.086-0.328,0.164-0.406,0.164-0.648c0-0.414-0.242-0.656-0.805-0.812L42.039,7.75V6.938 l2.281,0.078l2.109-0.078V7.75l-0.406,0.32c-0.812,0.328-0.898,0.406-1.219,1.062l-3.57,8.359 c-2.117,4.797-4.312,5.203-5.852,5.203C34.406,22.695,33.672,22.445,33.031,22.039z"></path></svg></span>
+</a>
+</div>
+<nav class="wt-hide-xs wt-show-lg">
+<div class="wt-menu wt-tooltip ge-menu--body-below-trigger wt-tooltip--disabled-touch dropdown-category-menu wt-menu--bottom wt-menu--left" data-animate-in="true" data-close-on-select="true" data-contain-focus="false" data-hide-trigger-on-open="false" data-menu-body-below-trigger="true" data-menu-type="action" data-open-direction-force="true" data-open-direction-horiz="left" data-open-direction-vert="bottom" data-wt-menu="" data-wt-tooltip="true">
+<button aria-expanded="false" aria-haspopup="true" class="wt-menu__trigger wt-btn wt-btn--transparent header-button wt-mr-xs-1 wt-btn--small" data-level="0" data-overlay-trigger-selector="overlay-trigger-ele" data-wt-menu-trigger="" type="button">
+<span class="etsy-icon wt-mr-xs-1 wt-icon--smaller">
+<svg aria-hidden="true" focusable="false" viewbox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+<rect height="2" width="14" x="2" y="8"></rect>
+<rect height="2" width="14" x="2" y="13"></rect>
+<rect height="2" width="14" x="2" y="3"></rect>
+</svg>
+</span>
+          Categories
+        </button>
+<div class="wt-menu__body wt-pt-xs-2 wt-pb-xs-2 ge-you-menu-dimensions wt-z-index-10 dropdown-category-menu__body" data-wt-menu-body="" role="menu" type="option">
+<a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/accessories?ref=catnav-1" role="menuitem" tabindex="-1">
+          Accessories
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/art-and-collectibles?ref=catnav-66" role="menuitem" tabindex="-1">
+          Art &amp; Collectibles
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/baby?ref=catnav-12545" role="menuitem" tabindex="-1">
+          Baby
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/bags-and-purses?ref=catnav-132" role="menuitem" tabindex="-1">
+          Bags &amp; Purses
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/bath-and-beauty?ref=catnav-199" role="menuitem" tabindex="-1">
+          Bath &amp; Beauty
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/books-movies-and-music?ref=catnav-323" role="menuitem" tabindex="-1">
+          Books, Movies &amp; Music
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/clothing?ref=catnav-374" role="menuitem" tabindex="-1">
+          Clothing
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/craft-supplies-and-tools?ref=catnav-562" role="menuitem" tabindex="-1">
+          Craft Supplies &amp; Tools
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/electronics-and-accessories?ref=catnav-825" role="menuitem" tabindex="-1">
+          Electronics &amp; Accessories
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/gifts?ref=catnav-12584" role="menuitem" tabindex="-1">
+          Gifts
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/home-and-living?ref=catnav-891" role="menuitem" tabindex="-1">
+          Home &amp; Living
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/jewelry?ref=catnav-1179" role="menuitem" tabindex="-1">
+          Jewelry
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/paper-and-party-supplies?ref=catnav-1250" role="menuitem" tabindex="-1">
+          Paper &amp; Party Supplies
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/pet-supplies?ref=catnav-1351" role="menuitem" tabindex="-1">
+          Pet Supplies
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/shoes?ref=catnav-1429" role="menuitem" tabindex="-1">
+          Shoes
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/toys-and-games?ref=catnav-1552" role="menuitem" tabindex="-1">
+          Toys &amp; Games
+  </a><a class="wt-menu__item wt-display-block wt-text-truncate wt-width-full wt-pr-xs-1 wt-position-relative wt-max-width-full" data-level="1" href="/c/weddings?ref=catnav-1633" role="menuitem" tabindex="-1">
+          Weddings
+  </a>
+</div>
+<span class="ge-menu__body-caret wt-z-index-10 wt-bg-white wt-position-absolute wt-bl-xs wt-bt-xs wt-br-xs-none wt-bb-xs-none"></span>
+</div>
+</nav>
+<div class="wt-width-full wt-display-flex-xs wt-pr-lg-3 wt-flex-lg-1 order-mobile-tablet-2" data-hamburger-search-container="">
+<button aria-controls="mobile-catnav-overlay" class="wt-btn wt-btn--transparent wt-btn--icon wt-hide-lg wt-btn--transparent-flush-left wt-mb-xs-2 wt-mb-lg-0 header-button" data-id="hamburger" tab-index="0">
+<span class="wt-screen-reader-only">
+                    Browse
+          </span>
+<span class="wt-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M21 7H3V5h18v2Zm-5 6H3v-2h13v2Zm5 6H3v-2h18v2Z"></path></svg></span>
+</button>
+<div class="wt-display-inline-block wt-flex-xs-1 wt-pl-lg-0 wt-mb-xs-2 wt-mb-lg-0">
+<form action="/search.php" class="global-enhancements-search-nav wt-position-relative wt-display-flex-xs" data-ge-search-clearable="" data-gnav-search="" data-search-bar-a11y="1" id="gnav-search" method="GET" role="search">
+<label class="wt-label wt-screen-reader-only" for="global-enhancements-search-query">
+   Search for items or shops
+</label>
+<div class="search-container" data-id="search-bar">
+<div class="wt-input-btn-group global-enhancements-search-input-btn-group emphasized_search_bar emphasized_search_bar_grey_bg search-bar-container" data-id="search-suggestions-trigger">
+<input aria-autocomplete="both" aria-controls="global-enhancements-search-suggestions" aria-expanded="false" autocapitalize="off" autocomplete="off" autocorrect="off" class="wt-input wt-input-btn-group__input global-enhancements-search-input-btn-group__input wt-pr-xs-7" data-id="search-query" data-search-input="" id="global-enhancements-search-query" name="search_query" placeholder="Search for anything" role="combobox" type="text" value=""/>
+<button class="wt-btn wt-btn--transparent wt-btn--icon wt-btn--small wt-position-absolute wt-position-right wt-z-index-9 wt-animated wt-animated--is-hidden search-close-btn-margin-right" data-search-close-btn="" type="button">
+<span class="wt-screen-reader-only">Clear search</span>
+<span class="wt-icon wt-icon--smaller wt-nudge-t-1"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"></path></svg></span>
+</button>
+<button aria-label="Search" class="wt-input-btn-group__btn global-enhancements-search-input-btn-group__btn" data-id="gnav-search-submit-button" type="submit" value="Search">
+<span class="wt-icon wt-nudge-b-2 wt-nudge-r-1"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M10.5 19a8.464 8.464 0 0 0 5.262-1.824l4.864 4.864 1.415-1.414-4.865-4.865A8.5 8.5 0 1 0 10.5 19Zm0-2a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z" fill-rule="evenodd"></path></svg></span>
+</button>
+</div>
+<div class="global-nav-menu__body search-suggestions-container wt-width-full wt-max-width-full" data-id="search-suggestions" id="global-enhancements-search-suggestions">
+</div>
+</div>
+<input id="search-js-router-enabled" type="hidden" value="true"/>
+<input id="search-type" name="search_type" type="hidden" value="all"/>
+</form>
+</div>
+</div>
+<a class="global-enhancements-skip-to-content wt-screen-reader-only wt-focusable" data-selector="skip-to-content-marketplace" href="#content">
+<div class="wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-body-max-width wt-width-full wt-height-full wt-position-absolute wt-position-top wt-position-left wt-position-right wt-bg-denim wt-z-index-10" id="skip-to-content-wrapper">
+<label class="wt-btn wt-btn--transparent wt-btn--light">
+            Skip to Content
+        </label>
+</div>
+</a>
+<div aria-hidden="true" aria-modal="false" class="mobile-catnav-wrapper wt-overlay wt-overlay--peek wt-overlay--peek-left wt-p-xs-0" data-wt-overlay="" id="mobile-catnav-overlay" role="dialog">
+</div>
+<div class="wt-flex-shrink-xs-0" data-primary-nav-container="">
+<nav aria-label="Main">
+<ul class="wt-display-flex-xs wt-justify-content-space-between wt-list-unstyled wt-m-xs-0 wt-align-items-center">
+<li>
+<button class="wt-btn wt-btn--small wt-btn--transparent wt-mr-xs-1 inline-overlay-trigger signin-header-action select-signin header-button">
+        Sign in
+    </button>
+</li>
+<li>
+<span class="wt-tooltip wt-tooltip--bottom wt-tooltip--disabled-touch" data-wt-tooltip="">
+<a class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon" href="https://www.etsy.com/your/account/locale_preferences?from_page=https%3A%2F%2Fwww.etsy.com%2F" id="header-locale-picker-trigger" role="button">
+<span aria-describedby="locale-acknowledgement-header-content" class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle" data-aria-controls="wt-locale-picker-overlay">
+<span class="inline-svg locale-icon-svg wt-display-block wt-position-relative"><svg aria-hidden="true" focusable="false" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>PORTUGAL</title><defs><path d="M1 11c0 5.523 4.476 10 10 10s10-4.477 10-10c0-5.522-4.476-10-10-10S1 5.478 1 11z" id="a"></path><path d="M1 11c0 5.523 4.476 10 10 10s10-4.477 10-10c0-5.522-4.476-10-10-10S1 5.478 1 11z" id="d"></path><filter filterunits="objectBoundingBox" height="105%" id="c" width="105%" x="-2.5%" y="-2.5%"><fegaussianblur in="SourceAlpha" result="shadowBlurInner1" stddeviation=".5"></fegaussianblur><feoffset in="shadowBlurInner1" result="shadowOffsetInner1"></feoffset><fecomposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"></fecomposite><fecolormatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"></fecolormatrix></filter></defs><g fill="none" fill-rule="evenodd" transform="translate(-1 -1)"><mask fill="#fff" id="b"><use xlink:href="#a"></use></mask><path d="M1 21h10V1H1" fill="#3D7700" mask="url(#b)"></path><path d="M9 21h16V1H9" fill="#B73C24" mask="url(#b)"></path><path d="M12.052 11.052c0 1.657-1.343 3-3 3s-3-1.343-3-3 1.343-3 3-3 3 1.343 3 3" fill="#FFCF5C" mask="url(#b)" transform="rotate(-1 9.052 11.052)"></path><use fill="#000" filter="url(#c)" xlink:href="#d"></use></g></svg></span>
+</span>
+</a>
+<span aria-hidden="true" id="locale-acknowledgement-header-content" role="tooltip">
+<span class="wt-screen-reader-only">Locale Picker</span>
+<span class="wt-align-items-center wt-nudge-r-3">  Portugal</span>
+</span>
+</span>
+</li>
+<li data-favorites-nav-container="">
+<span class="wt-tooltip wt-tooltip--disabled-touch" data-wt-tooltip="">
+<a aria-labelledby="ge-tooltip-label-favorites" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon reduced-margin-xs header-button" data-favorites-nav-link="" href="https://www.etsy.com/guest/favorites?ref=hdr-fav">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M20.877 12.52c.054-.076.103-.157.147-.239A6 6 0 0 0 12 4.528a6 6 0 0 0-9.024 7.753c.044.082.093.162.147.24l.673.961a6 6 0 0 0 .789.915L12 21.422l7.415-7.025c.293-.278.557-.584.789-.915l.673-.961Zm-14.916.425L12 18.667l6.04-5.722c.195-.185.371-.39.525-.61l.673-.961a.335.335 0 0 0 .044-.087 4 4 0 1 0-7.268-2.619v.003L12 8.667l-.013.004v-.002a3.975 3.975 0 0 0-1.237-2.574 4 4 0 0 0-6.031 5.193c.009.03.023.058.043.086l.673.961a4 4 0 0 0 .526.61Z" fill-rule="evenodd"></path></svg></span>
+</a>
+<span data-favorites-label-tooltip="" id="ge-tooltip-label-favorites" role="tooltip">Favorites</span>
+</span>
+</li>
+<li data-gift-mode-nav-container="">
+<span class="wt-tooltip wt-tooltip--disabled-touch" data-wt-tooltip="">
+<a aria-labelledby="ge-tooltip-label-gift-mode" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon reduced-margin-xs header-button" data-gift-mode-nav-link="" href="/gift-mode?ref=gm_utility_nav">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7h3.535Zm9.466 0H13V5a2 2 0 1 1 2.001 2ZM11 5a2 2 0 1 0-2.001 2H11V5Zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.978 4.978 0 0 0 3-1v3H4V9h6.236ZM13 11c.836.628 1.874 1 3 1v-2a2.992 2.992 0 0 1-2.236-1H20v5h-7v-3Zm-8 5v4h6v-4H5Zm8 4v-4h6v4h-6Z" fill-rule="evenodd"></path></svg></span>
+</a>
+<span data-registry-label-tooltip="" id="ge-tooltip-label-gift-mode" role="tooltip">
+            
+                Gift Mode
+            
+        </span>
+</span>
+</li>
+<li>
+<span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-header-cart-button="" data-wt-tooltip="">
+<a aria-label="Cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button" data-header-cart-nav-anchor="" href="https://www.etsy.com/cart?ref=hdr-cart">
+<span class="wt-screen-reader-only" id="mini-cart-description">Cart preview displayed</span>
+<span aria-hidden="true" class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count">
+                0
+            </span>
+<span class="wt-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="m5.766 5-.618-3H1v2h2.518l2.17 10.535L6.18 17h14.306l2.4-12H5.767ZM7.82 15l-1.6-8h14.227l-1.6 8H7.82Z" fill-rule="evenodd"></path><path d="M10.666 20.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Zm8.334 0a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Z"></path></svg></span>
+</a>
+<div class="wt-z-index-10 wt-mr-xs-2 wt-position-absolute wt-animated wt-animated--appear-02 wt-animated wt-animated--appear-from-bottom" id="mini-cart"></div>
+</span>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+</div>
+<nav class="wt-hide-xs wt-show-lg category-nav-button-menu">
+<div class="cat-nav responsive-disabled v2-toolkit-cat-nav wt-ml-xs-0 wt-mr-xs-0" data-ui="cat-nav" id="desktop-category-topnav">
+<div class="wt-text-caption wt-position-relative wt-bg-white wt-z-index-5 v2-toolkit-cat-nav-tab-bar">
+<div class="wt-body-max-width">
+<ul class="wt-list-unstyled wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
+<li class="wt-mr-xs-3">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-node-id="-10" data-ui="top-nav-category-link" href="/gift-mode?ref=gm_global_nav">
+<span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7h3.535Zm9.466 0H13V5a2 2 0 1 1 2.001 2ZM11 5a2 2 0 1 0-2.001 2H11V5Zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.978 4.978 0 0 0 3-1v3H4V9h6.236ZM13 11c.836.628 1.874 1 3 1v-2a2.992 2.992 0 0 1-2.236-1H20v5h-7v-3Zm-8 5v4h6v-4H5Zm8 4v-4h6v4h-6Z" fill-rule="evenodd"></path></svg></span><span>
+    Gift Mode
+</span>
+</a>
+</li><li class="wt-mr-xs-3">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" href="/giftcards?ref=contentful_promo_cat_nav-2">
+    Gift Cards
+  </a>
+</li><li class="wt-mr-xs-3">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" href="https://www.etsy.com/c/gifts/fathers-day-gifts?ref=FDAY24_cat_nav">
+    Father’s Day deals
+  </a>
+</li><li class="wt-mr-xs-3">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-node-id="2" data-ui="top-nav-category-link" href="/featured/hub/home-favorites?ref=contentful_promo_cat_nav-4">
+    Home Favorites
+  </a>
+</li><li class="wt-mr-xs-3">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-node-id="3" data-ui="top-nav-category-link" href="/featured/hub/fashion-favorites?ref=contentful_promo_cat_nav-5">
+    Fashion Finds
+  </a>
+</li><li class="wt-mr-xs-3">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem" data-ui="top-nav-category-link" href="/registry?ref=contentful_promo_cat_nav-7">
+    Registry
+  </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav></div>
+<div aria-hidden="true" class="wt-overlay wt-z-index-4" data-ui="overlay"></div>
+<noscript>
+<div class="wt-body-max-width wt-pt-xs-2 wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pt-md-3 wt-pb-xs-0">
+<div class="wt-alert wt-alert--inline wt-alert--success-01 wt-mb-xs-2" id="javascript-nag">
+<div> Take full advantage of our site features by enabling JavaScript. </div>
+</div>
+</div>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+<main aria-hidden="true" id="content">
+<div data-async-homepage-modules="">
+<div>
+<div class="wt-text-center-xs wt-hide-xs wt-show-lg wt-p-md-3 wt-p-xs-3 wt-text-black bg-no-color-header" style="background-color: #FFFFFF;">
+<h1 class="wt-body-max-width wt-text-heading">
+    Small shops make every moment more special!
+</h1>
+</div><h2 class="wt-text-center-xs wt-show-xs wt-hide-lg wt-pt-xs-3 wt-pl-xs-2 wt-pr-xs-2 wt-text-heading wt-pb-xs-0 wt-text-black bg-no-color-header" style="background-color: #FFFFFF;">
+    Small shops make every moment more special!
+</h2><div data-appears-component-name="Homepage_Vesta_ApiSpec_ContentfulSearchBubbles">
+<div class="bubbles wt-body-max-width wt-position-relative appears-ready">
+<div class="background-color-block wt-viewport-width-full wt-position-absolute" style="background-color: #FFFFFF;">
+</div>
+<ul class="wt-grid wt-grid--block wt-justify-content-center wt-pt-xs-1 wt-pl-xs-1 wt-pr-xs-1 wt-pt-md-0 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
+<li class="homepage_search_bubble shopping-window wt-display-flex-xs wt-flex-direction-column-xs wt-grid__item-xs-4 wt-grid__item-md-2 wt-pl-xl-6 wt-pr-xl-6">
+<a class="wt-text-link-no-underline shopping-window-interior" href="https://www.etsy.com/c/gifts/fathers-day-gifts?ref=hp_bubbles_FDAY24">
+<div class="wt-horizontal-center query-image-container">
+<div class="wt-position-relative wt-skeleton-ui--image-square wt-mb-xs-1 wt-mb-md-2 wt-mt-xs-2">
+<img alt="" class="query-image wt-position-absolute wt-position-top wt-position-left wt-b-xs wt-circle wt-overflow-hidden wt-width-full wt-height-full" src="https://i.etsystatic.com/ij/800c54/5981356668/ij_300x300.5981356668_biswxvgg.jpg?version=0"/>
+</div>
+</div>
+<div class="query-with-image-text--border">
+<p class="wt-text-caption-title wt-line-height-tight wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-md-down" title="">
+                            Gifts for Dad
+                        </p>
+<p class="wt-text-title-01 wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-lg-up" title="">
+                            Gifts for Dad
+                        </p>
+</div>
+</a>
+</li>
+<li class="homepage_search_bubble shopping-window wt-display-flex-xs wt-flex-direction-column-xs wt-grid__item-xs-4 wt-grid__item-md-2 wt-pl-xl-6 wt-pr-xl-6">
+<a class="wt-text-link-no-underline shopping-window-interior" href="https://www.etsy.com/search?q=greeting+card+for+dad&amp;anchor_listing_id=708653135&amp;ref=hp_bubbles_FDAY24&amp;mosv=sese&amp;moci=1226894514292&amp;mosi=1261672830768&amp;is_merch_library=true">
+<div class="wt-horizontal-center query-image-container">
+<div class="wt-position-relative wt-skeleton-ui--image-square wt-mb-xs-1 wt-mb-md-2 wt-mt-xs-2">
+<img alt="" class="query-image wt-position-absolute wt-position-top wt-position-left wt-b-xs wt-circle wt-overflow-hidden wt-width-full wt-height-full" src="https://i.etsystatic.com/5557878/r/il/992854/1934951451/il_300x300.1934951451_chnf.jpg"/>
+</div>
+</div>
+<div class="query-with-image-text--border">
+<p class="wt-text-caption-title wt-line-height-tight wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-md-down" title="">
+                            Greeting Cards
+                        </p>
+<p class="wt-text-title-01 wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-lg-up" title="">
+                            Greeting Cards
+                        </p>
+</div>
+</a>
+</li>
+<li class="homepage_search_bubble shopping-window wt-display-flex-xs wt-flex-direction-column-xs wt-grid__item-xs-4 wt-grid__item-md-2 wt-pl-xl-6 wt-pr-xl-6">
+<a class="wt-text-link-no-underline shopping-window-interior" href="https://www.etsy.com/search?q=barware&amp;anchor_listing_id=1152863124&amp;ref=hp_bubbles_FDAY24&amp;mosv=sese&amp;moci=1226894514292&amp;mosi=1261672859622&amp;is_merch_library=true">
+<div class="wt-horizontal-center query-image-container">
+<div class="wt-position-relative wt-skeleton-ui--image-square wt-mb-xs-1 wt-mb-md-2 wt-mt-xs-2">
+<img alt="" class="query-image wt-position-absolute wt-position-top wt-position-left wt-b-xs wt-circle wt-overflow-hidden wt-width-full wt-height-full" src="https://i.etsystatic.com/25021840/c/1276/1276/81/174/il/939bbe/4759659821/il_300x300.4759659821_cvqe.jpg"/>
+</div>
+</div>
+<div class="query-with-image-text--border">
+<p class="wt-text-caption-title wt-line-height-tight wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-md-down" title="">
+                            Barware
+                        </p>
+<p class="wt-text-title-01 wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-lg-up" title="">
+                            Barware
+                        </p>
+</div>
+</a>
+</li>
+<li class="homepage_search_bubble shopping-window wt-display-flex-xs wt-flex-direction-column-xs wt-grid__item-xs-4 wt-grid__item-md-2 wt-pl-xl-6 wt-pr-xl-6">
+<a class="wt-text-link-no-underline shopping-window-interior" href="https://www.etsy.com/search?q=summer+clothing&amp;anchor_listing_id=1685590031&amp;ref=hp_bubbles_FDAY24&amp;mosv=sese&amp;moci=1226894514292&amp;mosi=1261811585005&amp;is_merch_library=true">
+<div class="wt-horizontal-center query-image-container">
+<div class="wt-position-relative wt-skeleton-ui--image-square wt-mb-xs-1 wt-mb-md-2 wt-mt-xs-2">
+<img alt="" class="query-image wt-position-absolute wt-position-top wt-position-left wt-b-xs wt-circle wt-overflow-hidden wt-width-full wt-height-full" src="https://i.etsystatic.com/8154976/c/1376/1376/323/441/il/1ac661/5842079859/il_300x300.5842079859_hpa0.jpg"/>
+</div>
+</div>
+<div class="query-with-image-text--border">
+<p class="wt-text-caption-title wt-line-height-tight wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-md-down" title="">
+                            Summer Clothing
+                        </p>
+<p class="wt-text-title-01 wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-lg-up" title="">
+                            Summer Clothing
+                        </p>
+</div>
+</a>
+</li>
+<li class="homepage_search_bubble shopping-window wt-display-flex-xs wt-flex-direction-column-xs wt-grid__item-xs-4 wt-grid__item-md-2 wt-pl-xl-6 wt-pr-xl-6">
+<a class="wt-text-link-no-underline shopping-window-interior" href="https://www.etsy.com/search?q=kids+educational+activity&amp;anchor_listing_id=1566375099&amp;ref=hp_bubbles_FDAY24&amp;mosv=sese&amp;moci=1226894514292&amp;mosi=1261672973750&amp;is_merch_library=true">
+<div class="wt-horizontal-center query-image-container">
+<div class="wt-position-relative wt-skeleton-ui--image-square wt-mb-xs-1 wt-mb-md-2 wt-mt-xs-2">
+<img alt="" class="query-image wt-position-absolute wt-position-top wt-position-left wt-b-xs wt-circle wt-overflow-hidden wt-width-full wt-height-full" src="https://i.etsystatic.com/43023326/r/il/98b10f/5338068475/il_300x300.5338068475_9qeg.jpg"/>
+</div>
+</div>
+<div class="query-with-image-text--border">
+<p class="wt-text-caption-title wt-line-height-tight wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-md-down" title="">
+                            Kids Activities
+                        </p>
+<p class="wt-text-title-01 wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-lg-up" title="">
+                            Kids Activities
+                        </p>
+</div>
+</a>
+</li>
+<li class="homepage_search_bubble shopping-window wt-display-flex-xs wt-flex-direction-column-xs wt-grid__item-xs-4 wt-grid__item-md-2 wt-pl-xl-6 wt-pr-xl-6">
+<a class="wt-text-link-no-underline shopping-window-interior" href="https://www.etsy.com/search?q=gift&amp;anchor_listing_id=1464724991&amp;ref=hp_bubbles_FDAY24&amp;mosv=sese&amp;moci=1226894514292&amp;mosi=1261809224501&amp;is_discounted=true&amp;is_merch_library=true&amp;pct_discount_max=30">
+<div class="wt-horizontal-center query-image-container">
+<div class="wt-position-relative wt-skeleton-ui--image-square wt-mb-xs-1 wt-mb-md-2 wt-mt-xs-2">
+<img alt="" class="query-image wt-position-absolute wt-position-top wt-position-left wt-b-xs wt-circle wt-overflow-hidden wt-width-full wt-height-full" src="https://i.etsystatic.com/14525928/r/il/5a2c3b/4832250404/il_300x300.4832250404_pq2h.jpg"/>
+</div>
+</div>
+<div class="query-with-image-text--border">
+<p class="wt-text-caption-title wt-line-height-tight wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-md-down" title="">
+                            Up to 30% Off. Terms apply
+                        </p>
+<p class="wt-text-title-01 wt-text-center-xs wt-text-truncate--multi-line wt-text-black query-with-image-text wt-mb-xs-1 display-webkit-box-lg-up" title="">
+                            Up to 30% Off. Terms apply
+                        </p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div><div class="hp-spacing-small">
+</div><div></div><div data-appears-component-name="Homepage_Vesta_ApiSpec_GiftsBySearch">
+<div class="wt-grid wt-body-max-width wt-pr-xs-1 wt-pl-xs-1 wt-pr-md-2 wt-pl-md-2 wt-pr-lg-3 wt-pl-lg-3 appears-ready">
+<div class="wt-grid__item-xs-12 wt-pr-xs-1 wt-pl-xs-1 wt-pr-md-2 wt-pl-md-2 wt-pr-lg-3 wt-pl-lg-3">
+<div class="wt-body-max-width wt-list-unstyled">
+<div class="wt-pb-xs-3 wt-text-center-xs wt-text-left-md">
+<div class="wt-display-inline-block">
+<h2 class="hp-text-title-xs-02 hp-text-title-md-03">
+                Shop our popular gift categories
+            </h2>
+</div>
+</div>
+<div class="wt-block-grid-xs-2 wt-block-grid-md-3 wt-block-grid-lg-5">
+<div class="wt-block-grid__item">
+<div class="curated-content-card-container wt-justify-content-center wt-height-full">
+<div class="wt-grid__item-xs-12 wt-height-full">
+<div class="wt-card wt-card--contained wt-width-full wt-height-full">
+<div class="wt-height-full wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between wt-card__inner">
+<img alt="Anniversary gifts" class="wt-flex-grow-xs-1" src="https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg"/>
+<a class="wt-card__link wt-display-flex-xs wt-flex-xs-1 wt-justify-content-center wt-align-items-center" href="https://www.etsy.com/market/anniversary_gifts?ref=hp_gbs&amp;anchor_listing_id=1130909120">
+<div class="wt-p-xs-2">
+<p class="hp-text-title-xs-01 hp-text-title-md-02 wt-text-truncate--multi-line wt-text-center-xs">
+                        Anniversary gifts
+                    </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div><div class="wt-block-grid__item">
+<div class="curated-content-card-container wt-justify-content-center wt-height-full">
+<div class="wt-grid__item-xs-12 wt-height-full">
+<div class="wt-card wt-card--contained wt-width-full wt-height-full">
+<div class="wt-height-full wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between wt-card__inner">
+<img alt="Gifts for him" class="wt-flex-grow-xs-1" src="https://i.etsystatic.com/14980522/r/il/8746e6/5806724446/il_340x270.5806724446_jqg8.jpg"/>
+<a class="wt-card__link wt-display-flex-xs wt-flex-xs-1 wt-justify-content-center wt-align-items-center" href="https://www.etsy.com/market/gift_for_men?ref=hp_gbs&amp;anchor_listing_id=1688322515">
+<div class="wt-p-xs-2">
+<p class="hp-text-title-xs-01 hp-text-title-md-02 wt-text-truncate--multi-line wt-text-center-xs">
+                        Gifts for him
+                    </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div><div class="wt-block-grid__item">
+<div class="curated-content-card-container wt-justify-content-center wt-height-full">
+<div class="wt-grid__item-xs-12 wt-height-full">
+<div class="wt-card wt-card--contained wt-width-full wt-height-full">
+<div class="wt-height-full wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between wt-card__inner">
+<img alt="Gifts for her" class="wt-flex-grow-xs-1" src="https://i.etsystatic.com/25130291/r/il/bdd1fd/5666394452/il_340x270.5666394452_kbqw.jpg"/>
+<a class="wt-card__link wt-display-flex-xs wt-flex-xs-1 wt-justify-content-center wt-align-items-center" href="https://www.etsy.com/market/gift_for_women?ref=hp_gbs&amp;anchor_listing_id=1314417868">
+<div class="wt-p-xs-2">
+<p class="hp-text-title-xs-01 hp-text-title-md-02 wt-text-truncate--multi-line wt-text-center-xs">
+                        Gifts for her
+                    </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div><div class="wt-block-grid__item">
+<div class="curated-content-card-container wt-justify-content-center wt-height-full">
+<div class="wt-grid__item-xs-12 wt-height-full">
+<div class="wt-card wt-card--contained wt-width-full wt-height-full">
+<div class="wt-height-full wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between wt-card__inner">
+<img alt="Personalized gift ideas" class="wt-flex-grow-xs-1" src="https://i.etsystatic.com/5998892/r/il/315f51/6008698124/il_340x270.6008698124_fudz.jpg"/>
+<a class="wt-card__link wt-display-flex-xs wt-flex-xs-1 wt-justify-content-center wt-align-items-center" href="https://www.etsy.com/market/personalized_gift?ref=hp_gbs&amp;anchor_listing_id=1675978760">
+<div class="wt-p-xs-2">
+<p class="hp-text-title-xs-01 hp-text-title-md-02 wt-text-truncate--multi-line wt-text-center-xs">
+                        Personalized gift ideas
+                    </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div><div class="wt-block-grid__item">
+<div class="curated-content-card-container wt-justify-content-center wt-height-full">
+<div class="wt-grid__item-xs-12 wt-height-full">
+<div class="wt-card wt-card--contained wt-width-full wt-height-full">
+<div class="wt-height-full wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between wt-card__inner">
+<img alt="Wedding gifts" class="wt-flex-grow-xs-1" src="https://i.etsystatic.com/16234459/r/il/5c05d4/5357028618/il_340x270.5357028618_jf5u.jpg"/>
+<a class="wt-card__link wt-display-flex-xs wt-flex-xs-1 wt-justify-content-center wt-align-items-center" href="https://www.etsy.com/market/wedding_gift?ref=hp_gbs&amp;anchor_listing_id=1596509233">
+<div class="wt-p-xs-2">
+<p class="hp-text-title-xs-01 hp-text-title-md-02 wt-text-truncate--multi-line wt-text-center-xs">
+                        Wedding gifts
+                    </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div><div class="wt-block-grid__item wt-hide-lg">
+<div class="curated-content-card-container wt-justify-content-center wt-height-full">
+<div class="wt-grid__item-xs-12 wt-height-full">
+<div class="wt-card wt-card--contained wt-width-full wt-height-full">
+<div class="wt-height-full wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between wt-card__inner">
+<img alt="Housewarming gifts" class="wt-flex-grow-xs-1" src="https://i.etsystatic.com/20641892/r/il/383218/3834125867/il_340x270.3834125867_saxp.jpg"/>
+<a class="wt-card__link wt-display-flex-xs wt-flex-xs-1 wt-justify-content-center wt-align-items-center" href="https://www.etsy.com/market/housewarming_gift?ref=hp_gbs&amp;anchor_listing_id=1209519801">
+<div class="wt-p-xs-2">
+<p class="hp-text-title-xs-01 hp-text-title-md-02 wt-text-truncate--multi-line wt-text-center-xs">
+                        Housewarming gifts
+                    </p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="hp-spacing-default">
+</div><div></div><div data-appears-component-name="Homepage_Vesta_ApiSpec_WhatIsEtsy">
+<div class="wt-grid wt-body-max-width appears-ready">
+<div class="wt-grid__item-xs-12">
+<div class="wt-bg-beeswax-tint vesta-hp-full-width-banner wt-position-relative wt-pb-xs-6 wt-overflow-hidden" data-selector="what-is-etsy-container">
+<span aria-hidden="true" class="wt-edge wt-fill-white wt-edge--smaller wt-edge--ratio-none"><svg aria-hidden="true" focusable="false" height="48" preserveaspectratio="none" viewbox="0 0 1400 48" width="1400" xmlns="http://www.w3.org/2000/svg">
+<rect height="24" width="1400" x="0"></rect>
+</svg></span><span aria-hidden="true" class="wt-edge wt-fill-white wt-edge--smaller wt-edge--ratio-slice"><svg aria-hidden="true" focusable="false" height="48" preserveaspectratio="xMidYMid slice" viewbox="0 0 1400 48" width="1400" xmlns="http://www.w3.org/2000/svg">
+<rect height="24" width="1400" x="0"></rect>
+</svg></span>
+<div class="wt-text-center-xs wt-body-max-width wt-pb-xs-6 wt-pt-xs-6 wt-pl-xs-5 wt-pr-xs-5 wt-pl-md-10 wt-pr-md-10 wt-pl-lg-9 wt-pr-lg-9">
+<h2 class="wt-text-heading-large wt-mb-xs-1 wt-text-center-xs"> What is Etsy? </h2>
+<a class="wt-text-link" href="/about"> Read our wonderfully weird story </a>
+<div class="wt-display-flex-xs wt-flex-direction-column-xs wt-flex-direction-row-lg wt-pt-xs-6 wt-text-center-xs wt-text-left-lg wt-mb-lg-7 wt-mb-xs-1">
+<div class="wt-flex-xs-1 wt-mb-xs-5 wt-mb-lg-0">
+<div data-selector="what-is-etsy-community-impact-container" id="what-is-etsy-community-impact-container">
+<h3 class="wt-text-title-larger wt-mb-xs-3"> A community doing good </h3>
+<p class="wt-text-body-01 wt-display-inline">
+        Etsy is a global online marketplace, where people come together to make, sell, buy, and collect unique items. We’re also a community pushing for positive change for small businesses, people, and the planet.
+    </p>
+<div class="wt-popover wt-popover--top wt-display-inline" data-wt-popover="">
+<a aria-describedby="what-is-etsy-community-impact-popover" class="wt-popover__trigger wt-popover__trigger--underline wt-align-items-center" data-wt-popover-trigger="">
+<span class="wt-text-body-01">Here are some of the ways we’re making a positive impact, together.</span>
+</a>
+<div class="wt-text-left-xs" id="what-is-etsy-community-impact-popover" role="tooltip">
+<div data-appears-component-name="impact_message" data-appears-event-data='{"impact_name":"hp_whatisetsy_community","impact_themes":["general"],"impact_audiences":["buyers"]}'>
+<ul class="appears-ready"><li>Your purchases on Etsy in 2020 generated nearly $4 billion in income for small businesses.</li>
+<li>We advocate for policy—at the global and local level—that benefits creative entrepreneurs and helps small businesses grow and thrive.</li>
+<li>We are deepening our commitment to a sustainable future and are working towards a new goal to reach net zero emissions by 2030.</li>
+</ul>
+</div>
+<span class="wt-popover__arrow"></span></div>
+</div>
+</div>
+</div>
+<div class="wt-ml-lg-6 wt-mr-lg-6 wt-flex-xs-1 wt-mb-xs-5 wt-mb-lg-0">
+<h3 class="wt-text-title-larger wt-mb-xs-3"> Support independent creators </h3>
+<p class="wt-text-body-01"> There’s no Etsy warehouse – just millions of people selling the things they love. We make the
+            whole process easy, helping you connect directly with makers to find something extraordinary. </p>
+</div>
+<div class="wt-flex-xs-1 wt-mb-xs-5 wt-mb-lg-0">
+<h3 class="wt-text-title-larger wt-mb-xs-3"> Peace of mind </h3>
+<p class="wt-text-body-01"> Your privacy is the highest priority of our dedicated team. And if you ever need assistance,
+            we are always ready to step in for support. </p>
+</div>
+</div>
+<div class="wt-text-center-xs">
+<h4 class="wt-text-title-large"> Have a question? Well, we’ve got some answers. </h4>
+<a class="wt-mt-xs-2 button wt-btn wt-text-black wt-btn--outline" href="https://www.etsy.com/help?ref=hp_what_is_etsy_help_center">Go to Help Center</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="hp-spacing-none">
+</div><div class="google-one-tap-modal-div" id="google-one-tap-modal-div">
+</div><div class="hp-spacing-none">
+</div><div class="hp-spacing-none">
+</div><div aria-hidden="true" aria-labelledby="collection-modal-title" aria-modal="false" class="wt-overlay wt-display-none wt-position-fixed wt-position-bottom wt-overlay--has-close-icon collection-list-overlay" data-animations='{ "open": { "mask": "wt-animated wt-animated--appear-02", "content": "wt-animated wt-animated--appear-02" }, "close": { "mask": "wt-animated wt-animated--disappear-02", "content": "wt-animated wt-animated--disappear-02" } }' data-wt-overlay="" id="user-lists-overlay" role="dialog">
+<div class="wt-overlay__modal collection-list-overlay-view wt-display-flex-xs wt-pb-xs-0 wt-pb-md-4" data-overlay-modal="">
+<div class="wt-overflow-hidden favorites-modal-collection-list wt-width-full" data-collection-list="" data-max-characters="50">
+<button aria-label="Close" class="wt-btn wt-btn--icon wt-btn--tertiary wt-btn--light wt-overlay__close-icon" data-overlay-initial-focus="" data-wt-overlay-close="">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"></path></svg></span>
+</button>
+<div class="favorites-modal--collection-list-section wt-position-relative wt-flex-direction-column-xs wt-height-full wt-align-items-center" data-collection-list-section="">
+<div class="wt-overlay__header wt-display-flex-xs wt-align-items-center wt-justify-content-center">
+<img alt="An image of the listing you can save" class="wt-mr-xs-2 wt-mr-md-3 add-to-list-overlay--img" src="https://www.etsy.com/images/grey.gif"/>
+<h3 class="wt-text-heading" id="collection-modal-title">
+<span class="" data-collections-modal-title="">
+                    Add to collection
+                </span>
+<span class="wt-display-none" data-registry-modal-title="">
+                    Add to registry
+                </span>
+</h3>
+</div>
+<div class="collection-list-loading-container" data-spinner-container="">
+<div class="wt-spinner wt-spinner--02">
+<div>Loading</div>
+</div>
+</div>
+<div class="wt-display-none collection-list-loading-container" data-collection-list-fail-state="">
+<div class="wt-vertical-center wt-text-center-xs wt-text-gray">
+<p>Hmm, something went wrong.</p>
+<p>Try that again.</p>
+</div>
+</div>
+<fieldset class="wt-max-width-full wt-pr-xs-2 wt-overflow-scroll">
+<div class="wt-display-none wt-width-full wt-action-group wt-action-group--image wt-list-inline wt-mb-xs-0" data-collection-list-content="">
+<span class="wt-p-xs-0 wt-width-full wt-mb-xs-2">
+<input hidden="" id="create_new_list" type="checkbox"/>
+<label class="add-to-list-overlay-row wt-width-full wt-display-flex-xs wt-align-items-center" data-add-list-trigger="" role="button" tabindex="0">
+<div class="add-list--trigger add-to-list-overlay-row--icon wt-text-white wt-rounded-02 wt-overflow-hidden wt-display-flex-xs wt-justify-content-center wt-align-items-center">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20,11H13V4a1,1,0,0,0-2,0v7H4a1,1,0,0,0,0,2h7v7a1,1,0,0,0,2,0V13h7A1,1,0,0,0,20,11Z"></path></svg></span>
+</div>
+<p class="wt-pl-xs-2 wt-text-title-01">
+                            Create new collection
+                        </p>
+</label>
+</span>
+</div>
+</fieldset>
+<div class="wt-overlay__sticky-footer-container wt-bt-xs wt-width-full">
+<div class="wt-overlay__footer wt-justify-content-flex-end wt-pt-md-4">
+<div class="wt-overlay__footer__action">
+<button class="wt-btn wt-btn--primary wt-pr-md-7 wt-pl-md-7" data-wt-overlay-close="" type="button">Done</button>
+</div>
+</div>
+</div>
+</div>
+<div class="wt-display-none" data-add-collection-section="" data-listing-id="">
+<div data-collection-list-add="">
+<div class="wt-overlay__header">
+<h3 class="wt-text-heading wt-text-center-xs">
+            Create new collection
+        </h3>
+</div>
+<div class="wt-display-flex-xs wt-flex-direction-row-xs wt-align-items-baseline">
+<div class="wt-validation wt-width-full">
+<label class="wt-label" for="edit-list">Name</label>
+<input aria-invalid="false" autofocus="" class="wt-input" data-add-collection-input="" id="edit-list" placeholder="Gifts, Home, Wedding, etc." type="text"/>
+<div class="wt-display-flex-xs wt-justify-content-space-between">
+<div>
+<div class="wt-validation__message wt-validation__message--is-hidden wt-text-red" data-duplicated-name-alert="" data-error="duplicate_name">You've already used that name</div>
+<div class="wt-validation__message wt-validation__message--is-hidden wt-text-red" data-error="too_long" data-too-long-alert="">
+                        Collection name is too long
+                    </div>
+</div>
+<p class="wt-text-right-xs wt-text-gray wt-mt-md-1" data-character-count="">50</p>
+</div>
+</div>
+</div>
+<div class="wt-display-flex-sm wt-flex-direction-column-xs wt-flex-direction-row-md wt-justify-content-space-between wt-mt-xs-1">
+<div class="wt-mb-xs-5 wt-mb-md-0">
+<legend class="wt-text-title-01 wt-mt-xs-1">
+                    Set to private?
+                </legend>
+<p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
+                    Keep collections to yourself or inspire other shoppers! Keep in mind that anyone can view public collections—they may also appear in recommendations and other places.
+                    <a href="https://www.etsy.com/legal/privacy/" target="_blank">View Etsy’s Privacy Policy</a></p>
+</div>
+<div>
+<div class="wt-display-flex-md wt-flex-direction-column-xs wt-align-items-center" data-label-no="Public" data-label-yes="Private" data-selector="toggle-switch" id="collection-privacy-control">
+<div class="wt-switch__wrapper" data-wt-neu-rendered="" data-wt-props-label-text="Set to private?" data-wt-props-label-type="hidden" data-wt-props-small="true">
+<div class="wt-switch__frame">
+<input class="wt-switch wt-switch--small" id="wt-switch-66559d60499ed" type="checkbox"/>
+<label class="wt-switch__toggle" for="wt-switch-66559d60499ed">
+<span class="wt-screen-reader-only">
+                Set to private? 
+            </span>
+</label>
+</div>
+</div>
+<div class="wt-display-flex-xs wt-flex-direction-row-reverse-xs wt-align-items-center wt-justify-content-flex-end wt-nudge-t-2">
+<span class="wt-text-body" data-toggle-private-text="">
+                                Public
+                            </span>
+<span class="etsy-icon wt-icon--smaller-xs wt-mr-xs-1 wt-display-none" data-toggle-private-icon=""><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13 13v5h-2v-5h2Z"></path><path clip-rule="evenodd" d="M4 9.25A.25.25 0 0 1 4.25 9H7.5V6.5a4.5 4.5 0 0 1 9 0V9h3.25a.25.25 0 0 1 .25.25V18a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V9.25ZM9.5 6.5a2.5 2.5 0 0 1 5 0V9h-5V6.5ZM8 20a2 2 0 0 1-2-2v-7h12v7a2 2 0 0 1-2 2H8Z" fill-rule="evenodd"></path></svg></span>
+<span class="etsy-icon wt-icon--smaller-xs wt-mr-xs-1" data-toggle-public-icon=""><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 2a10 10 0 1010 10A10.012 10.012 0 0012 2zM9 18.883v.528a7.938 7.938 0 01-4.94-8.351l3.385 3.385a2.967 2.967 0 001.649 4.4L9 18.883zM17.5 15c.168 0 .335-.017.5-.05V15a.992.992 0 00.927.985A7.999 7.999 0 0112 20c-.216 0-.427-.016-.639-.032l1.254-2.5-.015.006a2.969 2.969 0 00-.08-3.11A2.988 2.988 0 008 13.78V11h1a1 1 0 001-1V9a1 1 0 001-1 1 1 0 100-2H6.726A7.9 7.9 0 0114 4.263V6a1 1 0 002 0v-.918a8.047 8.047 0 012 1.649V7h-1a1 1 0 100 2h2.411c.13.326.24.66.326 1H17a2.556 2.556 0 00-2 2.5 2.5 2.5 0 002.5 2.5z"></path>
+</svg></span>
+</div>
+</div>
+</div>
+</div>
+<div data-collection-list-add-footer="">
+<div class="wt-overlay__footer">
+<div class="wt-overlay__footer__cancel">
+<button class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right" data-overlay-back="" type="button">Cancel</button>
+</div>
+<div class="wt-overlay__footer__action">
+<button class="wt-btn wt-btn--primary" data-add-collection-button="" disabled="true" type="button">
+                    Create collection
+                </button>
+</div>
+</div>
+</div>
+</div>
+<div aria-hidden="true" aria-modal="false" class="wt-overlay wt-overlay--alert" data-wt-overlay="" id="make-public-list-modal" role="alertdialog">
+<div class="wt-overlay__modal" data-overlay-modal="">
+<div class="wt-overlay__header">
+<h2 class="wt-text-heading wt-text-center-xs">
+                Make your collection public?
+
+            </h2>
+</div>
+<div class="wt-display-flex-xs wt-justify-content-space-between">
+<div>
+<p>
+                    Public collections can be seen by the public, including other shoppers, and may show up in recommendations and other places.
+                </p>
+</div>
+</div>
+<div class="wt-overlay__footer">
+<div class="wt-overlay__footer__cancel">
+<button class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right" data-selector="cancel-make-public-button" type="button">Cancel</button>
+</div>
+<div class="wt-overlay__footer__action">
+<button class="wt-btn wt-btn--primary" data-selector="make-public-button" type="button">Make Public</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="hp-spacing-none">
+</div><div class="hp-spacing-none">
+</div>
+</div>
+</main>
+<div aria-hidden="true" class="site-footer chrome-footer chrome-footer--ehi" id="collage-footer">
+<footer>
+<div class="chrome-footer__etsy-finds">
+<div class="wt-text-center-xs wt-pl-xs-4 wt-pr-xs-4 wt-pt-xs-3 wt-pt-md-6">
+<form action="/email-subscriptions/form?from_page=https%3A%2F%2Fwww.etsy.com%2F" class="subscribe-form not-signed-in" data-finds-form="" method="POST">
+<input name="campaign_name" type="hidden" value=""/>
+<input name="campaign_slug" type="hidden" value="new_at_etsy"/>
+<input name="subscribe" type="hidden" value="true"/>
+<input name="ref" type="hidden" value=""/>
+<input class="wt-display-none" name="_nnc" type="hidden" value="3:1716886880:0gjxfraQIZVg50yekOC0_CGZL6jq:0068ca012d344071145e8d5b572391ee8e5a9fc3bbca938be66837e566348413"/>
+<div class="wt-mb-xs-3">
+<p class="wt-text-title-01 wt-mb-xs-2">Yes! Send me exclusive offers, unique gift ideas, and personalized tips for shopping and selling on Etsy.</p>
+</div>
+<div class="wt-max-width-sm wt-validation">
+<label class="wt-label wt-mt-xs-4 wt-screen-reader-only" for="email-list-signup-email-input">Enter your email</label>
+<div class="wt-input-btn-group" data-email-list-signup-form-elements="">
+<input class="wt-input-btn-group__input wt-text-body-01" data-email-list-signup-email-input="" id="email-list-signup-email-input" name="email_address" placeholder="Enter your email"/>
+<button class="wt-btn wt-input-btn-group__btn" data-email-list-signup-btn-input="" type="submit">
+                        Subscribe
+                        <div aria-live="assertive" class="wt-spinner wt-spinner--01 wt-display-none" role="alert">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" fill="transparent" r="10"></circle></svg></span>
+                           Loading
+                       </div>
+</button>
+</div>
+</div>
+<div class="g-recaptcha-etsy" data-badge="inline" data-etsy-autoload="false" data-recaptcha-action="public_email_subscribe" data-recaptcha-key-type="score" data-recaptcha-version="enterprise" data-sitekey="6Ldgkr0ZAAAAAGnf08YhMemepXW29Ux9rtJCcBD3" id="g-recaptcha-etsy-public_email_subscribe-score">
+</div>
+<div class="wt-alert wt-alert--inline wt-alert--error-01 wt-display-none js-recaptcha-load-error">
+<p class="wt-text-body-01">Captcha failed to load. Try using a different browser or disabling ad blockers.</p>
+</div>
+<input id="g-recaptcha-etsy-public_email_subscribe-score-input" name="enterprise_recaptcha_token" type="hidden" value=""/>
+<input id="g-recaptcha-etsy-public_email_subscribe-score-input-key-type" name="enterprise_recaptcha_token_key_type" type="hidden" value="score"/>
+<div class="wt-text-center wt-mt-xs-2 wt-validation wt-max-width-sm">
+<div aria-live="polite" class="wt-validation__message wt-validation__message--is-hidden wt-text-body-01" data-invalid-email="" data-submission-error-response="" id="email-list-signup-invalid-email" role="alert">
+                Please enter a valid email address.
+            </div>
+<div aria-live="polite" class="wt-alert wt-alert--inline wt-alert--status-01 wt-display-none wt-text-body-01" data-requires-signin="" data-submission-response="" role="alert">
+                Looks like you already have an account! Please <a data-campaign-slug="new_at_etsy" href="/signin?from_page=https%3A%2F%2Fwww.etsy.com%2F&amp;workflow=c3Vic2NyaWJlX3RvX2VtYWlsX2xpc3Q6bmV3X2F0X2V0c3k6MTcxNjg4NzQ4MDoxOWJhODRiOWU3YzFmNDkxZGNmODEyOTNiNTA4OGEzMQ==">Log in</a> to subscribe.
+            </div>
+<div aria-live="polite" class="wt-alert wt-alert--inline wt-alert--status-01 wt-display-none wt-text-body-01" data-requires-signup="" data-submission-response="" role="alert">
+                You've already signed up for some newsletters, but you haven't confirmed your address. <a class="" data-campaign-slug="new_at_etsy" href="/join?from_url=https%3A%2F%2Fwww.etsy.com%2F">Register</a> to confirm your address.
+            </div>
+<div aria-live="polite" class="wt-alert wt-alert--inline wt-alert--success-01 wt-display-none wt-text-body-01" data-submission-response="" data-success-no-email-signed-in="" data-success-no-email-signed-out="" data-success-signed-in="" role="alert">
+                You've been successfully signed up!
+            </div>
+<div aria-live="polite" class="wt-alert wt-alert--inline wt-alert--success-01 wt-display-none wt-text-body-01" data-submission-response="" data-success-signed-out="" role="alert">
+                Great! We've sent you an email to confirm your subscription.
+            </div>
+<div aria-live="polite" class="wt-validation__message wt-validation__message--is-hidden wt-text-body-01" data-generic-error="" data-submission-error-response="" id="email-list-signup-generic-error" role="alert">
+                There was a problem subscribing you to this newsletter.
+            </div>
+</div>
+</form>
+</div>
+</div>
+<div data-appears-component-name="impact_message" data-appears-event-data='{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]}'>
+<div class="footer-impact-callout wt-position-relative appears-ready">
+<div class="wt-bg-denim-light wt-text-white wt-text-center-xs wt-text-body-01 wt-pb-xs-4 wt-pt-xs-4">
+<div class="wt-popover wt-popover--top" data-wt-popover="">
+<button aria-describedby="footer-environmental-impact-popover-content" class="wt-popover__trigger wt-popover__trigger--underline wt-display-flex-md wt-align-items-center" data-wt-popover-trigger="">
+<div class="wt-flex-md-auto wt-mb-xs-1 wt-mb-md-0">
+<span class="wt-icon wt-icon--larger"><svg aria-hidden="true" focusable="false" viewbox="0 0 96 96" xmlns="http://www.w3.org/2000/svg">
+<path d="M60.1 38H49v11h-2V38H35.9c1.931 9.368 6.626 17 12.1 17 5.474 0 10.171-7.632 12.1-17zm-25.145-9.5c-.003 2.511.19 5.019.577 7.5H47V18.522l-10.925.238a41.683 41.683 0 00-1.12 9.74zM47 2.31c-4.1 1.24-8.18 7.168-10.38 14.437L47 16.52V2.31z"></path>
+<path d="M57.52 9.45l1.784-.9a31.775 31.775 0 012.558 7.65l9.117-.2.042 2-8.78.19c.55 3.41.818 6.857.8 10.31a50.836 50.836 0 01-.54 7.5H72v2h-9.846c-1.6 8.2-5.244 15.053-9.862 17.754C66.834 54.079 76 43.793 76 28.589c0-8.962-2.958-16.353-8.554-21.373A25.424 25.424 0 0049 1.04v15.438l10.83-.236a29.32 29.32 0 00-2.31-6.791zM43.51 55.643c-4.525-2.78-8.086-9.564-9.665-17.643H24v-2h9.5a50.84 50.84 0 01-.549-7.5 43.776 43.776 0 011.075-9.7l-9.009.2-.042-2 9.562-.208c1.89-6.667 5.317-12.436 9.432-15.143C29.71 4.412 20 15.13 20 28.589a27.636 27.636 0 0023.51 27.054z"></path>
+<path d="M61.045 28.5a60.27 60.27 0 00-.818-10.265L49 18.479v17.52h11.468c.388-2.48.58-4.988.577-7.5zM91.7 60c-2.182 4.525-5.734 8.62-10.832 13.719l-1.414-1.414c6.6-6.6 10.511-11.424 12.08-17.7.072-.415.137-.832.215-1.278.607-3.48.262-5.951-1.027-6.068-.72-.066-1.559.68-1.947 2.3a30.158 30.158 0 01-2.454 8.148c-1.78 4.663-8.575 11.048-8.865 11.318l-1.366-1.461c.068-.063 6.8-6.391 8.381-10.62l.061-.133a30.644 30.644 0 002.526-9.148c.11-1.886.095-6.433-1.793-6.552-2.085-.132-2.537 3.505-3.367 7.379-.259 1.21-.89 3.456-1.153 4.243a1.55 1.55 0 01-.09.177c-1.386 4.053-5.32 7.859-5.515 8.045-2.984 2.983-9.707 9.74-9.707 9.74L64.01 69.3s6.726-6.761 9.727-9.761a28.158 28.158 0 003.064-3.6c.5-.788 1.452-2.646.55-3.572-1.148-1.178-3.287-.648-6.08.748-1.98.992-11.21 7.08-15.384 13.34-1.99 2.985-2.772 8.839-3.042 14.2l13.18 2.724 6.8 1.359a8.92 8.92 0 011-.778c7.075-4.74 14.663-11.833 17.317-16.54 3.566-6.32 1.988-7.52.558-7.42zM52.774 82.673l-.77 10.252 1.993.15.595-7.913 10.616 2.123 3.765.778L70.02 93.2l1.96-.4-.885-4.338 2.592.518.392-1.96-8.447-1.69-12.858-2.657zm-29.242 2.055l6.77-1.354 13.206-2.73c-.27-5.36-1.052-11.214-3.042-14.2-4.173-6.258-13.4-12.347-15.384-13.34-2.793-1.4-4.932-1.925-6.08-.747-.9.926.054 2.784.55 3.572a28.158 28.158 0 003.064 3.6c3 3 9.727 9.76 9.727 9.76l-1.418 1.41s-6.723-6.757-9.707-9.74c-.2-.186-4.129-3.992-5.515-8.045a1.74 1.74 0 01-.09-.177c-.263-.787-.894-3.033-1.153-4.243-.83-3.874-1.282-7.511-3.367-7.38-1.888.12-1.9 4.667-1.793 6.553a30.645 30.645 0 002.526 9.148l.061.133c1.58 4.229 8.313 10.557 8.381 10.62L18.9 69.034c-.29-.27-7.084-6.655-8.865-11.318a30.16 30.16 0 01-2.454-8.148c-.388-1.622-1.226-2.37-1.947-2.3-1.287.114-1.634 2.586-1.025 6.065.078.446.143.863.215 1.278C6.394 60.883 10.3 65.7 16.9 72.307l-1.41 1.414c-5.1-5.1-8.65-9.194-10.832-13.72-1.434-.104-3.013 1.1.553 7.42 2.654 4.706 10.238 11.8 17.321 16.529a8.92 8.92 0 011 .778zm7.175.605l-8.433 1.687.393 1.96 2.591-.518-.885 4.338 1.96.4 1.047-5.137 3.75-.775 10.631-2.126.595 7.913 1.994-.15-.77-10.252-12.873 2.66z"></path>
+</svg></span>
+</div>
+<div class="wt-mr-xs-2 wt-ml-xs-2 wt-mr-sm-0 wt-ml-sm-0 wt-ml-md-2 wt-text-body-01 wt-flex-md-auto">
+                    Etsy is powered by 100% renewable electricity.
+                </div>
+</button>
+<div id="footer-environmental-impact-popover-content" role="tooltip">
+                Etsy’s 100% renewable electricity commitment includes the electricity used by the data centers that host Etsy.com, the Sell on Etsy app, and the Etsy app, as well as the electricity that powers Etsy’s global offices and employees working remotely from home in the US.
+            </div>
+</div>
+</div>
+</div>
+</div>
+<div class="chrome-footer__extra-links-app-container">
+<nav aria-label="Footer" class="chrome-footer__extra-links" data-footer-extra-links="">
+<div class="wt-body-max-width">
+<div class="wt-grid">
+<div class="chrome-footer__extra-links-group wt-grid__item-md-3">
+<h3 class="wt-hide-xs wt-show-md wt-text-title-01 wt-mb-xs-2 wt-text-left-xs wt-pr-xs-1">
+        Shop
+    </h3>
+<button aria-controls="footer-extra-links-shop" aria-expanded="false" class="wt-hide-md wt-content-toggle--btn wt-width-full wt-btn wt-btn--transparent wt-btn--light wt-content-toggle--with-icon wt-content-toggle--flush wt-text-white" data-wt-content-toggle="" type="button">
+<span class="wt-text-title-01 wt-text-left-xs wt-flex-xs-auto wt-width-full">
+            Shop
+        </span>
+<span class="wt-content-toggle--btn__icon"></span>
+</button>
+<div aria-hidden="false" class="wt-content-toggle__body" id="footer-extra-links-shop">
+<ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/giftcards?ref=ftr">
+<span>Gift cards</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/registry?ref=ftr" id="collage-footer__registry-link">
+<span>Etsy Registry</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/categories">
+<span>Sitemap</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="/blog/en/?ref=ftr">
+<span>Etsy blog</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/uk?locale_override=GBP%7Cen-GB%7CGB">
+<span>Etsy United Kingdom</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/de?locale_override=EUR%7Cde%7CDE">
+<span>Etsy Germany</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/ca?locale_override=CAD%7Cen-US%7CCA">
+<span>Etsy Canada</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="chrome-footer__extra-links-group wt-grid__item-md-3">
+<h3 class="wt-hide-xs wt-show-md wt-text-title-01 wt-mb-xs-2 wt-text-left-xs wt-pr-xs-1">
+        Sell
+    </h3>
+<button aria-controls="footer-extra-links-sell" aria-expanded="false" class="wt-hide-md wt-content-toggle--btn wt-width-full wt-btn wt-btn--transparent wt-btn--light wt-content-toggle--with-icon wt-content-toggle--flush wt-text-white" data-wt-content-toggle="" type="button">
+<span class="wt-text-title-01 wt-text-left-xs wt-flex-xs-auto wt-width-full">
+            Sell
+        </span>
+<span class="wt-content-toggle--btn__icon"></span>
+</button>
+<div aria-hidden="false" class="wt-content-toggle__body" id="footer-extra-links-sell">
+<ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/sell?ref=ftr">
+<span>Sell on Etsy</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/sso-community?return_to=https%3A%2F%2Fcommunity.etsy.com%2Ft5%2FEtsy-Teams%2Fct-p%2Fteams" id="collage-footer__community-teams-link" rel="nofollow">
+<span>Teams</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/sso-community?return_to=https%3A%2F%2Fcommunity.etsy.com%2Ft5%2FEtsy-Forums%2Fct-p%2Fforums" id="collage-footer__community-forums-link" rel="nofollow">
+<span>Forums</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/affiliates?ref=ftr" rel="nofollow">
+<span>Affiliates &amp; Creators</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="chrome-footer__extra-links-group wt-grid__item-md-3">
+<h3 class="wt-hide-xs wt-show-md wt-text-title-01 wt-mb-xs-2 wt-text-left-xs wt-pr-xs-1">
+        About
+    </h3>
+<button aria-controls="footer-extra-links-about" aria-expanded="false" class="wt-hide-md wt-content-toggle--btn wt-width-full wt-btn wt-btn--transparent wt-btn--light wt-content-toggle--with-icon wt-content-toggle--flush wt-text-white" data-wt-content-toggle="" type="button">
+<span class="wt-text-title-01 wt-text-left-xs wt-flex-xs-auto wt-width-full">
+            About
+        </span>
+<span class="wt-content-toggle--btn__icon"></span>
+</button>
+<div aria-hidden="false" class="wt-content-toggle__body" id="footer-extra-links-about">
+<ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/about?ref=ftr">
+<span>Etsy, Inc.</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/legal?ref=ftr">
+<span>Policies</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://investors.etsy.com">
+<span>Investors</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/careers?ref=ftr">
+<span>Careers</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/press?ref=ftr">
+<span>Press</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/impact?ref=ftr">
+<span>Impact</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/help/article/25840304230?ref=ftr">
+<span>Legal imprint</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="chrome-footer__extra-links-group wt-grid__item-md-3">
+<h3 class="wt-hide-xs wt-show-md wt-text-title-01 wt-mb-xs-2 wt-text-left-xs wt-pr-xs-1">
+        Help
+    </h3>
+<button aria-controls="footer-extra-links-help" aria-expanded="false" class="wt-hide-md wt-content-toggle--btn wt-width-full wt-btn wt-btn--transparent wt-btn--light wt-content-toggle--with-icon wt-content-toggle--flush wt-text-white" data-keep-open="" data-wt-content-toggle="" type="button">
+<span class="wt-text-title-01 wt-text-left-xs wt-flex-xs-auto wt-width-full">
+            Help
+        </span>
+<span class="wt-content-toggle--btn__icon"></span>
+</button>
+<div aria-hidden="false" class="wt-content-toggle__body" data-keep-open="" id="footer-extra-links-help">
+<ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" href="https://www.etsy.com/help?ref=ftr">
+<span>Help Center</span>
+</a>
+</li>
+<li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full">
+<a class="appshell-responsive-footer-link wt-text-white wt-text-link-no-underline" data-gdpr-privacy-settings-trigger="" href="#">
+<span>Privacy settings</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="wt-width-full">
+<div class="wt-text-center-xs wt-text-left-md wt-mt-xs-2">
+<ul class="wt-list-inline wt-mt-xs-3 wt-mb-sm-0 wt-pl-xs-0 wt-pr-xs-0 wt-pl-sm-0 wt-pr-sm-0">
+<li class="wt-list-inline__item">
+<a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="/social-tracking?network=instagram" rel="nofollow" target="_blank">
+<span class="etsy-icon wt-icon--larger-xs wt-icon--base-md"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12,5.447c2.136,0,2.389,0.008,3.233,0.047c0.78,0.036,1.204,0.166,1.485,0.275c0.373,0.145,0.64,0.318,0.92,0.598 c0.28,0.28,0.453,0.546,0.598,0.92c0.11,0.282,0.24,0.706,0.275,1.485c0.038,0.844,0.047,1.097,0.047,3.233 s-0.008,2.389-0.047,3.233c-0.036,0.78-0.166,1.204-0.275,1.485c-0.145,0.373-0.318,0.64-0.598,0.92 c-0.28,0.28-0.546,0.453-0.92,0.598c-0.282,0.11-0.706,0.24-1.485,0.275c-0.843,0.038-1.096,0.047-3.233,0.047 s-2.389-0.008-3.233-0.047c-0.78-0.036-1.204-0.166-1.485-0.275c-0.373-0.145-0.64-0.318-0.92-0.598 c-0.28-0.28-0.453-0.546-0.598-0.92c-0.11-0.282-0.24-0.706-0.275-1.485c-0.038-0.844-0.047-1.097-0.047-3.233 S5.45,9.616,5.488,8.773c0.036-0.78,0.166-1.204,0.275-1.485c0.145-0.373,0.318-0.64,0.598-0.92c0.28-0.28,0.546-0.453,0.92-0.598 c0.282-0.11,0.706-0.24,1.485-0.275C9.611,5.455,9.864,5.447,12,5.447 M12,4.005c-2.173,0-2.445,0.009-3.298,0.048 C7.85,4.092,7.269,4.227,6.76,4.425C6.234,4.63,5.787,4.903,5.343,5.348C4.898,5.793,4.624,6.239,4.42,6.765 c-0.198,0.509-0.333,1.09-0.372,1.942C4.009,9.56,4,9.833,4,12.005c0,2.173,0.009,2.445,0.048,3.298 c0.039,0.852,0.174,1.433,0.372,1.942c0.204,0.526,0.478,0.972,0.923,1.417c0.445,0.445,0.891,0.718,1.417,0.923 c0.509,0.198,1.09,0.333,1.942,0.372c0.853,0.039,1.126,0.048,3.298,0.048s2.445-0.009,3.298-0.048 c0.852-0.039,1.433-0.174,1.942-0.372c0.526-0.204,0.972-0.478,1.417-0.923c0.445-0.445,0.718-0.891,0.923-1.417 c0.198-0.509,0.333-1.09,0.372-1.942C19.991,14.45,20,14.178,20,12.005s-0.009-2.445-0.048-3.298 c-0.039-0.852-0.174-1.433-0.372-1.942c-0.204-0.526-0.478-0.972-0.923-1.417c-0.445-0.445-0.891-0.718-1.417-0.923 c-0.509-0.198-1.09-0.333-1.942-0.372C14.445,4.014,14.173,4.005,12,4.005L12,4.005z"></path><path d="M12,7.897c-2.269,0-4.108,1.839-4.108,4.108S9.731,16.113,12,16.113s4.108-1.839,4.108-4.108S14.269,7.897,12,7.897z  M12,14.672c-1.473,0-2.667-1.194-2.667-2.667S10.527,9.339,12,9.339s2.667,1.194,2.667,2.667S13.473,14.672,12,14.672z"></path><circle cx="16.27" cy="7.735" r="0.96"></circle></svg></span>
+<span class="wt-screen-reader-only">Instagram</span>
+</a>
+</li>
+<li class="wt-list-inline__item">
+<a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="/social-tracking?network=facebook" rel="nofollow" target="_blank">
+<span class="etsy-icon wt-icon--larger-xs wt-icon--base-md"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20,5V19a1.007,1.007,0,0,1-1,1H15V13.776h2l0.336-2.3H15V9.659a0.912,0.912,0,0,1,1-1.031h1.5V6.55a11.284,11.284,0,0,0-1.641-.109c-2.2,0-3.3,1.219-3.3,3.039v1.992h-2v2.3h2V20H5a1.007,1.007,0,0,1-1-1V5A1.007,1.007,0,0,1,5,4H19A1.007,1.007,0,0,1,20,5Z"></path></svg></span>
+<span class="wt-screen-reader-only">Facebook</span>
+</a>
+</li>
+<li class="wt-list-inline__item">
+<a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="/social-tracking?network=pinterest" rel="nofollow" target="_blank">
+<span class="etsy-icon wt-icon--larger-xs wt-icon--base-md"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 3c-4.97 0-9 4.03-9 9 0 3.813 2.372 7.072 5.72 8.384-.08-.712-.15-1.807.03-2.585.164-.703 1.056-4.475 1.056-4.475s-.27-.54-.27-1.336c0-1.252.726-2.187 1.63-2.187.768 0 1.14.577 1.14 1.268 0 .773-.493 1.928-.746 2.998-.212.896.45 1.626 1.333 1.626 1.6 0 2.83-1.687 2.83-4.12 0-2.156-1.55-3.663-3.76-3.663-2.56 0-4.064 1.922-4.064 3.907 0 .773.297 1.603.67 2.054.073.09.083.168.06.26-.067.283-.22.895-.25 1.02-.038.165-.13.2-.3.12-1.124-.523-1.827-2.167-1.827-3.487 0-2.84 2.063-5.446 5.947-5.446 3.122 0 5.548 2.225 5.548 5.198 0 3.102-1.956 5.598-4.67 5.598-.912 0-1.77-.474-2.063-1.033l-.56 2.14c-.204.78-.753 1.76-1.12 2.358.842.26 1.737.402 2.665.402 4.97 0 9-4.03 9-9s-4.03-9-9-9"></path></svg></span>
+<span class="wt-screen-reader-only">Pinterest</span>
+</a>
+</li>
+<li class="wt-list-inline__item">
+<a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="/social-tracking?network=twitter" rel="nofollow" target="_blank">
+<span class="etsy-icon wt-icon--larger-xs wt-icon--base-md"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M18.3,8.559V9.007a9.666,9.666,0,0,1-9.729,9.737,9.614,9.614,0,0,1-5.256-1.394,5.367,5.367,0,0,0,.814.057,6.906,6.906,0,0,0,4.245-1.621,3.412,3.412,0,0,1-3.186-2.379,3.339,3.339,0,0,0,1.548-.058A3.419,3.419,0,0,1,3.988,9.993V9.952a3.427,3.427,0,0,0,1.548.424A3.407,3.407,0,0,1,4,7.54a3.261,3.261,0,0,1,.465-1.662A9.729,9.729,0,0,0,11.517,9.39a3.588,3.588,0,0,1-.073-0.79,3.408,3.408,0,0,1,3.414-3.414,3.542,3.542,0,0,1,2.518,1.075,6.837,6.837,0,0,0,2.159-.831,3.391,3.391,0,0,1-1.507,1.9A6.657,6.657,0,0,0,20,6.782,6.927,6.927,0,0,1,18.3,8.559Z"></path></svg></span>
+<span class="wt-screen-reader-only">Twitter</span>
+</a>
+</li>
+<li class="wt-list-inline__item">
+<a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1" href="/social-tracking?network=youtube" rel="nofollow" target="_blank">
+<span class="etsy-icon wt-icon--larger-xs wt-icon--base-md"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20,12c0,5.664,0,5.664-8,5.664s-8,0-8-5.664,0-5.664,8-5.664S20,6.333,20,12Zm-5,0L10,9v6Z"></path></svg></span>
+<span class="wt-screen-reader-only">Youtube</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<div class="chrome-footer__app-link" data-footer-app-link="">
+<a aria-label="Download the Etsy App" class="chrome-footer__app-link__logo" href="https://etsy.app.link/d7nDUdp49V">
+<span class="wt-icon wt-icon--largest"><svg aria-hidden="true" focusable="false" viewbox="0 0 48 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.5 3.1v6s2.1 0 3.2-.1c.6.1 1.1-.3 1.2-.9.1-.1.1-.1.1-.2l.3-1.3h1l-.2 2.8.1 2.9h-1l-.2-1.1c-.1-.6-.6-1.1-1.2-1.1C9 10 6.5 10 6.5 10v5c0 1 .5 1.4 1.6 1.4h3.4c1.2.2 2.4-.5 2.8-1.6l.9-2h.8c-.1.4-.5 4-.6 4.8 0 0-3.1-.1-4.4-.1H5.2l-3.5.1v-.9l1.1-.2c.9-.1 1.2-.3 1.2-1 0 0 .1-2.2.1-5.9S4 3.9 4 3.9c0-.8-.3-.9-1.1-1.1l-1.1-.2v-.9l3.4.1h6.5c1.3 0 3.5-.2 3.5-.2s-.1 1.3-.2 4.5h-.9L13.8 5c-.3-1.5-.8-2.2-1.7-2.2H7c-.5 0-.5.1-.5.3zm13.2.7h1v3.4L24 7l-.2 1.5-3.2-.2v6c0 1.7.6 2.4 1.5 2.4.7 0 1.4-.3 1.8-.9l.5.6c-.6 1.1-1.9 1.8-3.2 1.7-1.5.1-2.8-1-2.9-2.5V8.4h-1.9v-.8c1.6-.2 2.8-1.2 3.3-3.8zm7 10.4l.6 1.5c.3.9 1.2 1.4 2.1 1.3 1.4 0 2-.7 2-1.6 0-2.8-5.4-2-5.4-5.7 0-2.1 1.7-3.1 3.9-3.1 1.1 0 2.1.2 3.2.5-.2.9-.2 1.8-.2 2.7l-.9.1-.6-1.6c-.4-.5-1-.8-1.6-.7-1 0-2 .4-2 1.5 0 2.5 5.6 2 5.6 5.7 0 2.1-1.9 3.2-4.1 3.2-1.2 0-2.3-.3-3.4-.7.1-1 .1-2.1 0-3.1h.8zM33 22c.2-1 .4-2 .6-3.1l.9-.1.3 1.7c.1.5.5.8 1 .7 1.1 0 2.4-.6 3.7-2.9-.6-1.4-2.3-5.8-3.8-9.3-.4-.9-.5-1-1-1.1l-.4-.2V7l2.4.1 3-.2v.8l-.7.2c-.4 0-.8.3-.8.7 0 .1 0 .2.1.3.2.5 1.5 4.1 2.4 6.6.8-1.7 2.4-5.5 2.6-6.2.1-.2.1-.4.2-.6 0-.4-.4-.8-.8-.8l-.7-.1v-.9l2.3.1 2.1-.1v.8l-.4.4c-.6.1-1 .5-1.2 1.1l-3.6 8.4c-2.1 4.8-4.3 5.2-5.9 5.2-.8-.1-1.6-.3-2.3-.8z"></path>
+</svg></span>
+</a>
+<div>
+<a class="wt-btn wt-btn--base-lg wt-btn--small-xs chrome-footer__app-link__button" href="https://etsy.app.link/d7nDUdp49V" tabindex="-1">Download the Etsy App</a>
+</div>
+</div>
+</div>
+<div class="chrome-footer__final-container">
+<div class="chrome-footer__final">
+<div class="chrome-footer__final-col">
+<a aria-label="Update your settings Portugal English (US) € (EUR)" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right wt-btn--light wt-btn--small" data-aria-controls="wt-locale-picker-overlay" href="https://www.etsy.com/your/account/locale_preferences?from_page=https%3A%2F%2Fwww.etsy.com%2F" id="locale-picker-trigger">
+<span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle"> <span class="inline-svg locale-icon-svg wt-display-block wt-position-relative"><svg aria-hidden="true" focusable="false" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>PORTUGAL</title><defs><path d="M1 11c0 5.523 4.476 10 10 10s10-4.477 10-10c0-5.522-4.476-10-10-10S1 5.478 1 11z" id="a"></path><path d="M1 11c0 5.523 4.476 10 10 10s10-4.477 10-10c0-5.522-4.476-10-10-10S1 5.478 1 11z" id="d"></path><filter filterunits="objectBoundingBox" height="105%" id="c" width="105%" x="-2.5%" y="-2.5%"><fegaussianblur in="SourceAlpha" result="shadowBlurInner1" stddeviation=".5"></fegaussianblur><feoffset in="shadowBlurInner1" result="shadowOffsetInner1"></feoffset><fecomposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"></fecomposite><fecolormatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"></fecolormatrix></filter></defs><g fill="none" fill-rule="evenodd" transform="translate(-1 -1)"><mask fill="#fff" id="b"><use xlink:href="#a"></use></mask><path d="M1 21h10V1H1" fill="#3D7700" mask="url(#b)"></path><path d="M9 21h16V1H9" fill="#B73C24" mask="url(#b)"></path><path d="M12.052 11.052c0 1.657-1.343 3-3 3s-3-1.343-3-3 1.343-3 3-3 3 1.343 3 3" fill="#FFCF5C" mask="url(#b)" transform="rotate(-1 9.052 11.052)"></path><use fill="#000" filter="url(#c)" xlink:href="#d"></use></g></svg></span>
+</span>
+<span class="wt-display-inline-block wt-vertical-align-middle">  Portugal   |   English (US)   |   € (EUR)</span>
+</a>
+</div>
+<div class="chrome-footer__final-col">
+<span class="chrome-footer__copyright">
+                            © 2024 Etsy, Inc.
+                        </span>
+<ul class="chrome-footer__final-links wt-list-inline">
+<li class="wt-list-inline__item">
+<a class="chrome-footer__final-link" href="/legal/terms-of-use?ref=ftr">
+                                    Terms of Use
+                                </a>
+</li>
+<li class="wt-list-inline__item">
+<a class="chrome-footer__final-link" href="/legal/privacy/?ref=ftr">
+                                    Privacy
+                                </a>
+</li>
+<li class="wt-list-inline__item">
+<a class="chrome-footer__final-link" href="/help/article/3293/?ref=ftr">
+                                        Cookies
+                                    </a>
+</li>
+<li class="wt-list-inline__item">
+<a class="chrome-footer__final-link" href="/legal/policy/cookies-tracking-technologies/44797645975?ref=ftr#marketing-services">
+                                    Interest-based ads
+                                </a>
+</li>
+<li class="wt-list-inline__item">
+<a class="chrome-footer__final-link" href="/search/shops">
+                                    Local Shops
+                                </a>
+</li>
+<li class="wt-list-inline__item">
+<button aria-controls="country-picker" class="wt-text-link chrome-footer__final-link" style-type="primary">
+                                    Regions
+                                </button>
+<div aria-hidden="true" aria-label="Regions Etsy does business in" aria-modal="false" class="wt-overlay wt-overlay--large wt-overlay--has-close-icon" data-wt-overlay="" id="country-picker" role="dialog">
+<div class="wt-overlay__modal" data-overlay-modal="">
+<button aria-label="Close" class="wt-btn wt-btn--transparent wt-btn--icon wt-overlay__close-icon wt-btn--light" data-wt-overlay-close="" type="button">
+<span class="wt-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"></path></svg></span>
+</button>
+<div class="wt-overlay__header">
+<p class="wt-text-heading">Regions Etsy does business in:</p>
+</div>
+<div class="wt-display-flex-md wt-pt-xs-1 wt-pt-md-1 wt-text-body-01">
+<div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+</div>
+</div>
+<div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+</div>
+</div>
+<div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
+<a href="https://www.etsy.com/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+</div>
+</div>
+<div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
+<a href="https://www.etsy.com/es?locale_override=EUR%7Ces%7CES">Spain</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
+<a href="https://www.etsy.com/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
+<a href="https://www.etsy.com/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
+<a href="https://www.etsy.com/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
+<a href="https://www.etsy.com/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
+</div>
+<div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
+<a href="https://www.etsy.com/?locale_override=USD%7Cen-US%7CUS">United States</a>
+</div>
+</div>
+</div>
+<div class="wt-overlay__footer wt-justify-content-flex-end wt-pt-xs-2 wt-pt-sm-2 wt-pb-sm-0 wt-pt-md-2 wt-height-full">
+<div class="wt-overlay__footer__action">
+<button class="wt-btn wt-btn--filled wt-pt-xs-0 wt-pb-xs-0 wt-mb-xs-0" data-wt-overlay-close="true">
+                Got it
+
+</button>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div data-gdpr-consent-prompt="">
+<div class="wt-animated wt-panel wt-shadow-elevation-4 wt-p-xs-2 wt-p-lg-3 wt-display-flex-xs wt-flex-direction-column-xs wt-bg-white wt-position-fixed wt-position-bottom wt-position-left wt-position-right wt-body-max-width wt-ml-xs-2 wt-mr-xs-2 wt-ml-md-9 wt-mr-md-9 wt-ml-tv-auto wt-mr-tv-auto wt-rounded-03 wt-overflow-hidden wt-animated--is-hidden" data-gdpr-scrollable-overlay="">
+<div class="wt-mb-xs-2">
+<h1 class="wt-text-title">
+         Your Etsy Privacy Settings
+      </h1>
+</div>
+<div class="wt-mb-xs-2">
+<p class="wt-text-body">
+      In order to give you the best experience, we use cookies and similar technologies for performance, analytics, personalization, advertising, and to help our site function. Want to know more? <a href="/legal/cookies-and-tracking-technologies" rel="nofollow" target="_blank">Read our Cookie Policy.</a> You can change your preferences any time in your <a data-gdpr-open-full-settings-link="" href="#">Privacy Settings.</a></p>
+</div>
+<div class="wt-overlay__footer wt-pt-xs-3">
+<div class="wt-overlay__footer__action wt-display-flex-md wt-flex-grow-md-1 wt-order-xs-1 wt-order-md-neg1 wt-justify-content-flex-end">
+<button class="wt-btn wt-btn--secondary wt-mr-md-2 wt-mb-xs-2 wt-mb-md-0" data-gdpr-open-full-settings="true">
+                Update settings
+
+</button>
+</div>
+<button class="wt-btn wt-btn--secondary wt-mb-xs-0" data-gdpr-scrollable-accept="true">
+             Accept
+
+</button>
+</div>
+</div>
+<div aria-hidden="false" aria-label="Your Etsy Privacy Settings" aria-modal="true" class="wt-overlay" data-gdpr-single-choice-overlay-redux="" data-wt-overlay="" id="gdpr-single-choice-overlay" role="alertdialog" style="z-index: 1001;">
+<div class="wt-overlay__modal wt-mb-xs-6" data-overlay-modal="">
+<div class="nova-widget-content-redux">
+<h1>Your Etsy Privacy Settings</h1>
+<p>In order to give you the best experience, we use cookies and similar technologies for performance, analytics, personalization, advertising, and to help our site function. Want to know more? Read our <a href="/legal/cookies-and-tracking-technologies">Cookie Policy</a>. You can change your preferences any time in your Privacy Settings.</p>
+</div>
+<div class="wt-overlay__footer wt-pt-xs-3">
+<div class="wt-overlay__footer__action wt-display-flex-md wt-flex-grow-md-1 wt-order-xs-1 wt-order-md-neg1 wt-justify-content-flex-end">
+<button class="wt-btn wt-btn--transparent" data-gdpr-open-full-settings="" type="button">
+                    Update settings
+                </button>
+</div>
+<div class="wt-overlay__footer__action">
+<button class="wt-btn wt-btn--filled wt-mb-xs-0" data-gdpr-single-choice-accept="true">
+                    Accept
+
+</button>
+</div> </div>
+</div>
+</div>
+
+</div>
+<div id="wt-portals"><div id="wt-portal-blue" style="z-index: 80; position: relative;"></div><div id="wt-portal-green" style="z-index: 80; position: relative;"><div id="wt-modal-container"><div aria-hidden="true" aria-labelledby="gdpr-full-settings-overlay-title" class="wt-overlay wt-text-left-xs" data-gdpr-settings-overlay="" data-wt-overlay="" id="gdpr-privacy-settings" role="dialog" style="z-index: 1001;">
+<div class="wt-overlay__modal gdpr-overlay-view" data-overlay-modal="">
+<div class="wt-overlay__header gdpr-overlay-header">
+<h3 class="wt-text-heading" id="gdpr-full-settings-overlay-title">Privacy Settings</h3>
+</div>
+<div class="gdpr-overlay-body wt-pb-xl-2 wt-pb-lg-2 wt-pb-md-2 wt-pb-sm-2 wt-pb-xs-2">
+<div>
+<div data-section="intro">
+<p class="wt-text-caption wt-mb-xs-1">Etsy uses cookies and similar technologies to give you a better experience, enabling things like:</p>
+<ul class="wt-text-caption wt-ml-xs-2 wt-mb-xs-2"><li>basic site functions</li>
+<li>ensuring secure, safe transactions</li>
+<li>secure account login</li>
+<li>remembering account, browser, and regional preferences</li>
+<li>remembering privacy and security settings</li>
+<li>analysing site traffic and usage</li>
+<li>personalized search, content, and recommendations</li>
+<li>helping sellers understand their audience</li>
+<li>showing relevant, targeted ads on and off Etsy</li>
+</ul><p class="wt-text-caption wt-line-height-tight wt-text-link">Detailed information can be found in Etsy’s <a class="wt-text-link" href="https://www.etsy.com/legal/cookies-and-tracking-technologies">Cookies &amp; Similar Technologies Policy</a> and our <a class="wt-text-link" href="https://www.etsy.com/legal/privacy">Privacy Policy</a>.</p>
+</div>
+<div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs" data-section="cookies">
+<div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
+<h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Required Cookies &amp; Technologies</h2>
+<p class="wt-text-caption wt-mb-xs-2">Some of the technologies we use are necessary for critical functions like security and site integrity, account authentication, security and privacy preferences, internal site usage and maintenance data, and to make the site work correctly for browsing and transactions.</p>
+</div>
+<div class="wt-position-right">
+<div class="wt-text-caption">Always on</div>
+</div>
+</div>
+<div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs" data-section="personalization_consent">
+<div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
+<h2 class="wt-text-title-01 wt-mb-xs-4">Site Customization</h2>
+<p class="wt-text-caption wt-max-width-sm">Cookies and similar technologies are used to improve your experience, to do things like:</p>
+<ul class="wt-text-caption wt-ml-xs-2 wt-mb-xs-2 wt-mt-xs-2 wt-max-width-sm"><li>remember your login, general, and regional preferences</li>
+<li>personalize content, search, recommendations, and offers</li>
+</ul><p class="wt-text-caption wt-line-height-tight wt-text-link">Without these technologies, things like personalized recommendations, your account preferences, or localisation may not work correctly. Find out more in our <a class="wt-text-link" href="https://www.etsy.com/legal/cookies-and-tracking-technologies">Cookies &amp; Similar Technologies Policy.</a></p>
+</div>
+<div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
+<div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-nudge-b-4">
+<label aria-hidden="true" class="wt-text-caption wt-pt-xl-1 wt-pr-xl-2 wt-pt-lg-1 wt-pr-lg-2 wt-pt-md-1 wt-pr-md-2 wt-pt-sm-1 wt-pr-sm-2 wt-pt-xs-1 wt-pr-xs-2 wt-nudge-t-3" data-gdpr-toggle-label="" for="personalization_consent">
+                        On
+                </label>
+<input checked="" class="wt-switch wt-switch--small" data-checked-label="On" data-gdpr-toggle="" data-unchecked-label="Off" id="personalization_consent" name="personalization_consent" type="checkbox"/>
+<label aria-hidden="true" class="wt-switch__toggle" for="personalization_consent"></label>
+</div>
+</div>
+</div>
+<div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs" data-section="third_party_consent">
+<div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
+<h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Personalized Advertising</h2>
+<p class="wt-text-caption wt-mb-xs-2">To enable personalized advertising (like interest-based ads), we may share your data with our marketing and advertising partners using cookies and other technologies. Those partners may have their own information they’ve collected about you. Turning off the personalized advertising setting won’t stop you from seeing Etsy ads, but it may make the ads you see less relevant or more repetitive.</p>
+<p class="wt-text-caption wt-mb-xs-2"> Personalized advertising may be considered a “sale” or “sharing” of information under California and other state privacy laws, and you may have a right to opt out. Turning off personalized advertising allows you to exercise your right to opt out. Learn more in our <a class="wt-text-link" href="https://www.etsy.com/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://help.etsy.com/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, and <a class="wt-text-link" href="https://www.etsy.com/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
+</div>
+<div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
+<div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-nudge-b-4">
+<label aria-hidden="true" class="wt-text-caption wt-pt-xl-1 wt-pr-xl-2 wt-pt-lg-1 wt-pr-lg-2 wt-pt-md-1 wt-pr-md-2 wt-pt-sm-1 wt-pr-sm-2 wt-pt-xs-1 wt-pr-xs-2 wt-nudge-t-3" data-gdpr-toggle-label="" for="third_party_consent">
+                        On
+                </label>
+<input checked="" class="wt-switch wt-switch--small" data-checked-label="On" data-gdpr-toggle="" data-unchecked-label="Off" id="third_party_consent" name="third_party_consent" type="checkbox"/>
+<label aria-hidden="true" class="wt-switch__toggle" for="third_party_consent"></label>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wt-overlay__footer wt-align-items-center">
+<div class="wt-overlay__footer__cancel">
+</div>
+<div class="wt-overlay__footer__action">
+<div class="wt-display-flex-xl wt-flex-direction-row-xl wt-display-flex-lg wt-flex-direction-row-lg wt-display-flex-md wt-flex-direction-row-md wt-display-flex-sm wt-flex-direction-column-sm wt-display-flex-xs wt-flex-direction-column-xs">
+<div class="wt-pr-xl-7 wt-pt-xl-2 wt-pr-lg-7 wt-pt-lg-2 wt-pr-md-7 wt-pt-md-2 wt-pb-sm-4 wt-pb-xs-2 wt-horizontal-center wt-display-none" data-saving-indicator="">
+<div class="wt-spinner wt-spinner--01 wt-display-inline-block wt-vertical-align-middle">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" fill="transparent" r="10"></circle></svg></span>
+</div>
+</div>
+<div class="wt-pr-xl-7 wt-pr-lg-7 wt-pr-lg-2 wt-pr-md-7 wt-pr-md-2 wt-pb-sm-4 wt-pb-xs-2 wt-horizontal-center wt-display-none" data-saved-indicator="">
+<span class="etsy-icon wt-icon--smaller-xs wt-mt-xs-1"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.057,20.471L2.293,13.707a1,1,0,0,1,1.414-1.414l5.236,5.236,11.3-13.18a1,1,0,1,1,1.518,1.3Z"></path></svg></span>
+<span class="wt-display-inline-block wt-vertical-align-middle wt-text-body-01 wt-pl-xs-1 wt-mt-xs-2">Saved</span>
+</div>
+<div>
+<button class="wt-btn wt-btn--primary wt-pl-xs-8 wt-pr-xs-8 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-3 wt-pr-md-3 wt-pl-lg-3 wt-pr-lg-3 wt-pl-xl-3 wt-pr-xl-3 wt-pl-tv-3 wt-pr-tv-3" data-wt-overlay-close="">
+<p class="wt-pl-xs-10 wt-pr-xs-10 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-0 wt-pr-md-0 wt-pl-lg-0 wt-pr-lg-0 wt-pl-xl-0 wt-pr-xl-0 wt-pl-tv-0 wt-pr-tv-0">Done</p>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div aria-hidden="true" aria-labelledby="wt-locale-picker-overlay-title" class="v2-locale-picker-overlay wt-overlay" data-overlay-transition="1" data-toolkit-overlay="" data-wt-overlay="" id="wt-locale-picker-overlay" role="dialog">
+<div class="wt-overlay__modal wt-text-left-xs" data-overlay-modal="">
+<div class="wt-overlay__header">
+<h2 class="wt-text-title-large" id="wt-locale-picker-overlay-title">Update your settings</h2>
+</div>
+<form action="" method="post" onsubmit="return false">
+<input name="region_code" type="hidden" value=""/>
+<p class="wt-mb-xs-3 wt-text-body-01">
+                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://www.etsy.com/help/article/493" target="_blank">Learn more.</a>
+</p>
+<div id="locale-picker-sections-wrap">
+<!--
+                <div id="locale_picker_region_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
+
+                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-region_code">Region</label>
+                    <div class="wt-select wt-text-body-01">
+                        <select id="locale-overlay-select-region_code" name="region_code" class="wt-select__element">
+                                <option value="AU" >Australia</option>
+                                <option value="CA" >Canada</option>
+                                <option value="FR" >France</option>
+                                <option value="DE" >Germany</option>
+                                <option value="GR" >Greece</option>
+                                <option value="IN" >India</option>
+                                <option value="IE" >Ireland</option>
+                                <option value="IT" >Italy</option>
+                                <option value="JP" >Japan</option>
+                                <option value="NZ" >New Zealand</option>
+                                <option value="PL" >Poland</option>
+                                <option value="PT" selected="selected">Portugal</option>
+                                <option value="ES" >Spain</option>
+                                <option value="NL" >The Netherlands</option>
+                                <option value="GB" >United Kingdom</option>
+                                <option value="US" >United States</option>
+                            <optgroup label="&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;">
+                                <option value="AF" >Afghanistan</option>
+                                <option value="AX" >Åland Islands</option>
+                                <option value="AL" >Albania</option>
+                                <option value="DZ" >Algeria</option>
+                                <option value="AS" >American Samoa</option>
+                                <option value="AD" >Andorra</option>
+                                <option value="AO" >Angola</option>
+                                <option value="AI" >Anguilla</option>
+                                <option value="AG" >Antigua and Barbuda</option>
+                                <option value="AR" >Argentina</option>
+                                <option value="AM" >Armenia</option>
+                                <option value="AW" >Aruba</option>
+                                <option value="AU" >Australia</option>
+                                <option value="AT" >Austria</option>
+                                <option value="AZ" >Azerbaijan</option>
+                                <option value="BS" >Bahamas</option>
+                                <option value="BH" >Bahrain</option>
+                                <option value="BD" >Bangladesh</option>
+                                <option value="BB" >Barbados</option>
+                                <option value="BE" >Belgium</option>
+                                <option value="BZ" >Belize</option>
+                                <option value="BJ" >Benin</option>
+                                <option value="BM" >Bermuda</option>
+                                <option value="BT" >Bhutan</option>
+                                <option value="BO" >Bolivia</option>
+                                <option value="BA" >Bosnia and Herzegovina</option>
+                                <option value="BW" >Botswana</option>
+                                <option value="BV" >Bouvet Island</option>
+                                <option value="BR" >Brazil</option>
+                                <option value="IO" >British Indian Ocean Territory</option>
+                                <option value="VG" >British Virgin Islands</option>
+                                <option value="BN" >Brunei</option>
+                                <option value="BG" >Bulgaria</option>
+                                <option value="BF" >Burkina Faso</option>
+                                <option value="BI" >Burundi</option>
+                                <option value="KH" >Cambodia</option>
+                                <option value="CM" >Cameroon</option>
+                                <option value="CA" >Canada</option>
+                                <option value="CV" >Cape Verde</option>
+                                <option value="KY" >Cayman Islands</option>
+                                <option value="CF" >Central African Republic</option>
+                                <option value="TD" >Chad</option>
+                                <option value="CL" >Chile</option>
+                                <option value="CN" >China</option>
+                                <option value="CX" >Christmas Island</option>
+                                <option value="CC" >Cocos (Keeling) Islands</option>
+                                <option value="CO" >Colombia</option>
+                                <option value="KM" >Comoros</option>
+                                <option value="CG" >Congo, Republic of</option>
+                                <option value="CK" >Cook Islands</option>
+                                <option value="CR" >Costa Rica</option>
+                                <option value="HR" >Croatia</option>
+                                <option value="CW" >Curaçao</option>
+                                <option value="CY" >Cyprus</option>
+                                <option value="CZ" >Czech Republic</option>
+                                <option value="DK" >Denmark</option>
+                                <option value="DJ" >Djibouti</option>
+                                <option value="DM" >Dominica</option>
+                                <option value="DO" >Dominican Republic</option>
+                                <option value="EC" >Ecuador</option>
+                                <option value="EG" >Egypt</option>
+                                <option value="SV" >El Salvador</option>
+                                <option value="GQ" >Equatorial Guinea</option>
+                                <option value="ER" >Eritrea</option>
+                                <option value="EE" >Estonia</option>
+                                <option value="ET" >Ethiopia</option>
+                                <option value="FK" >Falkland Islands (Malvinas)</option>
+                                <option value="FO" >Faroe Islands</option>
+                                <option value="FJ" >Fiji</option>
+                                <option value="FI" >Finland</option>
+                                <option value="FR" >France</option>
+                                <option value="GF" >French Guiana</option>
+                                <option value="PF" >French Polynesia</option>
+                                <option value="TF" >French Southern Territories</option>
+                                <option value="GA" >Gabon</option>
+                                <option value="GM" >Gambia</option>
+                                <option value="GE" >Georgia</option>
+                                <option value="DE" >Germany</option>
+                                <option value="GH" >Ghana</option>
+                                <option value="GI" >Gibraltar</option>
+                                <option value="GR" >Greece</option>
+                                <option value="GL" >Greenland</option>
+                                <option value="GD" >Grenada</option>
+                                <option value="GP" >Guadeloupe</option>
+                                <option value="GU" >Guam</option>
+                                <option value="GT" >Guatemala</option>
+                                <option value="GG" >Guernsey</option>
+                                <option value="GN" >Guinea</option>
+                                <option value="GW" >Guinea-Bissau</option>
+                                <option value="GY" >Guyana</option>
+                                <option value="HT" >Haiti</option>
+                                <option value="HM" >Heard Island and McDonald Islands</option>
+                                <option value="VA" >Holy See (Vatican City State)</option>
+                                <option value="HN" >Honduras</option>
+                                <option value="HK" >Hong Kong</option>
+                                <option value="HU" >Hungary</option>
+                                <option value="IS" >Iceland</option>
+                                <option value="IN" >India</option>
+                                <option value="ID" >Indonesia</option>
+                                <option value="IQ" >Iraq</option>
+                                <option value="IE" >Ireland</option>
+                                <option value="IM" >Isle of Man</option>
+                                <option value="IL" >Israel</option>
+                                <option value="IT" >Italy</option>
+                                <option value="IC" >Ivory Coast</option>
+                                <option value="JM" >Jamaica</option>
+                                <option value="JP" >Japan</option>
+                                <option value="JE" >Jersey</option>
+                                <option value="JO" >Jordan</option>
+                                <option value="KZ" >Kazakhstan</option>
+                                <option value="KE" >Kenya</option>
+                                <option value="KI" >Kiribati</option>
+                                <option value="KV" >Kosovo</option>
+                                <option value="KW" >Kuwait</option>
+                                <option value="KG" >Kyrgyzstan</option>
+                                <option value="LA" >Laos</option>
+                                <option value="LV" >Latvia</option>
+                                <option value="LB" >Lebanon</option>
+                                <option value="LS" >Lesotho</option>
+                                <option value="LR" >Liberia</option>
+                                <option value="LY" >Libya</option>
+                                <option value="LI" >Liechtenstein</option>
+                                <option value="LT" >Lithuania</option>
+                                <option value="LU" >Luxembourg</option>
+                                <option value="MO" >Macao</option>
+                                <option value="MK" >Macedonia</option>
+                                <option value="MG" >Madagascar</option>
+                                <option value="MW" >Malawi</option>
+                                <option value="MY" >Malaysia</option>
+                                <option value="MV" >Maldives</option>
+                                <option value="ML" >Mali</option>
+                                <option value="MT" >Malta</option>
+                                <option value="MH" >Marshall Islands</option>
+                                <option value="MQ" >Martinique</option>
+                                <option value="MR" >Mauritania</option>
+                                <option value="MU" >Mauritius</option>
+                                <option value="YT" >Mayotte</option>
+                                <option value="MX" >Mexico</option>
+                                <option value="FM" >Micronesia, Federated States of</option>
+                                <option value="MD" >Moldova</option>
+                                <option value="MC" >Monaco</option>
+                                <option value="MN" >Mongolia</option>
+                                <option value="ME" >Montenegro</option>
+                                <option value="MS" >Montserrat</option>
+                                <option value="MA" >Morocco</option>
+                                <option value="MZ" >Mozambique</option>
+                                <option value="MM" >Myanmar (Burma)</option>
+                                <option value="NA" >Namibia</option>
+                                <option value="NR" >Nauru</option>
+                                <option value="NP" >Nepal</option>
+                                <option value="AN" >Netherlands Antilles</option>
+                                <option value="NC" >New Caledonia</option>
+                                <option value="NZ" >New Zealand</option>
+                                <option value="NI" >Nicaragua</option>
+                                <option value="NE" >Niger</option>
+                                <option value="NG" >Nigeria</option>
+                                <option value="NU" >Niue</option>
+                                <option value="NF" >Norfolk Island</option>
+                                <option value="MP" >Northern Mariana Islands</option>
+                                <option value="NO" >Norway</option>
+                                <option value="OM" >Oman</option>
+                                <option value="PK" >Pakistan</option>
+                                <option value="PW" >Palau</option>
+                                <option value="PS" >Palestinian Territory, Occupied</option>
+                                <option value="PA" >Panama</option>
+                                <option value="PG" >Papua New Guinea</option>
+                                <option value="PY" >Paraguay</option>
+                                <option value="PE" >Peru</option>
+                                <option value="PH" >Philippines</option>
+                                <option value="PL" >Poland</option>
+                                <option value="PT" >Portugal</option>
+                                <option value="PR" >Puerto Rico</option>
+                                <option value="QA" >Qatar</option>
+                                <option value="RE" >Reunion</option>
+                                <option value="RO" >Romania</option>
+                                <option value="RW" >Rwanda</option>
+                                <option value="SH" >Saint Helena</option>
+                                <option value="KN" >Saint Kitts and Nevis</option>
+                                <option value="LC" >Saint Lucia</option>
+                                <option value="MF" >Saint Martin (French part)</option>
+                                <option value="PM" >Saint Pierre and Miquelon</option>
+                                <option value="VC" >Saint Vincent and the Grenadines</option>
+                                <option value="WS" >Samoa</option>
+                                <option value="SM" >San Marino</option>
+                                <option value="ST" >Sao Tome and Principe</option>
+                                <option value="SA" >Saudi Arabia</option>
+                                <option value="SN" >Senegal</option>
+                                <option value="RS" >Serbia</option>
+                                <option value="SC" >Seychelles</option>
+                                <option value="SL" >Sierra Leone</option>
+                                <option value="SG" >Singapore</option>
+                                <option value="SX" >Sint Maarten (Dutch part)</option>
+                                <option value="SK" >Slovakia</option>
+                                <option value="SI" >Slovenia</option>
+                                <option value="SB" >Solomon Islands</option>
+                                <option value="SO" >Somalia</option>
+                                <option value="ZA" >South Africa</option>
+                                <option value="GS" >South Georgia and the South Sandwich Islands</option>
+                                <option value="KR" >South Korea</option>
+                                <option value="SS" >South Sudan</option>
+                                <option value="ES" >Spain</option>
+                                <option value="LK" >Sri Lanka</option>
+                                <option value="SD" >Sudan</option>
+                                <option value="SR" >Suriname</option>
+                                <option value="SJ" >Svalbard and Jan Mayen</option>
+                                <option value="SZ" >Swaziland</option>
+                                <option value="SE" >Sweden</option>
+                                <option value="CH" >Switzerland</option>
+                                <option value="TW" >Taiwan</option>
+                                <option value="TJ" >Tajikistan</option>
+                                <option value="TZ" >Tanzania</option>
+                                <option value="TH" >Thailand</option>
+                                <option value="NL" >The Netherlands</option>
+                                <option value="TL" >Timor-Leste</option>
+                                <option value="TG" >Togo</option>
+                                <option value="TK" >Tokelau</option>
+                                <option value="TO" >Tonga</option>
+                                <option value="TT" >Trinidad</option>
+                                <option value="TN" >Tunisia</option>
+                                <option value="TR" >Turkey</option>
+                                <option value="TM" >Turkmenistan</option>
+                                <option value="TC" >Turks and Caicos Islands</option>
+                                <option value="TV" >Tuvalu</option>
+                                <option value="UG" >Uganda</option>
+                                <option value="UA" >Ukraine</option>
+                                <option value="AE" >United Arab Emirates</option>
+                                <option value="GB" >United Kingdom</option>
+                                <option value="US" >United States</option>
+                                <option value="UM" >United States Minor Outlying Islands</option>
+                                <option value="UY" >Uruguay</option>
+                                <option value="VI" >U.S. Virgin Islands</option>
+                                <option value="UZ" >Uzbekistan</option>
+                                <option value="VU" >Vanuatu</option>
+                                <option value="VE" >Venezuela</option>
+                                <option value="VN" >Vietnam</option>
+                                <option value="WF" >Wallis and Futuna</option>
+                                <option value="EH" >Western Sahara</option>
+                                <option value="YE" >Yemen</option>
+                                <option value="CD" >Zaire (Democratic Republic of Congo)</option>
+                                <option value="ZM" >Zambia</option>
+                                <option value="ZW" >Zimbabwe</option>
+                            </optgroup>
+                        </select>
+                    </div>
+                </div>
+                <div id="locale_picker_language_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
+
+                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-language_code">Language</label>
+                    <div class="wt-select wt-text-body-01">
+                        <select id="locale-overlay-select-language_code" name="language_code" class="wt-select__element">
+                                <option value="de" >Deutsch</option>
+                                <option value="en-GB" >English (UK)</option>
+                                <option value="en-IN" >English (IN)</option>
+                                <option value="en-US" selected="selected">English (US)</option>
+                                <option value="es" >Español</option>
+                                <option value="fr" >Français</option>
+                                <option value="it" >Italiano</option>
+                                <option value="ja" >日本語</option>
+                                <option value="nl" >Nederlands</option>
+                                <option value="pl" >Polski</option>
+                                <option value="pt" >Português</option>
+                                <option value="ru" >Русский</option>
+                        </select>
+                    </div>
+                </div>
+                <div id="locale_picker_currency_code" class="locale_picker_section wt-pb-xs-3 wt-text-left-xs wt-b-xs-none">
+
+                    <label class="wt-label wt-pb-xs-1" for="locale-overlay-select-currency_code">Currency</label>
+                    <div class="wt-select wt-text-body-01">
+                        <select id="locale-overlay-select-currency_code" name="currency_code" class="wt-select__element">
+                                <option value="USD" >$ United States Dollar (USD)</option>
+                                <option value="CAD" >$ Canadian Dollar (CAD)</option>
+                                <option value="EUR" selected="selected">€ Euro (EUR)</option>
+                                <option value="GBP" >£ British Pound (GBP)</option>
+                                <option value="AUD" >$ Australian Dollar (AUD)</option>
+                                <option value="JPY" >¥ Japanese Yen (JPY)</option>
+                                <option value="CNY" >¥ Chinese Yuan (CNY)</option>
+                                <option value="CZK" >Kč Czech Koruna (CZK)</option>
+                                <option value="DKK" >kr Danish Krone (DKK)</option>
+                                <option value="HKD" >$ Hong Kong Dollar (HKD)</option>
+                                <option value="HUF" >Ft Hungarian Forint (HUF)</option>
+                                <option value="INR" >₹ Indian Rupee (INR)</option>
+                                <option value="IDR" >Rp Indonesian Rupiah (IDR)</option>
+                                <option value="ILS" >₪ Israeli Shekel (ILS)</option>
+                                <option value="MYR" >RM Malaysian Ringgit (MYR)</option>
+                                <option value="MXN" >$ Mexican Peso (MXN)</option>
+                                <option value="MAD" >DH Moroccan Dirham (MAD)</option>
+                                <option value="NZD" >$ New Zealand Dollar (NZD)</option>
+                                <option value="NOK" >kr Norwegian Krone (NOK)</option>
+                                <option value="PHP" >₱ Philippine Peso (PHP)</option>
+                                <option value="SGD" >$ Singapore Dollar (SGD)</option>
+                                <option value="VND" >₫ Vietnamese Dong (VND)</option>
+                                <option value="ZAR" >R South African Rand (ZAR)</option>
+                                <option value="SEK" >kr Swedish Krona (SEK)</option>
+                                <option value="CHF" >Swiss Franc (CHF)</option>
+                                <option value="THB" >฿ Thai Baht (THB)</option>
+                                <option value="TWD" >NT$ Taiwan New Dollar (TWD)</option>
+                                <option value="TRY" >₺ Turkish Lira (TRY)</option>
+                                <option value="PLN" >zł Polish Zloty (PLN)</option>
+                                <option value="BRL" >R$ Brazilian Real (BRL)</option>
+                        </select>
+                    </div>
+                </div>
+                -->
+</div>
+<div class="wt-overlay__footer wt-justify-content-flex-end">
+<div class="wt-overlay__footer__action">
+<a class="wt-btn wt-btn--outline wt-mb-xs-1 wt-mb-md-0 wt-mr-md-1" data-wt-overlay-close="" name="cancel" type="button">
+
+                        Cancel
+                        <div aria-live="assertive" class="wt-spinner wt-spinner--01" role="alert">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" fill="transparent" r="10"></circle></svg></span>
+                            Loading
+                        </div>
+</a>
+<button action-type="primary" class="wt-btn wt-btn--filled" id="locale-overlay-save" name="save" type="submit">
+                        Save
+                        <div aria-live="assertive" class="wt-spinner wt-spinner--01" role="alert">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" fill="transparent" r="10"></circle></svg></span>
+                            Loading
+                        </div>
+</button>
+</div>
+</div>
+</form>
+</div>
+</div><div aria-hidden="false" aria-label="Sign In or Register Overlay" aria-labelledby="join-neu-overlay-title" aria-modal="true" class="wt-overlay wt-overlay--has-close-icon wt-overlay--will-animate" data-wt-overlay="" id="join-neu-overlay" role="dialog" style="overscroll-behavior: contain;">
+<div class="wt-overlay__modal wt-overlay--animation-done" data-overlay-modal="" style="max-width:384px;">
+<button aria-label="Close" class="wt-btn wt-btn--transparent wt-btn--icon wt-overlay__close-icon wt-btn--light" data-wt-overlay-close="" type="button">
+<span class="etsy-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"></path></svg></span>
+</button>
+<div data-join-neu-overlay-container=""><div class="wt-grid wt-grid--block">
+<div class="wt-grid__item-xs-12">
+<div class="wt-bg-white wt-mb-xs-2" data-join-neu-content="">
+<div data-visible-error-placeholder="">
+</div>
+<div class="">
+<form action="" class="wt-position-relative" data-join-neu-form="" id="join-neu-form" method="POST">
+<input name="from_page" type="hidden" value="https://www.etsy.com/"/>
+<input name="from_action" type="hidden" value="signin-header"/>
+<input name="workflow_identifier" type="hidden" value=""/>
+<input name="workflow_type" type="hidden" value=""/>
+<input name="third_party_authenticator" type="hidden" value=""/>
+<input name="initial_state" type="hidden" value="sign-in"/>
+<input class="hidden csrf" name="_nnc" type="hidden" value="3:1716886888:HBnQSB4IPcapQqXK3bUGKZLgMYaY:986895f10191738b1d94e8e42977c7e8d57fc58fea054b6f5484463b9eb6c9a5"/>
+<div class="wt-grid wt-grid--block">
+<div class="wt-grid__item-xs-12">
+<div class="" data-heading-section="">
+<div class="wt-display-flex-xs wt-justify-content-space-between wt-align-items-center wt-pb-xs-2">
+<h1 class="wt-text-title-large" id="join-neu-overlay-title">
+                        Sign in
+                    </h1>
+<button class="wt-btn wt-btn--secondary wt-btn--small inline-overlay-trigger register-header-action select-register" type="button">
+        Register
+
+</button>
+</div>
+</div>
+<div class="wt-mb-xs-2 wt-validation">
+<label class="wt-mb-xs-1 wt-text-caption-title" for="join_neu_email_field">
+            Email address 
+        </label>
+<input aria-describedby="aria-join_neu_email_field-error" autocapitalize="off" autocomplete="email" class="wt-input" id="join_neu_email_field" inputmode="email" name="email" novalidate="" placeholder="" required="" type="email"/>
+<div class="wt-validation__message wt-mt-xs-1 wt-validation__message--is-hidden" data-error="" id="aria-join_neu_email_field-error"></div>
+</div>
+<input class="wt-mb-xs-2" id="join_neu_first_name_field" name="first_name" type="hidden" value=""/>
+<div class="wt-mb-xs-2 wt-validation">
+<label class="wt-mb-xs-1 wt-text-caption-title" for="join_neu_password_field">
+            Password 
+        </label>
+<input aria-describedby="aria-join_neu_password_field-error" class="wt-input" id="join_neu_password_field" name="password" placeholder="" required="" type="password"/>
+<div class="wt-validation__message wt-mt-xs-1 wt-validation__message--is-hidden" data-error="" id="aria-join_neu_password_field-error"></div>
+</div>
+<div class="g-recaptcha-etsy" data-badge="inline" data-etsy-autoload="true" data-etsy-loaded="true" data-recaptcha-action="sign_in" data-recaptcha-key-type="score" data-recaptcha-version="enterprise" data-sitekey="6Ldgkr0ZAAAAAGnf08YhMemepXW29Ux9rtJCcBD3" id="g-recaptcha-etsy-sign_in-score" style="display: none;">
+</div>
+<div class="wt-alert wt-alert--inline wt-alert--error-01 wt-display-none js-recaptcha-load-error">
+<p class="wt-text-body-01">Captcha failed to load. Try using a different browser or disabling ad blockers.</p>
+</div>
+<input id="g-recaptcha-etsy-sign_in-score-input" name="enterprise_recaptcha_token" type="hidden" value=""/>
+<input id="g-recaptcha-etsy-sign_in-score-input-key-type" name="enterprise_recaptcha_token_key_type" type="hidden" value="score"/>
+<div class="wt-display-flex-xs wt-flex-direction-row-xs wt-justify-content-space-between wt-mb-xs-3">
+<div class="">
+<div class="wt-checkbox">
+<input checked="checked" id="persisent" name="persistent" type="checkbox" value="true"/>
+<label for="persisent">
+                            Stay signed in
+
+        </label>
+</div>
+</div>
+<div class="wt-mt-xs-1">
+<a class="wt-text-gray wt-text-caption" href="/forgot_password?email=">Forgot your password?</a>
+</div>
+</div>
+<div>
+<div class="wt-validation">
+<button aria-describedby="aria-privacy-policy" class="wt-btn wt-btn--primary wt-width-full" data-join-neu-button="" name="submit_attempt" type="submit" value="sign-in">
+            Sign in
+
+</button>
+<div class="wt-validation__message wt-mt-xs-1 wt-validation__message--is-hidden wt-display-none-xs" data-error="">
+</div>
+</div>
+</div>
+<p class="wt-text-caption wt-text-center-xs wt-mt-xs-3">
+<a class="wt-text-gray" href="/help/article/18?ref=signin">
+        Trouble signing in?
+    </a>
+</p>
+</div>
+</div>
+<div>
+<div class="wt-mb-xs-4 wt-mt-xs-4 wt-bb-xs wt-text-center-xs separator-flush-margins" style="line-height:0;">
+<span class="wt-bg-white wt-p-xs-2 wt-vertical-align-bottom wt-text-gray" style="line-height:0;">
+            OR
+        </span>
+</div>
+</div><div class="wt-display-flex-xs wt-flex-direction-column-xs">
+<div class="wt-mb-xs-2">
+<div data-login-with-google="">
+<input name="google_user_id" type="hidden" value=""/>
+<input name="google_code" type="hidden" value=""/>
+<button aria-describedby="aria-privacy-policy" class="wt-btn wt-btn--secondary wt-width-full" data-google-button="true">
+<div class="wt-spinner wt-spinner--01" data-button-spinner="true">
+<span class="wt-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" fill="transparent" r="10"></circle></svg></span>
+        Loading
+    </div>
+<span aria-hidden="true" class="inline-svg wt-nudge-t-2 wt-mr-xs-1" data-button-icon="true"><svg aria-hidden="true" focusable="false" height="16px" version="1.1" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+<path d="M15.68,8.18181818 C15.68,7.61454546 15.6290909,7.06909091 15.5345454,6.54545454 L8,6.54545454 L8,9.64 L12.3054546,9.64 C12.12,10.64 11.5563636,11.4872727 10.7090909,12.0545454 L10.7090909,14.0618182 L13.2945454,14.0618182 C14.8072727,12.6690909 15.68,10.6181818 15.68,8.18181818 L15.68,8.18181818 Z" fill="#4285F4" fill-rule="nonzero" id="Shape"></path>
+<path d="M8,16 C10.16,16 11.9709091,15.2836364 13.2945454,14.0618182 L10.7090909,12.0545454 C9.99272729,12.5345454 9.07636364,12.8181818 8,12.8181818 C5.91636364,12.8181818 4.15272727,11.4109091 3.52363636,9.52 L0.850909091,9.52 L0.850909091,11.5927273 C2.16727273,14.2072727 4.87272727,16 8,16 L8,16 Z" fill="#34A853" fill-rule="nonzero" id="Shape"></path>
+<path d="M3.52363636,9.52 C3.36363636,9.04 3.27272727,8.52727273 3.27272727,8 C3.27272727,7.47272727 3.36363636,6.96 3.52363636,6.48 L3.52363636,4.40727273 L0.850909091,4.40727273 C0.309090909,5.48727273 0,6.70909091 0,8 C0,9.29090907 0.309090909,10.5127273 0.850909091,11.5927273 L3.52363636,9.52 L3.52363636,9.52 Z" fill="#FBBC05" fill-rule="nonzero" id="Shape"></path>
+<path d="M8,3.18181818 C9.17454542,3.18181818 10.2290909,3.58545454 11.0581818,4.37818182 L13.3527273,2.08363636 C11.9672727,0.792727273 10.1563636,0 8,0 C4.87272727,0 2.16727273,1.79272727 0.850909091,4.40727273 L3.52363636,6.48 C4.15272727,4.58909091 5.91636364,3.18181818 8,3.18181818 L8,3.18181818 Z" fill="#EA4335" fill-rule="nonzero" id="Shape"></path>
+<polygon id="Shape" points="0 0 16 0 16 16 0 16"></polygon>
+</g>
+</svg></span>
+        Continue with Google
+
+</button>
+</div>
+</div>
+<div>
+<div data-login-with-facebook="">
+<input name="facebook_user_id" type="hidden" value=""/>
+<input name="facebook_access_token" type="hidden" value=""/>
+<button aria-describedby="aria-privacy-policy" class="wt-btn wt-btn--secondary wt-width-full" data-facebook-button="true">
+<div class="wt-spinner wt-spinner--01" data-button-spinner="true">
+<span class="wt-icon"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" fill="transparent" r="10"></circle></svg></span>
+        Loading
+    </div>
+<span aria-hidden="true" class="inline-svg wt-nudge-t-2 wt-mr-xs-1" data-button-icon="true"><svg aria-hidden="true" focusable="false" height="16px" version="1.1" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M15.0784247,15.9571892 C15.5636139,15.9571892 15.9570656,15.5637375 15.9570656,15.0784247 L15.9570656,0.915027027 C15.9570656,0.42965251 15.5636757,0.0363243243 15.0784247,0.0363243243 L0.915027027,0.0363243243 C0.42965251,0.0363243243 0.0363243243,0.42965251 0.0363243243,0.915027027 L0.0363243243,15.0784247 C0.0363243243,15.5636757 0.429590734,15.9571892 0.915027027,15.9571892 L15.0784247,15.9571892 Z" fill="#3C5A99" id="Blue_1_"></path>
+<path d="M11.0214054,15.9571892 L11.0214054,9.7917529 L13.0908417,9.7917529 L13.4007104,7.38897297 L11.0214054,7.38897297 L11.0214054,5.85494981 C11.0214054,5.15928958 11.2145792,4.68522008 12.212139,4.68522008 L13.4844788,4.68466409 L13.4844788,2.53559846 C13.2644324,2.5063166 12.5091583,2.44089575 11.6304556,2.44089575 C9.79601544,2.44089575 8.54010811,3.56064865 8.54010811,5.61698842 L8.54010811,7.38897297 L6.46535907,7.38897297 L6.46535907,9.7917529 L8.54010811,9.7917529 L8.54010811,15.9571892 L11.0214054,15.9571892 Z" fill="#FFFFFF" id="f"></path>
+</svg></span>
+        Continue with Facebook
+
+</button>
+</div>
+</div>
+<div class="wt-mt-xs-2" data-apple-button="">
+<a aria-describedby="aria-privacy-policy" class="wt-btn wt-btn--secondary wt-width-full" href="https://appleid.apple.com/auth/authorize?client_id=com.etsy.signin.apple&amp;redirect_uri=https%3A%2F%2Fwww.etsy.com%2Fsignin%2Fapple&amp;response_type=id_token%20code&amp;scope=name%20email&amp;response_mode=form_post&amp;state=ktoFKHsibG9naW5fc3RhdGUiOnsiZW1haWwiOm51bGwsImZpcnN0X25hbWUiOm51bGwsImZyb21fYWN0aW9uIjoic2lnbmluLWhlYWRlciIsImFwcGVhbF90b2tlbl9yZXBsYWNlbWVudCI6bnVsbCwiZnJvbV9wYWdlIjoiaHR0cHM6XC9cL3d3dy5ldHN5LmNvbVwvIiwibGFzdF9uYW1lIjpudWxsLCJwYXNzd29yZCI6IiIsImVtYWlsX21hcmtldGluZ19vcHRfaW4iOmZhbHNlLCJwZXJzaXN0ZW50Ijp0cnVlLCJpc19mcm9tX2V0c3lhcHAiOmZhbHNlLCJjYXB0Y2hhIjpudWxsLCJlbnRlcnByaXNlX3JlY2FwdGNoYV90b2tlbiI6bnVsbCwiZW50ZXJwcmlzZV9yZWNhcHRjaGFfdG9rZW5fa2V5X3R5cGUiOm51bGwsImluaXRpYWxfc3RhdGUiOiJzaWduLWluIiwic3VibWl0X2F0dGVtcHQiOiJBUFBMRSIsImZvcm1fYWN0aW9uIjoiIiwic2F2ZV9kZXZpY2UiOm51bGwsInR3b2ZhY3Rvcl90b2tlbiI6bnVsbCwiZXJyb3JzIjpbXSwiZ29vZ2xlX3VzZXJfaWQiOm51bGwsImdvb2dsZV9jb2RlIjpudWxsLCJmYWNlYm9va191c2VyX2lkIjpudWxsLCJmYWNlYm9va19hY2Nlc3NfdG9rZW4iOm51bGwsImFwcGxlX3VzZXIiOm51bGwsImFwcGxlX2NvZGUiOm51bGwsImFwcGxlX2lkX3Rva2VuIjpudWxsLCJ2aWV3X3R5cGUiOiJvdmVybGF5Iiwid2l0aF9hY3Rpb25fY29udGV4dCI6dHJ1ZSwicmVzdHJpY3RfZW1haWwiOmZhbHNlLCJhdXRvZmlsbGVkX3dpdGhfZ3Vlc3RfZW1haWwiOmZhbHNlLCJzaG91bGRfdXNlX25ld19wYXNzd29yZF9za2luIjpmYWxzZSwic2hvdWxkX3Nob3dfb3JkZXJfdHJhY2tpbmciOmZhbHNlLCJzaG93X3NvY2lhbF9zaWduX2luIjpmYWxzZSwibG9naW5fb25seSI6ZmFsc2UsIm1hZ2ljX2xpbmtfZXJyb3IiOltdLCJ0aGlyZF9wYXJ0eV9hdXRoZW50aWNhdG9yIjpudWxsLCJ0cmFja2luZ191cmwiOm51bGwsInVzZV9mb2xsb3dfdGV4dCI6ZmFsc2UsInJlY2VudF9saXN0aW5nX2ltYWdlcyI6W10sIm51bWJlcl9vZl9saXN0aW5ncyI6MCwiaGFzX2VzdGltYXRlZF9zaGlwcGluZyI6bnVsbCwidHdvX2ZhY3Rvcl9wZW5kaW5nIjpudWxsLCJ3b3JrZmxvdyI6eyJpZGVudGlmaWVyIjoiIiwidHlwZSI6IiJ9LCJzaWduaW5fYXR0ZW1wdCI6bnVsbCwicmVnaXN0ZXJfYXR0ZW1wdCI6bnVsbCwiZmFjZWJvb2tfYXR0ZW1wdCI6bnVsbCwiZ29vZ2xlX2F0dGVtcHQiOm51bGwsImFwcGxlX2F0dGVtcHQiOm51bGx9LCJub25jZSI6IjM6MTcxNjg4Njg4ODo1SGxwZ2VpZXVCbnFQM0NtbmZvYnp4eXNaMHZxOmEzMzM1Y2U5MzQzOGIzOTQ0OTA1YzBkYTM1N2VmMTg5NDVlMWEzMDRhMmRlNDNhNWEzM2QzZWIzZDllZWEyYTIifbQazjA3iw.bnYb2S5kgc3JC3irLiw&amp;nonce=ktoAajM6MTcxNjg4Njg4ODp3UWhUNFp6TnpkQzQ1WmppOU56R21lc1JuZ3lmOmY0OGI0ZThlYTFjZTg1ZDBkMjU3YzcxNzcyZTM2MWNlZTcwNDRkOTNiNDM1YTYwMDlhNjA2NmU3MzA2NjJjN2K0kX7cskSpkiT9xOuDPdx8ImUf62E">
+<span class="inline-svg wt-nudge-t-2 wt-mr-xs-1"><svg aria-hidden="true" fill="none" focusable="false" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<rect fill="white" height="16" width="16"></rect>
+<path d="M10.0164 2.82125C10.5157 2.1965 10.8546 1.35725 10.7654 0.5C10.0344 0.536 9.14225 0.98225 8.6257 1.60775C8.16163 2.14325 7.75153 3.01775 7.85874 3.839C8.67893 3.91025 9.49912 3.42875 10.0164 2.82125ZM11.8405 8.20025C11.8225 6.36725 13.3347 5.495 13.4051 5.441C12.5512 4.178 11.2175 4.0355 10.7549 3.9995C9.56285 3.92825 8.54998 4.676 7.98094 4.676C7.41116 4.676 6.53999 4.0355 5.5976 4.05275C4.37106 4.07 3.23299 4.7645 2.61073 5.86775C1.33021 8.07575 2.2726 11.351 3.51788 13.1488C4.1229 14.0383 4.85163 15.0178 5.81201 14.9825C6.71917 14.9473 7.07529 14.3945 8.17812 14.3945C9.2802 14.3945 9.60033 14.9825 10.5607 14.9645C11.5563 14.9465 12.1794 14.0743 12.7844 13.184C13.4779 12.17 13.762 11.1905 13.78 11.1372C13.7613 11.12 11.8585 10.3895 11.8405 8.20025Z" fill="black"></path>
+</svg></span>
+        Continue with Apple
+    </a>
+</div>
+<p class="privacy-policy wt-mt-xs-3" id="aria-privacy-policy">
+            By clicking Continue with Google, Facebook, or Apple, you agree to Etsy's <a href="/legal/terms-of-use?ref=reg" target="_blank" title="Terms of Use">Terms of Use</a> and <a href="/legal/privacy?ref=reg" target="_blank" title="Privacy Policy">Privacy Policy</a>.
+    </p><div class="wt-text-body-small wt-text-caption wt-mt-xs-2">
+        Etsy may send you communications; you may change your preferences in your account settings.
+        We'll never post without your permission.
+    </div>
+<p></p>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div></div></div><div id="wt-portal-yellow" style="z-index: 80; position: relative;"></div><div id="wt-portal-orange" style="z-index: 80; position: relative;"></div><div id="wt-portal-red-orange" style="z-index: 80; position: absolute; top: 0px; left: 0px; width: 100%; height: 0px;"></div><div id="wt-portal-red" style="z-index: 80; position: relative;"></div></div>
+<div aria-hidden="true" id="etsy-modal-container"></div>
+
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KWW5SS" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+
+
+
+
+
+<img height="1" src="https://www.facebook.com/tr?uuid=1716886880&amp;id=114623403312281&amp;ev=PageView&amp;ud[em]=%27%27%22&amp;cd[page_path]=null&amp;cd[detected_region]=null" style="display:none" width="1"/>
+<img height="1" src="https://www.facebook.com/tr?uuid=1716886880&amp;id=297472060462208&amp;ev=PageView&amp;ud[em]=%27%27%22" style="display:none" width="1"/>
+<noscript>
+<img height="1" src="https://events.xg4ken.com/pixel/v2?tid=KT-N3E88-3EB&amp;noscript=1" style="display:none" width="1"/>
+</noscript><img alt="" src="https://pt.ispot.tv/v2/TC-3512-1.gif?app=web&amp;type=visit&amp;customdata=customer_new&amp;cid=UQ8tOJ0HxZAwJyLxyJsRtuOu8CSs&amp;uid=undefined" style="display:none; visibility: hidden;"/><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><iframe height="0" src="https://8666735.fls.doubleclick.net/activityi;src=8666735;type=count0;cat=etsy_00;ord=1;num=7203236476620;npa=0;auiddc=1312844279.1716886885;u2=UQ8tOJ0HxZAwJyLxyJsRtuOu8CSs;uaa=x86;uab=64;uafvl=Opera%2520GX%3B109.0.5097.100%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.124;uamb=0;uam=;uap=Windows;uapv=15.0.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe45m0z86935543za201zb6935543;gcs=G111;gcd=13t3t3t2t5;dma_cps=sypham;dma=1;epver=2;~oref=https%3A%2F%2Fwww.etsy.com%2F?" style="display: none; visibility: hidden;" width="0"></iframe><iframe height="0" src="https://8666735.fls.doubleclick.net/activityi;src=8666735;type=count0;cat=etsy_000;ord=1;num=5467560319454;npa=0;auiddc=1312844279.1716886885;uaa=x86;uab=64;uafvl=Opera%2520GX%3B109.0.5097.100%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.124;uamb=0;uam=;uap=Windows;uapv=15.0.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe45m0z86935543za201zb6935543;gcs=G111;gcd=13t3t3t2t5;dma_cps=sypham;dma=1;epver=2;~oref=https%3A%2F%2Fwww.etsy.com%2F?" style="display: none; visibility: hidden;" width="0"></iframe><iframe height="0" src="https://9910951.fls.doubleclick.net/activityi;src=9910951;type=remarkt;cat=unive0;ord=4300757473826;npa=0;auiddc=1312844279.1716886885;u2=%2F;u3=undefined;uaa=x86;uab=64;uafvl=Opera%2520GX%3B109.0.5097.100%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.124;uamb=0;uam=;uap=Windows;uapv=15.0.0;uaw=0;pscdl=noapi;frm=0;gtm=45fe45m0z86935543za201zb6935543;gcs=G111;gcd=13t3t3t2t5;dma_cps=sypham;dma=1;epver=2;~oref=https%3A%2F%2Fwww.etsy.com%2F?" style="display: none; visibility: hidden;" width="0"></iframe><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div>
+<img height="1" src="https://www.facebook.com/tr?id=395490361516997&amp;ev=PageView&amp;cd[order_id]=949411171.1716886885" style="display:none" width="1"/><iframe frameborder="0" height="1" src="https://d.agkn.com/iframe/10898/?che=1716886880&amp;gauid=949411171.1716886885" style="display:none" width="1"></iframe><link href="/dac/web-toolkit-v2/modules/banners/banners.60801f8c36db47,pages/join_neu/index.60801f8c36db47,web-toolkit-v2/modules/loading_spinners/loading_spinners.60801f8c36db47,web-toolkit-v2/modules/buttons/buttons.60801f8c36db47.css?variant=sasquatch" rel="stylesheet" type="text/css"/><div class="fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><div><div class="grecaptcha-badge" data-style="none" style="width: 256px; height: 60px; position: fixed; visibility: hidden;"><div class="grecaptcha-logo"><iframe frameborder="0" height="60" name="a-wklmyr7l3py9" role="presentation" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" scrolling="no" src="https://www.google.com/recaptcha/enterprise/anchor?ar=1&amp;k=6Ldgkr0ZAAAAAGnf08YhMemepXW29Ux9rtJCcBD3&amp;co=aHR0cHM6Ly93d3cuZXRzeS5jb206NDQz&amp;hl=en&amp;v=joHA60MeME-PNviL59xVH9zs&amp;size=invisible&amp;badge=none&amp;cb=l9yvnq6f1vd9" title="reCAPTCHA" width="256"></iframe></div><div class="grecaptcha-error"></div><textarea class="g-recaptcha-response" id="g-recaptcha-response-100000" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></body><div id="transcend-consent-manager" style="position: fixed; z-index: 2147483647;"></div><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> The page is part of the website etsy.com . It is in the url https://www.etsy.com and when registering the user gave the following information {"email": "authorization.thesis@gmail.com", "name": "Jane Doe", "birthday": "01-01-1970", "gender": "female"} Does this page contains user specific information? Answer only with yes or no.

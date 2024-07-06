@@ -1,0 +1,1235 @@
+The following text is the html file of a webpage. <html class="no-touch" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=2.0" name="viewport"/>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<link href="https://s.yimg.com/rz/l/favicon.ico" rel="apple-touch-icon" size="180x180"/>
+<link href="https://s.yimg.com/rz/l/favicon.ico" rel="icon" size="32x32" type="image/png"/>
+<link href="https://s.yimg.com/rz/l/favicon.ico" rel="icon" size="16x16" type="image/png"/>
+<link href="https://s.yimg.com/cv/apiv2/yahooincsites/careers/css/fonts_v1.0.min.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/cv/apiv2/vzm_careers/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/cv/apiv2/yahooincsites/careers/css/global_v2.02.min.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/cv/apiv2/vzm_careers/css/slick.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/cv/apiv2/vzm_careers/slick/slick-theme.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/cv/apiv2/yahooincsites/careers/css/mobile-header_v1.2.min.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/cv/apiv2/yahooincsites/chrome-fieldset-fix.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/cv/apiv2/yahooincsites/careers/css/top_image_v1.0.min.css" rel="stylesheet"/>
+
+
+<!-- Bootstrap version 4.1.3 -->
+
+
+
+
+
+
+
+
+<title>Careers | Yahoo</title>
+
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0">
+<link href="https://s.yimg.com/cv/apiv2/yahooincsites/careers/css/index_v2.04.min.css" rel="stylesheet"/>
+<link href="https://s.yimg.com/cv/apiv2/yahooincsites/careers/index-map-locations_v2.0.min.css" rel="stylesheet"/>
+
+
+
+
+
+
+<header class="container-fluid mainHeader stickyHeader" id="vmHeader">
+<div class="headerContentWrapper">
+<div class="vmLogo">
+<a href="/"><img alt="Yahoo" height="35" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/yahoo_logo_purple.svg" width="125"/></a>
+</div>
+<div class="navLinkWrapper">
+<nav aria-label="primary" class="priNav">
+<ul aria-label="primary menu bar">
+<li class="priNavItem">
+<div class="dropdown">
+<div aria-controls="ourCompanyList" aria-expanded="false" aria-haspopup="menu" class="priNavItemLink navDropDown" href="" id="ourCompanyToggle" role="button" tabindex="0"><div>Our Company</div><div class="nav-toggle-line"></div></div>
+<nav aria-labelledby="ourCompanyToggle" class="navDropdownList" id="ourCompanyList">
+<div class="dropdownList">
+<p><a class="dropdownListItem" href="/about/" tabindex="0">About</a> <a class="dropdownListItem" href="/press/" tabindex="0">Press</a> <a class="dropdownListItem" href="/technology/" tabindex="0">Technology</a> <a class="dropdownListItem" href="/office-locations/" tabindex="0">Office Locations</a></p>
+</div>
+</nav>
+</div>
+</li>
+<li class="priNavItem">
+<div>
+<a class="priNavItemLink" href="/our-brands/"><div>Our Brands</div><div class="nav-toggle-line"></div></a>
+</div>
+</li>
+<li class="priNavItem">
+<div>
+<a class="priNavItemLink" href="/our-business-solutions/"><div>Our Business Solutions</div><div class="nav-toggle-line"></div></a>
+</div>
+</li>
+<li class="priNavItem">
+<div>
+<a class="priNavItemLink" href="/careers/"><div>Join Our Team</div><div class="nav-toggle-line"></div></a>
+</div>
+</li>
+</ul>
+</nav>
+<nav aria-label="secondary" class="secNav">
+<ul aria-label="secondary menu bar">
+<li class="secNavItem">
+<div>
+<a class="secNavItemLink" href="">Careers</a>
+</div>
+</li>
+<li class="secNavItem">
+<div>
+<a class="secNavItemLink aboutSolutionsHeader Technology" href="">Technology</a>
+</div>
+</li>
+<li class="secNavItem">
+<div>
+<a class="secNavItemLink aboutSolutionsHeader Solutions" href="">Solutions</a>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+<!-- <div class="col-2">&nbsp;</div> -->
+</div>
+<div class="aboutSolutions aboutSolutionsLinks aboutSolutionsHeader">
+<div class="row">
+<div class="col-6 offset-6">
+<!-- About and Solution links html goes here -->
+</div>
+</div>
+</div>
+</header>
+<div class="wrapperSection">
+<div class="container-fluid mainVideo">
+<div class="row">
+<div class="col-12">
+<video aria-label="Make things that matter. video" autoplay="" controls="" data-autoplay="" data-keepplaying="" loop="10" muted="" preload="none">
+<source src="https://s.yimg.com/cv/apiv2/default/20190723/Careers_Overview_0723-compressed.mp4" type="video/mp4"/>
+</video>
+<h1 class="textTopLeft">
+                    
+  Make things that matter.
+
+                </h1>
+</div>
+</div>
+</div>
+<div class="container-fluid jobSearch" id="mainSearchFilter">
+<div class="row stickyTitle">
+<div class="col-12 hideDesktop">
+<h2>Search jobs</h2>
+</div>
+</div>
+<form action="/careers/search.html" class="row align-items-center justify-content-between" method="POST">
+<div class="col-3">
+<div class="searchBox input-group">
+<input aria-label="Search by key words" class="search form-control" id="search-keyword" name="keyword" placeholder="Search by keywords" type="text"/>
+<label for="search-keyword" id="forSearch">Key words</label>
+<div class="input-group-append">
+<button class="searchIcon input-group-text"><img alt="search" id="indexSearchIconId" src="https://s.yimg.com/cv/apiv2/vzm_careers/images/search.svg"/></button>
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="dropdown" id="selectJobCats">
+<button aria-expanded="false" aria-haspopup="true" class="btn dropdown-toggle jobSearchDropdown jobCategories" data-toggle="dropdown" type="button">
+					Select job categories
+				</button>
+<div class="dropdown-menu" id="JCDropdown" name="JCDropdown">
+<div class="dropdownMenuClear">
+<div class="dropdownMenuOnly">
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategoryadministration" name="categories[]" type="checkbox" value="Administration"/>
+<label class="custom-control-label" for="jobCategoryadministration">Administration</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorybusinessdevelopment" name="categories[]" type="checkbox" value="Business Development"/>
+<label class="custom-control-label" for="jobCategorybusinessdevelopment">Business Development</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorybusinessoperations" name="categories[]" type="checkbox" value="Business Operations"/>
+<label class="custom-control-label" for="jobCategorybusinessoperations">Business Operations</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorycontent" name="categories[]" type="checkbox" value="Content"/>
+<label class="custom-control-label" for="jobCategorycontent">Content</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorycustomerexperience" name="categories[]" type="checkbox" value="Customer Experience"/>
+<label class="custom-control-label" for="jobCategorycustomerexperience">Customer Experience</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorydesign" name="categories[]" type="checkbox" value="Design"/>
+<label class="custom-control-label" for="jobCategorydesign">Design</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategoryecommerceoperations" name="categories[]" type="checkbox" value="eCommerce Operations"/>
+<label class="custom-control-label" for="jobCategoryecommerceoperations">eCommerce Operations</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategoryengineering" name="categories[]" type="checkbox" value="Engineering"/>
+<label class="custom-control-label" for="jobCategoryengineering">Engineering</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategoryfinance" name="categories[]" type="checkbox" value="Finance"/>
+<label class="custom-control-label" for="jobCategoryfinance">Finance</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategoryhumanresources" name="categories[]" type="checkbox" value="Human Resources"/>
+<label class="custom-control-label" for="jobCategoryhumanresources">Human Resources</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategoryinformationsystems" name="categories[]" type="checkbox" value="Information Systems"/>
+<label class="custom-control-label" for="jobCategoryinformationsystems">Information Systems</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategoryinternship" name="categories[]" type="checkbox" value="Internship"/>
+<label class="custom-control-label" for="jobCategoryinternship">Internship</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorylegal" name="categories[]" type="checkbox" value="Legal"/>
+<label class="custom-control-label" for="jobCategorylegal">Legal</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorymarketing" name="categories[]" type="checkbox" value="Marketing"/>
+<label class="custom-control-label" for="jobCategorymarketing">Marketing</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategoryresearch" name="categories[]" type="checkbox" value="Research"/>
+<label class="custom-control-label" for="jobCategoryresearch">Research</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorysales" name="categories[]" type="checkbox" value="Sales"/>
+<label class="custom-control-label" for="jobCategorysales">Sales</label>
+</div>
+<div class="custom-control custom-checkbox JCCheckbox">
+<input class="custom-control-input" id="jobCategorysoftwaredevelopment" name="categories[]" type="checkbox" value="Software Development"/>
+<label class="custom-control-label" for="jobCategorysoftwaredevelopment">Software Development</label>
+</div>
+</div>
+<button class="clearMenu" type="button">
+<h5>Clear</h5>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="dropdown" id="selectJobLocation">
+<button aria-expanded="false" aria-haspopup="true" class="btn dropdown-toggle jobSearchDropdown jobLocations" data-toggle="dropdown" type="button">
+					Select countries
+				</button>
+<div class="dropdown-menu" id="JLDropdown">
+<div class="dropdownMenuClear">
+<div class="dropdownMenuOnly">
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationaustralia" name="locations[]" type="checkbox" value="Australia"/>
+<label class="custom-control-label" for="jobLocationaustralia">Australia</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationbrazil" name="locations[]" type="checkbox" value="Brazil"/>
+<label class="custom-control-label" for="jobLocationbrazil">Brazil</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationcanada" name="locations[]" type="checkbox" value="Canada"/>
+<label class="custom-control-label" for="jobLocationcanada">Canada</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationdenmark" name="locations[]" type="checkbox" value="Denmark"/>
+<label class="custom-control-label" for="jobLocationdenmark">Denmark</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationfrance" name="locations[]" type="checkbox" value="France"/>
+<label class="custom-control-label" for="jobLocationfrance">France</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationgermany" name="locations[]" type="checkbox" value="Germany"/>
+<label class="custom-control-label" for="jobLocationgermany">Germany</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationhongkong" name="locations[]" type="checkbox" value="Hong Kong"/>
+<label class="custom-control-label" for="jobLocationhongkong">Hong Kong</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationindia" name="locations[]" type="checkbox" value="India"/>
+<label class="custom-control-label" for="jobLocationindia">India</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationireland" name="locations[]" type="checkbox" value="Ireland"/>
+<label class="custom-control-label" for="jobLocationireland">Ireland</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationisrael" name="locations[]" type="checkbox" value="Israel"/>
+<label class="custom-control-label" for="jobLocationisrael">Israel</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationitaly" name="locations[]" type="checkbox" value="Italy"/>
+<label class="custom-control-label" for="jobLocationitaly">Italy</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationjapan" name="locations[]" type="checkbox" value="Japan"/>
+<label class="custom-control-label" for="jobLocationjapan">Japan</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationnewzealand" name="locations[]" type="checkbox" value="New Zealand"/>
+<label class="custom-control-label" for="jobLocationnewzealand">New Zealand</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationnorway" name="locations[]" type="checkbox" value="Norway"/>
+<label class="custom-control-label" for="jobLocationnorway">Norway</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationsingapore" name="locations[]" type="checkbox" value="Singapore"/>
+<label class="custom-control-label" for="jobLocationsingapore">Singapore</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationspain" name="locations[]" type="checkbox" value="Spain"/>
+<label class="custom-control-label" for="jobLocationspain">Spain</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationsweden" name="locations[]" type="checkbox" value="Sweden"/>
+<label class="custom-control-label" for="jobLocationsweden">Sweden</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationtaiwan" name="locations[]" type="checkbox" value="Taiwan"/>
+<label class="custom-control-label" for="jobLocationtaiwan">Taiwan</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationunitedkingdom" name="locations[]" type="checkbox" value="United Kingdom"/>
+<label class="custom-control-label" for="jobLocationunitedkingdom">United Kingdom</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobLocationunitedstates" name="locations[]" type="checkbox" value="United States"/>
+<label class="custom-control-label" for="jobLocationunitedstates">United States</label>
+</div>
+</div>
+<button class="clearMenu" type="button">
+<h5>Clear</h5>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="dropdown" id="selectJobBrands">
+<button aria-expanded="false" aria-haspopup="true" class="btn dropdown-toggle jobSearchDropdown jobBrands" data-toggle="dropdown" type="button">
+					Select brands
+				</button>
+<div class="dropdown-menu" id="JBDropdown">
+<div class="dropdownMenuClear">
+<div class="dropdownMenuOnly">
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobBrandaol" name="brands[]" type="checkbox" value="AOL"/>
+<label class="custom-control-label" for="jobBrandaol">AOL</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobBrandyahoo" name="brands[]" type="checkbox" value="Yahoo"/>
+<label class="custom-control-label" for="jobBrandyahoo">Yahoo</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobBrandyahooengineering" name="brands[]" type="checkbox" value="Yahoo Engineering"/>
+<label class="custom-control-label" for="jobBrandyahooengineering">Yahoo Engineering</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobBrandyahoofinance" name="brands[]" type="checkbox" value="Yahoo Finance"/>
+<label class="custom-control-label" for="jobBrandyahoofinance">Yahoo Finance</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobBrandyahoosports" name="brands[]" type="checkbox" value="Yahoo Sports"/>
+<label class="custom-control-label" for="jobBrandyahoosports">Yahoo Sports</label>
+</div>
+<div class="custom-control custom-checkbox JBCheckbox">
+<input class="custom-control-input" id="jobBrandyahoomail" name="brands[]" type="checkbox" value="Yahoo Mail"/>
+<label class="custom-control-label" for="jobBrandyahoomail">Yahoo Mail</label>
+</div>
+</div>
+<button class="clearMenu" type="button">
+<h5>Clear</h5>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-1">
+<div>
+<button class="btn my-2 my-lg-0 findJobs" id="index-page-find-jobs" type="submit">Find jobs</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+<hr id="lineHr"/>
+<div class="wrapperSection">
+<div id="wrap">
+<div class="container-fluid introVideo">
+<div class="row">
+<div class="col-4 side_video_text_align">
+<div>
+<div>
+<h2 class="text-left side_video_header_title">
+  Create. Amaze. Repeat.
+</h2>
+</div>
+<div>
+<p class="text-left"></p>
+<p>Spend every day connecting people with the things they love. Put technologies like XR, AI, and 5G to work. And make the digital world a better place. For all of us.</p>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-8">
+<div class="videoContainer">
+<video aria-label="Create. Amaze. Repeat. video" controls="" data-keepplaying="" loop="" muted="" onclick="this.play();" poster="https://s.yimg.com/cv/apiv2/default/20181220/dream-bigger-static.png" preload="none" tabindex="0">
+<source src="https://s.yimg.com/cv/apiv2/default/20190723/The_Great_Build_Main_v14-compressed__720p_.mp4" type="video/mp4"/>
+</video>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid benefits">
+<div class="row">
+<div class="col-2">
+<h3 class="text-left content-width">
+<p>
+  The Perks
+</p>
+</h3>
+</div>
+</div>
+<div class="row perkItems hideMobile">
+<div class="col-4">
+<div class="perkItem">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/home.svg?q=6976813"/>
+</div>
+<div>
+<h4>
+  Flexible work schedule
+</h4>
+<p></p>
+<p>
+  We’ll help you work where you need to, when you need to. Because life happens.
+</p>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="perkItem">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/agriculture-leaves.svg?q=6976814"/>
+</div>
+<div>
+<h4>
+  Room to grow
+</h4>
+<p></p>
+<p>
+  Learning is built into every role here. You’ll get mentorship and take ownership.
+</p>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="perkItem">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/group.svg?q=6976809"/>
+</div>
+<div>
+<h4>
+  We’ve got you covered
+</h4>
+<p></p>
+<p>
+  Our benefits include comprehensive healthcare, a great 401k, backup childcare, education stipends and so much more.
+</p>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="perkItem">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/group.svg?q=6976809"/>
+</div>
+<div>
+<h4>
+  Everyone has a voice
+</h4>
+<p></p>
+<p>
+  Innovation doesn’t know hierarchy. We make sure everyone is heard, considered and respected.
+</p>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="perkItem">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/move-to.svg?q=6976807"/>
+</div>
+<div>
+<h4>
+  Make your move
+</h4>
+<p></p>
+<p>
+  Come for a media job. Stay for a tech career. We support exploring new fields right under our own roof.
+</p>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="perkItem">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/dining.svg?q=6976810"/>
+</div>
+<div>
+<h4>
+  We’re positive. You’ll love it.
+</h4>
+<p></p>
+<p>
+  Ping pong tournaments, triathlon teams, and volunteerism. Need we say more?
+</p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+<div class="benefitCarousel hideDesktopTablet">
+<div class="perkItem">
+<div class="perkItemContainer">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="
+  https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/home.svg?q=6976813
+"/>
+<h4>
+  Flexible work schedule
+</h4>
+</div>
+<div>
+<p></p>
+<p>
+  We’ll help you work where you need to, when you need to. Because life happens.
+</p>
+<p></p>
+</div>
+</div>
+<button class="next-arrow"><img alt="rightarrow" src="https://s.yimg.com/cv/apiv2/vzm_careers/images/right-arrow.svg"/></button>
+</div>
+<div class="perkItem">
+<div class="perkItemContainer">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="
+  https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/agriculture-leaves.svg?q=6976814
+"/>
+<h4>
+  Room to grow
+</h4>
+</div>
+<div>
+<p></p>
+<p>
+  Learning is built into every role here. You’ll get mentorship and take ownership.
+</p>
+<p></p>
+</div>
+</div>
+<button class="next-arrow"><img alt="rightarrow" src="https://s.yimg.com/cv/apiv2/vzm_careers/images/right-arrow.svg"/></button>
+</div>
+<div class="perkItem">
+<div class="perkItemContainer">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="
+  https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/group.svg?q=6976809
+"/>
+<h4>
+  We’ve got you covered
+</h4>
+</div>
+<div>
+<p></p>
+<p>
+  Our benefits include comprehensive healthcare, a great 401k, backup childcare, education stipends and so much more.
+</p>
+<p></p>
+</div>
+</div>
+<button class="next-arrow"><img alt="rightarrow" src="https://s.yimg.com/cv/apiv2/vzm_careers/images/right-arrow.svg"/></button>
+</div>
+<div class="perkItem">
+<div class="perkItemContainer">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="
+  https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/group.svg?q=6976809
+"/>
+<h4>
+  Everyone has a voice
+</h4>
+</div>
+<div>
+<p></p>
+<p>
+  Innovation doesn’t know hierarchy. We make sure everyone is heard, considered and respected.
+</p>
+<p></p>
+</div>
+</div>
+<button class="next-arrow"><img alt="rightarrow" src="https://s.yimg.com/cv/apiv2/vzm_careers/images/right-arrow.svg"/></button>
+</div>
+<div class="perkItem">
+<div class="perkItemContainer">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="
+  https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/move-to.svg?q=6976807
+"/>
+<h4>
+  Make your move
+</h4>
+</div>
+<div>
+<p></p>
+<p>
+  Come for a media job. Stay for a tech career. We support exploring new fields right under our own roof.
+</p>
+<p></p>
+</div>
+</div>
+<button class="next-arrow"><img alt="rightarrow" src="https://s.yimg.com/cv/apiv2/vzm_careers/images/right-arrow.svg"/></button>
+</div>
+<div class="perkItem">
+<div class="perkItemContainer">
+<div class="perkIcon">
+<img alt="" class="perkIcon_size" src="
+  https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/dining.svg?q=6976810
+"/>
+<h4>
+  We’re positive. You’ll love it.
+</h4>
+</div>
+<div>
+<p></p>
+<p>
+  Ping pong tournaments, triathlon teams, and volunteerism. Need we say more?
+</p>
+<p></p>
+</div>
+</div>
+<button class="next-arrow"><img alt="rightarrow" src="https://s.yimg.com/cv/apiv2/vzm_careers/images/right-arrow.svg"/></button>
+</div>
+</div>
+</div>
+<div class="container-fluid champion">
+<div class="row">
+<div class="col-8">
+<div>
+<img alt="All Inclusive image" class="side_video_image" src="https://s3-us-west-1.amazonaws.com/acttools/api/vm_careers/images/Diversity_image.jpg?q=6976802"/>
+</div>
+</div>
+<div class="col-4 side_video_text_align">
+<div>
+<div class="championText">
+<h4 class="side_video_image_text">All Inclusive</h4>
+<p>Be yourself. That’s who we’re hiring. Our culture celebrates and supports the difference that make each of us unique. It’s how we build better products for the world...and career growth for you.</p>
+<p><a href="https://www.yahooinc.com/diversity/"><u>Learn more</u></a> about Diversity, Equity, Inclusion &amp; Belonging at Yahoo.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid billion">
+<div class="row">
+<div class="col-6">
+<h3 class="text-left captivating_millions_title">
+  CAPTIVATING MILLIONS, DAILY
+</h3>
+</div>
+</div>
+<div class="row">
+<div class="col-6">
+<p class="text-left billionSubtext"></p>
+<p>
+  With brands like Yahoo, RYOT, MAKERS and more, we provide the best in sports, finance, news, entertainment, and communications.
+</p>
+</div>
+</div>
+<div class="row logos h-100 hideMobile captivating_millions_list">
+<div class="col-4" data-id="">
+<div>
+<img alt="Yahoo" class="captivating_millions_image" id="logoImg1" src="https://s.yimg.com/cv/apiv2/default/20181220/yahoo2X.jpg"/>
+</div>
+<div>
+<h4 aria-describedby="logoImg1" class="logosTitle">
+  Start discovering
+</h4>
+<p></p><p>
+  Yahoo is a gateway to discovering topics you love across news, entertainment, sports and finance. 
+</p>
+<p></p>
+<div class="viewJobsWrapper">
+<div>
+<span data-label="Yahoo">120 positions</span>
+<!-- <span><script type="text/javascript">document.write(getBrandJobs("Yahoo"))</script></span> -->
+</div>
+<div class="viewJobs_text_arrow">
+<a aria-label="View jobs at Yahoo" class="viewJobs" href="#" onclick="brandSearch('Yahoo');"><span>View jobs</span>
+<img alt="" class="jobsCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/></a>
+<!-- <span class="jobsCaret"></span> -->
+</div>
+</div>
+</div>
+</div>
+<div class="col-4" data-id="">
+<div>
+<img alt="Yahoo" class="captivating_millions_image" id="logoImg1" src="https://s.yimg.com/cv/apiv2/default/20181220/yahoo_sports2X.jpg"/>
+</div>
+<div>
+<h4 aria-describedby="logoImg1" class="logosTitle">
+  Get fired up
+</h4>
+<p></p><p>
+  Yahoo Sports is the place where fans can get all their sports action, including live games.  
+</p>
+<p></p>
+<div class="viewJobsWrapper">
+<div>
+<span data-label="Yahoo Sports">10 positions</span>
+<!-- <span><script type="text/javascript">document.write(getBrandJobs("Yahoo Sports"))</script></span> -->
+</div>
+<div class="viewJobs_text_arrow">
+<a aria-label="View jobs at Yahoo" class="viewJobs" href="#" onclick="brandSearch('Yahoo Sports');"><span>View jobs</span>
+<img alt="" class="jobsCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/></a>
+<!-- <span class="jobsCaret"></span> -->
+</div>
+</div>
+</div>
+</div>
+<div class="col-4" data-id="">
+<div>
+<img alt="Yahoo" class="captivating_millions_image" id="logoImg1" src="https://s.yimg.com/cv/apiv2/default/20181220/yahoo_mail2X.jpg"/>
+</div>
+<div>
+<h4 aria-describedby="logoImg1" class="logosTitle">
+  Email for smart shoppers
+</h4>
+<p></p><p>
+  Surfacing the content you need so you never have to trawl your inbox again.
+</p>
+<p></p>
+<div class="viewJobsWrapper">
+<div>
+<span data-label="Yahoo Mail">25 positions</span>
+<!-- <span><script type="text/javascript">document.write(getBrandJobs("Yahoo Mail"))</script></span> -->
+</div>
+<div class="viewJobs_text_arrow">
+<a aria-label="View jobs at Yahoo" class="viewJobs" href="#" onclick="brandSearch('Yahoo Mail');"><span>View jobs</span>
+<img alt="" class="jobsCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/></a>
+<!-- <span class="jobsCaret"></span> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="brandCarousel logos hideDesktopTablet" id="brandsMobile">
+<div class="brandItem">
+<div>
+<img alt="Yahoo" class="captivating_millions_image" src="https://s.yimg.com/cv/apiv2/default/20181220/yahoo2X.jpg"/>
+</div>
+<div>
+<h4 class="logosTitle">
+  Start discovering
+</h4>
+<p></p><p>
+  Yahoo is a gateway to discovering topics you love across news, entertainment, sports and finance. 
+</p>
+<p></p>
+<div class="viewJobsWrapper">
+<div>
+<h5 class="positionsText" data-label="Yahoo">120 positions</h5>
+</div>
+<div class="viewJobs_text_arrow">
+<a aria-label="View jobs at Yahoo" class="viewJobs" href="#" onclick="brandSearch('Yahoo');"><h5>View jobs</h5>
+<img alt="rightarrow" class="jobsCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/></a>
+</div>
+</div>
+</div>
+</div>
+<div class="brandItem">
+<div>
+<img alt="Yahoo" class="captivating_millions_image" src="https://s.yimg.com/cv/apiv2/default/20181220/yahoo_sports2X.jpg"/>
+</div>
+<div>
+<h4 class="logosTitle">
+  Get fired up
+</h4>
+<p></p><p>
+  Yahoo Sports is the place where fans can get all their sports action, including live games.  
+</p>
+<p></p>
+<div class="viewJobsWrapper">
+<div>
+<h5 class="positionsText" data-label="Yahoo Sports">10 positions</h5>
+</div>
+<div class="viewJobs_text_arrow">
+<a aria-label="View jobs at Yahoo" class="viewJobs" href="#" onclick="brandSearch('Yahoo Sports');"><h5>View jobs</h5>
+<img alt="rightarrow" class="jobsCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/></a>
+</div>
+</div>
+</div>
+</div>
+<div class="brandItem">
+<div>
+<img alt="Yahoo" class="captivating_millions_image" src="https://s.yimg.com/cv/apiv2/default/20181220/yahoo_mail2X.jpg"/>
+</div>
+<div>
+<h4 class="logosTitle">
+  Email for smart shoppers
+</h4>
+<p></p><p>
+  Surfacing the content you need so you never have to trawl your inbox again.
+</p>
+<p></p>
+<div class="viewJobsWrapper">
+<div>
+<h5 class="positionsText" data-label="Yahoo Mail">25 positions</h5>
+</div>
+<div class="viewJobs_text_arrow">
+<a aria-label="View jobs at Yahoo" class="viewJobs" href="#" onclick="brandSearch('Yahoo Mail');"><h5>View jobs</h5>
+<img alt="rightarrow" class="jobsCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="infoArrow hideDesktopTablet">
+<div class="pageInfo">1/3</div>
+<button class="logoNext slick-arrow"><img alt="rightarrow" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/></button>
+</div>
+</div>
+<div class="container-fluid locationsMap hideTablet hideMobile">
+<div class="row">
+<div class="col-2">
+<h3 class="text-left content-width">
+  Worldwide Workplace
+</h3>
+</div>
+</div>
+<div class="row">
+<div class="col-8">
+<div class="map_text_div">
+<p class="text-left"></p>
+<p>
+  When you’re with us, you’re everywhere. Click to discover available opportunities around the world.
+</p>
+<p></p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-12">
+<div id="mapLocations">
+<!-- mapLocations-template goes here -->
+
+<div class="location pin-unitedstatesofamerica" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">United States</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">United States</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="United States"></h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('United States');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-brazil" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">Brazil</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">Brazil</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="Brazil"></h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('Brazil');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-ireland" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">Ireland</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">Ireland</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="Ireland">11 positions</h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('Ireland');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-unitedkingdom" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">United Kingdom</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">United Kingdom</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="United Kingdom"></h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('United Kingdom');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-germany" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">Germany</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">Germany</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="Germany">2 positions</h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('Germany');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-israel" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">Israel</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">Israel</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="Israel">4 positions</h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('Israel');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-india" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">India</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">India</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="India">3 positions</h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('India');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-japan" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">Japan</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">Japan</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="Japan">1 position</h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('Japan');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-taiwan" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">Taiwan</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">Taiwan</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="Taiwan">14 positions</h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('Taiwan');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-newzealand" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">New Zealand</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">New Zealand</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="New Zealand"></h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('New Zealand');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="location pin-australia" tabindex="0">
+<div class="pin">
+<span class="cityName map_location_title">Australia</span>
+<span class="pinLocation"></span>
+</div>
+<div class="cardTooltip map_cardTooltip_display">
+<div class="map_cardTooltip_div">
+<div class="card-body">
+<h5 class="card-title">Australia</h5>
+<p class="card-text"></p>
+<div class="map_link_div">
+<div>
+<h5 class="card-positions" data-location="Australia">1 position</h5>
+</div>
+<div>
+<a class="mapJobs map_link" href="#" onclick="locationSearch('Australia');">
+<h5 class="card-viewJobs">View jobs</h5>
+<img alt="rightarrow" class="mapCaret" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/arrowRight_purple.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<img alt="map" src="https://s.yimg.com/cv/apiv2/vzm_careers/images/map.svg?q=6976795"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid eeo">
+<div class="row">
+<div class="col-12 eeoText">
+<p></p>
+<p>Yahoo is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category.</p>
+<p>Yahoo is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit an<a href="/careers/contact-us.html"> accommodation request</a> or call 408-336-1409. Requests/calls received for non-disability related issues, such as following up on an application, will not receive a response.</p>
+</div>
+</div>
+<div class="row">
+<div class="col-12 eeoText">
+<ul>
+<li>
+<a href="
+  https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf
+" id="eeolink1" target="_default">
+  EEO is the law
+</a>
+</li>
+<li>
+<a href="
+  https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf
+" id="eeolink2" target="_default">
+  eVerify
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="mainFooter">
+<div class="footerContent d-flex w-100">
+<div class="col-2">
+<h5> Contact Us </h5>
+<ul>
+<ul><li><a href="https://help.aol.com/" target="_default">AOL Help</a></li>
+<li><a href="https://help.yahoo.com/kb/account" target="_default">Yahoo Help</a></li>
+<li><a href="/accessibility/">Accessibility</a></li>
+<li><a href="https://www.adtech.yahooinc.com">Yahoo Ad Tech</a></li>
+<li><a href="https://www.search.yahooinc.com" target="_default">Yahoo Search</a></li>
+</ul>
+</ul>
+</div>
+<div class="col-2">
+<h5> Legal </h5>
+<ul>
+<ul><li><a href="https://legal.yahoo.com/us/en/yahoo/privacy/index.html" target="_default">Privacy policy</a></li>
+<li><a href="https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html" target="_default">Terms of service</a></li>
+<li><a href="/business-and-human-rights/our-approach/" target="_default">Business &amp; human rights</a></li>
+<li><a href="https://www.beboundless.jp/policies/appi-notice">APPI notice</a></li>
+<li><a href="https://legal.yahoo.com/us/en/yahoo/privacy/california-personnel-privacy-notice/index.html" target="_default">CCPA notice</a></li>
+<li><a href="https://legal.yahoo.com/ie/en/yahoo/privacy/candidate-notice/index.html" target="_default">GDPR notice</a></li>
+<li><a href="https://legal.yahoo.com/br/pt/yahoo/privacy/candidate-notice/index.html" target="_default">LGPD notice</a></li>
+</ul>
+</ul>
+</div>
+<div class="col-2">
+<h5> Our Company </h5>
+<ul>
+<ul><li><a class="dropdownListItem" href="/about/" tabindex="0">About</a></li>
+<li><a class="dropdownListItem" href="/our-brands" tabindex="0">Our Brands</a></li>
+<li><a class="dropdownListItem" href="/our-business-solutions" tabindex="0">Our Business Solutions</a></li>
+<li><a class="dropdownListItem" href="/press/" tabindex="0">Press</a></li>
+<li><a class="dropdownListItem" href="/office-locations" tabindex="0">Office locations</a></li>
+</ul>
+</ul>
+</div>
+<div class="col-2">
+<h5> Join Us </h5>
+<ul>
+<ul><li>
+<p>Spend every day connecting people with the things they love.</p>
+</li>
+<li><a aria-current="page" class="linkBtn" href="/careers/">Search Jobs</a></li>
+</ul>
+</ul>
+</div>
+<div class="col-2">
+<h5> CCPA Notice </h5>
+<ul>
+</ul>
+</div>
+</div>
+<hr class="footerContent"/>
+<div class="footerContent">
+<div class="vmLogo">
+<a href="/">
+<img alt="Yahoo" height="31" src="https://s.yimg.com/cv/apiv2/yahooincsites/images/yahoo_logo_white.svg" width="110"/>
+</a>
+</div>
+<div class="credit">
+           
+                © 2024 Yahoo. All Rights Reserved.
+           
+        </div>
+</div>
+</div>
+<!-- Rapid implementation start -->
+
+
+<!-- Rapid implementation end -->
+
+
+<div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; position: fixed; visibility: hidden; display: block; transition: right 0.3s ease 0s; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe frameborder="0" height="60" name="a-4aak7wupm127" role="presentation" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" scrolling="no" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LeWOiIfAAAAAEbO7wAwK5PGq2Zj4Idvyphjo4qK&amp;co=aHR0cHM6Ly93d3cueWFob29pbmMuY29tOjQ0Mw..&amp;hl=en&amp;v=joHA60MeME-PNviL59xVH9zs&amp;size=invisible&amp;cb=mzou99um3pkq" title="reCAPTCHA" width="256"></iframe></div><div class="grecaptcha-error"></div><textarea class="g-recaptcha-response" id="g-recaptcha-response-100000" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be public to all users? Answer only with yes or no.

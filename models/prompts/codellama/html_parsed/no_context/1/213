@@ -1,0 +1,425 @@
+The following text is the html file of a webpage. <html class="no-touch" lang="en"><head>
+
+<!-- End Google Analytics -->
+<!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0" name="viewport"/>
+<title>About YouTube - YouTube</title>
+<meta content="YouTube’s mission is to give everyone a voice and show them the world. Learn about our brand, community, careers and more." name="description"/>
+<link href="https://about.youtube/" rel="canonical"/>
+<link href="https://about.youtube" hreflang="x-default" rel="alternate"/>
+<link href="https://www.gstatic.com/youtube/img/branding/favicon/favicon_48x48.png" rel="icon" sizes="48x48"/>
+<link href="https://www.gstatic.com/youtube/img/branding/favicon/favicon_72x72.png" rel="icon" sizes="72x72"/>
+<link href="https://www.gstatic.com/youtube/img/branding/favicon/favicon_96x96.png" rel="icon" sizes="96x96"/>
+<link href="https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png" rel="icon" sizes="144x144"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Condensed:700" nonce="" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=YouTube+Sans:300,400,500,700,900" nonce="" rel="stylesheet"/>
+<link href="/static/compiled/index.min.css?cache=48d9f82" nonce="" rel="stylesheet"/>
+<link href="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css" nonce="" rel="stylesheet"/>
+</head>
+<body class="ytabout" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1176.0"><div aria-labelledby="glue-cookie-notification-bar-1-label" class="glue-cookie-notification-bar" id="glue-cookie-notification-bar-1" role="region" style="font-size: 1rem;" tabindex="-1"><p class="glue-cookie-notification-bar__text"><span id="glue-cookie-notification-bar-1-label">about.youtube uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. </span><a aria-describedby="glue-cookie-notification-bar-1-label" aria-label="Learn more about how Google uses cookies. Opens in a new tab." class="glue-cookie-notification-bar__more" href="https://policies.google.com/technologies/cookies?hl=en" rel="noopener" target="_blank">Learn more</a>.</p><button class="glue-cookie-notification-bar__accept">OK, got it</button></div>
+<header aria-expanded="false" class="lb-header lb-header--with-nav lb-header--large lb-header--calculations-complete lb-header--initialized" lb-auto-init="LBHeader" lb-options="{
+      'sticky': true
+    }">
+<div class="lb-header__row">
+<div class="lb-header__row-left lb-header-js-row-left">
+<button aria-expanded="false" aria-label="Toggle navigation" class="lb-header__menu-button lb-header-js-menu-btn">
+<span class="lb-header__menu-button-box">
+<span class="lb-header__menu-button-stroke"></span>
+</span>
+</button> <a aria-label="Home page link" class="lb-header__logo-wrapper lb-header-js-logo-wrapper" href="/">
+<svg class="lb-header__logo lb-header-js-logo" version="1.0" viewbox="0 0 492 110" xmlns="http://www.w3.org/2000/svg">
+<path d="M154.3 17.5c-1.8-6.7-7.1-12-13.8-13.8C128.4.4 79.7.4 79.7.4S31 .5 18.9 3.8c-6.7 1.8-12 7.1-13.8 13.8C1.9 29.7 1.9 55 1.9 55s0 25.3 3.3 37.5c1.8 6.7 7.1 12 13.8 13.8 12.1 3.3 60.8 3.3 60.8 3.3s48.7 0 60.8-3.3c6.7-1.8 12-7.1 13.8-13.8 3.3-12.1 3.3-37.5 3.3-37.5s-.1-25.3-3.4-37.5z" fill="red"></path>
+<path d="M64.2 78.4L104.6 55 64.2 31.6z" fill="#fff"></path>
+<g>
+<g fill="#212121">
+<path d="M227.9 99.7c-3.1-2.1-5.3-5.3-6.6-9.7-1.3-4.4-1.9-10.2-1.9-17.5v-9.9c0-7.3.7-13.3 2.2-17.7 1.5-4.5 3.8-7.7 7-9.7 3.2-2 7.3-3.1 12.4-3.1 5 0 9.1 1 12.1 3.1s5.3 5.3 6.7 9.7c1.4 4.4 2.1 10.3 2.1 17.6v9.9c0 7.3-.7 13.1-2.1 17.5-1.4 4.4-3.6 7.6-6.7 9.7-3.1 2-7.3 3.1-12.5 3.1-5.4.1-9.6-1-12.7-3zM245.2 89c.9-2.2 1.3-5.9 1.3-10.9V56.8c0-4.9-.4-8.5-1.3-10.7-.9-2.3-2.4-3.4-4.5-3.4s-3.5 1.1-4.4 3.4c-.9 2.3-1.3 5.8-1.3 10.7v21.3c0 5 .4 8.7 1.2 10.9.8 2.2 2.3 3.3 4.5 3.3 2.1 0 3.6-1.1 4.5-3.3zM464.4 72.7v3.5c0 4.4.1 7.7.4 9.9.3 2.2.8 3.8 1.6 4.8s2.1 1.5 3.8 1.5c2.3 0 3.9-.9 4.7-2.7.9-1.8 1.3-4.8 1.4-8.9l13.3.8c.1.6.1 1.4.1 2.4 0 6.3-1.7 11-5.2 14.1-3.5 3.1-8.3 4.7-14.6 4.7-7.6 0-12.9-2.4-15.9-7.1-3-4.7-4.6-12.1-4.6-22V61.6c0-10.2 1.6-17.7 4.7-22.4 3.2-4.7 8.6-7.1 16.2-7.1 5.3 0 9.3 1 12.1 2.9 2.8 1.9 4.8 4.9 6 9 1.2 4.1 1.7 9.7 1.7 16.9v11.7h-25.7zm2-28.8c-.8 1-1.3 2.5-1.6 4.7-.3 2.2-.4 5.5-.4 10v4.9h11.2v-4.9c0-4.4-.1-7.7-.4-10-.3-2.3-.8-3.9-1.6-4.8-.8-.9-2-1.4-3.6-1.4-1.7.1-2.9.6-3.6 1.5zM190.5 71.4L173 8.2h15.3l6.1 28.6c1.6 7.1 2.7 13.1 3.5 18h.4c.5-3.6 1.7-9.5 3.5-17.9l6.3-28.7h15.3l-17.7 63.1v30.3h-15.1V71.4zM311.5 33.4v68.3h-12l-1.3-8.4h-.3c-3.3 6.3-8.2 9.5-14.7 9.5-4.5 0-7.9-1.5-10-4.5-2.2-3-3.2-7.6-3.2-13.9v-51h15.4v50.1c0 3 .3 5.2 1 6.5.7 1.3 1.8 1.9 3.3 1.9 1.3 0 2.6-.4 3.8-1.2 1.2-.8 2.1-1.9 2.7-3.1V33.4h15.3zM390.4 33.4v68.3h-12l-1.3-8.4h-.3c-3.3 6.3-8.2 9.5-14.7 9.5-4.5 0-7.9-1.5-10-4.5-2.2-3-3.2-7.6-3.2-13.9v-51h15.4v50.1c0 3 .3 5.2 1 6.5.7 1.3 1.8 1.9 3.3 1.9 1.3 0 2.6-.4 3.8-1.2 1.2-.8 2.1-1.9 2.7-3.1V33.4h15.3z"></path>
+<path d="M353.3 20.6H338v81.1h-15V20.6h-15.3V8.2h45.5v12.4zM441.2 44.3c-.9-4.3-2.4-7.4-4.5-9.4-2.1-1.9-4.9-2.9-8.6-2.9-2.8 0-5.5.8-7.9 2.4-2.5 1.6-4.3 3.7-5.7 6.3h-.1v-36h-14.8v96.9h12.7l1.6-6.5h.3c1.2 2.3 3 4.1 5.3 5.5 2.4 1.3 5 2 7.9 2 5.2 0 9-2.4 11.5-7.2 2.4-4.8 3.7-12.3 3.7-22.4V62.2c0-7.6-.5-13.6-1.4-17.9zm-14.1 27.9c0 5-.2 8.9-.6 11.7-.4 2.8-1.1 4.8-2.1 6-1 1.2-2.3 1.8-3.9 1.8-1.3 0-2.4-.3-3.5-.9-1.1-.6-1.9-1.5-2.6-2.7V49.3c.5-1.9 1.4-3.4 2.7-4.6 1.3-1.2 2.6-1.8 4.1-1.8 1.6 0 2.8.6 3.6 1.8.9 1.2 1.4 3.3 1.8 6.2.3 2.9.5 7 .5 12.4v8.9z"></path>
+</g>
+</g>
+</svg>
+</a> <a class="lb-button lb-header__jump-to" href="#content">
+        Jump to content
+      </a> <div class="lb-header__nav-wrapper lb-header-js-nav-wrapper">
+<nav class="lb-header__nav lb-header-js-nav">
+<div class="lb-header__nav-item-wrapper">
+<a class="lb-header-js-nav-item lb-header__nav-item" href="https://www.youtube.com/howyoutubeworks/" tabindex="0">
+              How YouTube Works
+            </a>
+</div>
+<div class="lb-header__nav-item-wrapper">
+<a class="lb-header-js-nav-item lb-header__nav-item" href="https://www.youtube.com/creators/" tabindex="0">
+              Creators
+            </a>
+</div>
+<div class="lb-header__nav-item-wrapper">
+<a class="lb-header-js-nav-item lb-header__nav-item" href="https://www.youtube.com/trends/" tabindex="0">
+              Culture &amp; Trends
+            </a>
+</div>
+<div class="lb-header__nav-item-wrapper">
+<a class="lb-header-js-nav-item lb-header__nav-item" href="https://blog.youtube/" tabindex="0">
+              Blog
+            </a>
+</div>
+</nav>
+</div> </div> </div> </header> <div class="ytabout__hero">
+<img alt="" role="presentation" src="https://lh3.googleusercontent.com/L4haMN-TsQNGw4OkWKqEbmOU5e6giwJ0_wLgv_8QE05kOladEeYRHBOM2TpCilDdpcsprB8Y8E2Z7_LZQq0eOmf-vy4SAV9cRJxP96IQumGOKT4hIatk=s3000-rw"/>
+</div>
+<main class="ytabout__main lb-padding-top-xl lb-padding-bottom-xl" id="content">
+<section class="ytabout__content">
+<h1 class="lb-font-display-1 lb-font-weight-700 lb-font-color-text-primary lb-font--no-crop">
+          About YouTube
+        </h1>
+<p class="lb-font-display-3 lb-font-color-text-primary">
+          Our mission is to give everyone a voice and show them the world.
+        </p>
+<p class="lb-font-display-3 lb-font-color-text-primary">
+          We believe that everyone deserves to have a voice, and that the world is a better place when we listen, share and build community through our stories.
+        </p>
+<section>
+</section></section></main>
+<footer class="lb-footer lb-footer--legacy lb-footer--initialized" lb-auto-init="LBFooter" role="contentinfo">
+<div class="lb-footer__inner">
+<section class="lb-footer__section lb-footer__social">
+<h3 class="lb-font-footnote lb-font--no-crop lb-font-weight-500 lb-footer__social-headline">
+          Connect
+        </h3>
+<a aria-label="Twitter" class="lb-footer__social-link" href="https://twitter.com/YouTube" rel="noreferrer nofollow" target="_blank" title="Twitter">
+<svg viewbox="0 0 20 18" xmlns="http://www.w3.org/2000/svg"><path d="M20 2.745a8.121 8.121 0 0 1-2.357.655 4.158 4.158 0 0 0 1.804-2.3 8.153 8.153 0 0 1-2.605 1.01A4.074 4.074 0 0 0 13.847.796c-2.266 0-4.104 1.86-4.104 4.155 0 .326.037.643.107.947-3.41-.173-6.434-1.828-8.458-4.341a4.176 4.176 0 0 0-.555 2.089c0 1.441.724 2.713 1.825 3.458a4.048 4.048 0 0 1-1.858-.52v.053c0 2.013 1.414 3.693 3.29 4.074a4.063 4.063 0 0 1-1.852.071c.522 1.651 2.037 2.853 3.833 2.886A8.168 8.168 0 0 1 0 15.39a11.509 11.509 0 0 0 6.29 1.867c7.547 0 11.674-6.332 11.674-11.823 0-.18-.004-.36-.012-.538A8.399 8.399 0 0 0 20 2.746" fill-rule="evenodd"></path></svg>
+</a>
+<a aria-label="Instagram" class="lb-footer__social-link" href="https://www.instagram.com/youtube/" rel="noreferrer nofollow" target="_blank" title="Instagram">
+<svg viewbox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M9 1.622c2.403 0 2.688.009 3.637.052.877.04 1.354.187 1.67.31.421.163.72.358 1.036.673.315.315.51.615.673 1.035.123.317.27.794.31 1.671.043.95.052 1.234.052 3.637s-.009 2.688-.052 3.637c-.04.877-.187 1.354-.31 1.671-.163.42-.358.72-.673 1.035-.315.315-.615.51-1.035.673-.317.123-.794.27-1.671.31-.95.043-1.234.052-3.637.052s-2.688-.009-3.637-.052c-.877-.04-1.354-.187-1.67-.31a2.788 2.788 0 0 1-1.036-.673 2.788 2.788 0 0 1-.673-1.035c-.123-.317-.27-.794-.31-1.671-.043-.95-.052-1.234-.052-3.637s.009-2.688.052-3.637c.04-.877.187-1.354.31-1.67.163-.421.358-.72.673-1.036.315-.315.615-.51 1.035-.673.317-.123.794-.27 1.671-.31.95-.043 1.234-.052 3.637-.052zM9 0C6.556 0 6.25.01 5.29.054 4.33.098 3.676.25 3.104.473A4.412 4.412 0 0 0 1.51 1.51c-.5.5-.809 1.002-1.039 1.594C.25 3.677.098 4.33.054 5.289.01 6.25 0 6.556 0 9s.01 2.75.054 3.71c.044.959.196 1.613.418 2.185.23.592.538 1.094 1.039 1.594.5.5 1.002.809 1.594 1.039.572.222 1.226.374 2.184.418C6.25 17.99 6.556 18 9 18s2.75-.01 3.71-.054c.959-.044 1.613-.196 2.185-.418a4.412 4.412 0 0 0 1.594-1.039c.5-.5.808-1.002 1.038-1.594.223-.572.375-1.226.419-2.184C17.99 11.75 18 11.444 18 9s-.01-2.75-.054-3.71c-.044-.959-.196-1.613-.419-2.185A4.412 4.412 0 0 0 16.49 1.51c-.5-.5-1.002-.808-1.594-1.038C14.323.25 13.67.098 12.711.054 11.75.01 11.444 0 9 0zm0 4.378a4.622 4.622 0 1 0 0 9.244 4.622 4.622 0 0 0 0-9.244zM9 12a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm5.884-7.804a1.08 1.08 0 1 1-2.16 0 1.08 1.08 0 0 1 2.16 0z" fill-rule="nonzero"></path></svg>
+</a>
+<a aria-label="Facebook" class="lb-footer__social-link" href="https://www.facebook.com/youtube/?ref=br_r" rel="noreferrer nofollow" target="_blank" title="Facebook">
+<svg viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M13.524 19.608v-7.59h2.547l.382-2.958h-2.93V7.17c0-.856.238-1.44 1.467-1.44h1.566V3.084c-.271-.036-1.2-.117-2.282-.117-2.259 0-3.805 1.379-3.805 3.91V9.06H7.915v2.958h2.554v7.59H1.082A1.082 1.082 0 0 1 0 18.526V1.082C0 .484.484 0 1.082 0h17.444c.597 0 1.082.484 1.082 1.082v17.444c0 .597-.485 1.082-1.082 1.082h-5.002z" fill-rule="evenodd"></path></svg>
+</a>
+</section>
+<section class="lb-footer__section lb-footer__standard">
+<div class="lb-expansion-panel lb-js-expansion lb-expansion-panel--open lb-expansion-panel--initialized" lb-auto-init="LBExpansionPanel" lb-expansion-panel-options="{'family': 'lb-footer'}" style="--transition-duration--surface: .25s;">
+<div aria-level="2" class="lb-expansion-panel__heading lb-margin-top-xxs" role="heading">
+<div aria-controls="id-panel-1" aria-expanded="false" class="lb-expansion-panel__trigger lb-expansion-panel__trigger--about-youtube lb-expansion-panel__trigger--hide lb-expansion-panel-trigger--initialized" id="id-panel-header-1" lb-auto-init="LBExpansionPanelTrigger" lb-expansion-panel-trigger-options="{'family': 'lb-footer', 'index': 0}" role="button" tabindex="0">
+<span class="lb-expansion-panel__trigger-name lb-font--no-crop">
+                    About YouTube
+                  </span>
+<span class="lb-expansion-panel__trigger-icon">
+<svg fill="none" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.41 0.589966L6 5.16997L10.59 0.589966L12 1.99997L6 7.99997L0 1.99997L1.41 0.589966Z" fill="#606060"></path>
+</svg>
+</span>
+</div>
+</div>
+<div aria-labelledby="id-panel-header-1" class="lb-expansion-panel__surface" id="id-panel-1" role="region" style="--visibility--surface: visible; --height--surface: 0px; --opacity--surface: 1;">
+<div class="lb-expansion-panel__surface-content">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/about/" tabindex="0">
+                        About
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://blog.youtube/" tabindex="0">
+                        Blog
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/howyoutubeworks/" tabindex="0">
+                        How YouTube Works
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/jobs/" tabindex="0">
+                        Jobs
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://blog.youtube/press/" tabindex="0">
+                        Press
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/trends/" tabindex="0">
+                        YouTube Culture &amp; Trends
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://tv.youtube.com/learn/nflsundayticket" tabindex="0">
+                        NFL Sunday Ticket
+                      </a>
+</div>
+</div>
+<div class="lb-expansion-panel__divider"></div>
+</div>
+<div class="lb-expansion-panel lb-js-expansion lb-expansion-panel--open lb-expansion-panel--initialized" lb-auto-init="LBExpansionPanel" lb-expansion-panel-options="{'family': 'lb-footer'}" style="--transition-duration--surface: .25s;">
+<div aria-level="2" class="lb-expansion-panel__heading lb-margin-top-xxs" role="heading">
+<div aria-controls="id-panel-2" aria-expanded="false" class="lb-expansion-panel__trigger lb-expansion-panel__trigger--products lb-expansion-panel__trigger--hide lb-expansion-panel-trigger--initialized" id="id-panel-header-2" lb-auto-init="LBExpansionPanelTrigger" lb-expansion-panel-trigger-options="{'family': 'lb-footer', 'index': 1}" role="button" tabindex="0">
+<span class="lb-expansion-panel__trigger-name lb-font--no-crop">
+                    Products
+                  </span>
+<span class="lb-expansion-panel__trigger-icon">
+<svg fill="none" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.41 0.589966L6 5.16997L10.59 0.589966L12 1.99997L6 7.99997L0 1.99997L1.41 0.589966Z" fill="#606060"></path>
+</svg>
+</span>
+</div>
+</div>
+<div aria-labelledby="id-panel-header-2" class="lb-expansion-panel__surface" id="id-panel-2" role="region" style="--visibility--surface: visible; --height--surface: 0px; --opacity--surface: 1;">
+<div class="lb-expansion-panel__surface-content">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/kids/" tabindex="0">
+                        YouTube Kids
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/musicpremium" tabindex="0">
+                        YouTube Music
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ" tabindex="0">
+                        YouTube Originals
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/creators/podcasts/" tabindex="0">
+                        YouTube Podcasts
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/premium/" tabindex="0">
+                        YouTube Premium
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/ads/youtube-select/" tabindex="0">
+                        YouTube Select
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://studio.youtube.com/" tabindex="0">
+                        YouTube Studio
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://tv.youtube.com/" tabindex="0">
+                        YouTube TV
+                      </a>
+</div>
+</div>
+<div class="lb-expansion-panel__divider"></div>
+</div>
+<div class="lb-expansion-panel lb-js-expansion lb-expansion-panel--open lb-expansion-panel--initialized" lb-auto-init="LBExpansionPanel" lb-expansion-panel-options="{'family': 'lb-footer'}" style="--transition-duration--surface: .25s;">
+<div aria-level="2" class="lb-expansion-panel__heading lb-margin-top-xxs" role="heading">
+<div aria-controls="id-panel-3" aria-expanded="false" class="lb-expansion-panel__trigger lb-expansion-panel__trigger--for-business lb-expansion-panel__trigger--hide lb-expansion-panel-trigger--initialized" id="id-panel-header-3" lb-auto-init="LBExpansionPanelTrigger" lb-expansion-panel-trigger-options="{'family': 'lb-footer', 'index': 2}" role="button" tabindex="0">
+<span class="lb-expansion-panel__trigger-name lb-font--no-crop">
+                    For Business
+                  </span>
+<span class="lb-expansion-panel__trigger-icon">
+<svg fill="none" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.41 0.589966L6 5.16997L10.59 0.589966L12 1.99997L6 7.99997L0 1.99997L1.41 0.589966Z" fill="#606060"></path>
+</svg>
+</span>
+</div>
+</div>
+<div aria-labelledby="id-panel-header-3" class="lb-expansion-panel__surface" id="id-panel-3" role="region" style="--visibility--surface: visible; --height--surface: 0px; --opacity--surface: 1;">
+<div class="lb-expansion-panel__surface-content">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://developers.google.com/youtube" tabindex="0">
+                        Developers
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/ads/" tabindex="0">
+                        YouTube Advertising
+                      </a>
+</div>
+</div>
+<div class="lb-expansion-panel__divider"></div>
+</div>
+<div class="lb-expansion-panel lb-js-expansion lb-expansion-panel--open lb-expansion-panel--initialized" lb-auto-init="LBExpansionPanel" lb-expansion-panel-options="{'family': 'lb-footer'}" style="--transition-duration--surface: .25s;">
+<div aria-level="2" class="lb-expansion-panel__heading lb-margin-top-xxs" role="heading">
+<div aria-controls="id-panel-4" aria-expanded="false" class="lb-expansion-panel__trigger lb-expansion-panel__trigger--for-creators lb-expansion-panel__trigger--hide lb-expansion-panel-trigger--initialized" id="id-panel-header-4" lb-auto-init="LBExpansionPanelTrigger" lb-expansion-panel-trigger-options="{'family': 'lb-footer', 'index': 3}" role="button" tabindex="0">
+<span class="lb-expansion-panel__trigger-name lb-font--no-crop">
+                    For Creators
+                  </span>
+<span class="lb-expansion-panel__trigger-icon">
+<svg fill="none" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.41 0.589966L6 5.16997L10.59 0.589966L12 1.99997L6 7.99997L0 1.99997L1.41 0.589966Z" fill="#606060"></path>
+</svg>
+</span>
+</div>
+</div>
+<div aria-labelledby="id-panel-header-4" class="lb-expansion-panel__surface" id="id-panel-4" role="region" style="--visibility--surface: visible; --height--surface: 0px; --opacity--surface: 1;">
+<div class="lb-expansion-panel__surface-content">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/yt/family/" tabindex="0">
+                        Creating for YouTube Kids
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/creatorresearch/" tabindex="0">
+                        Creator Research
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://servicesdirectory.withyoutube.com/" tabindex="0">
+                        Creator Services Directory
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://artists.youtube.com/" tabindex="0">
+                        YouTube Artists
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/creators/" tabindex="0">
+                        YouTube Creators
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/nextup/" tabindex="0">
+                        YouTube NextUp
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://vr.youtube.com/" tabindex="0">
+                        YouTube VR
+                      </a>
+</div>
+</div>
+<div class="lb-expansion-panel__divider"></div>
+</div>
+<div class="lb-expansion-panel lb-js-expansion lb-expansion-panel--open lb-expansion-panel--initialized" lb-auto-init="LBExpansionPanel" lb-expansion-panel-options="{'family': 'lb-footer'}" style="--transition-duration--surface: .25s;">
+<div aria-level="2" class="lb-expansion-panel__heading lb-margin-top-xxs" role="heading">
+<div aria-controls="id-panel-5" aria-expanded="false" class="lb-expansion-panel__trigger lb-expansion-panel__trigger--our-commitments lb-expansion-panel__trigger--hide lb-expansion-panel-trigger--initialized" id="id-panel-header-5" lb-auto-init="LBExpansionPanelTrigger" lb-expansion-panel-trigger-options="{'family': 'lb-footer', 'index': 4}" role="button" tabindex="0">
+<span class="lb-expansion-panel__trigger-name lb-font--no-crop">
+                    Our Commitments
+                  </span>
+<span class="lb-expansion-panel__trigger-icon">
+<svg fill="none" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.41 0.589966L6 5.16997L10.59 0.589966L12 1.99997L6 7.99997L0 1.99997L1.41 0.589966Z" fill="#606060"></path>
+</svg>
+</span>
+</div>
+</div>
+<div aria-labelledby="id-panel-header-5" class="lb-expansion-panel__surface" id="id-panel-5" role="region" style="--visibility--surface: visible; --height--surface: 0px; --opacity--surface: 1;">
+<div class="lb-expansion-panel__surface-content">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/creators-for-change/" tabindex="0">
+                        Creators for Change
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/csai-match/" tabindex="0">
+                        CSAI Match
+                      </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://socialimpact.youtube.com/" tabindex="0">
+                        Social Impact
+                      </a>
+</div>
+</div>
+</div>
+<div class="lb-footer__standard-menu-titles">
+<h3 class="lb-font-body lb-font-weight-500 lb-footer__standard-menu-title">
+              About YouTube
+            </h3>
+<h3 class="lb-font-body lb-font-weight-500 lb-footer__standard-menu-title">
+              Products
+            </h3>
+<h3 class="lb-font-body lb-font-weight-500 lb-footer__standard-menu-title">
+              For Business
+            </h3>
+<h3 class="lb-font-body lb-font-weight-500 lb-footer__standard-menu-title">
+              For Creators
+            </h3>
+<h3 class="lb-font-body lb-font-weight-500 lb-footer__standard-menu-title">
+              Our Commitments
+            </h3>
+</div>
+<div class="lb-footer__standard-menus">
+<nav aria-label="About YouTube" class="lb-footer__standard-menu">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/about/">
+                    About
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://blog.youtube/">
+                    Blog
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/howyoutubeworks/">
+                    How YouTube Works
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/jobs/">
+                    Jobs
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://blog.youtube/press/">
+                    Press
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/trends/">
+                    YouTube Culture &amp; Trends
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://tv.youtube.com/learn/nflsundayticket">
+                    NFL Sunday Ticket
+                  </a>
+</nav>
+<nav aria-label="Products" class="lb-footer__standard-menu">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/kids/">
+                    YouTube Kids
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/musicpremium">
+                    YouTube Music
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ">
+                    YouTube Originals
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/creators/podcasts/">
+                    YouTube Podcasts
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/premium/">
+                    YouTube Premium
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/ads/youtube-select/">
+                    YouTube Select
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://studio.youtube.com/">
+                    YouTube Studio
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://tv.youtube.com/">
+                    YouTube TV
+                  </a>
+</nav>
+<nav aria-label="For Business" class="lb-footer__standard-menu">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://developers.google.com/youtube">
+                    Developers
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/ads/">
+                    YouTube Advertising
+                  </a>
+</nav>
+<nav aria-label="For Creators" class="lb-footer__standard-menu">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/yt/family/">
+                    Creating for YouTube Kids
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/creatorresearch/">
+                    Creator Research
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://servicesdirectory.withyoutube.com/">
+                    Creator Services Directory
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://artists.youtube.com/">
+                    YouTube Artists
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/creators/">
+                    YouTube Creators
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/nextup/">
+                    YouTube NextUp
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://vr.youtube.com/">
+                    YouTube VR
+                  </a>
+</nav>
+<nav aria-label="Our Commitments" class="lb-footer__standard-menu">
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/creators-for-change/">
+                    Creators for Change
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://www.youtube.com/csai-match/">
+                    CSAI Match
+                  </a>
+<a class="lb-font-footnote lb-footer__standard-menu-link" href="https://socialimpact.youtube.com/">
+                    Social Impact
+                  </a>
+</nav>
+</div>
+</section>
+<section class="lb-footer__section lb-footer__minimal">
+<div class="lb-footer__minimal-logo-links">
+<div class="lb-footer__logo">
+<a aria-label="YouTube" href="https://www.youtube.com">
+<svg height="24" width="108" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M0 .268H34.46V24H0z" id="a"></path></defs><g fill-rule="evenodd"><path d="M0 0h108v24H0z" fill="none"></path><path d="M41.792 23.024v-6.552L38.024 2.864h3.288l1.32 6.168c.312 1.416.6 2.928.744 3.888h.096c.144-.96.456-2.496.744-3.864l1.368-6.192h3.288l-3.816 13.608v6.552h-3.264zm10.84.216c-3.504 0-4.584-1.944-4.584-6.528v-2.136C48.048 9.824 49.44 8 52.704 8s4.512 1.896 4.512 6.576v2.136c0 4.632-1.176 6.528-4.584 6.528zm0-2.256c.96 0 1.248-.96 1.248-3.072v-4.584c0-2.016-.288-3.048-1.248-3.048-.936 0-1.224 1.032-1.224 3.048v4.584c0 2.112.288 3.072 1.224 3.072zm12.04-12.696h3.312V23h-2.592l-.288-1.8h-.072c-.744 1.44-1.824 2.04-3.168 2.04-1.968 0-2.856-1.248-2.856-3.96V8.288h3.312v10.8c0 1.296.264 1.824.936 1.824.576 0 1.152-.384 1.416-.936V8.288zM77.12 2.864v2.664h-3.288V23h-3.24V5.528h-3.288V2.864h9.816zm5.008 5.424h3.312V23h-2.592l-.288-1.8h-.072c-.744 1.44-1.824 2.04-3.168 2.04-1.968 0-2.856-1.248-2.856-3.96V8.288h3.312v10.8c0 1.296.264 1.824.936 1.824.576 0 1.152-.384 1.416-.936V8.288zM93.784 8c2.328 0 3.12 1.656 3.12 6.504v2.328c0 4.392-1.032 6.384-3.264 6.384-1.224 0-2.328-.6-2.856-1.608h-.072L90.376 23H87.64V2.12h3.192v4.224c0 1.104.024 2.208-.072 3.528h.096C91.408 8.768 92.536 8 93.784 8zm-.216 8.64v-1.896c0-3.408-.288-4.392-1.272-4.392-.624 0-1.224.552-1.464 1.368v8.352c.288.528.792.768 1.32.768 1.056 0 1.416-1.008 1.416-4.2zm13.768.12h-5.544v.744c0 2.592.144 3.48 1.248 3.48 1.056 0 1.296-.816 1.32-2.496l2.856.168c.216 3.168-1.44 4.584-4.248 4.584-3.408 0-4.416-2.232-4.416-6.288v-2.568c0-4.272 1.128-6.36 4.512-6.36 3.408 0 4.272 1.776 4.272 6.216v2.52zm-4.344-6.504c-1.032 0-1.2.792-1.2 3.48v1.056h2.424v-1.056c0-2.712-.192-3.48-1.224-3.48z" fill-rule="nonzero"></path><mask fill="#fff" id="b"><use xlink:href="#a"></use></mask><path d="M33.739 3.974c.72 2.644.72 8.16.72 8.16s0 5.516-.72 8.16a4.282 4.282 0 0 1-3.047 2.998C28.005 24 17.229 24 17.229 24s-10.775 0-13.462-.708A4.282 4.282 0 0 1 .72 20.294C0 17.65 0 12.134 0 12.134s0-5.516.72-8.16A4.281 4.281 0 0 1 3.767.977C6.454.268 17.229.268 17.229.268s10.776 0 13.463.709a4.281 4.281 0 0 1 3.047 2.997zM13.783 17.22l8.953-5.086-8.953-5.085v10.17z" mask="url(#b)"></path></g></svg>
+</a>
+</div>
+<nav class="lb-footer__minimal-links">
+<a class="lb-font-footnote lb-font--no-crop lb-footer__minimal-link" href="https://www.youtube.com/about/policies/">
+              Policies &amp; Safety
+            </a>
+<a class="lb-font-footnote lb-font--no-crop lb-footer__minimal-link" href="https://www.youtube.com/about/copyright/">
+              Copyright
+            </a>
+<a class="lb-font-footnote lb-font--no-crop lb-footer__minimal-link" href="https://www.youtube.com/about/brand-resources/">
+              Brand Guidelines
+            </a>
+<a class="lb-font-footnote lb-font--no-crop lb-footer__minimal-link" href="https://www.google.com/policies/privacy/">
+              Privacy
+            </a>
+<a class="lb-font-footnote lb-font--no-crop lb-footer__minimal-link" href="https://www.youtube.com/t/terms">
+              Terms
+            </a>
+</nav>
+</div>
+<div class="lb-footer__minimal-help-langs">
+<div class="lb-footer__help">
+<a class="lb-font-footnote" href="https://support.google.com/youtube/#topic=9257498">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"></path></svg>
+            Help
+          </a>
+</div>
+</div>
+</section>
+</div>
+</footer>
+
+
+<textarea id="BFI_DATA" style="width: 1px; height: 1px; display: none;"></textarea><title> </title><div class="LTRStyle" id="WidgetFloaterPanels" style="display: none; text-align: left; direction: ltr; visibility: hidden;" translate="no"> <div id="WidgetFloater" onmouseout="Microsoft.Translator.OnMouseOutFloater()" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <div id="WidgetLogoPanel"> <span id="WidgetTranslateWithSpan"><span>TRANSLATE with </span><img id="FloaterLogo"/></span> <span id="WidgetCloseButton" onclick="Microsoft.Translator.FloaterOnClose()" title="Exit Translation">x</span></div> <div id="LanguageMenuPanel"> <div class="DDStyle_outer"><input autocomplete="on" id="LanguageMenu_svid" name="LanguageMenu_svid" onclick="this.select()" style="display:none;" type="text" value="en"/> <input autocomplete="on" id="LanguageMenu_textid" name="LanguageMenu_textid" onclick="this.select()" style="display:none;" type="text"/> <span class="DDStyle" id="__LanguageMenu_header" onclick="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onkeydown="return LanguageMenu &amp;&amp; !LanguageMenu.Show('__LanguageMenu_popup', event);" onselectstart="return false" tabindex="0">English</span> <div style="position:relative;text-align:left;left:0;"><div style="position:absolute;width:;left:0px;"><div class="DDStyle" id="__LanguageMenu_popup" style="display:none;"> <table border="0" id="LanguageMenu"> <tbody><tr> <td><a href="#ar" onclick="return LanguageMenu.onclick('ar');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Arabic</a></td><td><a href="#he" onclick="return LanguageMenu.onclick('he');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hebrew</a></td><td><a href="#pl" onclick="return LanguageMenu.onclick('pl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Polish</a></td> </tr><tr> <td><a href="#bg" onclick="return LanguageMenu.onclick('bg');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Bulgarian</a></td><td><a href="#hi" onclick="return LanguageMenu.onclick('hi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hindi</a></td><td><a href="#pt" onclick="return LanguageMenu.onclick('pt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Portuguese</a></td> </tr><tr> <td><a href="#ca" onclick="return LanguageMenu.onclick('ca');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Catalan</a></td><td><a href="#mww" onclick="return LanguageMenu.onclick('mww');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hmong Daw</a></td><td><a href="#ro" onclick="return LanguageMenu.onclick('ro');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Romanian</a></td> </tr><tr> <td><a href="#zh-CHS" onclick="return LanguageMenu.onclick('zh-CHS');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Simplified</a></td><td><a href="#hu" onclick="return LanguageMenu.onclick('hu');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Hungarian</a></td><td><a href="#ru" onclick="return LanguageMenu.onclick('ru');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Russian</a></td> </tr><tr> <td><a href="#zh-CHT" onclick="return LanguageMenu.onclick('zh-CHT');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Chinese Traditional</a></td><td><a href="#id" onclick="return LanguageMenu.onclick('id');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Indonesian</a></td><td><a href="#sk" onclick="return LanguageMenu.onclick('sk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovak</a></td> </tr><tr> <td><a href="#cs" onclick="return LanguageMenu.onclick('cs');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Czech</a></td><td><a href="#it" onclick="return LanguageMenu.onclick('it');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Italian</a></td><td><a href="#sl" onclick="return LanguageMenu.onclick('sl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Slovenian</a></td> </tr><tr> <td><a href="#da" onclick="return LanguageMenu.onclick('da');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Danish</a></td><td><a href="#ja" onclick="return LanguageMenu.onclick('ja');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Japanese</a></td><td><a href="#es" onclick="return LanguageMenu.onclick('es');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Spanish</a></td> </tr><tr> <td><a href="#nl" onclick="return LanguageMenu.onclick('nl');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Dutch</a></td><td><a href="#tlh" onclick="return LanguageMenu.onclick('tlh');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Klingon</a></td><td><a href="#sv" onclick="return LanguageMenu.onclick('sv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Swedish</a></td> </tr><tr> <td><a href="#en" onclick="return LanguageMenu.onclick('en');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">English</a></td><td><a href="#ko" onclick="return LanguageMenu.onclick('ko');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Korean</a></td><td><a href="#th" onclick="return LanguageMenu.onclick('th');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Thai</a></td> </tr><tr> <td><a href="#et" onclick="return LanguageMenu.onclick('et');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Estonian</a></td><td><a href="#lv" onclick="return LanguageMenu.onclick('lv');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Latvian</a></td><td><a href="#tr" onclick="return LanguageMenu.onclick('tr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Turkish</a></td> </tr><tr> <td><a href="#fi" onclick="return LanguageMenu.onclick('fi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Finnish</a></td><td><a href="#lt" onclick="return LanguageMenu.onclick('lt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Lithuanian</a></td><td><a href="#uk" onclick="return LanguageMenu.onclick('uk');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Ukrainian</a></td> </tr><tr> <td><a href="#fr" onclick="return LanguageMenu.onclick('fr');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">French</a></td><td><a href="#ms" onclick="return LanguageMenu.onclick('ms');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Malay</a></td><td><a href="#ur" onclick="return LanguageMenu.onclick('ur');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Urdu</a></td> </tr><tr> <td><a href="#de" onclick="return LanguageMenu.onclick('de');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">German</a></td><td><a href="#mt" onclick="return LanguageMenu.onclick('mt');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Maltese</a></td><td><a href="#vi" onclick="return LanguageMenu.onclick('vi');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Vietnamese</a></td> </tr><tr> <td><a href="#el" onclick="return LanguageMenu.onclick('el');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Greek</a></td><td><a href="#no" onclick="return LanguageMenu.onclick('no');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Norwegian</a></td><td><a href="#cy" onclick="return LanguageMenu.onclick('cy');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Welsh</a></td> </tr><tr> <td><a href="#ht" onclick="return LanguageMenu.onclick('ht');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Haitian Creole</a></td><td><a href="#fa" onclick="return LanguageMenu.onclick('fa');" ondragstart="LanguageMenu.ondragstart(event);" tabindex="-1">Persian</a></td><td></td> </tr> </tbody></table> <img alt="" style="height:7px;width:17px;border-width:0px;left:20px;"/> </div></div></div></div>  </div> <div id="CTFLinksPanel"> <span id="ExternalLinksPanel"><a href="https://go.microsoft.com/?linkid=9722454" id="HelpLink" target="_blank" title="Help"> <img id="HelpImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowEmbed()" id="EmbedLink" title="Get this widget for your own site"> <img id="EmbedImg"/></a> <a href="javascript:Microsoft.Translator.FloaterShowSharePanel()" id="ShareLink" title="Share translated page with friends"> <img id="ShareImg"/></a> </span> </div> <div id="FloaterProgressBar"> <span id="ProgressFill"></span> </div> </div> <div id="WidgetFloaterCollapsed" onmouseover="Microsoft.Translator.OnMouseOverFloater()" style="display: none"> <span>TRANSLATE with </span><img id="CollapsedLogoImg"/></div> <div id="FloaterSharePanel" style="display: none"> <div id="ShareTextDiv"> <span id="ShareTextSpan"> COPY THE URL BELOW </span> </div> <div id="ShareTextboxDiv"> <input id="ShareTextbox" name="ShareTextbox" onclick="this.select()" readonly="readonly" type="text"/> <!--a id="TwitterLink" title="Share on Twitter"> <img id="TwitterImg" /></a> <a-- id="FacebookLink" title="Share on Facebook"> <img id="FacebookImg" /></a--> <a id="EmailLink" title="Email this translation"> <img id="EmailImg"/></a> </div> <div id="ShareFooter"> <span id="ShareHelpSpan"><a id="ShareHelpLink"> <img id="ShareHelpImg"/></a></span> <span id="ShareBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnShareBackClick()" id="ShareBack" title="Back To Translation"> Back</a></span> </div> <input id="EmailSubject" name="EmailSubject" type="hidden" value="Check out this page in {0} translated from {1}"/> <input id="EmailBody" name="EmailBody" type="hidden" value="Translated: {0}%0d%0aOriginal: {1}%0d%0a%0d%0aAutomatic translation powered by Microsoft® Translator%0d%0ahttp://www.bing.com/translator?ref=MSTWidget"/> <input id="ShareHelpText" type="hidden" value="This link allows visitors to launch this page and automatically translate it to {0}."/> </div> <div id="FloaterEmbed" style="display: none"> <div id="EmbedTextDiv"> <span id="EmbedTextSpan">EMBED THE SNIPPET BELOW IN YOUR SITE</span> <a id="EmbedHelpLink" title="Copy this code and place it into your HTML."> <img id="EmbedHelpImg"/></a> </div> <div id="EmbedTextboxDiv"> <input id="EmbedSnippetTextBox" name="EmbedSnippetTextBox" onclick="this.select()" readonly="readonly" type="text" value="&lt;div id='MicrosoftTranslatorWidget' class='Dark' style='color:white;background-color:#555555'&gt;&lt;/div&gt;&lt;script type='text/javascript'&gt;setTimeout(function(){var s=document.createElement('script');s.type='text/javascript';s.charset='UTF-8';s.src=((location &amp;&amp; location.href &amp;&amp; location.href.indexOf('https') == 0)?'https://ssl.microsofttranslator.com':'http://www.microsofttranslator.com')+'/ajax/v3/WidgetV3.ashx?siteData=ueOIGRSKkd965FeEGM5JtQ**&amp;ctf=true&amp;ui=true&amp;settings=manual&amp;from=en';var p=document.getElementsByTagName('head')[0]||document.documentElement;p.insertBefore(s,p.firstChild); },0);&lt;/script&gt;"/> </div> <div id="EmbedNoticeDiv"><span id="EmbedNoticeSpan">Enable collaborative features and customize widget: <a href="http://www.bing.com/widget/translator" target="_blank">Bing Webmaster Portal</a></span></div> <div id="EmbedFooterDiv"><span id="EmbedBackSpan"><a href="javascript:Microsoft.Translator.FloaterOnEmbedBackClick()" title="Back To Translation">Back</a></span></div> </div>  </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html> Should this page be public to all users? Answer only with yes or no.

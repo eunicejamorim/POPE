@@ -4,7 +4,8 @@ This repository contains the dataset collected within the scope of my master's t
 
 It is organized in two main folders:
 - The [dataset](./dataset) folder contains all the data related to the collection made, which was later used in the prompts made for the LLM models. It includes all the information without further transformations and the modified versions. 
-  - The [categories](./dataset/raw_data/categories.csv) file contains a list of all the categories of websites used to collect data from and each corresponding URL to the category metadata and list of websites. 
+  - The [categories](./dataset/raw_data/categories.csv) file contains a list of all the categories of websites used to collect data from and each corresponding URL to the category metadata and list of websites.
+  - The [websites](./dataset/raw_data/websites.csv) file contains the set of all top 10 most visited websites in each category and information about its usage during the month of April 2024. It also contains information on which kind of data was used during the signup. 
 - The [models](./models) folder contains all the data used and generated in the scope of running the LLM models themselves. 
 
 []()

@@ -12,6 +12,11 @@ It is organized in two main folders:
   - The [processed](./dataset/processed/) folder contains all the HTML files transformed in order to be used by the LLMs. Namely, [html_no_style_no_script](./dataset/processed/html_no_style_no_script/) stores the transformation where the style and script tags were removed, [html_strings](./dataset/processed/html_strings/) stores the strings extracted from the HTML files and [html_rendered](./dataset/processed/html_rendered/) stores all the images resulting of the renderization of each HTML file.
  
  
-- The [models](./models) folder contains all the data used and generated in the scope of running the LLM models themselves. 
+- The [models](./models) folder contains all the data used and generated in the scope of running the LLM models themselves.
+  - The [result_stats](./models/result_stats/) contains some code used to get statistics of the results of running the LLM models.
+  - All the other folders inside models are organized in the same way: model -> type of data used in prompt -> used context or not -> prompt version.
+  - The [prompts](./models/prompts/) folder contains all the prompts as they were input into the models.
+  -  The [results](./models/results/) folder contains all the prompt answers as retrieved by the models.
+  -  The [results_processed](./models/results_processed/) folder contains the answers of the models to each prompt processed to only consist of ```yes```, ```no```, or inconclusive.
 
-[]()
+
